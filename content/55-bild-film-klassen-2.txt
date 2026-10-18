@@ -1,0 +1,88 @@
+// Phase 3 – weitere Film- und Bildauswahlfragen für Krad, Mofa/AM, L/T, Lkw, Bus – eigene Formulierungen und Szenen,
+// gemeinfreie Zeichen (PD-VzKat). Quellen: StVO §§ 9 Abs. 1, 20 Abs. 5; StVO Anlage 2 (Zeichen 245, 250, 253, 254, 255, 276, 277)
+
+@kapitel 2.1
+
+@punkte 5
+
+@klassen BUS
+
+? Sehen Sie sich die Szene an. Sie wollen mit dem Bus aus der Haltebucht abfahren. Wie verhalten Sie sich?
++ Ich lasse den Radfahrer vorbeifahren, bevor ich ausschere
++ Ich beobachte den linken Außenspiegel bis zum Ausscheren
+- Ich fahre sofort los, weil andere mir das Abfahren ermöglichen müssen
+= Andere müssen einem Linienbus das Abfahren von einer gekennzeichneten Haltestelle ermöglichen (StVO § 20 Abs. 5). Wer sich aber schon neben dem Bus befindet, kann nicht mehr ausweichen – Sie dürfen ihn nicht gefährden.
+# film f48-bus-rad-links
+
+@klassen LKW
+
+? Sehen Sie sich die Szene an. Was müssen Sie jetzt tun?
++ Sofort anhalten, bis die Person den Bereich hinter dem Lkw verlassen hat
+- Weiterfahren, der Rückfahrwarner warnt die Person ausreichend
+- Kurz hupen und dabei weiter zurücksetzen
+= Beim Rückwärtsfahren muss eine Gefährdung anderer ausgeschlossen sein; erforderlichenfalls muss man sich einweisen lassen (StVO § 9 Abs. 5). Abgelenkte Personen hören einen Rückfahrwarner oft nicht.
+# film f49-lkw-rueckwaerts
+
+@klassen KRAD
+
+? Sehen Sie sich die Szene an. Wie verhalten Sie sich auf dem Motorrad?
++ Ich bremse rechtzeitig und vergrößere den Abstand zum Pkw
++ Ich überhole jetzt nicht, weil der Traktor links abbiegen will
+- Ich überhole den Pkw und den Traktor in einem Zug
+= Der Pkw bremst, weil der Traktor vor ihm links abbiegt. Wer jetzt überholt, gerät in den Weg des Abbiegenden. Wer links abbiegen will und sich eingeordnet hat, ist rechts zu überholen (StVO § 5 Abs. 7); bei unklarer Verkehrslage ist Überholen ohnehin unzulässig (§ 5 Abs. 3 Nr. 1).
+# film f50-krad-kolonne
+
+@klassen LT
+
+? Sehen Sie sich die Szene an. Sie wollen mit der Zugmaschine links in den Feldweg abbiegen. Was ist richtig?
++ Ich achte vor dem Einordnen und nochmals vor dem Abbiegen auf den nachfolgenden Verkehr
++ Ich lasse den bereits überholenden Pkw vorbeifahren, bevor ich abbiege
+- Ich biege sofort ab, weil ich den Blinker gesetzt habe
+= Vor dem Einordnen und nochmals vor dem Abbiegen ist auf den nachfolgenden Verkehr zu achten (StVO § 9 Abs. 1). Ein Überholender, der schon neben Ihnen ist, kann nicht mehr reagieren.
+# film f51-traktor-feldweg
+
+@kapitel 2.4
+
+@punkte 3
+
+@klassen LKW
+
+? Bei welchem Zeichen dürfen Sie mit Ihrem Lkw über 3,5 t nicht überholen?
++ [zeichen 277]
++ [zeichen 276]
+- [zeichen 280]
+= Das Überholverbot für Kraftfahrzeuge über 3,5 t (Zeichen 277) gilt für Sie, das Überholverbot für Kraftfahrzeuge aller Art (Zeichen 276) ebenfalls. Zeichen 280 hebt ein Überholverbot auf.
+! punkte=4
+
+@klassen BUS
+
+? Welches Zeichen kennzeichnet einen Fahrstreifen, der Linienbussen vorbehalten ist?
++ [zeichen 245]
+- [zeichen 224]
+- [zeichen 229]
+= Zeichen 245 kennzeichnet einen Bussonderfahrstreifen. Taxen, Krankenfahrzeuge, Fahrräder und Busse im Gelegenheitsverkehr dürfen ihn nur benutzen, wenn ein Zusatzzeichen das erlaubt.
+
+@klassen Mofa
+
+? Bei welchen Zeichen dürfen Sie mit Ihrem Mofa nicht in die Straße einfahren?
++ [zeichen 250]
++ [zeichen 255]
+- [zeichen 254]
+= Das Verbot für Fahrzeuge aller Art (Zeichen 250) und das Verbot für Krafträder, Kleinkrafträder und Mofas (Zeichen 255) gelten für Sie. Das Verbot für den Radverkehr und Elektrokleinstfahrzeuge (Zeichen 254) betrifft Mofas nicht.
+! punkte=4
+
+@klassen LT
+
+? Welches Zeichen sperrt die Straße auch für Ihre Zugmaschine mit mehr als 3,5 t zulässiger Gesamtmasse?
++ [zeichen 253]
+- [zeichen 254]
+- [zeichen 255]
+= Das Verbot für Kraftfahrzeuge über 3,5 t (Zeichen 253) gilt ausdrücklich auch für Zugmaschinen, ausgenommen sind Personenkraftwagen und Kraftomnibusse. Zeichen 254 betrifft den Radverkehr, Zeichen 255 Krafträder.
+
+@klassen KRAD
+
+? Bei welchem Zeichen müssen Sie auf dem Motorrad besonders mit seitlichen Windböen rechnen?
++ [zeichen 117-10]
+- [zeichen 114]
+- [zeichen 112]
+= Zeichen 117 warnt vor Seitenwind. Für Motorräder sind Böen besonders gefährlich, weil sie die Maschine plötzlich versetzen können.

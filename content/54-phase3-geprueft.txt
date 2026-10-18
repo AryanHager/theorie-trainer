@@ -1,0 +1,68 @@
+// Phase 3 – zusätzlich gegen Primärquellen geprüfte Aussagen – eigene Formulierungen
+// Quellen: FeV § 6 Abs. 1, § 9 Abs. 2, § 15 Abs. 2; BKrFQG § 5; BKrFQV § 4 Abs. 2; StVZO § 31 Abs. 2; HGB § 412 Abs. 1
+
+@kapitel 2.8
+
+@klassen L
+
+@punkte 3
+
+? Sie möchten die Klasse L erwerben. Welche Prüfungen müssen Sie ablegen?
++ Nur eine theoretische Prüfung
+- Eine theoretische und eine praktische Prüfung
+- Nur eine praktische Prüfung
+= Beim Erwerb der Klasse L bedarf es nur einer theoretischen Prüfung (FeV § 15 Abs. 2).
+
+@klassen B
+
+? Sie besitzen die Klasse B und wollen künftig einen Anhänger mit 3 000 kg zulässiger Gesamtmasse ziehen; die Kombination ist schwerer als 3 500 kg. Was brauchen Sie und welche Prüfung ist dafür nötig?
++ Die Klasse BE, für die nur eine praktische Prüfung abzulegen ist
+- Die Klasse BE mit theoretischer und praktischer Prüfung
+- Die Klasse C1E
+= Die Klasse BE umfasst Kombinationen aus einem Zugfahrzeug der Klasse B und einem Anhänger bis 3 500 kg (FeV § 6 Abs. 1). Für die Erweiterung von B auf BE ist nur eine praktische Prüfung vorgeschrieben (FeV § 15 Abs. 2).
+! kapitel=2.6 punkte=4
+
+@klassen C1
+
+? Sie besitzen die Klasse C1 und möchten die Klasse C1E erwerben. Was gilt für die Prüfung?
++ Es ist nur eine praktische Prüfung abzulegen
+- Ich muss eine eigene Theorieprüfung C1E bestehen
+- Die Klasse C1E wird ohne jede Prüfung eingetragen
+= Für die Erweiterung der Klasse C1 auf C1E bedarf es nur einer praktischen Prüfung (FeV § 15 Abs. 2). Die Klasse C1E darf frühestens mit der Klasse C1 erteilt werden (FeV § 9 Abs. 2).
+
+? Welche Fahrzeugkombinationen umfasst die Klasse C1E unter anderem?
++ Zugfahrzeug der Klasse C1 mit Anhänger über 750 kg, wenn die Kombination höchstens 12 000 kg zulässige Gesamtmasse hat
+- Jedes Zugfahrzeug mit beliebig schwerem Anhänger
+- Nur Sattelzüge über 12 000 kg
+= So steht es in der Klassenbeschreibung der Fahrerlaubnis-Verordnung (FeV § 6 Abs. 1). Mit C1E dürfen auch Kombinationen aus Zugfahrzeug der Klasse B und Anhänger über 3 500 kg bis 12 000 kg Gesamtmasse geführt werden.
+
+@klassen BUS
+
+? Sie besitzen die Klasse D und möchten Busse mit schwerem Anhänger fahren. Was gilt für die Klasse DE?
++ Für die Erweiterung von D auf DE ist nur eine praktische Prüfung nötig
+- Für DE ist eine eigene Theorieprüfung mit 40 Fragen vorgeschrieben
+- DE ist in der Klasse D bereits enthalten
+= Die Klasse DE umfasst Zugfahrzeuge der Klasse D mit Anhänger über 750 kg (FeV § 6 Abs. 1). Für die Erweiterung D → DE (und D1 → D1E) bedarf es nur einer praktischen Prüfung (FeV § 15 Abs. 2).
+
+@klassen CD
+
+? Wie viele Unterrichtseinheiten umfasst die regelmäßige Weiterbildung für Berufskraftfahrer?
++ 35 Unterrichtseinheiten, aufgeteilt in Ausbildungseinheiten von jeweils mindestens sieben Unterrichtseinheiten
+- 10 Unterrichtseinheiten an einem einzigen Tag
+- Es gibt keinen festen Umfang
+= Die Weiterbildung umfasst 35 Unterrichtseinheiten in selbstständigen Ausbildungseinheiten von jeweils mindestens sieben Unterrichtseinheiten (BKrFQV § 4 Abs. 2) und ist im Abstand von fünf Jahren zu absolvieren (BKrFQG § 5 Abs. 2).
+! zahl
+
+? Ihr Chef weiß, dass die Ladung auf Ihrem Lkw nicht ausreichend gesichert ist, und verlangt trotzdem, dass Sie sofort losfahren. Was gilt?
++ Auch der Halter handelt pflichtwidrig, wenn er die Fahrt trotz nicht vorschriftsmäßiger Ladung anordnet oder zulässt
++ Als Fahrer bleibe ich trotzdem selbst dafür verantwortlich, dass die Ladung vorschriftsmäßig ist
+- Die Verantwortung liegt dann allein beim Chef
+= Der Halter darf die Inbetriebnahme nicht anordnen oder zulassen, wenn er weiß oder wissen muss, dass die Ladung nicht vorschriftsmäßig ist (StVZO § 31 Abs. 2). Der Fahrer muss unabhängig davon für vorschriftsmäßige Ladung sorgen (StVO § 23 Abs. 1).
+! klassen=LKW kapitel=2.6 punkte=4
+
+? Wer hat nach dem Handelsgesetzbuch grundsätzlich das Gut beförderungssicher zu verladen, wenn nichts anderes vereinbart ist?
++ Der Absender
+- Immer allein der Fahrer
+- Die Polizei bei der Kontrolle
+= Soweit sich aus den Umständen oder der Verkehrssitte nichts anderes ergibt, hat der Absender das Gut beförderungssicher zu laden, zu stauen und zu befestigen; der Frachtführer sorgt für die betriebssichere Verladung (HGB § 412 Abs. 1). Für die Verkehrssicherheit während der Fahrt bleibt der Fahrer verantwortlich.
+! klassen=LKW kapitel=2.6 punkte=3

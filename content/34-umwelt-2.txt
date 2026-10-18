@@ -1,0 +1,214 @@
+// Runde 3: Umweltschutz (Grundstoff 1.5) – eigene Formulierungen
+@kapitel 1.5
+@klassen ALLE
+@punkte 3
+
+? Warum sollten Sie Ihr Fahrzeug nicht auf trockenem, hohem Gras abstellen?
++ Heiße Teile der Abgasanlage können das Gras entzünden
+- Weil das Gras den Lack beschädigt
+- Weil das Fahrzeug sonst nicht anspringt
+= Katalysator und Auspuff werden mehrere hundert Grad heiß.
+! punkte=4
+
+? Dürfen Sie mit einem Kraftfahrzeug abseits der Straßen durch Wald und Wiesen fahren?
++ Nein, das ist grundsätzlich verboten und schadet Pflanzen und Tieren
+- Ja, wenn kein Verbotsschild steht
+- Ja, mit einem Geländewagen
+= Wald- und Feldwege dürfen mit Kraftfahrzeugen nur befahren werden, wenn es erlaubt ist.
+
+? Was ist beim Tanken umweltbewusst?
++ Nicht über das automatische Abschalten der Zapfpistole hinaus nachtanken
++ Den Tankdeckel sofort wieder verschließen
+- Den Tank bis zum Überlaufen füllen
+= Übergelaufener Kraftstoff verdunstet oder gelangt in den Boden.
+
+? Wie viel Kohlendioxid (CO₂) entsteht ungefähr bei der Verbrennung von einem Liter Benzin?
++ Rund 2,3 kg
+- Rund 0,2 kg
+- Rund 23 kg
+= Bei Diesel sind es etwas mehr. Jeder eingesparte Liter senkt den CO₂-Ausstoß.
+! punkte=4
+
+? Warum erhöht das Fahren mit weit geöffneten Fenstern bei hoher Geschwindigkeit den Verbrauch?
++ Der Luftwiderstand des Fahrzeugs steigt
+- Der Motor bekommt zu viel Luft
+- Das erhöht den Verbrauch nicht
+= Bei niedriger Geschwindigkeit spielt das kaum eine Rolle.
+! klassen=MOT
+
+? Welche elektrischen Verbraucher sollten Sie ausschalten, wenn sie nicht benötigt werden?
++ Heckscheibenheizung
++ Sitzheizung
+- Abblendlicht bei Dunkelheit
+= Strom wird von der Lichtmaschine erzeugt und kostet Kraftstoff bzw. Reichweite.
+! klassen=MOT
+
+? Wie können Sie den Reifen- und Bremsabrieb verringern, der Feinstaub und Mikroplastik verursacht?
++ Vorausschauend fahren, sanft beschleunigen und bremsen
+- Häufig stark bremsen
+- Mit niedrigem Reifendruck fahren
+= Auch korrekter Reifendruck verringert den Verschleiß.
+
+? Warum sind Elektroautos bei höheren Geschwindigkeiten kaum leiser als Fahrzeuge mit Verbrennungsmotor?
++ Weil dann das Abrollgeräusch der Reifen und der Fahrtwind überwiegen
+- Weil ihr Motor bei hoher Drehzahl laut wird
+- Das stimmt nicht, sie sind immer lautlos
+= Langsameres Fahren verringert den Lärm bei allen Fahrzeugen.
+! klassen=MOT
+
+? Wie wirkt sich eine geringere Geschwindigkeit innerorts auf die Umwelt aus?
++ Der Verkehrslärm nimmt ab
+- Der Lärm nimmt zu
+- Die Geschwindigkeit hat keinen Einfluss auf den Lärm
+= Gleichmäßiges Fahren mit niedriger Geschwindigkeit ist leiser und sicherer.
+
+? Was ist bei Fahrten in einer Kolonne umweltbewusst?
++ Gleichmäßigen Abstand halten, um häufiges Bremsen und Beschleunigen zu vermeiden
+- Dicht auffahren, um im Windschatten zu sparen
+- Ständig die Lücke zum Vordermann schließen
+= Ein ausreichender Abstand ermöglicht gleichmäßiges Fahren.
+
+? Was gilt für Veränderungen an der Abgasanlage oder an der Motorsteuerung, die mehr Leistung bringen sollen?
++ Sie können die Betriebserlaubnis erlöschen lassen und erhöhen meist Lärm und Schadstoffe
+- Sie sind immer erlaubt
+- Sie verbessern stets die Umweltbilanz
+= Nicht genehmigte Änderungen können auch den Versicherungsschutz gefährden.
+! punkte=4
+
+? Sie fahren ein Mofa mit Zweitaktmotor und mischen den Kraftstoff selbst. Was ist richtig?
++ Ich halte das vom Hersteller angegebene Mischungsverhältnis ein
+- Möglichst viel Öl hinzufügen, das schont den Motor
+- Ohne Öl fahren
+= Zu viel Öl führt zu mehr Rauch und Ablagerungen, zu wenig kann den Motor zerstören.
+! klassen=Mofa,AM
+
+? Sie bemerken, dass Ihr Motorrad bzw. Mofa auffällig laut geworden ist. Was ist richtig?
++ Ich lasse die Auspuffanlage prüfen, weil sie defekt sein kann
+- Ich fahre so weiter, das ist normal
+- Ich gebe mehr Gas, damit es sich wieder legt
+= Defekte Auspuffanlagen verursachen unnötigen Lärm; das Fahrzeug kann dadurch nicht mehr vorschriftsmäßig sein.
+! klassen=ZWEIRAD,Mofa
+
+? Wie fahren Sie mit einem Kraftrad umweltbewusst an der Ampel an?
++ Zügig, aber ohne unnötig hohe Drehzahl und ohne Gasstöße
+- Mit Gasstößen im Stand, um den Motor warm zu halten
+- Mit schleifender Kupplung und hoher Drehzahl
+= Unnötiges Hochdrehen erzeugt Lärm und Abgase.
+! klassen=ZWEIRAD,Mofa
+
+? Wie entsorgen Sie alte Reifen richtig?
++ Über den Reifenhandel, eine Werkstatt oder einen Wertstoffhof
+- Im Wald oder auf einem Feld
+- Über den Hausmüll
+= Altreifen können verwertet werden.
+
+? Wie gehen Sie mit Resten von Bremsflüssigkeit oder Kühlmittel um?
++ Sie gehören als Sondermüll zu einer Sammelstelle oder in die Werkstatt
+- In den Gully gießen
+- Auf den Boden schütten
+= Diese Flüssigkeiten sind giftig für Menschen, Tiere und Gewässer.
+
+? Wie nutzen Sie Assistenz- und Komfortsysteme umweltbewusst?
++ Einen Tempomaten auf gleichmäßigen Strecken nutzen
++ Die Klimaanlage nur bei Bedarf einschalten
+- Den Motor im Stand für die Standklimatisierung laufen lassen
+= Unnötiges Laufenlassen des Motors ist verboten.
+! klassen=MOT
+
+? Wie wirkt es sich aus, wenn mehrere Personen sich ein Auto teilen (Fahrgemeinschaft)?
++ Es fahren weniger Fahrzeuge, das senkt Verbrauch, Lärm und Abgase
+- Der Verbrauch je Person steigt
+- Es hat keine Wirkung
+= Auch Carsharing und öffentliche Verkehrsmittel entlasten die Umwelt.
+
+? Welche Wirkung hat ein Dachgepäckträger, ein Topcase oder ein Fahrradträger auf den Verbrauch?
++ Er erhöht den Verbrauch durch zusätzlichen Luftwiderstand
+- Er senkt den Verbrauch
+- Er hat keinen Einfluss
+= Nicht benötigte Träger abbauen.
+
+? Woran erkennen Sie einen sparsamen Fahrstil an der Verbrauchsanzeige?
++ Am niedrigen Momentan- und Durchschnittsverbrauch
+- An einer hohen Drehzahl
+- An einem häufigen Wechsel der Anzeige
+= Die Anzeige hilft, die Auswirkungen des eigenen Fahrstils zu erkennen.
+! klassen=MOT
+
+? Was können Sie vor dem Kauf eines Fahrzeugs für die Umwelt tun?
++ Auf einen niedrigen Verbrauch bzw. CO₂-Ausstoß achten
++ Ein Fahrzeug wählen, das zu meinem tatsächlichen Bedarf passt
+- Ein möglichst schweres und leistungsstarkes Fahrzeug wählen
+= Größe, Gewicht und Leistung beeinflussen den Verbrauch erheblich.
+
+? Warum sind Fahrzeuge mit Elektroantrieb an der Ampel oder im Stau besonders umweltfreundlich?
++ Sie verbrauchen im Stand praktisch keine Energie für den Antrieb und stoßen vor Ort keine Abgase aus
+- Weil sie im Stand die Batterie aufladen
+- Weil sie leiser hupen
+= Die Herstellung von Strom und Batterie verursacht trotzdem Umweltbelastungen.
+! klassen=MOT
+
+? Was gilt für das Abstellen von Fahrzeugen in Naturschutzgebieten?
++ Nur auf ausgewiesenen Parkplätzen
+- Überall am Wegrand
+- Auf Wiesen, wenn dort kein Zaun ist
+= Natur- und Landschaftsschutzgebiete schützen Tiere und Pflanzen vor Störungen.
+
+? Welche Wirkung haben Leichtlauföle und rollwiderstandsarme Reifen?
++ Sie verringern den Kraftstoffverbrauch
+- Sie erhöhen den Verbrauch
+- Sie haben keine Wirkung
+= Reibung im Motor und Rollwiderstand der Reifen kosten Energie.
+! klassen=MOT
+
+? Welche Wirkung hat die Wahl des Verkehrsmittels auf die Umwelt?
++ Bahn, Bus und Fahrrad verursachen je Person meist deutlich weniger Emissionen als ein allein genutzter Pkw
+- Ein allein genutzter Pkw ist immer am umweltfreundlichsten
+- Es gibt keinen Unterschied
+= Gerade in Städten lohnen sich Kombinationen aus Rad und öffentlichem Verkehr.
+
+? Was ist beim Laden eines Elektrofahrzeugs umweltbewusst?
++ Möglichst Strom aus erneuerbaren Quellen nutzen
++ Regelmäßig und batterieschonend laden, z. B. nicht ständig auf 100 %
+- Den Akku immer vollständig leer fahren
+= Die Lebensdauer der Batterie hängt auch vom Ladeverhalten ab.
+! klassen=MOT
+
+? Warum sollten Sie Kraftstoff nicht in ungeeigneten Behältern transportieren?
++ Kraftstoff kann auslaufen oder Dämpfe können entweichen; es besteht Brand- und Umweltgefahr
+- Weil Kraftstoff in Kanistern verdirbt
+- Das ist unbedenklich
+= Nur zugelassene, dicht verschlossene Reservekanister verwenden.
+! punkte=4
+
+? Sie wollen den Motorraum Ihres Fahrzeugs reinigen. Wo tun Sie das?
++ In einer Werkstatt oder Waschanlage mit Ölabscheider
+- Auf der Straße
+- Auf einer Wiese
+= Bei der Motorwäsche werden Öl- und Kraftstoffreste gelöst.
+! klassen=MOT
+
+? Wie starten Sie einen modernen Motor mit Einspritzung umweltbewusst?
++ Ohne dabei Gas zu geben
+- Mit mehreren Gasstößen
+- Mit hoher Drehzahl, bis der Motor warm ist
+= Die Motorsteuerung regelt die Gemischbildung beim Start selbst.
+! klassen=MOT
+
+
+? Es wurde eine hohe Ozon- oder Feinstaubbelastung gemeldet. Was ist umweltbewusst?
++ Nach Möglichkeit auf Fahrten mit dem Kraftfahrzeug verzichten und öffentliche Verkehrsmittel nutzen
+- Besonders viel fahren, damit sich die Luft verteilt
+- Die Fenster öffnen und schneller fahren
+= Jede vermiedene Fahrt verringert die Belastung.
+
+? Ein Schild warnt vor einer Krötenwanderung. Was ist richtig?
++ Ich fahre besonders langsam und vorsichtig oder nutze eine andere Strecke
+- Ich fahre normal weiter, die Tiere weichen aus
+- Ich fahre schneller, um die Strecke rasch zu passieren
+= Amphibien wandern im Frühjahr oft in großer Zahl über Straßen. Auch der Luftzug schneller Fahrzeuge kann ihnen schaden.
+
+? Sie machen auf einem Parkplatz eine Pause und haben Verpackungen übrig. Was tun Sie?
++ Ich werfe sie in die vorgesehenen Abfallbehälter oder nehme sie mit
+- Ich lasse sie neben dem Fahrzeug liegen
+- Ich werfe sie während der Fahrt aus dem Fenster
+= Abfall in der Landschaft gefährdet Tiere und verursacht Kosten.

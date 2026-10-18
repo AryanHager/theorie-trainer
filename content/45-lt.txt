@@ -1,0 +1,351 @@
+// Phase 2 – Zusatzstoff Klassen L und T (land- oder forstwirtschaftliche Zugmaschinen) – eigene Formulierungen
+// Quellen: FeV §§ 6, 10; StVO §§ 3, 5, 17, 18, 21, 22, 23, 32; StVZO §§ 32, 35h, 41, 43, 52, 53, 58; FZV § 3
+
+@klassen LT
+
+@kapitel 2.6
+
+@punkte 4
+
+? Dürfen Sie mit einer Zugmaschine, deren bauartbedingte Höchstgeschwindigkeit 40 km/h beträgt, auf die Autobahn?
++ Nein, Autobahnen und Kraftfahrstraßen sind nur für Kraftfahrzeuge mit einer bauartbedingten Höchstgeschwindigkeit von mehr als 60 km/h freigegeben
+- Ja, auf dem rechten Fahrstreifen
+- Ja, wenn das Rundumlicht eingeschaltet ist
+= Für langsame Zugmaschinen sind Autobahnen und Kraftfahrstraßen gesperrt. Das gilt auch für Zugmaschinen mit genau 60 km/h – erforderlich sind mehr als 60 km/h.
+
+? Wie breit darf eine Zugmaschine mit angebautem land- oder forstwirtschaftlichem Arbeitsgerät höchstens sein, ohne dass eine Ausnahmegenehmigung nötig ist?
+N 3 m
+= Für allgemeine Fahrzeuge gilt 2,55 m. Land- oder forstwirtschaftliche Arbeitsgeräte und Zugmaschinen mit solchen Anbaugeräten dürfen bis 3,00 m breit sein.
+! zahl
+
+? Sie fahren mit einem Ladewagen voller Heu. Wie hoch dürfen Fahrzeug und Ladung sein?
++ Grundsätzlich 4 m; bei land- oder forstwirtschaftlichen Erzeugnissen darf die Ladung auch höher sein
+- Immer höchstens 3,50 m
+- Unbegrenzt, solange die Ladung gesichert ist
+= Die Höhenbegrenzung von 4 m gilt nicht für Ladungen land- oder forstwirtschaftlicher Erzeugnisse. Brücken, Oberleitungen und Bäume bleiben trotzdem ein Risiko.
+! punkte=5
+
+? Was ist auf einem Geschwindigkeitsschild angegeben?
++ Die für das Fahrzeug zulässige Höchstgeschwindigkeit in km/h
+- Die empfohlene Geschwindigkeit für Kurven
+- Die Geschwindigkeit, ab der Licht eingeschaltet werden muss
+= Geschwindigkeitsschilder sind kreisrund, weiß mit schwarzem Rand und schwarzen Ziffern. Sie zeigen nachfolgenden Verkehrsteilnehmern, wie schnell das Fahrzeug höchstens fahren darf.
+
+? Wo muss an einer land- oder forstwirtschaftlichen Zugmaschine ein vorgeschriebenes Geschwindigkeitsschild angebracht sein?
++ An der Rückseite; wird es dort zeitweise verdeckt, zusätzlich an der rechten Längsseite
+- Nur vorne am Kühlergrill
+- In der Kabine hinter der Frontscheibe
+= Bei anderen Fahrzeugen sind Schilder an beiden Seiten und hinten vorgeschrieben. Für lof-Zugmaschinen und ihre Anhänger genügt eines hinten.
+
+? Ab welcher bauartbedingten Höchstgeschwindigkeit braucht eine land- oder forstwirtschaftliche Zugmaschine ein Geschwindigkeitsschild?
++ Ab mehr als 32 km/h (bis einschließlich 60 km/h)
+- Nur bei mehr als 60 km/h
+- Immer, unabhängig von der Geschwindigkeit
+= Mehrspurige Kraftfahrzeuge bis 60 km/h brauchen ein Geschwindigkeitsschild. Ausgenommen sind lof-Zugmaschinen bis 32 km/h.
+! punkte=5
+
+@punkte 3
+
+? Ein Anhänger hinter Ihrer Zugmaschine wird nur für die Landwirtschaft genutzt und mit höchstens 25 km/h gezogen. Was gilt für die Zulassung?
++ Er ist zulassungsfrei
+- Er braucht ein eigenes amtliches Kennzeichen und eine Zulassungsbescheinigung
+- Er darf auf öffentlichen Straßen nie fahren
+= Zulassungsfrei heißt nicht genehmigungsfrei: Der Anhänger muss trotzdem einem genehmigten Typ entsprechen oder eine Einzelgenehmigung haben und verkehrssicher sein.
+
+? Sie wollen eine Person auf Ihrer Zugmaschine mitnehmen. Was ist vorgeschrieben?
++ Für die Person muss ein geeigneter Sitz vorhanden sein
+- Sie darf auf dem Kotflügel sitzen, wenn sie sich festhält
+- Sie darf auf der Ackerschiene stehen
+= Ohne geeigneten Sitz ist die Mitnahme verboten. Kotflügel, Trittstufen und Anbaugeräte sind keine Sitze.
+
+? Erntehelfer wollen auf dem Anhänger hinter Ihrer Zugmaschine zum Feld fahren. Wann ist das erlaubt?
++ Auf land- oder forstwirtschaftlichen Anhängern, wenn geeignete Sitzgelegenheiten vorhanden sind
+- Immer, wenn sie stehen und sich festhalten
+- Auf der Ladung, wenn diese hoch genug gestapelt ist
+= Auf Ladeflächen ist die Mitnahme von Personen grundsätzlich verboten. Für lof-Anhänger gibt es eine Ausnahme bei geeigneten Sitzgelegenheiten.
+! punkte=4
+
+? Muss in einer land- oder forstwirtschaftlichen Zugmaschine ein Verbandkasten mitgeführt werden?
++ Nein, Zug- und Arbeitsmaschinen in lof-Betrieben sind von der Pflicht ausgenommen
+- Ja, in jedem Kraftfahrzeug
+- Nur bei Fahrten über 25 km/h
+= Erste-Hilfe-Material an Bord zu haben ist trotzdem sinnvoll, z. B. bei Unfällen auf dem Feld oder im Wald.
+! punkte=2
+
+? Welche Mindestverzögerung muss die Betriebsbremse einer Zugmaschine mit höchstens 25 km/h erreichen?
+N 3,5 m/s²
+= Für schnellere Kraftfahrzeuge (ausgenommen Krafträder) sind mindestens 5,0 m/s² vorgeschrieben.
+! zahl punkte=4
+
+? Wie groß darf der lichte Abstand zwischen ziehendem und gezogenem Fahrzeug beim Abschleppen mit Seil oder Stange höchstens sein?
+N 5 m
+= Ein Abschleppseil sollte in der Mitte gut sichtbar gekennzeichnet werden, etwa mit einem roten Tuch.
+! zahl
+
+@kapitel 2.2
+
+@punkte 4
+
+? Hinter Ihrer langsamen Zugmaschine haben sich auf der Landstraße mehrere Fahrzeuge angesammelt. Was müssen Sie tun?
++ An geeigneter Stelle langsamer fahren oder notfalls anhalten, damit die Folgenden überholen können
++ Wenn möglich einen geeigneten Seitenstreifen kurz mitbenutzen
+- Weiterfahren, die anderen müssen eben warten
+= Wer ein langsames Fahrzeug führt, muss mehreren unmittelbar folgenden Fahrzeugen das Überholen ermöglichen, wenn es nur so geht.
+
+? Sie werden mit Ihrer Zugmaschine überholt. Was dürfen Sie nicht?
++ Die Geschwindigkeit erhöhen
+- Den Fahrstreifen beibehalten
+- Weiter gleichmäßig fahren
+= Wer überholt wird, darf nicht schneller werden.
+! punkte=2
+
+? Sie biegen mit einer langen Zugmaschinen-Kombination links in einen Feldweg ab. Was ist besonders gefährlich?
++ Nachfolgende Fahrzeuge setzen zum Überholen an, weil sie den Blinker übersehen oder für einen Fehler halten
++ Das Gespann blockiert die Gegenfahrbahn längere Zeit
+- Linksabbiegen ist mit Zugmaschinen verboten
+= Rechtzeitig blinken, Spiegel und Schulterblick nutzen und langsam abbiegen. Wenn nötig, eine Person zum Einweisen einsetzen.
+! punkte=5
+
+? Nach der Feldarbeit haben Ihre Reifen viel Erde auf die Straße getragen. Was müssen Sie tun?
++ Die Verschmutzung unverzüglich beseitigen
++ Bis dahin die Gefahrenstelle ausreichend kenntlich machen, z. B. mit Warnschildern
+- Nichts, Erde wird vom Regen weggespült
+= Wer die Straße verschmutzt und dadurch den Verkehr gefährden kann, ist für die Beseitigung verantwortlich. Schlamm auf der Fahrbahn ist für Zweiräder besonders gefährlich.
+
+@punkte 3
+
+? Sie fahren mit einem Frontlader auf der Straße. Wie stellen Sie die Schaufel ein?
++ Möglichst tief, damit Sicht und Beleuchtung nicht verdeckt werden
+- Möglichst hoch, damit die Sicht nach vorn frei ist
+- Schräg nach oben gekippt mit Erde darin
+= Ein hochgestellter Frontlader verschiebt den Schwerpunkt und verdeckt oft Scheinwerfer und Blinker. Gabeln und Zinken müssen verkleidet sein.
+
+? Sensen, Mähwerke oder Zinken ragen an Ihrem Fahrzeug nach außen. Was ist vorgeschrieben?
++ Sie müssen wirksam verkleidet oder abgedeckt sein
+- Sie müssen nur bei Dunkelheit abgedeckt werden
+- Es genügt eine rote Fahne
+= Scharfe oder spitze Geräte können andere Verkehrsteilnehmer schwer verletzen und müssen deshalb immer abgedeckt sein.
+
+? Sie halten mit der Zugmaschine kurz am Fahrbahnrand einer Landstraße bei Dunkelheit. Was gilt?
++ Das haltende Fahrzeug ist außerorts mit eigener Lichtquelle zu beleuchten
+- Licht ist beim Halten nicht nötig
+- Eine Taschenlampe in der Kabine genügt
+= Außerhalb geschlossener Ortschaften müssen haltende Fahrzeuge bei Dunkelheit stets selbst beleuchtet sein.
+
+@kapitel 2.1
+
+@punkte 5
+
+? Sie ziehen einen schwer beladenen Anhänger bergab. Warum ist das besonders gefährlich?
++ Der Anhänger kann die Zugmaschine schieben und bei falscher Bremsung zum Einknicken bringen
++ Die Bremsen können sich bei Dauerbremsung überhitzen
+- Bergab ist mit Anhänger ungefährlicher, weil das Gewicht hilft
+= Vor dem Gefälle einen kleinen Gang wählen und die Motorbremse nutzen. Nicht schalten, wenn das Gefälle schon begonnen hat.
+
+? Sie fahren am Hang quer zur Steigung. Was erhöht die Gefahr des Umkippens?
++ Ein hoch angehobenes Anbaugerät oder ein beladener Frontlader
++ Ruckartiges Lenken zum Hang hin
+- Langsames Fahren mit abgesenktem Gerät
+= Ein hoher Schwerpunkt und Fliehkräfte bringen Zugmaschinen schnell zum Kippen. Bei Hangfahrten Geräte tief halten und gleichmäßig fahren.
+
+@punkte 4
+
+? Warum muss mit einem schweren Heckanbaugerät die Vorderachse der Zugmaschine ggf. mit Frontgewichten belastet werden?
++ Damit die Vorderachse genug Last hat und die Zugmaschine lenkbar und bremsbar bleibt
+- Damit die Zugmaschine schneller fährt
+- Damit die Hinterreifen geschont werden
+= Wird die Vorderachse zu stark entlastet, lässt sich das Fahrzeug kaum noch lenken. Herstellerangaben zu Mindestvorderachslast beachten.
+
+? Sie fahren mit einer breiten Maschine auf einer schmalen Landstraße. Gegenverkehr kommt. Wie verhalten Sie sich?
++ Rechtzeitig an geeigneter Stelle anhalten oder ausweichen und den Gegenverkehr vorbeilassen
+- Mittig weiterfahren, die anderen werden ausweichen
+- Mit Fernlicht warnen und weiterfahren
+= Überbreite Fahrzeuge brauchen viel Platz. Vorausschauen und Ausweichstellen nutzen verhindert gefährliche Begegnungen.
+
+? Warum unterschätzen andere Verkehrsteilnehmer oft die Geschwindigkeit einer Zugmaschine?
++ Sie rechnen nicht mit einem langsamen Fahrzeug und nähern sich zu schnell an
+- Weil Zugmaschinen schneller sind, als sie aussehen
+- Das kommt nicht vor
+= Gerade hinter Kuppen und Kurven kommt es zu Auffahrunfällen. Saubere Beleuchtung und gut sichtbare Warnmarkierungen helfen.
+
+@punkte 3
+
+? Sie fahren mit einem Anhänger auf einem unbefestigten Feldweg auf die Straße. Was beachten Sie?
++ Den fließenden Verkehr vorlassen, auch wenn ich lange warten muss
++ Damit rechnen, dass der Anhänger auf der Straße Schmutz verliert
+- Ich habe Vorfahrt, weil ich von rechts komme
+= Wer aus einem Feld- oder Waldweg auf die Straße einfährt, muss sich so verhalten, dass niemand gefährdet wird.
+
+@kapitel 2.7
+
+@punkte 4
+
+? Ein Anhänger hat eine Auflaufbremse. Wie wirkt diese?
++ Schiebt der Anhänger beim Bremsen auf das Zugfahrzeug auf, wird die Bremse über die Zugeinrichtung betätigt
+- Sie wirkt nur beim Abstellen des Anhängers
+- Sie wird elektrisch vom Fahrersitz geschaltet
+= Auflaufbremsen sind bei kleineren Anhängern verbreitet. Größere lof-Anhänger haben meist Druckluft- oder Hydraulikbremsen.
+
+? Sie kuppeln einen Anhänger mit Druckluftbremse an. Welche Reihenfolge ist richtig?
++ Erst den gelben Kupplungskopf (Bremsleitung), dann den roten Kupplungskopf (Vorratsleitung) verbinden
+- Erst den roten, dann den gelben Kupplungskopf verbinden
+- Die Reihenfolge ist beliebig
+= Beim Ankuppeln wird zuerst die Bremsleitung (gelb) und dann die Vorratsleitung (rot) verbunden. Beim Abkuppeln umgekehrt: erst rot, dann gelb.
+! punkte=5
+
+? Was prüfen Sie nach dem Ankuppeln eines Anhängers vor der Abfahrt?
++ Ob die Kupplung sicher eingerastet und gesichert ist
++ Ob Beleuchtung und Bremse des Anhängers funktionieren
+- Ob der Anhänger frisch gewaschen ist
+= Eine unvollständig geschlossene Kupplung kann sich während der Fahrt lösen. Abreißseil oder Sicherungen nicht vergessen.
+
+? Welche Aufgabe hat ein Unterlegkeil?
++ Er sichert ein abgestelltes Fahrzeug oder einen Anhänger gegen Wegrollen
+- Er dient zum Anheben des Anhängers beim Radwechsel
+- Er ersetzt die Betriebsbremse
+= Gerade abgekuppelte Anhänger an Steigungen müssen zusätzlich gegen Wegrollen gesichert werden.
+! punkte=2
+
+@punkte 3
+
+? Warum ist der Reifendruck einer Zugmaschine für die Straßenfahrt oft höher zu wählen als auf dem Acker?
++ Ein zu niedriger Druck kann bei höherer Geschwindigkeit die Reifen überhitzen und das Fahrverhalten verschlechtern
+- Damit die Zugmaschine auf dem Acker besser einsinkt
+- Das ist nur für das Aussehen wichtig
+= Niedriger Druck schont auf dem Feld den Boden, auf der Straße braucht es dagegen mehr Druck. Herstellerangaben beachten.
+
+? Wie hoch darf der höchste Punkt der leuchtenden Fläche von Schlussleuchten an land- oder forstwirtschaftlichen Zugmaschinen in der Regel liegen?
++ Bis 1 900 mm über der Fahrbahn
+- Bis 1 500 mm, wie bei allen Fahrzeugen
+- Beliebig hoch
+= Wenn es der Aufbau nicht anders zulässt, sind bis 2 100 mm möglich. Für andere Fahrzeuge gilt in der Regel 1 500 mm.
+
+@kapitel 2.4
+
+@punkte 3
+
+? Gilt dieses Zeichen auch für Sie, wenn Sie eine Zugmaschine fahren?
++ Ja, das Verbot gilt ausdrücklich auch für Zugmaschinen
+- Nein, nur für Lkw über 3,5 t
+- Nur, wenn die Zugmaschine einen Anhänger zieht
+= Das Verbot für Kraftfahrzeuge über 3,5 t umfasst auch Zugmaschinen – unabhängig von ihrer Masse. Pkw und Kraftomnibusse sind ausgenommen.
+# zeichen 253
+
+? Sie fahren mit Ihrer Zugmaschine hinter einem langsamen Fahrzeug. Gilt dieses Überholverbot für Sie?
++ Ja, es gilt auch für Zugmaschinen, unabhängig von ihrer Masse
+- Nein, es gilt nur für Lkw
+- Nur, wenn ich schneller als 25 km/h fahren kann
+= Das Überholverbot für Kraftfahrzeuge über 3,5 t schließt Zugmaschinen ausdrücklich ein. Ausgenommen sind Pkw und Kraftomnibusse.
+# zeichen 277
+! punkte=4
+
+? Was bedeutet dieses Zeichen, wenn Sie mit einer Zugmaschine hinter einer anderen Zugmaschine fahren?
++ Ich darf den angegebenen Mindestabstand zur vorausfahrenden Zugmaschine nicht unterschreiten
+- Es gilt nur für Pkw
+- Es gibt die Mindestgeschwindigkeit an
+= Das Zeichen schreibt Kraftfahrzeugen über 3,5 t und Zugmaschinen einen Mindestabstand zu vorausfahrenden Fahrzeugen gleicher Art vor.
+# zeichen 273-70
+! punkte=4
+
+? Sie fahren eine Zugmaschine mit 25 km/h bauartbedingter Höchstgeschwindigkeit. Dürfen Sie in diese Straße einfahren?
++ Nein, das Verbot gilt für Kraftfahrzeuge und Züge, die nicht schneller als 25 km/h fahren können oder dürfen
+- Ja, weil das Zeichen nur für Kutschen gilt
+- Ja, wenn ich mit Rundumlicht fahre
+= Das Zeichen hält langsame Fahrzeuge von schnellen Straßen fern, z. B. von Umgehungsstraßen.
+# zeichen 257-58
+! punkte=4
+
+? Ein Feldweg ist für Kraftfahrzeuge gesperrt, darunter hängt dieses Zusatzzeichen. Dürfen Sie mit Ihrer Zugmaschine zur Ernte auf das Feld fahren?
++ Ja, land- und forstwirtschaftlicher Verkehr ist freigegeben
+- Nein, das Zusatzzeichen gilt nur für Radfahrende
+- Nur an Wochenenden
+= Das Zusatzzeichen nimmt Fahrten zu land- und forstwirtschaftlichen Zwecken vom Verbot aus. Private Spazierfahrten sind damit nicht erlaubt.
+# zeichen 260 1026-38
+
+@kapitel 2.5
+
+@punkte 3
+
+? Wie fahren Sie eine Zugmaschine sparsam?
++ Mit niedriger Drehzahl im passenden Gang fahren und die Zapfwelle nur bei Bedarf einschalten
++ Den Reifendruck an die Fahrt auf Straße oder Acker anpassen
+- Den Motor in Pausen laufen lassen, damit er warm bleibt
+= Zugmaschinen verbrauchen viel Kraftstoff. Passende Drehzahl und Reifendruck senken Verbrauch und Bodenverdichtung.
+
+? Wie gehen Sie mit Altöl und Resten von Pflanzenschutzmitteln um?
++ Bei zugelassenen Annahmestellen entsorgen
+- Auf dem Feld verteilen
+- In den Gully gießen
+= Altöl und Chemikalien gefährden Boden und Grundwasser. Schon geringe Mengen können große Wassermengen verunreinigen.
+! punkte=2
+
+@kapitel 2.8
+
+@punkte 3
+
+? Sie besitzen die Fahrerlaubnisklasse T. Welche weiteren Klassen sind darin enthalten?
++ Fahrzeuge der Klasse L
++ Fahrzeuge der Klasse AM
+- Fahrzeuge der Klasse B
+= Wer T besitzt, darf auch Fahrzeuge der Klassen L und AM fahren.
+! klassen=T
+
+? Mit welchen Klassen dürfen Sie auch Fahrzeuge der Klasse L fahren?
++ Mit der Klasse B
++ Mit der Klasse T
+- Nur mit der Klasse L selbst
+= Die Klassen B und T schließen die Klasse L ein.
+! klassen=L
+
+? Ab welchem Alter kann die Klasse T erteilt werden?
+N 16 Jahre
+= Zugmaschinen mit mehr als 40 km/h dürfen mit T erst ab 18 Jahren geführt werden.
+! klassen=T zahl punkte=4
+
+? Sie sind 17 Jahre alt und besitzen die Klasse T. Dürfen Sie eine Zugmaschine mit 50 km/h bauartbedingter Höchstgeschwindigkeit fahren?
++ Nein, Zugmaschinen über 40 km/h darf ich erst ab 18 Jahren fahren
+- Ja, die Klasse T gilt bis 60 km/h
+- Ja, wenn ich nicht schneller als 40 km/h fahre
+= Bis zum 18. Geburtstag gilt die Klasse T nur für Zugmaschinen mit einer bauartbedingten Höchstgeschwindigkeit bis 40 km/h.
+! klassen=T punkte=5
+
+? Wofür dürfen Sie Fahrzeuge der Klasse T nutzen?
++ Für land- oder forstwirtschaftliche Zwecke
+- Für jede gewerbliche Güterbeförderung
+- Für den Umzug von Freunden
+= Die Klasse T gilt nur für Fahrten zu land- oder forstwirtschaftlichen Zwecken. Dazu zählen z. B. auch Winterdienst und Landschaftspflege.
+! klassen=T
+
+? Wie schnell dürfen selbstfahrende Arbeitsmaschinen und Futtermischwagen sein, die Sie mit der Klasse T fahren?
+N 40 km/h
+= Zugmaschinen der Klasse T dürfen bis 60 km/h schnell sein, selbstfahrende Arbeitsmaschinen und Futtermischwagen bis 40 km/h.
+! klassen=T zahl punkte=4
+
+? Welche bauartbedingte Höchstgeschwindigkeit dürfen Zugmaschinen der Klasse T höchstens haben?
+N 60 km/h
+= Schnellere Zugmaschinen fallen nicht mehr unter die Klasse T.
+! klassen=T zahl punkte=3
+
+? Mit der Klasse L fahren Sie eine Zugmaschine mit 40 km/h. Was gilt, wenn Sie einen Anhänger mitführen?
++ Die Kombination darf dann nur mit höchstens 25 km/h gefahren werden
+- Es gelten weiterhin 40 km/h
+- Anhänger dürfen mit Klasse L gar nicht gezogen werden
+= Mit der Klasse L dürfen Zugmaschinen bis 40 km/h geführt werden. Mit Anhänger gilt eine Grenze von 25 km/h.
+! klassen=L punkte=5
+
+? Bis zu welcher bauartbedingten Höchstgeschwindigkeit fällt ein Traktor für land- oder forstwirtschaftliche Zwecke noch unter die Klasse L?
+N 40 km/h
+= Selbstfahrende Arbeitsmaschinen und Stapler dürfen mit der Klasse L nur bis 25 km/h gefahren werden.
+! klassen=L zahl punkte=4
+
+? Sie möchten mit einem langsamen Traktor (bis 40 km/h) zum Hof Ihrer Eltern fahren. Wie alt müssen Sie für die Klasse L mindestens sein?
+N 16 Jahre
+= Wer die Klasse B erwirbt, darf damit auch Fahrzeuge der Klasse L führen.
+! klassen=L zahl punkte=3
+
+? Sie wollen einen Gabelstapler mit 20 km/h auf öffentlichen Straßen fahren. Reicht dafür die Klasse L?
++ Ja, Stapler und selbstfahrende Arbeitsmaschinen bis 25 km/h dürfen mit der Klasse L gefahren werden
+- Nein, dafür ist immer die Klasse C nötig
+- Nein, Stapler dürfen nie auf öffentliche Straßen
+= Bei höheren Geschwindigkeiten ist eine andere Klasse erforderlich.
+! klassen=L punkte=3

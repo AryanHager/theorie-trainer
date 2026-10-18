@@ -1,0 +1,627 @@
+// Zusatzstoff Klasse B – Runde 4 (2.4 Verkehrszeichen, 2.5 Umwelt, 2.1, 2.2, 2.6) – eigene Formulierungen
+@klassen B
+
+@kapitel 2.4
+@punkte 3
+
+? Sie fahren mit Pkw und Wohnwagen (Gesamtbreite 2,3 m) auf diese Überleitung zu. Welchen Fahrstreifen benutzen Sie?
++ Den rechten Fahrstreifen
+- Den linken Fahrstreifen
+- Beide, je nach Verkehrslage
+= Der linke Fahrstreifen ist nur für Fahrzeuge bis 2 m tatsächliche Breite freigegeben. Mit dem Wohnwagen sind Sie breiter.
+# zeichen 505-11
+! punkte=4
+
+? Was bedeutet das Zeichen im linken Fahrstreifen dieser Verschwenkungstafel?
++ Der linke Fahrstreifen darf nur mit Fahrzeugen bis 2 m tatsächlicher Breite befahren werden
+- Auf dem linken Fahrstreifen muss ein Abstand von 2 m eingehalten werden
+- Der linke Fahrstreifen ist 2 km lang
+= In Baustellen sind linke Fahrstreifen oft schmal. Breite Fahrzeuge und Gespanne müssen rechts fahren.
+# zeichen 515-21
+
+? Wer darf auf einem Parkplatz mit diesem Zusatzzeichen parken?
++ Pkw mit Anhänger
+- Nur Pkw ohne Anhänger
+- Nur abgestellte Anhänger ohne Zugfahrzeug
+= Das Sinnbild beschränkt die Parkerlaubnis auf Gespanne aus Pkw und Anhänger.
+# zeichen 314 1010-59
+
+? Für welche Fahrzeuge ist ein Parkplatz mit diesem Zusatzzeichen bestimmt?
++ Für Wohnmobile
+- Für Kleinbusse
+- Für Lieferwagen
+= Wohnmobile brauchen größere Parkflächen. Das Zusatzzeichen reserviert die Fläche für sie.
+# zeichen 314 1010-67
+
+? Worauf weist dieses Zeichen hin?
++ Auf einen Platz für Wohnmobile und Wohnwagen
+- Auf einen Händler für Wohnmobile
+- Auf ein Verbot für Wohnwagen
+= Solche Plätze bieten oft Ver- und Entsorgungsmöglichkeiten. Wildes Campen ist an vielen anderen Orten nicht erlaubt.
+# zeichen 365-68
+
+? Sie fahren in einen Tunnel mit dieser Längenangabe ein. Was ist richtig?
++ Abblendlicht einschalten
++ Ausreichenden Abstand halten, auch im Stau
+- Im Tunnel wenden, wenn Stau gemeldet wird
+= Wenden und Rückwärtsfahren sind im Tunnel verboten. Bei Stau Warnblinklicht einschalten und Abstand halten.
+# zeichen 327-51
+
+? Sie fahren ein Elektroauto. Was erlaubt Ihnen dieses Zusatzzeichen unter einem eingeschränkten Haltverbot?
++ Ich darf hier parken, solange mein Fahrzeug lädt
+- Ich darf hier unbegrenzt parken, auch nach dem Laden
+- Ich darf hier nur kurz halten, nicht laden
+= Das Haltverbot ist nur während des Ladevorgangs aufgehoben. Wer nach dem Laden stehen bleibt, parkt verbotswidrig.
+# zeichen 286 1026-60
+
+? Sie haben keinen Bewohnerparkausweis für dieses Gebiet. Dürfen Sie hier parken?
++ Nein, nur Bewohner mit Parkausweis sind vom Haltverbot ausgenommen
+- Ja, wenn ich eine Parkscheibe auslege
+- Ja, nach 18 Uhr immer
+= Für alle anderen gilt das eingeschränkte Haltverbot. Halten zum Ein- und Aussteigen oder Be- und Entladen bleibt erlaubt.
+# zeichen 286 1020-32
+
+? Sie fahren in eine Zone mit diesen Zeichen. Wo und wie dürfen Sie parken?
++ Nur in den gekennzeichneten Flächen und nur mit Parkschein
+- Überall in der Zone mit Parkschein
+- In den gekennzeichneten Flächen ohne Parkschein
+= Beide Bedingungen gelten zusammen. Außerhalb der Flächen gilt das eingeschränkte Haltverbot.
+# zeichen 290.1 1053-53
+
+? Für wen ist ein Parkplatz mit diesem Zusatzzeichen reserviert?
++ Nur für die Person mit dem angegebenen Parkausweis
+- Für alle schwerbehinderten Menschen
+- Für alle Pkw mit Rollstuhl im Kofferraum
+= Mit der Nummer wird der Parkplatz einer bestimmten Person zugeordnet, z. B. vor ihrer Wohnung.
+# zeichen 314 1044-11
+
+? Sie fahren auf der Autobahn und sehen dieses Gefahrzeichen mit Zusatzzeichen. Was bedeutet das für Sie?
++ Nach etwa 200 m steht kein Seitenstreifen mehr zur Verfügung
++ Bei einer Panne sollte ich nach Möglichkeit noch vorher anhalten oder bis zur nächsten Haltemöglichkeit weiterfahren
+- Ab hier ist der Seitenstreifen als Fahrstreifen freigegeben
+= Ohne Seitenstreifen steht ein liegengebliebenes Fahrzeug auf dem Fahrstreifen. Das ist sehr gefährlich.
+# zeichen 101 1007-59
+
+? Was bedeutet dieses Zusatzzeichen an einem Gefahrzeichen auf der Autobahn?
++ Der Seitenstreifen kann nicht benutzt werden, z. B. auch nicht im Pannenfall
+- Der Seitenstreifen ist freigegeben
+- Der Seitenstreifen ist nur für Lkw
+= Gründe können Bauarbeiten oder Schäden sein. Planen Sie Pausen und Tankstopps entsprechend.
+# zeichen 101 1007-60
+
+? Was bedeutet dieses Zusatzzeichen?
++ Wer mit der angegebenen Geschwindigkeit fährt, trifft an den folgenden Ampeln meist auf Grün
+- Die angegebene Geschwindigkeit ist vorgeschrieben
+- Die Ampeln sind nachts ausgeschaltet
+= Eine „Grüne Welle“ ist eine Empfehlung. Sie spart Kraftstoff und vermeidet Stop-and-go.
+# zeichen 1012-34
+
+? Sie fahren einen Pkw mit Anhänger. Der Zug hat eine tatsächliche Masse von 4 t. Dürfen Sie bei diesem Zeichen (ohne Zusatzzeichen) überholen?
++ Ja, das Verbot gilt nicht für Pkw, auch nicht mit Anhänger
+- Nein, weil der Zug schwerer als 3,5 t ist
+- Nur Lkw dürfen überholen
+= Das Überholverbot gilt für Kraftfahrzeuge über 3,5 t zulässige Gesamtmasse und Zugmaschinen. Pkw und Busse sind ausgenommen, wenn kein Zusatzzeichen etwas anderes bestimmt.
+# zeichen 277
+! punkte=4
+
+? Auf der Autobahn erlaubt ein Verkehrszeichen 130 km/h. Wie schnell dürfen Sie mit Pkw und Anhänger ohne Tempo-100-Zulassung höchstens fahren?
+N 80 km/h
+= Ein Zeichen mit höherer Geschwindigkeit hebt die für Gespanne geltende Grenze nicht auf.
+! zahl punkte=4
+
+? Worauf bezieht sich die Massenangabe beim Zeichen „Verbot für Kraftfahrzeuge über 3,5 t“?
++ Auf die zulässige Gesamtmasse
+- Auf die tatsächliche Masse mit Ladung
+- Auf die Achslast
+= Ein leerer Lkw mit 7,5 t zulässiger Gesamtmasse ist also betroffen. Bei Zeichen 262 zählt dagegen die tatsächliche Masse.
+# zeichen 253
+
+? Sie fahren mit einem Wohnwagengespann und sehen dieses Zeichen. Was ist richtig?
++ Die Geschwindigkeit verringern
++ Das Lenkrad mit beiden Händen gut festhalten
+- Schneller fahren, damit das Gespann stabil bleibt
+= Gespanne bieten dem Wind eine große Angriffsfläche. Bei Böen kann der Wohnwagen ins Schlingern geraten.
+# zeichen 117-20
+
+? Sie ziehen einen schweren Anhänger und sehen dieses Zeichen. Wie verhalten Sie sich?
++ Rechtzeitig in einen niedrigeren Gang schalten
++ Beim Anhalten am Berg mit Anfahrschwierigkeiten rechnen
+- Im höchsten Gang bleiben, um Kraftstoff zu sparen
+= Mit Anhänger braucht das Fahrzeug mehr Kraft. Rechtzeitiges Zurückschalten verhindert, dass die Geschwindigkeit stark abfällt.
+# zeichen 110-12
+
+@kapitel 2.5
+@punkte 3
+
+? Wo finden Sie den richtigen Reifendruck für Ihren Pkw?
++ In der Betriebsanleitung oder auf einem Aufkleber, z. B. im Tankdeckel oder an der Türsäule
+- Nur auf der Reifenflanke als Höchstwert
+- Der Druck ist für alle Pkw gleich
+= Der Wert auf der Reifenflanke ist der Höchstdruck, nicht der empfohlene Druck. Für volle Beladung gilt meist ein höherer Wert.
+
+? Was versteht man bei Elektro- und Hybridfahrzeugen unter Rekuperation?
++ Beim Verzögern wird Bewegungsenergie in elektrische Energie zurückverwandelt
+- Das Laden an einer Schnellladesäule
+- Das Abschalten der Klimaanlage
+= Durch vorausschauendes Rollen und sanftes Verzögern kann ein Teil der Energie wieder genutzt werden. Die Bremsen verschleißen weniger.
+
+? Wie schonen Sie den Akku eines Elektroautos im Alltag?
++ Den Akku meist nur bis etwa 80 % laden und ihn nicht dauerhaft fast leer stehen lassen
+- Den Akku immer an der Schnellladesäule auf 100 % laden
+- Den Akku vor jedem Laden ganz leer fahren
+= Sehr hohe und sehr niedrige Ladestände belasten den Akku. Für lange Fahrten ist ein volles Laden aber kein Problem.
+
+? Sie wollen Ihr Elektroauto im Winter vorheizen. Was ist am sinnvollsten?
++ Vorheizen, solange das Fahrzeug noch am Ladekabel hängt
+- Erst während der Fahrt voll heizen
+- Das Fahrzeug im Stand mit laufendem Verbrennungsmotor eines anderen Autos überbrücken
+= Die Energie zum Vorheizen kommt dann aus dem Netz und nicht aus dem Akku. So bleibt mehr Reichweite.
+
+? Sie fahren einen Plug-in-Hybrid. Was ist für die Umwelt wichtig?
++ Den Akku regelmäßig laden und möglichst viele Strecken elektrisch fahren
+- Den Akku nie laden, der Verbrennungsmotor lädt ihn ja
+- Immer im Sportmodus fahren
+= Wird nie geladen, schleppt der Verbrennungsmotor das zusätzliche Gewicht des Akkus mit. Der Verbrauch steigt dann deutlich.
+
+? Was kann den Katalysator eines Benziners beschädigen?
++ Zündaussetzer, bei denen unverbrannter Kraftstoff in den Katalysator gelangt
++ Anschieben oder Anschleppen, wenn der Motor dabei nicht sofort anspringt
+- Regelmäßige längere Fahrten
+= Unverbrannter Kraftstoff verbrennt im heißen Katalysator und kann ihn überhitzen. Zündaussetzer sollten Sie in der Werkstatt beheben lassen.
+
+? Warum sollten Sie im Sommer nicht mit Winterreifen fahren?
++ Der Verbrauch steigt wegen des höheren Rollwiderstands
++ Bei Wärme ist der Bremsweg meist länger
+- Weil Winterreifen im Sommer verboten sind
+= Die weiche Gummimischung ist für Kälte gemacht. Bei Hitze verschleißt sie schneller.
+
+? Ihr Elektroauto verbraucht viel Energie zum Heizen. Was hilft, die Reichweite zu erhalten?
++ Sitz- und Lenkradheizung nutzen und die Innenraumtemperatur etwas niedriger einstellen
+- Die Fenster öffnen
+- Den Akku vorher ganz leer fahren
+= Sitz- und Lenkradheizung wärmen direkt und brauchen weniger Energie als das Heizen der gesamten Innenraumluft.
+
+? Was zeigt die Verbrauchs- und CO₂-Kennzeichnung eines Neuwagens an?
++ Wie viel Kraftstoff oder Strom das Fahrzeug im Normtest verbraucht und wie viel CO₂ es ausstößt
+- Wie viel das Fahrzeug im Jahr an Steuern kostet
+- Wie laut der Motor ist
+= Das Label hilft beim Vergleich von Fahrzeugen. Im Alltag kann der tatsächliche Verbrauch abweichen.
+
+? Was bewirkt ein Eco-Fahrmodus in vielen Fahrzeugen?
++ Er dämpft die Reaktion auf das Gaspedal und schaltet früher hoch
+- Er schaltet alle Sicherheitssysteme ab
+- Er erhöht die Höchstgeschwindigkeit
+= Der Modus unterstützt eine sparsame Fahrweise. Die Bremsen und Assistenzsysteme arbeiten wie gewohnt.
+
+? Was ist das „Segeln“ bei Fahrzeugen mit Automatikgetriebe?
++ Der Motor wird beim Rollen vom Antrieb getrennt, das Fahrzeug rollt weit mit wenig Verbrauch
+- Das Fahren mit offenem Schiebedach
+- Das Fahren im Windschatten eines Lkw
+= Segeln ist bei langen, flachen Rollstrecken sparsam. Vor Ampeln oder bergab ist die Schubabschaltung oft günstiger.
+
+? Ihre Klimaanlage kühlt nicht mehr richtig. Was ist umweltgerecht?
++ Die Anlage in einer Fachwerkstatt prüfen lassen
+- Das Kältemittel selbst ablassen
+- Die Anlage einfach nicht mehr benutzen und Lecks ignorieren
+= Kältemittel dürfen nicht in die Umwelt gelangen. Viele sind stark klimaschädlich.
+
+? Warum sollten Sie den Ölstand des Motors regelmäßig prüfen?
++ Zu wenig Öl kann den Motor schädigen
++ Ein hoher Ölverbrauch kann auf einen Defekt hinweisen, bei dem Öl verbrennt oder austritt
+- Weil zu viel Öl den Verbrauch senkt
+= Zu viel Öl ist ebenfalls schädlich. Füllen Sie nur bis zur Markierung am Messstab auf.
+
+? Wie wirken sich breitere Reifen als nötig auf die Umwelt aus?
++ Rollwiderstand, Luftwiderstand und damit der Verbrauch steigen
+- Sie senken den Verbrauch
+- Sie haben keinen Einfluss
+= Breite Reifen sehen sportlich aus, erhöhen aber den Verbrauch und oft auch das Rollgeräusch.
+
+? Was können Sie tun, um auf einer bekannten Strecke Staus zu umgehen?
++ Aktuelle Verkehrsinformationen nutzen und die Abfahrtszeit anpassen
+- Möglichst im Berufsverkehr fahren
+- Im Stau oft den Fahrstreifen wechseln
+= Wer Staus meidet, spart Zeit und Kraftstoff. Häufiges Wechseln im Stau bringt meist nichts.
+
+? Was bedeutet die Angabe „16 kWh/100 km“ bei einem Elektroauto?
++ Das Fahrzeug verbraucht auf 100 km etwa 16 Kilowattstunden Strom
+- Das Fahrzeug kann mit 16 kW laden
+- Der Akku hat eine Kapazität von 16 kWh
+= Der Verbrauch hängt stark von Geschwindigkeit, Temperatur und Fahrweise ab.
+
+? Darf Ihr Diesel-Pkw mit dem Kraftstoff HVO100 betankt werden?
++ Nur, wenn der Hersteller das Fahrzeug dafür freigegeben hat
+- Ja, jeder Diesel verträgt jeden Kraftstoff
+- Nein, HVO100 ist für Pkw verboten
+= Die Freigabe steht in der Betriebsanleitung oder ist am Tankdeckel gekennzeichnet (z. B. „XTL“). Im Zweifel beim Hersteller nachfragen.
+
+? Warum ist das Laden an einer Wallbox meist günstiger für die Umwelt als an einer Haushaltssteckdose?
++ Die Ladeverluste sind geringer
++ Die Steckdose kann bei langer Dauerlast überhitzen
+- An der Haushaltssteckdose lädt das Auto schneller
+= Bei sehr kleiner Ladeleistung dauert das Laden lange, und ein größerer Teil der Energie geht verloren.
+
+? Warum ist die Reichweite eines Elektroautos im Winter oft geringer?
++ Ein kalter Akku gibt weniger Energie ab
++ Heizen braucht zusätzliche Energie
+- Weil Winterreifen keinen Strom leiten
+= Im Winter kann die Reichweite deutlich sinken. Planen Sie Ladestopps großzügiger.
+
+? Sie sind mit Ihrem Pkw einige Monate nicht unterwegs. Was ist sinnvoll?
++ Den Reifendruck vor der nächsten Fahrt prüfen
++ Die Starterbatterie laden oder ihren Zustand prüfen
+- Den Motor jede Woche im Stand eine halbe Stunde laufen lassen
+= Laufenlassen im Stand belastet Umwelt und Motor. Eine leere Batterie lässt sich mit einem Ladegerät nachladen.
+
+? Was ist beim Nachfüllen von Scheibenwaschwasser umweltgerecht?
++ Geeignete Zusätze in der richtigen Menge verwenden
+- Spülmittel in großen Mengen einfüllen
+- Den Rest auf den Boden kippen
+= Spülmittel kann Wischergummis und Lack angreifen. Reste gehören nicht in die Natur.
+
+? Sie fahren mit Ihrem Pkw zügig auf der Autobahn. Was spart deutlich Kraftstoff?
++ Die Geschwindigkeit etwas verringern, z. B. von 160 auf 130 km/h
+- Im Windschatten dicht hinter einem Lkw fahren
+- Häufig stark beschleunigen und abbremsen
+= Der Luftwiderstand steigt mit dem Quadrat der Geschwindigkeit. Dichtes Auffahren ist gefährlich und verboten.
+
+? Sie nutzen einen Anhänger nur gelegentlich. Was ist für die Umwelt sinnvoll?
++ Den Anhänger abkuppeln, wenn er nicht gebraucht wird
+- Den Anhänger leer mitführen, falls er gebraucht wird
+- Mit Anhänger schneller fahren, um früher anzukommen
+= Ein Anhänger erhöht den Verbrauch durch zusätzliches Gewicht, Roll- und Luftwiderstand.
+
+@kapitel 2.1
+@punkte 4
+
+? Sie wollen die Fahrertür auf der Fahrbahnseite öffnen. Wie vermeiden Sie einen Unfall mit Radfahrenden?
++ Vorher in den Außenspiegel und über die Schulter schauen
++ Die Tür mit der rechten Hand öffnen, damit sich der Oberkörper zur Seite dreht
+- Die Tür schnell öffnen und sofort aussteigen
+= Durch die Drehung des Oberkörpers schauen Sie automatisch nach hinten. Radfahrende können einer plötzlich geöffneten Tür kaum ausweichen.
+
+? Wie stellen Sie Sitz und Rückenlehne richtig ein?
++ Die Pedale lassen sich mit leicht gebeugten Beinen voll durchtreten
++ Die Rückenlehne ist eher aufrecht, die Handgelenke reichen bei angelehntem Rücken bis auf das Lenkrad
+- Die Rückenlehne möglichst weit nach hinten neigen
+= Bei stark geneigter Lehne kann man unter dem Gurt durchrutschen. Außerdem lässt sich schlechter lenken.
+
+? Wie stellen Sie die Außenspiegel richtig ein?
++ So, dass das eigene Fahrzeug nur am Rand zu sehen ist und möglichst viel vom Bereich daneben
+- So, dass vor allem die eigene Fahrzeugseite zu sehen ist
+- Möglichst weit nach unten, damit der Bordstein sichtbar ist
+= So verkleinern Sie den toten Winkel. Ein Schulterblick bleibt trotzdem nötig.
+
+? Ihr Pkw hat Parksensoren. Womit müssen Sie trotzdem rechnen?
++ Dass niedrige oder dünne Hindernisse nicht erkannt werden
++ Dass kleine Kinder oder Tiere zu spät erkannt werden
+- Dass die Sensoren das Fahrzeug selbstständig anhalten
+= Parksensoren sind eine Hilfe. Schauen Sie beim Rangieren immer selbst.
+
+? Was ist beim Rückwärtsausparken in der Nähe eines Spielplatzes besonders zu beachten?
++ Kleine Kinder können hinter dem Fahrzeug stehen und sind von innen kaum zu sehen
++ Sehr langsam fahren und notfalls aussteigen und nachsehen
+- Zügig ausparken, damit Kinder nicht hinterherlaufen
+= Hinter einem Pkw gibt es einen großen Bereich, den man vom Fahrersitz aus nicht sieht.
+
+? Sie fahren mit Anhänger durch eine enge Rechtskurve. Worauf müssen Sie achten?
++ Der Anhänger fährt einen engeren Bogen als das Zugfahrzeug
++ Ich muss weiter ausholen, damit der Anhänger nicht über den Bordstein fährt
+- Der Anhänger folgt genau der Spur des Zugfahrzeugs
+= Der Anhänger „schneidet“ Kurven. Achten Sie besonders auf Radfahrende und Fußgänger am Kurveninnenrand.
+
+? Sie kommen an einen Unfall, an dem ein Elektroauto beteiligt ist. Was ist richtig?
++ Die Unfallstelle absichern und den Notruf wählen
++ Beim Notruf angeben, dass ein Elektrofahrzeug beteiligt ist
+- Beschädigte orangefarbene Leitungen anfassen, um sie beiseitezulegen
+= Hochvolt-Leitungen sind orange. Beschädigte Akkus können sich noch lange nach dem Unfall entzünden.
+
+? Sie halten an einer Steigung an und wollen wieder anfahren. Wie verhindern Sie ein Zurückrollen?
++ Die Feststellbremse oder eine Berganfahrhilfe benutzen
+- Die Kupplung schleifen lassen, bis die Ampel grün wird
+- Den Motor abstellen und neu starten
+= Langes Schleifenlassen der Kupplung führt zu Verschleiß. Viele Fahrzeuge haben eine Berganfahrhilfe, die kurz die Bremse hält.
+
+? Sie fahren einen Kleintransporter bis 3,5 t statt Ihres gewohnten Pkw. Was ist zu beachten?
++ Der Bremsweg ist mit Ladung länger
++ Der Schwerpunkt ist höher, Kurven müssen langsamer gefahren werden
++ Die Höhe ist bei Durchfahrten und Parkhäusern zu beachten
+= Viele Transporter sind über 2,5 m hoch. Auch der tote Winkel ist größer als beim Pkw.
+! punkte=5
+
+? Wie beladen Sie einen Kleintransporter richtig?
++ Schwere Teile unten und möglichst nah an der Stirnwand zur Fahrerkabine
+- Schwere Teile oben, damit sie nicht zerdrückt werden
+- Schwere Teile ganz hinten an der Ladetür
+= So bleibt der Schwerpunkt tief. Die Ladung kann beim Bremsen nicht weit nach vorn rutschen.
+
+? Wie sollte eine Schwangere den Sicherheitsgurt tragen?
++ Den Beckengurt unterhalb des Bauches über die Hüftknochen
++ Den Schultergurt zwischen den Brüsten und seitlich am Bauch vorbei
+- Gar nicht, Schwangere sind von der Gurtpflicht befreit
+= Ein richtig angelegter Gurt schützt Mutter und Kind. Eine allgemeine Befreiung gibt es nicht.
+
+? Sie müssen mit einem Pkw mit ABS eine Notbremsung machen. Was ist richtig?
++ Bremse und Kupplung kräftig durchtreten und bis zum Stillstand halten
++ Ich kann während der Bremsung einem Hindernis ausweichen
+- Die Bremse pumpend betätigen
+= ABS verhindert das Blockieren der Räder, sodass das Fahrzeug lenkbar bleibt. Ein Pulsieren im Pedal ist normal.
+
+? Während der Fahrt platzt ein Vorderreifen. Wie reagieren Sie?
++ Das Lenkrad fest halten und gegenlenken
++ Behutsam abbremsen und vorsichtig an den Rand fahren
+- Sofort voll bremsen und stark einlenken
+= Das Fahrzeug zieht zur Seite des defekten Reifens. Abruptes Bremsen kann es ins Schleudern bringen.
+
+? Das Außenthermometer Ihres Pkw zeigt 3 °C. Womit müssen Sie rechnen?
++ Mit Glätte auf Brücken und in schattigen Bereichen
+- Glätte ist erst unter 0 °C möglich
+- Mit trockener, griffiger Fahrbahn
+= Das Thermometer misst die Luft. Die Fahrbahn kann kälter sein, besonders auf Brücken und in Waldschneisen.
+
+? Warum ist ein zu niedriger Reifendruck bei Autobahnfahrten gefährlich?
++ Der Reifen kann sich stark erhitzen und platzen
++ Das Fahrzeug lenkt schwammiger
+- Weil das Fahrzeug dadurch zu schnell wird
+= Ein Reifen mit zu wenig Druck walkt stärker. Bei hoher Geschwindigkeit und Beladung entsteht viel Wärme.
+
+? Sie haben die Räder Ihres Pkw gewechselt. Was ist danach zu beachten?
++ Die Radmuttern nach einer kurzen Strecke nachziehen lassen
++ Den Reifendruck prüfen
+- Nichts, Räder sitzen immer fest
+= Radschrauben können sich setzen. Die Angaben dazu stehen in der Betriebsanleitung.
+
+? Sie fahren mit einem Fahrradträger auf der Anhängerkupplung. Was ändert sich?
++ Das Fahrzeug ist länger, beim Einparken und Rückwärtsfahren ist mehr Platz nötig
++ Die Last hinten kann das Fahrverhalten verändern
+- Nichts, solange die Fahrräder gut befestigt sind
+= Beachten Sie auch die zulässige Stützlast der Anhängerkupplung.
+
+? Sie fahren in der Abenddämmerung auf einer Landstraße. Warum sollten Sie früh das Abblendlicht einschalten?
++ Damit ich von anderen besser gesehen werde
++ Weil die Augen sich auf das abnehmende Licht einstellen müssen
+- Weil das Abblendlicht den Verbrauch senkt
+= In der Dämmerung werden Fahrzeuge ohne Licht leicht übersehen, besonders graue oder dunkle Autos.
+
+? Sie sind auf einer langen Fahrt und merken, dass Ihre Augen brennen und Sie häufig gähnen. Was tun Sie?
++ Eine Pause mit Bewegung an frischer Luft machen
++ Bei starker Müdigkeit kurz schlafen
+- Das Radio lauter stellen und weiterfahren
+= Lautes Radio und offene Fenster helfen nur kurz. Gegen Müdigkeit hilft nur eine Pause oder Schlaf.
+
+? Warum kann ein stark getöntes Fenster oder eine verschmutzte Windschutzscheibe nachts gefährlich sein?
++ Fußgänger und Hindernisse werden später erkannt
++ Entgegenkommende Fahrzeuge blenden stärker
+- Weil das Fahrzeug dann schneller wird
+= Schmutz auf der Scheibe streut das Licht. Reinigen Sie die Scheibe auch innen regelmäßig.
+
+@kapitel 2.2
+@punkte 3
+
+? Dürfen Personen im Kofferraum eines Kombis mitfahren?
++ Nein, sie dürfen nur auf Sitzplätzen mit Sicherheitsgurt befördert werden
+- Ja, wenn die Rückbank umgeklappt ist
+- Ja, auf kurzen Strecken
+= Im Kofferraum gibt es keine Rückhaltesysteme. Bei einem Aufprall ist die Verletzungsgefahr sehr hoch.
+
+? Ihre Ladung ist höher als 2,5 m (z. B. auf einem Anhänger). Wie weit darf sie höchstens nach vorn hinausragen?
++ Höchstens 50 cm
+- Höchstens 1 m
+- Beliebig weit, wenn sie gekennzeichnet ist
+= Ladung bis 2,5 m Höhe darf nach vorn gar nicht über das Fahrzeug hinausragen. Bei mehr als 2,5 m Höhe sind höchstens 50 cm erlaubt.
+! punkte=4
+
+? Wie hoch dürfen Fahrzeug und Ladung zusammen höchstens sein?
+N 4 m
+= Dies gilt z. B. auch für einen Pkw mit Ladung auf dem Dach. Achten Sie besonders auf niedrige Durchfahrten.
+! zahl
+
+? Wie breit dürfen ein Pkw-Anhänger mit Ladung oder ein Fahrzeug mit Ladung allgemein höchstens sein?
+N 2,55 m
+= Breitere Fahrzeuge brauchen eine Ausnahmegenehmigung.
+! zahl punkte=4
+
+? Ihr Anhänger hat eine zulässige Gesamtmasse von 2,5 t. Dürfen Sie ihn regelmäßig nachts in einem Wohngebiet auf der Straße parken?
++ Nein, das ist in Wohngebieten nachts sowie an Sonn- und Feiertagen nicht erlaubt (außer auf gekennzeichneten Parkplätzen)
+- Ja, wenn er beleuchtet ist
+- Ja, immer
+= Für Anhänger über 2 t und Kraftfahrzeuge über 7,5 t gilt dieses Verbot, um Anwohner vor Lärm und zugestellten Straßen zu schützen.
+! punkte=4
+
+? Sie wollen mit einem Pkw mit Anhänger rückwärts aus einer Einfahrt auf die Straße fahren. Was ist richtig?
++ Ich muss mich so verhalten, dass andere nicht gefährdet werden, notfalls lasse ich mich einweisen
+- Andere müssen auf mich warten, weil ich mit Anhänger schwer rangieren kann
+- Ich darf das Warnblinklicht einschalten und dann ohne Rücksicht zurücksetzen
+= Wer aus einem Grundstück auf die Straße fährt, muss eine Gefährdung anderer ausschließen. Mit Anhänger ist die Sicht nach hinten oft stark eingeschränkt.
+
+? Sie halten nachts außerorts am Fahrbahnrand. Wie muss Ihr Fahrzeug beleuchtet sein?
++ Mit eigener Lichtquelle, z. B. Standlicht
+- Gar nicht, wenn die Straße beleuchtet ist
+- Nur mit Warnblinklicht
+= Außerorts müssen haltende Fahrzeuge stets mit eigener Lichtquelle beleuchtet sein. Innerorts reicht oft Parklicht auf der Fahrbahnseite.
+
+? Sie stellen einen Anhänger ohne Zugfahrzeug an einer leichten Steigung ab. Was ist zu tun?
++ Die Feststellbremse anziehen
++ Den Anhänger zusätzlich mit Unterlegkeilen sichern
+- Nur die Deichsel auf den Boden stellen
+= Ein Anhänger ohne Zugfahrzeug kann wegrollen. Unterlegkeile sind für viele Anhänger ohnehin vorgeschrieben.
+
+? Dürfen Sie in einem Wohnmobil auf einem öffentlichen Parkplatz übernachten?
++ Eine Übernachtung zur Wiederherstellung der Fahrtüchtigkeit ist grundsätzlich möglich, wenn Parken dort erlaubt und nichts anderes ausgeschildert ist
+- Ja, beliebig lange mit Campingtisch und Markise
+- Nein, Schlafen im Fahrzeug ist immer verboten
+= Campingverhalten (Stühle, Markise) ist auf öffentlichen Parkplätzen meist nicht erlaubt. Eine Übernachtung, um wieder fahrtüchtig zu werden, wird in der Regel geduldet; Gemeinden können aber durch Beschilderung abweichende Regeln treffen.
+
+? Wie lang darf ein Zug aus Pkw und Anhänger höchstens sein?
+N 18,75 m
+= Mit normalen Pkw-Gespannen wird diese Länge selten erreicht. Bei langen Wohnwagen und Bootsanhängern sollten Sie die Länge kennen.
+! zahl punkte=4
+
+? Ein 10-jähriges Kind fährt in Ihrem Pkw mit. Wer ist dafür verantwortlich, dass es richtig gesichert ist?
++ Ich als Fahrer oder Fahrerin
+- Nur die Eltern, auch wenn sie nicht mitfahren
+- Das Kind selbst
+= Wer das Fahrzeug führt, darf Kinder nur mitnehmen, wenn sie vorschriftsmäßig gesichert sind.
+
+? Sie wollen einen Dachträger beladen. Was müssen Sie beachten?
++ Die zulässige Dachlast des Fahrzeugs darf nicht überschritten werden
++ Das Gewicht des Dachträgers zählt zur Dachlast
+- Die Dachlast ist unbegrenzt, wenn die Ladung festgezurrt ist
+= Die zulässige Dachlast steht in der Betriebsanleitung. Mit Dachlast verändert sich das Fahrverhalten.
+
+? Was ist bei der Stützlast eines Anhängers zu beachten?
++ Sie darf weder die zulässige Stützlast der Anhängerkupplung noch die des Anhängers überschreiten
++ Die Mindest-Stützlast sollte eingehalten werden
+- Die Stützlast spielt nur bei leeren Anhängern eine Rolle
+= Maßgeblich ist der kleinere Wert. Eine zu geringe Stützlast fördert das Pendeln, eine zu hohe belastet die Hinterachse.
+
+? Sie verlieren auf der Autobahn einen Teil Ihrer Ladung. Was tun Sie?
++ Auf dem Seitenstreifen anhalten, Warnblinklicht einschalten und Warnweste anziehen
++ Die Polizei benachrichtigen
+- Auf die Fahrbahn laufen und die Ladung selbst aufheben
+= Auf der Autobahn ist das Betreten der Fahrbahn lebensgefährlich. Die Polizei sichert die Stelle ab und räumt sie.
+
+? Sie fahren einen Transporter mit einer zulässigen Gesamtmasse von 3,5 t ohne Anhänger. Welche Höchstgeschwindigkeit gilt auf der Autobahn ohne Beschränkung durch Verkehrszeichen?
++ Keine allgemeine Höchstgeschwindigkeit, empfohlen sind 130 km/h
+- 80 km/h
+- 100 km/h
+= Erst für Kraftfahrzeuge über 3,5 t gelten auf Autobahnen niedrigere Höchstgeschwindigkeiten.
+! punkte=4
+
+? Wie schnell dürfen Sie mit einem Transporter (zulässige Gesamtmasse 3,5 t) außerorts auf einer Landstraße höchstens fahren?
+N 100 km/h
+= Für Kraftfahrzeuge bis 3,5 t gilt außerorts dasselbe wie für Pkw. Mit Anhänger sind es 80 km/h.
+! zahl
+
+? Was ist bei einem Fahrradträger auf dem Dach zu beachten?
++ Das Fahrzeug ist deutlich höher, z. B. bei Garagen und Durchfahrten
++ Die Fahrräder müssen sicher befestigt sein und dürfen die Dachlast nicht überschreiten
+- Mit Fahrrädern auf dem Dach gilt eine Höchstgeschwindigkeit von 80 km/h
+= Eine allgemeine Höchstgeschwindigkeit gibt es dafür nicht, der Hersteller des Trägers gibt aber oft eine Empfehlung.
+
+? Sie wollen in einem Pkw einen Reservekanister mit Benzin transportieren. Was ist richtig?
++ Nur einen dafür zugelassenen, dicht verschlossenen Kanister verwenden und ihn sicher befestigen
+- Jede leere Getränkeflasche ist geeignet
+- Der Kanister kann lose auf dem Rücksitz liegen
+= Benzindämpfe sind leicht entzündlich. Ein ungeeigneter Behälter kann undicht werden oder sich verformen.
+
+? Sie fahren mit einem Pkw mit Anhänger auf einer Landstraße. Hinter Ihnen bildet sich eine lange Schlange. Was ist richtig?
++ Bei Gelegenheit, z. B. an einer Ausweichstelle, rechts heranfahren und überholen lassen
+- Schneller fahren als erlaubt, um nicht zu behindern
+- Weiterfahren, die anderen können ja überholen
+= Langsame Fahrzeuge müssen an geeigneter Stelle das Überholen ermöglichen, notfalls durch Anhalten.
+
+@kapitel 2.6
+@punkte 3
+
+? Was müssen Sie mit der Zulassungsbescheinigung Teil II (früher Fahrzeugbrief) tun?
++ Sie sicher zu Hause aufbewahren
+- Sie immer im Fahrzeug mitführen
+- Sie nach der Zulassung wegwerfen
+= Teil II weist den Halter aus und wird z. B. beim Verkauf gebraucht. Im Fahrzeug könnte sie zusammen mit dem Auto gestohlen werden.
+
+? Sie verkaufen Ihren Pkw. Was müssen Sie tun?
++ Den Verkauf mit Namen und Anschrift des Käufers der Zulassungsbehörde melden
++ Den Verkauf der Kfz-Versicherung mitteilen
+- Nichts, das ist allein Sache des Käufers
+= So sind Sie z. B. bei Verstößen oder Steuern nicht mehr verantwortlich, wenn der Käufer das Fahrzeug nicht umgemeldet hat.
+
+? Welche Schäden ersetzt die Kfz-Haftpflichtversicherung?
++ Schäden, die ich mit meinem Fahrzeug anderen zufüge
+- Schäden an meinem eigenen Fahrzeug
+- Strafen und Bußgelder
+= Für Schäden am eigenen Fahrzeug braucht man eine Kaskoversicherung. Die Haftpflichtversicherung ist vorgeschrieben.
+
+? Was brauchen Sie, um ein Fahrzeug bei der Zulassungsbehörde anzumelden?
++ Eine elektronische Versicherungsbestätigung (eVB-Nummer)
+- Eine Bescheinigung der Fahrschule
+- Den Kaufvertrag eines anderen Fahrzeugs
+= Ohne nachgewiesenen Haftpflichtschutz wird kein Fahrzeug zugelassen.
+
+? In welchen Abständen muss ein Pkw-Anhänger bis 3,5 t zur Hauptuntersuchung?
++ Alle 2 Jahre, bei neuen leichten Anhängern bis 750 kg erstmals nach 3 Jahren
+- Jedes Jahr
+- Nie, Anhänger brauchen keine Hauptuntersuchung
+= Auch Anhänger tragen eine Prüfplakette auf dem Kennzeichen.
+
+? Was ist ein Wechselkennzeichen?
++ Ein Kennzeichen, das für zwei Fahrzeuge zugelassen ist, von denen jeweils nur eines benutzt werden darf
+- Ein Kennzeichen, das jährlich gewechselt werden muss
+- Ein Kennzeichen für Probefahrten
+= Das Fahrzeug mit dem gemeinsamen Kennzeichenteil darf gefahren werden. Das andere muss auf privatem Grund stehen.
+
+? Was wird bei der Hauptuntersuchung unter anderem geprüft?
++ Die Abgaswerte
++ Bremsen, Beleuchtung und Lenkung
+- Die Höhe der Kfz-Steuer
+= Die Abgasuntersuchung ist Teil der Hauptuntersuchung.
+
+? Sie wollen Ihren Pkw für längere Zeit nicht nutzen. Was ist möglich?
++ Ihn bei der Zulassungsbehörde außer Betrieb setzen lassen
+- Ihn ohne Versicherung auf öffentlichen Straßen abstellen
+- Das Kennzeichen abschrauben und weiterfahren
+= Ein außer Betrieb gesetztes Fahrzeug darf nicht im öffentlichen Straßenraum abgestellt werden.
+
+? Wie lange ist ein heute ausgestellter EU-Kartenführerschein (Klasse B) als Dokument gültig?
++ 15 Jahre
+- Lebenslang
+- 5 Jahre
+= Nach Ablauf wird das Dokument umgetauscht. Die Fahrerlaubnis selbst bleibt bestehen; für Klasse B ist dafür keine ärztliche Untersuchung nötig.
+
+? Bis wann muss ein Kartenführerschein, der in den Jahren 2002 bis 2004 ausgestellt wurde, umgetauscht werden?
++ Bis zum 19. Januar 2027
+- Bis zum 19. Januar 2033
+- Er muss nie umgetauscht werden
+= Die Umtauschfristen sind nach Ausstellungsjahren gestaffelt. Wer ohne gültiges Dokument fährt, begeht eine Ordnungswidrigkeit.
+
+? Ist für einen Pkw in Deutschland ein Feuerlöscher vorgeschrieben?
++ Nein, er ist aber empfehlenswert
+- Ja, in jedem Pkw
+- Ja, aber nur im Winter
+= Für Busse sind Feuerlöscher vorgeschrieben, für Pkw nicht.
+
+
+@kapitel 2.7
+@punkte 3
+
+? Wie tief muss das Profil der Reifen an Ihrem Pkw gesetzlich mindestens sein?
+N 1,6 mm
+= Das ist der gesetzliche Mindestwert. Für Sommerreifen werden etwa 3 mm, für Winterreifen etwa 4 mm empfohlen, weil die Haftung auf nasser oder verschneiter Fahrbahn sonst stark nachlässt.
+! zahl
+
+? Ihr Pkw zieht beim Geradeausfahren ständig zu einer Seite. Was kann die Ursache sein?
++ Unterschiedlicher Reifendruck links und rechts
++ Eine verstellte Spur oder ein Schaden an der Radaufhängung
+- Ein voller Kraftstofftank
+= Prüfen Sie zuerst den Reifendruck. Hilft das nicht, sollte eine Werkstatt Fahrwerk und Achsen vermessen.
+
+? Das Lenkrad vibriert bei einer bestimmten Geschwindigkeit. Was ist eine häufige Ursache?
++ Eine Unwucht an den Rädern
+- Zu viel Kühlmittel
+- Eine schwache Starterbatterie
+= Unwuchtige Räder belasten Reifen und Lenkung. Sie lassen sich in der Werkstatt auswuchten.
+
+? Beim Bremsen hören Sie ein metallisches Schleifen. Was bedeutet das wahrscheinlich?
++ Die Bremsbeläge sind abgenutzt
+- Die Bremsen sind gerade gut eingefahren
+- Die Reifen sind zu stark aufgepumpt
+= Bei abgenutzten Belägen reibt Metall auf der Bremsscheibe. Die Bremswirkung lässt nach, die Scheiben werden beschädigt. Lassen Sie die Bremsen sofort prüfen.
+
+? Das Bremspedal lässt sich plötzlich weich und weit durchtreten. Was ist richtig?
++ Nicht weiterfahren und die Bremsanlage in einer Werkstatt prüfen lassen
+- Weiterfahren und künftig früher bremsen
+- Etwas Wasser in den Bremsflüssigkeitsbehälter füllen
+= Ursache kann Luft in der Bremsanlage oder ein Verlust von Bremsflüssigkeit sein. Die Bremswirkung kann jederzeit ganz ausfallen.
+! punkte=4
+
+? Ihre Reifen haben noch genug Profil, sind aber schon zehn Jahre alt. Was ist sinnvoll?
++ Die Reifen ersetzen, weil der Gummi mit der Zeit hart wird und schlechter haftet
+- Die Reifen weiter fahren, nur die Profiltiefe zählt
+- Die Reifen nur im Winter fahren
+= Das Herstellungsdatum erkennen Sie an der DOT-Nummer. Alte Reifen können auch Risse bekommen.
+
+? Wie können Sie allein prüfen, ob die Bremsleuchten Ihres Pkw funktionieren?
++ Rückwärts nah an eine Wand oder ein Schaufenster fahren und beim Bremsen die Spiegelung beobachten
+- Gar nicht, das geht nur in der Werkstatt
+- Am Bremspedal fühlen, ob es warm wird
+= Defekte Bremsleuchten sind gefährlich, weil Nachfolgende das Bremsen nicht erkennen. Oft hilft auch eine zweite Person.

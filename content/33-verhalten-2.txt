@@ -1,0 +1,408 @@
+// Runde 3: Verhalten im Straßenverkehr (Grundstoff 1.2) – eigene Formulierungen
+@kapitel 1.2
+@klassen ALLE
+@punkte 3
+
+? Wer darf außerhalb geschlossener Ortschaften einen Radweg benutzen?
++ Mofas
+- Kleinkrafträder mit bis zu 45 km/h
+- Leichtkrafträder
+= Außerorts dürfen Mofas Radwege benutzen. Innerorts nur, wenn ein Zusatzzeichen es erlaubt.
+
+? Mit welchen Fahrzeugen dürfen Sie eine Autobahn benutzen?
++ Nur mit Kraftfahrzeugen, deren bauartbedingte Höchstgeschwindigkeit mehr als 60 km/h beträgt
+- Mit allen Kraftfahrzeugen
+- Auch mit Mofas, wenn sie den rechten Fahrstreifen benutzen
+= Dasselbe gilt für Kraftfahrstraßen. Fahrräder, Mofas und zu Fuß Gehende sind dort nicht zugelassen.
+
+? Welche bauartbedingte Höchstgeschwindigkeit muss ein Kraftfahrzeug mindestens überschreiten, damit es auf der Autobahn fahren darf?
+N 60 km/h
+= Langsamere Fahrzeuge würden den Verkehr auf der Autobahn gefährden.
+! zahl
+
+? Sie haben auf der Autobahn die Ausfahrt verpasst. Was tun Sie?
++ Ich fahre bis zur nächsten Ausfahrt weiter
+- Ich halte auf dem Seitenstreifen und setze zurück
+- Ich wende am nächsten Mittelstreifendurchbruch
+= Rückwärtsfahren und Wenden sind auf Autobahnen verboten.
+! klassen=MOT punkte=4
+
+? Auf dem linken Fahrstreifen der Autobahn stockt der Verkehr und fährt höchstens 60 km/h. Wie dürfen Sie auf dem rechten Fahrstreifen vorbeifahren?
++ Nur mit geringfügig höherer Geschwindigkeit und mit äußerster Vorsicht
+- Mit beliebig hoher Geschwindigkeit
+- Gar nicht, Rechtsüberholen ist immer verboten
+= Stehen links Fahrzeuge oder fahren sie langsam, darf rechts nur geringfügig schneller und mit äußerster Vorsicht vorbeigefahren werden. Eine feste km/h-Grenze nennt die StVO dafür nicht.
+! klassen=MOT punkte=4
+
+? Wie hoch ist die zulässige Höchstgeschwindigkeit außerhalb geschlossener Ortschaften für Pkw auf Landstraßen, wenn nichts anderes angeordnet ist?
+N 100 km/h
+= Sie gilt auch für Krafträder. Wer langsamer fahren muss, weil Sicht, Wetter oder Verkehr es erfordern, muss das tun.
+! zahl klassen=MOT
+
+? Sie sind mit Ihrem Kraftrad unterwegs. Was gilt am Tag für die Beleuchtung?
++ Ich muss auch am Tag mit Abblendlicht oder Tagfahrlicht fahren
+- Am Tag ist keine Beleuchtung vorgeschrieben
+- Nur bei Regen muss ich Licht einschalten
+= Krafträder werden mit Licht deutlich früher erkannt.
+! klassen=ZWEIRAD,Mofa
+
+? Sie fahren in einen Tunnel ein. Was ist vorgeschrieben?
++ Abblendlicht einschalten
++ Im Tunnel nicht wenden
+- Fernlicht einschalten
+= Anhalten nur im Notfall, möglichst in einer Pannenbucht.
+# zeichen 327
+! punkte=4
+
+? Was bedeutet ein rotes, schräg gekreuztes Lichtzeichen über einem Fahrstreifen?
++ Dieser Fahrstreifen darf nicht benutzt werden
+- Der Fahrstreifen ist nur für Busse
+- Ich muss die Geschwindigkeit verringern
+= Ein grüner, nach unten gerichteter Pfeil gibt den Fahrstreifen frei.
+
+? Über Ihrem Fahrstreifen leuchtet ein gelber, schräg nach unten weisender Blinkpfeil. Was bedeutet das?
++ Ich muss den Fahrstreifen in Pfeilrichtung wechseln
+- Ich darf auf diesem Fahrstreifen weiterfahren
+- Ich muss anhalten
+= Meist ist der Fahrstreifen weiter vorne gesperrt, z. B. wegen eines Unfalls oder einer Baustelle.
+! punkte=4
+
+? Sie nähern sich auf der Autobahn einem Stauende. Was dürfen Sie tun, um Nachfolgende zu warnen?
++ Das Warnblinklicht einschalten
+- Kurz stark bremsen, damit die Bremsleuchten aufleuchten, und wieder beschleunigen
+- Mit der Lichthupe nach hinten signalisieren
+= Das Warnblinklicht darf eingeschaltet werden, um andere vor Gefahren zu warnen, z. B. bei der Annäherung an einen Stau.
+! klassen=MOT
+
+? Wo ist es verboten, an einem Fahrzeug vorbeizufahren, das vor einem Fußgängerüberweg angehalten hat?
++ Am Fußgängerüberweg darf nicht überholt werden
+- Das ist überall erlaubt, wenn der Überweg frei ist
+- Nur nachts ist es verboten
+= Das haltende Fahrzeug kann eine Person auf dem Überweg verdecken.
+! punkte=4
+
+? Wie überholen Sie eine fahrende Straßenbahn grundsätzlich?
++ Rechts
+- Links
+- Gar nicht
+= Links darf nur überholt werden, wenn das Gleis so weit rechts liegt, dass rechts kein Platz bleibt, oder in Einbahnstraßen.
+! punkte=4
+
+? Mehr als 15 Radfahrende fahren gemeinsam in einer Gruppe. Was dürfen sie?
++ Einen geschlossenen Verband bilden und zu zweit nebeneinander auf der Fahrbahn fahren
+- Die ganze Fahrbahnbreite nutzen
+- Immer auf dem Gehweg fahren
+= Für einen geschlossenen Verband gelten die Regeln wie für ein einzelnes Fahrzeug.
+
+? Vor Ihnen bewegt sich ein Festumzug bzw. ein geschlossener Verband über die Kreuzung. Was ist richtig?
++ Ich darf den Verband nicht unterbrechen und warte, bis er vorbei ist
+- Ich fahre in eine Lücke hinein
+- Ich habe Vorfahrt, wenn sie von links kommen
+= Geschlossene Verbände, Leichenzüge und Prozessionen dürfen nicht unterbrochen werden.
+! punkte=4
+
+? Wo ist das Halten verboten?
++ Auf Schutzstreifen für den Radverkehr
++ Auf markierten Sperrflächen
+- Am Fahrbahnrand einer Wohnstraße ohne Verbotsschild
+= Halten auf dem Schutzstreifen gefährdet Radfahrende, die auf die Fahrbahn ausweichen müssen.
+
+? Wo dürfen Sie nicht parken?
++ Vor einer Bordsteinabsenkung
++ Vor Grundstücksein- und -ausfahrten
+- Am rechten Fahrbahnrand einer breiten Straße ohne Verbotszeichen
+= Auf schmalen Fahrbahnen ist das Parken auch gegenüber von Einfahrten verboten.
+
+? Sie fahren in einer Einbahnstraße. Auf welcher Seite dürfen Sie halten und parken?
++ Auf der rechten und auf der linken Seite
+- Nur rechts
+- Nur links
+= In Einbahnstraßen ist das Halten und Parken auch links erlaubt, sofern keine Verbote bestehen.
+
+? Sie wollen am Fahrbahnrand parken. Was ist richtig?
++ Ich parke platzsparend, damit andere ebenfalls parken können
+- Ich lasse vorne und hinten viel Platz, damit ich bequem ausparken kann
+- Ich parke schräg, wenn ich es eilig habe
+= Platzsparendes Parken erspart anderen die Suche.
+
+? Wo dürfen Sie Ihr Fahrzeug nicht parken, damit Rettungsfahrzeuge nicht behindert werden?
++ In Feuerwehrzufahrten
+- Auf öffentlichen Parkplätzen
+- In der eigenen Garage
+= Feuerwehrzufahrten müssen jederzeit frei sein. Fahrzeuge dort werden abgeschleppt.
+
+? Sie haben einen kleinen Unfall mit Blechschaden verursacht, niemand ist verletzt. Was ist richtig?
++ Die Unfallstelle absichern und die Fahrzeuge, wenn möglich, beiseitefahren
++ Mit den anderen Beteiligten Namen, Anschrift und Versicherung austauschen
+- Ohne Weiteres weiterfahren, weil der Schaden gering ist
+= Bei geringfügigem Schaden muss der Verkehr möglichst schnell wieder fließen können. Fotos von der Unfallstelle helfen später.
+! punkte=4
+
+? Ein Polizeifahrzeug fährt vor Ihnen und zeigt die Leuchtschrift „Bitte folgen“. Was müssen Sie tun?
++ Dem Fahrzeug folgen, bis es anhält oder ein Haltzeichen gibt
+- Das Fahrzeug überholen
+- Sofort auf der Fahrbahn anhalten
+= Anweisungen der Polizei sind zu befolgen.
+
+? Dürfen Sie beim Fahren Ihr Gesicht so verdecken, dass Sie nicht mehr erkennbar sind?
++ Nein
+- Ja, bei Kälte
+- Ja, mit einer Sonnenbrille und einem Schal
+= Wer ein Kraftfahrzeug führt, darf sein Gesicht nicht so verhüllen, dass er nicht mehr erkennbar ist. Ein Schutzhelm ist erlaubt.
+
+? Was gilt für Kraftfahrzeuge, die einen Schutzstreifen für den Radverkehr (gestrichelte Linie) befahren wollen?
++ Sie dürfen ihn nur bei Bedarf überfahren, wenn Radfahrende nicht gefährdet werden
+- Sie dürfen ihn jederzeit befahren
+- Sie dürfen ihn nie überfahren
+= Der Schutzstreifen ist Teil der Fahrbahn, aber dem Radverkehr vorbehalten.
+
+? Sie wollen nach rechts abbiegen. Rechts neben Ihnen verläuft ein Schutzstreifen, auf dem eine Radfahrerin fährt. Was ist richtig?
++ Ich lasse die Radfahrerin zuerst geradeaus fahren
+- Ich biege vor ihr ab, weil ich auf der Fahrbahn bin
+- Ich halte auf dem Schutzstreifen an
+= Radverkehr, der in derselben Richtung weiterfährt, darf beim Abbiegen nicht behindert werden.
+! punkte=4
+
+? Ein Fahrzeug vor Ihnen bremst ohne erkennbaren Grund immer wieder stark ab. Was dürfen Sie selbst nicht tun?
++ Ohne zwingenden Grund stark bremsen
+- Den Abstand vergrößern
+- Vorsichtig überholen, wenn es sicher ist
+= Wer vorausfährt, darf nicht ohne zwingenden Grund stark bremsen.
+! punkte=4
+
+? Wann ist es verboten, Ihr Fahrzeug unnötig im Ort hin- und herzufahren?
++ Wenn andere dadurch belästigt werden
+- Nie, solange ich die Geschwindigkeit einhalte
+- Nur nachts
+= Unnützes Hin- und Herfahren innerhalb geschlossener Ortschaften ist verboten, wenn andere dadurch belästigt werden.
+
+? Dürfen Sie Gegenstände, z. B. eine Flasche, aus dem fahrenden Fahrzeug auf die Straße werfen?
++ Nein, das ist verboten
+- Ja, außerorts
+- Ja, wenn niemand hinter mir fährt
+= Gegenstände auf der Straße können Verkehrsteilnehmende gefährden.
+
+? Was müssen Sie tun, wenn ein Linienbus an einer Haltestelle hält und kein Warnblinklicht eingeschaltet hat?
++ Ich fahre vorsichtig vorbei und rechne mit Fahrgästen, die vor oder hinter dem Bus auf die Fahrbahn treten
+- Ich darf ohne Rücksicht vorbeifahren
+- Ich muss immer anhalten
+= Bei Warnblinklicht gilt zusätzlich Schrittgeschwindigkeit, auch im Gegenverkehr.
+! punkte=4
+
+? Was müssen Sie beim Linksabbiegen auf einer Straße mit Straßenbahnschienen in der Mitte beachten?
++ Ich achte auf Straßenbahnen von hinten und von vorn, bevor ich mich auf den Schienen einordne
+- Ich darf auf den Schienen beliebig lange warten
+- Straßenbahnen müssen auf mich warten
+= Straßenbahnen können nicht ausweichen und haben lange Bremswege.
+! punkte=4
+
+? Wie verhalten Sie sich, wenn Sie bemerken, dass Sie auf der Autobahn entgegen der Fahrtrichtung fahren?
++ Sofort Warnblinklicht einschalten, ganz rechts auf den Seitenstreifen fahren und anhalten
++ Notruf absetzen und das Fahrzeug verlassen, hinter die Schutzplanke gehen
+- Wenden und schnell zurückfahren
+= Wenden auf der Autobahn ist lebensgefährlich und verboten.
+! klassen=MOT punkte=5
+
+? Sie halten mit Ihrem Fahrzeug an einer Steigung hinter einem anderen Fahrzeug. Was ist richtig?
++ Ich halte genügend Abstand, weil das vordere Fahrzeug beim Anfahren etwas zurückrollen kann
+- Ich fahre dicht auf, damit niemand einschert
+- Ich halte auf der Gegenfahrbahn
+= Ein Abstand, bei dem ich die Hinterräder des Vordermanns noch sehe, ist ein guter Anhaltspunkt.
+! klassen=MOT
+
+? Was gilt für das Fahren auf einer Kraftfahrstraße?
++ Halten, Wenden und Rückwärtsfahren sind verboten
++ Einfahren ist nur an Kreuzungen oder Einmündungen erlaubt
+- Fahrräder dürfen sie benutzen
+= Für Kraftfahrstraßen gelten ähnliche Regeln wie für Autobahnen.
+! klassen=MOT punkte=4
+
+? Was gilt für das Parken auf dem Seitenstreifen einer Autobahn?
++ Es ist verboten
+- Es ist für kurze Pausen erlaubt
+- Es ist nachts erlaubt
+= Der Seitenstreifen darf nur in Notfällen, z. B. bei einer Panne, benutzt werden. Für Pausen gibt es Parkplätze und Rastanlagen.
+! klassen=MOT
+
+? Ein Fahrzeug will Sie überholen, aber der Gegenverkehr kommt näher. Was ist richtig?
++ Ich verringere meine Geschwindigkeit, damit der Überholende schnell wieder einscheren kann
+- Ich beschleunige, damit er nicht vorbeikommt
+- Ich fahre weiter zur Mitte
+= Wer überholt wird, darf nicht beschleunigen. Bei Gefahr hilft es, das Wiedereinscheren zu erleichtern.
+! punkte=4
+
+? An einer Ampel mit Pfeilen leuchtet für Ihren Fahrstreifen (Pfeil geradeaus) Rot, für den Fahrstreifen rechts (Pfeil rechts) Grün. Sie wollen geradeaus. Was gilt?
++ Ich muss warten, bis mein Lichtzeichen Grün zeigt
+- Ich darf über den rechten Fahrstreifen geradeaus fahren
+- Ich darf fahren, wenn frei ist
+= Lichtzeichen mit Pfeilen gelten nur für die angegebene Fahrtrichtung.
+! punkte=4
+
+? Wie verhalten Sie sich gegenüber Radfahrenden, die auf der Fahrbahn neben einem Radweg ohne Benutzungspflicht fahren?
++ Ich toleriere das, weil sie die Fahrbahn benutzen dürfen, und halte beim Überholen den vorgeschriebenen Abstand
+- Ich hupe, damit sie den Radweg benutzen
+- Ich darf sie dicht überholen
+= Nur blaue Radwegschilder schreiben die Benutzung des Radwegs vor.
+
+? Sie fahren mit dem Fahrrad. Wann müssen Sie einen Radweg benutzen?
++ Wenn er mit einem blauen Radwegzeichen gekennzeichnet ist und benutzbar ist
+- Immer, wenn ein Radweg vorhanden ist
+- Nie, Radfahrende dürfen immer auf der Fahrbahn fahren
+= Andere rechte Radwege ohne Zeichen dürfen benutzt werden, müssen aber nicht.
+
+? Was gilt für E-Scooter (Elektrokleinstfahrzeuge) beim Abbiegen und in Kreuzungen?
++ Sie müssen ein Abbiegen wie Radfahrende anzeigen und gelten für die Vorfahrt als Fahrzeuge
+- Sie dürfen wie zu Fuß Gehende den Fußgängerüberweg benutzen
+- Sie haben immer Vorrang
+= Für E-Scooter gelten weitgehend die Regeln für Radfahrende.
+! punkte=4
+
+? Sie nähern sich einer Fußgängerampel, die Rot zeigt, aber niemand ist zu sehen. Was gilt?
++ Ich muss trotzdem anhalten
+- Ich darf fahren, wenn niemand wartet
+- Ich darf langsam weiterfahren
+= Rot bedeutet immer: Halt vor der Kreuzung bzw. dem Lichtzeichen.
+
+? Die Ampel zeigt Grün, aber vor Ihnen läuft noch eine Fußgängerin bei Rot über die Fahrbahn. Was ist richtig?
++ Ich lasse sie die Fahrbahn verlassen und fahre erst dann
+- Ich fahre los, weil ich Grün habe
+- Ich hupe und fahre langsam auf sie zu
+= Auch bei Grün darf ich niemanden gefährden.
+! punkte=4
+
+? Sie wollen in einer engen Straße rückwärts einparken. Ein Radfahrer nähert sich von hinten. Was ist richtig?
++ Ich warte, bis er vorbeigefahren ist
+- Ich setze zurück, er muss bremsen
+- Ich hupe, damit er anhält
+= Beim Rückwärtsfahren muss eine Gefährdung anderer ausgeschlossen sein.
+! punkte=4
+
+? Darf ein Kraftfahrzeug auf einem Gehweg fahren, um zu einem Grundstück zu gelangen?
++ Ja, aber nur, um den Gehweg zu überqueren, und mit besonderer Vorsicht
+- Ja, auch längere Strecken
+- Nein, niemals
+= Zu Fuß Gehende auf dem Gehweg haben dabei Vorrang.
+
+? Wann müssen Sie mit Ihrem Fahrzeug eine Gasse für einen Rettungswagen freihalten, der von vorn auf Ihrer Straßenseite kommt?
++ Sofort, indem ich nach rechts ausweiche und notfalls anhalte
+- Erst wenn er hupt
+- Gar nicht, er muss auf seiner Seite bleiben
+= Einsatzfahrzeuge mit Blaulicht und Einsatzhorn dürfen auch die Gegenfahrbahn benutzen; ihnen ist sofort freie Bahn zu schaffen.
+! punkte=4
+
+? Sie werden von der Polizei angehalten. Welche Dokumente müssen Sie auf Verlangen aushändigen?
++ Den Führerschein bzw. die Prüfbescheinigung für Mofas
++ Die Zulassungsbescheinigung Teil I, sofern für das Fahrzeug vorgeschrieben
+- Den Kaufvertrag des Fahrzeugs
+= Wer ein Fahrzeug führt, muss diese Dokumente mitführen.
+
+? Was gilt für Kraftfahrzeuge in einer Fahrradzone?
++ Sie dürfen dort nur fahren, wenn es durch Zusatzzeichen erlaubt ist, und höchstens 30 km/h
++ Radfahrende dürfen weder gefährdet noch behindert werden
+- Sie haben dort Vorrang vor Radfahrenden
+= In Fahrradzonen dürfen Radfahrende auch nebeneinander fahren.
+# zeichen 244.3
+! punkte=4
+
+? Sie haben eine Panne auf einer Landstraße. In welcher Entfernung sollten Sie das Warndreieck in der Regel aufstellen?
+N 100 m
+= Innerorts genügen etwa 50 m, auf Autobahnen sollten es etwa 200 m sein. Vor Kurven und Kuppen entsprechend früher.
+! zahl klassen=MOT punkte=4
+
+? Sie fahren nachts auf einer Straße mit durchgehender Beleuchtung innerorts. Welches Licht verwenden Sie?
++ Abblendlicht
+- Standlicht
+- Fernlicht
+= Mit Standlicht allein darf nicht gefahren werden.
+
+? Ein Fahrzeug mit dem Kennzeichen eines Fahrschulwagens fährt vor Ihnen sehr langsam an. Was ist richtig?
++ Ich habe Geduld und halte Abstand
+- Ich hupe und dränge
+- Ich überhole auf jeden Fall sofort
+= Fahrschülerinnen und Fahrschüler brauchen mehr Zeit. Auch ich habe einmal so angefangen.
+
+? Ein älterer Fahrer fährt vor Ihnen deutlich langsamer als erlaubt. Was ist richtig?
++ Ich bleibe geduldig und überhole nur, wenn es gefahrlos möglich ist
+- Ich fahre dicht auf, um ihn zu einer höheren Geschwindigkeit zu bewegen
+- Ich betätige die Lichthupe
+= Drängeln ist gefährlich und kann als Nötigung strafbar sein.
+
+? Dürfen Sie andere Verkehrsteilnehmer durch Ausbremsen zur Rede stellen?
++ Nein, das ist gefährlich und kann als Nötigung oder gefährlicher Eingriff strafbar sein
+- Ja, wenn der andere sich falsch verhalten hat
+- Ja, auf der Landstraße
+= Ärger rechtfertigt nie eine Gefährdung.
+! punkte=4
+
+? Was ist bei einem Rettungshubschrauber, der auf einer Landstraße landet, zu beachten?
++ Ich halte in ausreichender Entfernung an und folge den Anweisungen der Einsatzkräfte
+- Ich fahre zügig unter ihm durch
+- Ich fahre nah heran, um zu helfen
+= Der Rotorabwind kann Gegenstände aufwirbeln.
+
+? Wann dürfen Sie Nebelscheinwerfer einschalten?
++ Wenn Nebel, Schneefall oder Regen die Sicht erheblich behindern
+- Immer nachts auf Landstraßen
+- Wenn ich besser gesehen werden möchte
+= Bei guter Sicht blenden Nebelscheinwerfer andere unnötig.
+! klassen=MOT
+
+? Sie liefern Waren in eine Fußgängerzone, die für den Lieferverkehr freigegeben ist. Wie fahren Sie?
++ Mit Schrittgeschwindigkeit und mit Rücksicht auf zu Fuß Gehende
+- Mit höchstens 30 km/h
+- Zügig, damit ich niemanden lange störe
+= Zu Fuß Gehende dürfen weder gefährdet noch behindert werden; wenn nötig, muss ich warten.
+! klassen=MOT
+
+? Sie haben auf der Autobahn eine Panne und suchen die nächste Notrufsäule. Was hilft Ihnen?
++ Die kleinen Pfeile auf den Leitpfosten zeigen die Richtung zur nächsten Notrufsäule
+- Die Notrufsäulen stehen nur an Ausfahrten
+- Die Fahrbahnmarkierung zeigt die Richtung
+= Notrufsäulen übermitteln den Standort automatisch. Beim Gehen hinter der Schutzplanke bleiben.
+! klassen=MOT punkte=4
+
+? Der Verkehr in einem Tunnel staut sich und kommt zum Stehen. Was ist richtig?
++ Warnblinklicht einschalten und großen Abstand zum Vorausfahrenden halten
++ Bei längerem Stillstand den Motor abstellen
+- Dicht auffahren, damit mehr Fahrzeuge in den Tunnel passen
+= Der Abstand erleichtert im Notfall das Wenden von Einsatzfahrzeugen und das Verlassen des Tunnels.
+! klassen=MOT
+
+? Ein langes Fahrzeug kann im Kreisverkehr nur abbiegen, wenn es die Mittelinsel überfährt. Was gilt?
++ Es darf die Mittelinsel überfahren, andere Fahrzeuge dürfen das nicht
+- Kein Fahrzeug darf die Mittelinsel überfahren
+- Alle Fahrzeuge dürfen die Mittelinsel nutzen
+= Die überfahrbare Mittelinsel ist nur für Fahrzeuge gedacht, denen das Befahren sonst nicht möglich wäre.
+
+? Sie fahren mit einem langsamen Fahrzeug, hinter dem sich eine Schlange gebildet hat, die nicht überholen kann. Was müssen Sie tun?
++ An geeigneter Stelle die Geschwindigkeit verringern oder notfalls kurz warten, damit die Folgenden überholen können
+- Nichts, die anderen müssen sich gedulden
+- Schneller fahren als erlaubt
+= Diese Pflicht gilt, wenn mehreren unmittelbar folgenden Fahrzeugen das Überholen nur so möglich ist.
+! punkte=4
+
+? Eine Ampel zeigt Rot. Eine Haltlinie ist nicht vorhanden. Wo halten Sie an?
++ Vor der Ampel bzw. vor der Kreuzung
+- Mitten auf der Kreuzung
+- Auf dem Fußgängerüberweg
+= Eine vorhandene Haltlinie gibt den Haltepunkt vor; ohne Haltlinie halte ich vor dem Lichtzeichen.
+
+? Sie überholen innerorts einen langsamen Lieferwagen. Wie schnell dürfen Sie dabei höchstens fahren?
++ So schnell, wie es hier erlaubt ist, also in der Regel höchstens 50 km/h
+- Bis zu 20 km/h schneller als erlaubt
+- So schnell wie nötig, um rasch vorbeizukommen
+= Höchstgeschwindigkeiten gelten auch beim Überholen. Reicht das nicht aus, wird nicht überholt.
+! klassen=MOT
+
+
+? Ein siebenjähriges Kind fährt mit dem Fahrrad auf dem Gehweg. Wer darf es dort mit dem Fahrrad begleiten?
++ Eine geeignete Aufsichtsperson ab 16 Jahren
+- Niemand, Erwachsene müssen auf der Fahrbahn fahren
+- Nur Personen mit Führerschein
+= Kinder bis zum vollendeten 8. Lebensjahr müssen, ältere Kinder bis 10 Jahre dürfen den Gehweg benutzen.
+
+? Ein Polizist am Fahrbahnrand gibt Ihnen mit einer Kelle ein Haltzeichen. Was tun Sie?
++ Ich halte an einer geeigneten Stelle an, wie angezeigt
+- Ich fahre weiter, weil keine Ampel da ist
+- Ich halte sofort mitten auf der Fahrbahn an, ohne auf den Verkehr zu achten
+= Weisungen von Polizeibeamten sind zu befolgen und gehen anderen Regeln vor.

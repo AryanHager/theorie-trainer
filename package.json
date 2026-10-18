@@ -1,0 +1,32 @@
+{
+  "name": "theorie-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build && node scripts/komprimieren.mjs",
+    "lint": "oxlint",
+    "preview": "node scripts/serve.mjs --port 4173",
+    "katalog": "node scripts/signs-pflege.mjs && svgo -r -f public/signs/eigen --config svgo.config.mjs --quiet && node scripts/build-filme.mjs && node scripts/build-katalog.mjs && node scripts/validate.mjs && node scripts/split-katalog.mjs && node scripts/medien-liste.mjs",
+    "validate": "node scripts/validate.mjs",
+    "zeichen-optimieren": "svgo -r -f public/signs --config svgo.config.mjs --quiet",
+    "preview:vite": "vite preview",
+    "vorlage-check": "node scripts/vorlage-check.mjs"
+  },
+  "dependencies": {
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  },
+  "devDependencies": {
+    "@types/node": "^24.13.3",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.7",
+    "@vitejs/plugin-react": "^6.1.1",
+    "oxlint": "^1.81.0",
+    "playwright": "^1.64.1",
+    "svgo": "^4.1.0",
+    "typescript": "~6.0.2",
+    "vite": "^8.3.0"
+  }
+}

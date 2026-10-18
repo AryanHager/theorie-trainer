@@ -1,0 +1,426 @@
+// Phase 3 – Verständnis- und Situationsfragen für C1, C, CE, D1, D (keine Zahlenfragen) – eigene Formulierungen
+// Quellen: StVO §§ 5 Abs. 4, 16 Abs. 2, 18 Abs. 8, 19 Abs. 3, 22, 23; HGB § 412; StVZO § 31; allgemeines fahrzeugtechnisches Wissen
+
+@klassen CD
+
+@kapitel 2.1
+
+@punkte 5
+
+? Sie warten mit Ihrem Lkw oder Bus an einer roten Ampel und wollen gleich rechts abbiegen. Während der Wartezeit kann sich rechts neben Ihnen ein Radfahrer eingereiht haben. Was tun Sie, bevor Sie anfahren?
++ Ich kontrolliere unmittelbar vor dem Anfahren noch einmal Seiten-, Weitwinkel- und Rampenspiegel
++ Ist die Lage unklar, warte ich, bis ich sicher bin, dass niemand neben mir steht
+- Ich verlasse mich auf meinen Blick beim Heranfahren an die Ampel
+= Während der Rotphase kann sich die Situation neben dem Fahrzeug vollständig ändern. Unmittelbar vor dem Anfahren müssen alle Spiegel erneut kontrolliert werden; im Zweifel gilt: warten.
+
+? Sie stehen mit einem Fahrzeug mit hoher Frontpartie an einem Fußgängerüberweg. Warum müssen Sie vor dem Anfahren besonders auf den Bereich direkt vor dem Fahrzeug achten?
++ Kleine Kinder können unmittelbar vor der Front vollständig verdeckt sein
++ Der Bereich ist nur über den Frontspiegel oder eine Kamera einsehbar
+- Weil Fußgänger dort immer warten müssen, bis ich losgefahren bin
+= Direkt vor einer hohen Fahrzeugfront entsteht ein Sichtschatten. Prüfen Sie diesen Bereich mit Frontspiegel oder Kamera, bevor Sie anfahren.
+
+@punkte 4
+
+? Sie wollen mit Ihrem schweren Fahrzeug auf der Autobahn nach rechts auf den Hauptfahrstreifen zurückwechseln. Wie gehen Sie vor?
++ Rechtzeitig blinken und die rechten Spiegel mehrfach beobachten
++ Langsam hinüberziehen, damit ein übersehenes Fahrzeug noch reagieren kann
+- Zügig hinüberlenken, damit der Wechsel möglichst kurz dauert
+= Neben einem langen Fahrzeug können Pkw lange im Sichtschatten bleiben. Ein ruhiger, langsamer Fahrstreifenwechsel gibt Ihnen und anderen Zeit zu reagieren.
+
+? Sie überholen mit Ihrem Lkw oder Bus innerorts eine Radfahrerin. Was ist richtig?
++ Ich halte mindestens 1,5 m Seitenabstand ein
++ Ich rechne damit, dass der Luftstrom meines Fahrzeugs die Radfahrerin ins Schwanken bringen kann
+- Ein halber Meter genügt, wenn ich langsam fahre
+= Innerorts ist beim Überholen von Rad Fahrenden ein Seitenabstand von mindestens 1,5 m vorgeschrieben, außerorts mindestens 2 m (StVO § 5 Abs. 4). Große Fahrzeuge erzeugen zusätzlich eine spürbare Druck- und Sogwirkung.
+
+? Es regnet stark. Sie fahren mit Ihrem schweren Fahrzeug auf der Autobahn und wollen einen Pkw überholen. Woran denken Sie?
++ Die Gischt meiner Räder kann dem Pkw-Fahrer für einen Moment die Sicht nehmen
++ Ich überhole nur, wenn ich zügig und mit großem Seitenabstand vorbeikomme
+- Bei Regen behindert Sprühwasser nur den, der vorausfährt
+= Große Fahrzeuge wirbeln bei Nässe viel Sprühwasser auf. Für Überholte kann das kurzzeitig wie eine Nebelwand wirken.
+
+? Ein Einweiser hilft Ihnen beim Rangieren auf einem engen Betriebshof. Plötzlich können Sie ihn in keinem Spiegel mehr sehen. Was tun Sie?
++ Ich halte sofort an
++ Ich fahre erst weiter, wenn ich den Einweiser wieder sehe und wir uns verständigt haben
+- Ich fahre langsam weiter, weil er mich ja einweist
+= Wer einweist, muss jederzeit sichtbar bleiben. Verschwindet der Einweiser aus dem Blickfeld, könnte er selbst im Gefahrenbereich stehen.
+
+? Sie nähern sich mit Ihrem langen Fahrzeug einem Bahnübergang. Hinter den Gleisen staut sich der Verkehr. Wie verhalten Sie sich?
++ Ich warte vor dem Andreaskreuz, bis hinter dem Bahnübergang Platz für mein ganzes Fahrzeug ist
+- Ich fahre schon auf die Gleise, damit ich keine Lücke lasse
+- Ich halte mit dem Heck über den Schienen, weil das Fahrzeug ohnehin nur kurz steht
+= Kann ein Bahnübergang nicht zügig und ohne Aufenthalt überquert werden, ist vor dem Andreaskreuz zu warten (StVO § 19 Abs. 3). Ein langes Fahrzeug braucht hinter den Gleisen besonders viel Platz.
+
+? Auf einer schmalen Landstraße kommt Ihnen ein anderes großes Fahrzeug entgegen. Wie verhalten Sie sich?
++ Ich verringere früh die Geschwindigkeit und halte notfalls an einer breiteren Stelle an
++ Ich achte auf meine Außenspiegel und den Fahrbahnrand
+- Ich fahre mit unverminderter Geschwindigkeit, weil der andere ausweichen muss
+= Bei Begegnungen großer Fahrzeuge zählt jeder Zentimeter. Wer langsam fährt und vorausschauend eine breite Stelle nutzt, vermeidet Spiegelkontakt und das Abrutschen am Bankett.
+
+? Nachts fallen Ihnen am Steuer kurz die Augen zu. Was ist jetzt richtig?
++ Ich fahre auf dem nächsten geeigneten Parkplatz ab und lege eine Schlafpause ein
+- Ich öffne das Fenster, drehe die Musik laut und fahre weiter
+- Ich fahre schneller, um früher am Ziel zu sein
+= Ein kurzes Zufallen der Augen ist ein deutliches Warnsignal für Sekundenschlaf. Frische Luft oder Musik helfen nur Augenblicke – sicher hilft nur Schlaf.
+
+@punkte 3
+
+? Sie fahren auf der Autobahn auf ein Stauende zu. Was ist sinnvoll?
++ Ich schalte das Warnblinklicht ein, um Nachfolgende zu warnen
++ Ich beobachte im Spiegel, ob der nachfolgende Verkehr rechtzeitig bremst
+- Ich fahre dicht auf, damit niemand vor mir einschert
+= Bei der Annäherung an einen Stau ist Warnblinklicht ausdrücklich erlaubt (StVO § 16 Abs. 2). Ein schweres Fahrzeug braucht zudem viel Platz zum Anhalten.
+
+@kapitel 2.2
+
+@punkte 4
+
+? Sie fahren mit einem Fahrzeug mit langem Hecküberhang vom rechten Fahrbahnrand an und lenken dabei stark nach links. Was müssen Sie beachten?
++ Das Heck schwenkt dabei nach rechts aus, z. B. über Gehweg oder Radweg
++ Ich beobachte den rechten Spiegel während des Einlenkens
+- Beim Linkslenken bewegt sich das ganze Fahrzeug nach links, rechts ist nichts zu beachten
+= Je länger der Überhang hinter der letzten Achse, desto weiter schwenkt das Heck beim Einlenken zur Gegenseite aus. Wer daneben steht, kann getroffen werden.
+
+? Sie wollen mit Ihrem langen Fahrzeug an einer Kreuzung nach links abbiegen. Was ist richtig?
++ Ich fahre weit genug in die Kreuzung ein, damit die Hinterachse nicht über die Ecke schneidet
++ Ich beobachte Fahrzeuge, die neben mir oder links vor mir warten
+- Ich biege so eng wie möglich ab, um den Gegenverkehr nicht zu stören
+= Die Hinterräder eines langen Fahrzeugs laufen auf einem engeren Bogen als die Vorderräder. Wer zu früh einlenkt, überfährt Inseln oder gefährdet wartende Verkehrsteilnehmer.
+
+? Sie suchen nachts für Ihre Ruhezeit einen Platz an der Autobahn. Der Rastplatz ist voll. Was dürfen Sie nicht?
++ Mein Fahrzeug auf dem Seitenstreifen oder in der Ausfahrt abstellen
+- Zum nächsten Rastplatz oder Autohof weiterfahren
+- Meine Fahrt künftig so planen, dass ich früher einen Platz suche
+= Auf Autobahnen ist Halten verboten, auch auf Seitenstreifen (StVO § 18 Abs. 8). Abgestellte Fahrzeuge in Ein- und Ausfahrten sind zudem eine erhebliche Unfallgefahr.
+
+@punkte 3
+
+? Sie geraten durch eine Verspätung unter Zeitdruck. Was ist richtig?
++ Ich informiere den Disponenten bzw. die Leitstelle über die Verspätung
++ Ich halte meine Lenk- und Ruhezeiten trotzdem ein
+- Ich hole die Zeit durch schnelleres Fahren wieder auf
+= Termindruck ist keine Rechtfertigung für zu schnelles Fahren oder kürzere Pausen. Rechtzeitige Information hilft, den Ablauf neu zu planen.
+
+@kapitel 2.7
+
+@punkte 4
+
+? Sie wollen mit einem Fahrzeug mit Druckluftbremse losfahren. Der Vorratsdruck ist nach längerem Stand gesunken. Was tun Sie?
++ Ich lasse den Motor laufen, bis ausreichend Druck aufgebaut ist und die Warnung erlischt
+- Ich fahre sofort los, der Druck baut sich während der Fahrt auf
+- Ich löse die Feststellbremse mehrmals, damit sich der Druck schneller aufbaut
+= Ohne ausreichenden Vorratsdruck ist die Bremswirkung nicht gewährleistet, und Federspeicherbremsen lösen sich unter Umständen nicht. Erst losfahren, wenn genügend Druck vorhanden ist.
+
+? Was geschieht bei einer Federspeicher-Feststellbremse, wenn der Druck im Federspeicherkreis vollständig entweicht?
++ Die Federn legen die Bremse ein
+- Die Bremse löst sich und das Fahrzeug rollt
+- Es geschieht nichts, die Feststellbremse arbeitet ohne Druckluft
+= Bei Federspeichern hält Druckluft die Feder gespannt und damit die Bremse gelöst. Entweicht die Luft, drückt die Federkraft die Bremse an.
+
+? Ihr Fahrzeug hat Zwillingsbereifung. Was prüfen Sie bei der Abfahrtkontrolle?
++ Ob sich Steine oder andere Fremdkörper zwischen den Reifen eingeklemmt haben
++ Den Zustand und den Luftdruck beider Reifen eines Zwillingspaars
+- Nur den äußeren Reifen, der innere wird vom äußeren geschützt
+= Eingeklemmte Steine können die Reifen beschädigen oder bei höherer Geschwindigkeit herausgeschleudert werden. Ein zu weicher Innenreifen fällt oft erst spät auf.
+
+? Nach einem Radwechsel an Ihrem schweren Fahrzeug fahren Sie weiter. Was ist richtig?
++ Ich prüfe nach kurzer Fahrstrecke, ob die Radmuttern noch mit dem vorgeschriebenen Anzugsmoment festsitzen
+- Einmal angezogen, müssen Radmuttern nie wieder kontrolliert werden
+- Ich ziehe die Muttern so fest wie möglich an, dann kann nichts passieren
+= Nach einem Radwechsel können sich die Verbindungen setzen. Das Nachziehen mit dem vom Hersteller vorgeschriebenen Anzugsmoment verhindert, dass sich ein Rad lockert; zu festes Anziehen kann Bolzen schädigen.
+
+? Ihr Fahrzeug hat einen Abbiegeassistenten. Was gilt?
++ Er kann vor Radfahrern und Fußgängern im Sichtschatten warnen
++ Spiegelblick und Aufmerksamkeit bleiben trotzdem Pflicht
+- Mit Abbiegeassistent darf ich schneller rechts abbiegen
+= Assistenzsysteme unterstützen, nehmen Ihnen die Verantwortung aber nicht ab. Sensoren können verschmutzt sein oder eine Situation falsch einschätzen.
+
+? Ihr Fahrzeug hat einen Notbremsassistenten. Was ist richtig?
++ Er kann einen Auffahrunfall verhindern oder abmildern, ersetzt aber keinen ausreichenden Abstand
+- Mit Notbremsassistent darf ich dichter auffahren
+- Der Assistent bremst immer rechtzeitig, deshalb muss ich nicht selbst bremsen
+= Notbremsassistenten greifen erst in letzter Sekunde ein und funktionieren nicht in jeder Lage. Abstand und Aufmerksamkeit bleiben Ihre Aufgabe.
+
+? Sie fahren mit einem Fahrzeug mit Retarder auf glatter Fahrbahn. Worauf achten Sie?
++ Eine stark wirkende Dauerbremse kann die Antriebsräder zum Blockieren bringen
++ Ich setze die Dauerbremse bei Glätte nur gefühlvoll ein oder schalte sie ab
+- Bei Glätte sollte die Dauerbremse immer auf höchster Stufe stehen
+= Viele Dauerbremsen wirken nur auf die Antriebsachse. Bei geringer Haftung kann das Fahrzeug dadurch ausbrechen.
+
+@punkte 3
+
+? Was gehört zu einer gründlichen Abfahrtkontrolle bei einem Lkw oder Bus?
++ Beleuchtung, Reifen und Bremsanlage prüfen
++ Flüssigkeitsstände und sichtbare Undichtigkeiten kontrollieren
+- Nur den Kraftstoffstand ablesen
+= Vor Fahrtantritt müssen Sie sich vergewissern, dass das Fahrzeug vorschriftsmäßig ist (StVO § 23 Abs. 1). Eine feste Reihenfolge beim Rundgang hilft, nichts zu vergessen.
+
+? Ihr Fahrzeug hat einen Tank für Harnstofflösung (z. B. AdBlue). Wozu dient sie?
++ Sie verringert im Abgassystem den Ausstoß von Stickoxiden
+- Sie verbessert die Schmierung des Motors
+- Sie verhindert das Einfrieren des Kraftstoffs
+= Im SCR-Katalysator wandelt die Harnstofflösung Stickoxide größtenteils in Stickstoff und Wasser um. Ist der Tank leer, kann die Motorsteuerung die Leistung begrenzen.
+! kapitel=2.5
+
+@kapitel 2.8
+
+@punkte 3
+
+? Wie nutzen Sie eine Fahrtunterbrechung so, dass Sie danach wieder aufmerksam sind?
++ Ich bewege mich an der frischen Luft
++ Ich esse eher leicht und trinke ausreichend Wasser
+- Ich bleibe im Fahrerhaus sitzen und erledige Papierkram
+= Eine Pause wirkt am besten, wenn Sie sich bewegen und den Kopf frei bekommen. Schwere Mahlzeiten machen müde.
+
+? Ein Kollege bittet Sie, für ihn eine Tour zu übernehmen, obwohl Ihre tägliche Ruhezeit noch nicht vorbei ist. Was tun Sie?
++ Ich lehne ab, bis meine Ruhezeit vollständig eingehalten ist
+- Ich übernehme die Tour, wenn ich mich fit fühle
+- Ich übernehme die Tour und trage die Zeit später nach
+= Ruhezeiten sind einzuhalten, auch wenn man sich ausgeruht fühlt. Wer übermüdet fährt, gefährdet sich und andere.
+
+@klassen LKW
+
+@kapitel 2.7
+
+@punkte 4
+
+? Sie laden schwere und leichte Kisten auf Ihren Lkw. Wie gehen Sie vor?
++ Schwere Stücke unten und möglichst nahe der Fahrzeugmitte
++ Die Ladung möglichst lückenlos an die Stirnwand stellen
+- Leichte Stücke unten, damit die schweren oben besser zu sehen sind
+= Ein tiefer Schwerpunkt verbessert die Kippstabilität. Lückenloses Laden an die Stirnwand sichert die Ladung zusätzlich nach vorn.
+
+? Ihr Lkw hat einen Planenaufbau ohne besondere Verstärkung. Darf die Plane als Ladungssicherung dienen?
++ Nein, eine normale Plane schützt vor Witterung, hält die Ladung aber nicht zurück
+- Ja, die Plane ist stabil genug für jede Ladung
+- Ja, wenn die Plane straff gespannt ist
+= Nur entsprechend ausgelegte und gekennzeichnete Aufbauten dürfen in die Ladungssicherung einbezogen werden. Eine einfache Plane gibt bei einer Vollbremsung nach.
+
+? Sie arbeiten mit dem Ladekran Ihres Lkw. Was ist zu beachten?
++ Die Abstützungen vollständig ausfahren und auf tragfähigen Untergrund stellen
++ Auf Freileitungen und Personen im Schwenkbereich achten
+- Abstützungen sind nur bei schweren Lasten nötig
+= Ohne Abstützung kann der Lkw beim Schwenken umkippen. Berührt der Kran eine Stromleitung, besteht Lebensgefahr.
+
+? Wann setzen Sie die Differenzialsperre Ihres Lkw ein?
++ Zum Anfahren auf rutschigem Untergrund bei geringer Geschwindigkeit
++ Danach schalte ich sie wieder aus, weil sie das Lenken erschwert
+- Dauerhaft auf der Autobahn, damit der Lkw ruhiger läuft
+= Die Sperre verhindert, dass ein einzelnes Rad durchdreht. In Kurven und bei höherer Geschwindigkeit beeinträchtigt sie jedoch das Lenkverhalten und belastet den Antrieb.
+
+? Sie setzen eine Wechselbrücke ab. Worauf achten Sie?
++ Auf ebenen und tragfähigen Untergrund
++ Die Stützbeine richtig einstellen und sichern, bevor ich darunter herausfahre
+- Der Untergrund ist egal, weil die Stützbeine das Gewicht verteilen
+= Auf weichem oder schrägem Untergrund können Stützbeine einsinken und die Brücke kann kippen.
+
+@kapitel 2.1
+
+@punkte 4
+
+? Sie fahren mit Ihrem Lkw im Winter eine Steigung hinauf, und die Antriebsräder beginnen durchzudrehen. Was hilft?
++ Gefühlvoll Gas geben und in einem höheren Gang anfahren
++ Rechtzeitig, also vor der Steigung, Schneeketten auflegen, wenn nötig
+- Kräftig Gas geben, damit die Räder sich durch den Schnee arbeiten
+= Durchdrehende Räder verlieren noch mehr Haftung. Ketten legt man vor der kritischen Stelle auf, nicht erst, wenn das Fahrzeug steht.
+
+? Sie fahren einen leeren Kofferaufbau-Lkw über eine Brücke, auf der Windsack und Schild vor Seitenwind warnen. Wie verhalten Sie sich?
++ Ich fahre langsamer und halte das Lenkrad fest
++ Ich rechne mit einer plötzlichen Windböe am Brückenende
+- Ich fahre schneller, damit ich weniger lange dem Wind ausgesetzt bin
+= Große Seitenflächen bieten dem Wind viel Angriffsfläche, besonders wenn das Fahrzeug leer ist. Böen treten an Brücken, Waldschneisen und Einschnitten plötzlich auf.
+
+@klassen CE
+
+@kapitel 2.7
+
+@punkte 4
+
+? Sie kuppeln einen Anhänger mit ABS bzw. EBS an. Was müssen Sie zusätzlich zu den Druckluftleitungen verbinden?
++ Die elektrische Steckverbindung für das Bremssystem des Anhängers
+- Nichts, ABS arbeitet im Anhänger mechanisch
+- Nur die Beleuchtungssteckdose
+= Das Anhänger-ABS bzw. -EBS braucht eine eigene Strom- und Datenverbindung. Fehlt sie, warnt in der Regel eine Kontrollleuchte, und die Blockierverhinderung fehlt.
+
+? Warum ist bei einem Zentralachsanhänger die richtige Stützlast wichtig?
++ Zu wenig Stützlast kann das Gespann instabil machen und zum Pendeln führen
++ Zu viel Stützlast überlastet die Anhängekupplung und die Hinterachse des Zugfahrzeugs
+- Die Stützlast spielt nur beim Abstellen eine Rolle
+= Beim Zentralachsanhänger liegt die Achse nahe der Mitte. Wie die Ladung verteilt ist, bestimmt deshalb unmittelbar die Last auf der Kupplung.
+
+@kapitel 2.1
+
+@punkte 4
+
+? Sie wollen mit einem Sattelzug rückwärts nach links in eine Einfahrt fahren. Wie lenken Sie zu Beginn?
++ Zunächst entgegengesetzt, damit der Auflieger nach links einschwenkt
+- Sofort nach links, wie bei einem Einzelfahrzeug
+- Gar nicht, der Auflieger folgt von selbst
+= Bei Gelenkfahrzeugen muss das Zugfahrzeug zuerst so eingelenkt werden, dass der Auflieger in die gewünschte Richtung abknickt. Danach „folgt“ man dem Auflieger.
+
+? Sie fahren mit einem Lastzug durch eine enge Rechtskurve. Was ist zu beachten?
++ Der Anhänger läuft auf einer engeren Bahn als das Zugfahrzeug
++ Ich hole weit genug aus, ohne den Gegenverkehr zu gefährden
+- Der Anhänger folgt exakt der Spur des Zugfahrzeugs
+= Je mehr Gelenkpunkte und Achsen, desto stärker schneidet der Anhänger die Kurve. Bordsteine, Ampelmasten und wartende Radfahrende sind besonders gefährdet.
+
+@klassen BUS
+
+@kapitel 2.2
+
+@punkte 4
+
+? Ein Fahrgast stellt einen Kinderwagen im Bus ab. Was ist richtig?
++ Der Kinderwagen gehört auf die dafür vorgesehene Fläche und muss gegen Wegrollen gesichert sein
+- Der Kinderwagen darf im Mittelgang stehen, wenn er gebremst ist
+- Kinderwagen dürfen in Bussen nie mitgenommen werden
+= Ein rollender Kinderwagen ist für Kind und Fahrgäste gefährlich. Der Gang muss frei bleiben, damit niemand stolpert und Notausstiege erreichbar sind.
+
+? Ein betrunkener Fahrgast belästigt andere Fahrgäste während der Fahrt. Wie reagieren Sie?
++ Ich bleibe ruhig und halte bei Bedarf an einer sicheren Stelle an
++ Ich verständige die Leitstelle oder die Polizei, wenn die Lage eskaliert
+- Ich fahre ruckartig, damit der Fahrgast sich hinsetzt
+= Ihre Hauptaufgabe ist das sichere Führen des Busses. Konflikte sollten Sie nicht während der Fahrt austragen – Hilfe von außen ist besser.
+
+? Sie beladen den Gepäckraum Ihres Reisebusses. Was ist richtig?
++ Schwere Gepäckstücke nach unten, leichte nach oben
++ Vor der Abfahrt prüfe ich, ob alle Gepäckklappen verriegelt sind
+- Die Klappen kann ich offen lassen, wenn der Gepäckraum voll ist
+= Eine sich während der Fahrt öffnende Klappe kann andere Verkehrsteilnehmer treffen. Schwere Koffer unten verhindern, dass Gepäck verrutscht und Stücke beschädigt werden.
+
+@kapitel 2.7
+
+@punkte 3
+
+? Ihr Bus hat eine Absenkfunktion (Kneeling) zum leichteren Einsteigen. Was beachten Sie?
++ Ich hebe das Fahrzeug vor dem Losfahren wieder auf normale Höhe an
+- Ich kann abgesenkt beliebig weit fahren
+- Die Funktion darf nur an Haltestellen ohne Bordstein benutzt werden
+= Im abgesenkten Zustand ist die Bodenfreiheit verringert. Moderne Busse verhindern oft ein Losfahren, verlassen sollten Sie sich darauf aber nicht.
+
+? Sie fahren nachts mit Fahrgästen. Wie stellen Sie die Innenbeleuchtung ein?
++ Gedämpft, damit sie sich nicht störend in der Frontscheibe spiegelt
+- Möglichst hell, damit ich alle Fahrgäste gut sehe
+- Ganz aus, auch beim Ein- und Aussteigen
+= Spiegelungen in der Scheibe verschlechtern die Sicht nach vorn erheblich. Zum Ein- und Aussteigen muss der Türbereich aber ausreichend beleuchtet sein.
+
+@kapitel 2.1
+
+@punkte 5
+
+? Ihr vollbesetzter Bus mit stehenden Fahrgästen nähert sich einer Ampel, die auf Gelb umschaltet. Wie entscheiden Sie?
++ Ich bremse nur so stark, wie es die Lage erfordert und die Fahrgäste es aushalten
++ Ich schaue weit voraus, um Ampelwechsel früh zu erkennen
+- Ich bremse grundsätzlich voll, egal wie dicht ich an der Ampel bin
+= Wer früh erkennt, wann ein Ampelwechsel kommt, kann sanft bremsen. Bei Gelb ist anzuhalten, wenn das gefahrlos möglich ist – für stehende Fahrgäste ist eine abrupte Bremsung gefährlich.
+
+? Ihr Reisebus hatte auf der Autobahn eine Panne und steht auf dem Seitenstreifen. Wie bringen Sie die Fahrgäste in Sicherheit?
++ Fahrgäste auf der dem Verkehr abgewandten Seite aussteigen lassen und hinter die Schutzplanke führen
++ Warnblinklicht einschalten und die Pannenstelle absichern
+- Die Fahrgäste im Bus warten lassen, weil es dort am sichersten ist
+= Ein stehender Bus auf dem Seitenstreifen kann von einem auffahrenden Fahrzeug getroffen werden. Hinter der Schutzplanke sind die Fahrgäste deutlich sicherer.
+
+@punkte 4
+
+? Sie fahren einen Doppeldeckbus auf einer Strecke, die Sie nicht kennen. Was müssen Sie besonders beachten?
++ Ich kenne die Höhe meines Fahrzeugs und achte auf Höhenbegrenzungen
++ Ich rechne mit tief hängenden Ästen und Brücken
+- Doppeldeckbusse sind niedrig genug für jede Unterführung
+= Ein Doppeldeckbus ist deutlich höher als ein normaler Bus. Wer Höhenbeschränkungen übersieht, gefährdet vor allem die Fahrgäste im Oberdeck.
+
+// Ergänzung: weitere Verständnisfragen (StVO Anlage 2 Zeichen 239 Nr. 2, 242.1 Nr. 2)
+
+@klassen CD
+
+@kapitel 2.7
+
+@punkte 4
+
+? Ihr Fahrzeug ist voll beladen bzw. voll besetzt. Wie wirkt sich das auf das Bremsen aus?
++ Der Anhalteweg kann länger werden
++ Die Bremsen werden bei längeren Bremsungen stärker erhitzt
+- Ein schweres Fahrzeug bremst immer kürzer, weil es fester auf der Straße liegt
+= Mehr Masse bedeutet mehr Bewegungsenergie, die die Bremsen in Wärme umwandeln müssen. Planen Sie mehr Abstand ein und bremsen Sie früher.
+
+? Sie entdecken bei der Abfahrtkontrolle einen tiefen Schnitt in der Reifenflanke, durch den das Gewebe sichtbar ist. Was tun Sie?
++ Ich fahre nicht los, bevor der Reifen ersetzt ist
+- Ich fahre los und lasse den Reifen beim nächsten Werkstattbesuch ansehen
+- Ich erhöhe den Luftdruck, damit der Reifen stabiler ist
+= Ein beschädigter Unterbau kann jederzeit zum Reifenplatzer führen. Bei schweren Fahrzeugen sind die Folgen besonders gefährlich.
+
+? Wann wirkt die Motorbremse Ihres Fahrzeugs?
++ Nur bei eingelegtem Gang und geschlossener Kupplung
+- Auch im Leerlauf mit getretener Kupplung
+- Nur, wenn ich gleichzeitig die Betriebsbremse betätige
+= Die Motorbremse nutzt den Widerstand des Motors. Ist der Kraftschluss zu den Rädern unterbrochen, kann sie nicht wirken.
+
+? Ihr Fahrzeug hat statt Außenspiegeln ein Kamera-Monitor-System. Worauf achten Sie?
++ Ich halte die Kameralinsen sauber, besonders bei Schmutz, Regen und Schnee
++ Ich gewöhne mich vor der ersten Fahrt an die Darstellung und die Entfernungen auf dem Monitor
+- Kamerabilder zeigen immer genau dasselbe wie ein Spiegel, eine Eingewöhnung ist nicht nötig
+= Verschmutzte Linsen oder Blendung verschlechtern das Bild. Die Darstellung von Abständen wirkt auf Monitoren oft anders als im Spiegel.
+
+? Sie stellen vor Fahrtantritt Ihre Spiegel ein. Was ist richtig?
++ Die Spiegel so einstellen, dass ich die Fahrzeugseiten und die Bereiche daneben möglichst vollständig sehe
++ Ich prüfe auch Weitwinkel-, Rampen- und Frontspiegel
+- Nur der linke Außenspiegel ist wichtig, rechts sehe ich durch das Seitenfenster
+= Jeder Spiegel deckt einen anderen Bereich ab. Erst zusammen verkleinern sie den Sichtschatten rund um das Fahrzeug.
+
+@punkte 3
+
+? Unter Ihrem abgestellten Fahrzeug hat sich eine Öllache gebildet. Was tun Sie?
++ Ich kläre die Ursache, bevor ich losfahre
++ Ich verhindere, dass weiteres Öl in den Boden oder die Kanalisation gelangt
+- Ich fahre los, solange keine Warnleuchte brennt
+= Ölverlust kann auf einen Schaden hindeuten, etwa an Motor, Getriebe oder Bremsanlage. Ausgelaufenes Öl ist außerdem eine Gefahr für die Umwelt und andere Verkehrsteilnehmer.
+
+@kapitel 2.8
+
+@punkte 2
+
+? Wie stellen Sie Sitz und Lenkrad in Ihrem Lkw oder Bus richtig ein?
++ So, dass ich die Pedale vollständig durchtreten kann und mein Rücken an der Lehne bleibt
++ So, dass ich alle Instrumente und Spiegel ohne Verrenkung sehe
+- Möglichst weit weg vom Lenkrad, damit ich mehr Platz habe
+= Eine gute Sitzposition beugt Ermüdung und Rückenschmerzen vor und ermöglicht schnelle Reaktionen.
+
+@klassen LKW
+
+@kapitel 2.2
+
+@punkte 4
+
+? Sie wollen in einer Fußgängerzone Ware anliefern. Ein Zusatzzeichen erlaubt Lieferverkehr. Wie fahren Sie?
++ Mit Schrittgeschwindigkeit
++ Ich nehme Rücksicht auf Fußgänger und warte, wenn nötig
+- Mit 20 km/h, weil Lieferverkehr ausdrücklich erlaubt ist
+= Ist eine Fußgängerzone für Fahrzeugverkehr freigegeben, darf dieser Fußgänger weder gefährden noch behindern, muss notfalls warten und darf nur mit Schrittgeschwindigkeit fahren (StVO Anlage 2 Zeichen 242.1 Nr. 2 i. V. m. Zeichen 239 Nr. 2).
+# zeichen 242.1 1026-35
+
+@kapitel 2.7
+
+@punkte 4
+
+? Sie wollen mit einem Kipper oder einem Lkw mit Ladekran losfahren. Was prüfen Sie vorher?
++ Ob Kippmulde bzw. Kranausleger vollständig in Fahrstellung abgesenkt und gesichert sind
+- Nur, ob die Ladung auf der Mulde liegt
+- Nichts, Mulde und Kran senken sich während der Fahrt von selbst ab
+= Ein nicht abgesenkter Aufbau kann an Brücken, Leitungen oder Schilderbrücken hängen bleiben.
+
+? Ihr Lkw hat eine Luftfederung mit Niveauregulierung. Was beachten Sie beim Be- und Entladen an einer Rampe?
++ Das Fahrzeugniveau kann sich mit der Beladung ändern; ich gleiche es bei Bedarf an die Rampenhöhe an
++ Vor der Abfahrt stelle ich wieder das Fahrniveau ein
+- Die Fahrhöhe ist für die Fahrt unwichtig
+= Ein falsches Niveau kann zu Schäden am Fahrwerk führen oder die Höhe des Fahrzeugs verändern. Viele Fahrzeuge stellen das Fahrniveau automatisch ein, prüfen sollten Sie es trotzdem.
+
+@klassen CE
+
+@kapitel 2.1
+
+@punkte 4
+
+? Sie fahren mit einem Lastzug auf der Autobahn und müssen schnell einem Hindernis ausweichen. Was müssen Sie wissen?
++ Der Anhänger kann auf ruckartige Lenkbewegungen verstärkt reagieren und ausbrechen
++ Ruhige, dosierte Lenkbewegungen sind sicherer als hektisches Gegenlenken
+- Der Anhänger stabilisiert den Zug, ruckartiges Lenken ist deshalb unproblematisch
+= Die Bewegung des Zugfahrzeugs wird auf den Anhänger übertragen und kann sich dort aufschaukeln. Wer früh erkennt und sanft lenkt, hält den Zug stabil.

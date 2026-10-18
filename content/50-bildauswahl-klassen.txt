@@ -1,0 +1,110 @@
+// Phase 2 – Bildauswahl für die Klassen Krad/AM/Mofa, L/T, C, CE, D – eigene Formulierungen, gemeinfreie Zeichen (PD-VzKat)
+
+@kapitel 2.4
+
+@punkte 3
+
+@klassen ZWEIRAD
+
+? Bei welchen Zeichen dürfen Sie mit Ihrem Kraftrad oder Kleinkraftrad nicht in die Straße einfahren?
++ [zeichen 255]
++ [zeichen 260]
+- [zeichen 251]
+- [zeichen 254]
+= Das Verbot für Kraftfahrzeuge (Pkw- und Motorradsymbol) gilt auch für Krafträder. Das Zeichen mit dem Pkw allein betrifft nur Kraftwagen und andere mehrspurige Kraftfahrzeuge.
+! punkte=4
+
+@klassen KLEIN
+
+? Welches Zusatzzeichen erlaubt Ihnen, mit dem Mofa einen Radweg innerorts zu benutzen?
++ [zeichen 1022-11]
+- [zeichen 1012-33]
+- [zeichen 1022-10]
+= „Mofas frei“ öffnet den Radweg für Mofas. „Keine Mofas“ verbietet das Befahren ausdrücklich; „Radfahrer frei“ gilt nicht für Mofas.
+! klassen=Mofa
+
+? Welches Zeichen verbietet nur Mofas, aber nicht Motorrädern, die Einfahrt?
++ [zeichen 257-50]
+- [zeichen 255]
+- [zeichen 254]
+= Das Verbot für Krafträder sperrt auch Mofas und Kleinkrafträder. Das Mofa-Verbot betrifft dagegen nur Mofas.
+
+@klassen LT
+
+? Welches Zeichen sperrt eine Straße für Kraftfahrzeuge und Züge, die nicht schneller als 25 km/h fahren können oder dürfen?
++ [zeichen 257-58]
+- [zeichen 257-52]
+- [zeichen 274-30]
+- [zeichen 253]
+= Das Symbol zeigt eine Zugmaschine. Damit werden langsame Fahrzeuge von schnell befahrenen Straßen ferngehalten.
+! punkte=4
+
+? Welches Zusatzzeichen erlaubt Fahrten zu land- und forstwirtschaftlichen Zwecken trotz eines Verbots?
++ [zeichen 1026-38]
+- [zeichen 1026-35]
+- [zeichen 1026-39]
+= „Lieferverkehr frei“ und „Betriebs- und Versorgungsdienst frei“ gelten nicht für die Feldarbeit.
+
+? Welches Zusatzzeichen erlaubt anderen, Sie mit Ihrer langsamen Zugmaschine trotz eines Überholverbots zu überholen?
++ [zeichen 1049-11]
+- [zeichen 1024-17]
+- [zeichen 1048-15]
+= Das Zusatzzeichen nimmt Fahrzeuge bis 25 km/h vom Überholverbot aus. Mit Ihrer Zugmaschine dürfen Sie deshalb nicht selbst überholen, sondern werden überholt.
+
+@klassen LKW
+
+? Welches Zeichen begrenzt die tatsächliche Achslast?
++ [zeichen 263-8]
+- [zeichen 262-5]
+- [zeichen 265-3]
+- [zeichen 264-2]
+= Bei der Achslast ist unter der Zahl eine einzelne Achse dargestellt. Das Zeichen mit der Gewichtsangabe ohne Achse begrenzt die tatsächliche Gesamtmasse.
+! punkte=4
+
+? Welches Zeichen verbietet die Durchfahrt mit kennzeichnungspflichtigen Gefahrguttransporten?
++ [zeichen 261]
+- [zeichen 269]
+- [zeichen 268]
+= Gefahrguttransporte mit orangefarbener Warntafel müssen solche Strecken meiden. Das Zeichen mit den Tropfen betrifft wassergefährdende Ladung.
+! punkte=4
+
+? Welches Zeichen schreibt Ihnen mit Ihrem Lkw einen Mindestabstand zum vorausfahrenden Lkw vor?
++ [zeichen 273-70]
+- [zeichen 274-70]
+- [zeichen 275-30]
+= Das Zeichen mit dem Abstandsmaß gilt für Kraftfahrzeuge über 3,5 t und Zugmaschinen. Die Höchst- und Mindestgeschwindigkeit haben andere Zeichen.
+
+? Welches Zeichen verbietet die Einfahrt für Lkw mit Anhänger?
++ [zeichen 257-57]
+- [zeichen 257-56]
+- [zeichen 253]
+= Ist ein Lkw mit Anhänger abgebildet, darf ein Lkw ohne Anhänger einfahren, wenn kein anderes Verbot besteht.
+
+@klassen CE
+
+? Welches Zeichen verbietet Ihnen mit einem Lastzug von 18,75 m Länge die Einfahrt?
++ [zeichen 266-10]
+- [zeichen 264-2]
+- [zeichen 263-8]
+= Die Längenbegrenzung gilt für Fahrzeuge und Züge einschließlich Ladung.
+
+@klassen BUS
+
+? Welches Zeichen verbietet Ihnen mit dem Kraftomnibus die Einfahrt?
++ [zeichen 257-54]
+- [zeichen 257-55]
+- [zeichen 245]
+= Das Zeichen mit dem Bus im roten Rund verbietet Kraftomnibussen die Einfahrt. Das Zeichen mit dem Pkw betrifft nur Personenkraftwagen.
+
+? Welches Zusatzzeichen erlaubt Ihnen mit dem Reisebus im Gelegenheitsverkehr, einen gesperrten Bereich zu befahren?
++ [zeichen 1026-31]
+- [zeichen 1026-32]
+- [zeichen 1050-30]
+= „Linienverkehr frei“ gilt nur für Busse im Linienverkehr.
+! punkte=4
+
+? Welches Zeichen kennzeichnet eine Haltestelle, die nur von Schulbussen benutzt wird?
++ [zeichen 224-51]
+- [zeichen 224]
+- [zeichen 229]
+= Das Zusatzzeichen „Schulbus“ mit Zeitangabe auf gemeinsamer weißer Fläche beschränkt die Haltestelle auf Schulbusse.

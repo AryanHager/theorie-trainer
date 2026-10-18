@@ -1,0 +1,534 @@
+// Variationen: eigene Abwandlungen unserer eigenen Mutterfragen (gleiches Lernziel, andere Situation/Formulierung).
+// Kapitel, Klassen und Punkte werden von der Mutterfrage übernommen.
+
+? Vor einer Bäckerei steht ein Lieferwagen mit geöffneter Hecktür halb auf dem Gehweg. Womit rechnen Sie?
++ Dass jemand mit Kisten plötzlich hinter dem Wagen auf die Fahrbahn tritt
++ Dass die Sicht auf Fußgänger am Wagen vorbei eingeschränkt ist
+- Mit nichts – Lieferverkehr ist auf die Fahrbahn nicht angewiesen
+= Um haltende Fahrzeuge herum bewegen sich oft Menschen, die auf ihre Arbeit oder Einkäufe achten und nicht auf den Verkehr. Fahren Sie langsam und bremsbereit vorbei.
+! mutter=BSP-1.1-001
+
+? Auf einem Supermarktparkplatz schiebt eine Frau ihren Einkaufswagen zwischen zwei Autos hervor. Was ist richtig?
++ Langsam fahren und damit rechnen, dass sie oder Kinder unvermittelt in meinen Weg treten
+- Hupen, damit sie stehen bleibt, und zügig weiterfahren
+- Auf Parkplätzen gilt die StVO nicht, deshalb muss ich nicht besonders achten
+= Auf Parkplätzen ist mit Fußgängern überall zu rechnen. Die StVO gilt auch auf öffentlich zugänglichen Parkplätzen; fahren Sie dort mit äußerster Vorsicht und in Schrittnähe.
+! mutter=BSP-1.1-001
+
+? Nach mehreren trockenen Wochen fällt der erste Nieselregen. Was ist richtig?
++ Ich fahre vorsichtiger, weil sich Staub und Öl mit Wasser zu einem Schmierfilm verbinden
++ Ich vergrößere den Abstand, weil ich länger zum Anhalten brauche
+- Leichter Regen verbessert die Haftung, weil er die Fahrbahn reinigt
+= Gerade die ersten Minuten eines Regens sind tückisch: Der Schmutzfilm wird erst später abgewaschen. Bis dahin ist die Fahrbahn oft glatter als bei Dauerregen.
+! mutter=BSP-1.1-007
+
+? Sie fahren in einer Kolonne auf der Landstraße. Das Fahrzeug vor Ihnen könnte jederzeit bremsen. Wie fahren Sie?
++ Mit so viel Abstand, dass ich auch bei plötzlichem Bremsen hinter ihm anhalten kann
++ Ich beobachte den Verkehr auch vor dem Vorausfahrenden, um früh reagieren zu können
+- Möglichst dicht, damit sich niemand in die Lücke drängt
+= Abstand und Blick weit nach vorn verschaffen Ihnen die Zeit, die Sie zum Reagieren brauchen. Außerorts gilt als Faustregel mindestens der halbe Tachowert in Metern.
+! mutter=BSP-1.1-013
+
+? Sie fahren nachts auf einer unbeleuchteten Landstraße mit Abblendlicht. Was gilt für Ihre Geschwindigkeit?
++ Ich muss so langsam fahren, dass ich innerhalb der Strecke anhalten kann, die mein Licht ausleuchtet
+- Ich darf die zulässige Höchstgeschwindigkeit immer voll ausnutzen
+- Die Sichtweite spielt nachts keine Rolle, solange keine Gegenstände reflektieren
+= Dunkel gekleidete Personen oder Tiere tauchen erst im Lichtkegel auf. Die Geschwindigkeit muss so gewählt sein, dass ein Anhalten innerhalb des ausgeleuchteten Bereichs möglich ist.
+! mutter=BSP-1.1-023
+
+? Vor einem Bahnübergang mit Schranken senken sich die Schranken gerade. Was tun Sie?
++ Ich halte vor dem Bahnübergang an und warte
+- Ich fahre noch schnell durch, solange die Schranke nicht ganz unten ist
+- Ich darf weiterfahren, wenn kein Zug zu sehen ist
+= Sobald sich Schranken senken oder rotes Licht leuchtet, müssen Sie vor dem Bahnübergang warten. Ein Zug kann deutlich schneller da sein, als man denkt.
+! mutter=BSP-1.1-029
+
+? Sie sind 30 Jahre alt, haben am Vorabend Cannabis konsumiert und wollen heute früh Auto fahren. Was ist richtig?
++ Ich sollte nicht fahren, wenn ich nicht sicher sein kann, unter dem gesetzlichen THC-Grenzwert zu liegen
++ Auch unterhalb des Grenzwerts kann ich mich strafbar machen, wenn ich Ausfallerscheinungen zeige
+- Nach einer Nacht Schlaf ist THC immer vollständig abgebaut
+= THC kann je nach Menge und Konsumgewohnheit lange nachweisbar sein. Wer Ausfallerscheinungen zeigt, kann sich unabhängig vom Grenzwert strafbar machen.
+! mutter=BSP-1.1-035
+
+? Ihr Auto bleibt nach einer Panne auf der Landstraße hinter einer Kuppe liegen. Wie sichern Sie die Stelle?
++ Warnblinklicht einschalten und vor dem Aussteigen die Warnweste anziehen
++ Das Warndreieck so aufstellen, dass Nachfolgende schon vor der Kuppe gewarnt werden
+- Das Warndreieck direkt hinter das Fahrzeug stellen, damit es nicht überfahren wird
+= Das Warndreieck muss rechtzeitig sichtbar sein. Außerorts etwa 100 m Abstand; hinter Kuppen oder Kurven so weit davor, dass man rechtzeitig bremsen kann.
+! mutter=BSP-1.1-041
+
+? Sie wollen auf der Autobahn vom rechten auf den mittleren Fahrstreifen wechseln. Warum genügt der Blick in die Spiegel allein nicht?
++ Weil sich ein Fahrzeug im toten Winkel befinden kann, das in keinem Spiegel zu sehen ist
+- Weil die Spiegel bei hohen Geschwindigkeiten vibrieren
+- Der Blick in die Spiegel genügt immer
+= Neben dem Fahrzeug gibt es einen Bereich, den weder Innen- noch Außenspiegel zeigen. Erst der kurze Blick über die Schulter macht ihn sichtbar.
+! mutter=BSP-1.1-048
+
+? Während der Fahrt kommt eine Nachricht auf Ihrem Smartphone an. Was ist richtig?
++ Ich lese sie erst, wenn ich sicher geparkt habe
+- Ich lese sie kurz an einer roten Ampel mit laufendem Motor
+- Ich darf sie lesen, wenn ich das Handy in der Hand halte und auf die Straße schaue
+= Wer ein Fahrzeug führt, darf ein Smartphone nicht in die Hand nehmen, um es zu bedienen. Bei laufendem Motor gilt das Verbot auch an der Ampel; ausgenommen ist nur ein ausgeschalteter Motor (nicht durch Start-Stopp-Automatik).
+! mutter=BSP-1.1-054
+
+? Sie fahren in eine Nebelbank, die Sicht beträgt nur noch etwa 40 m. Wie verhalten Sie sich?
++ Ich fahre so langsam, dass ich innerhalb der Sichtweite anhalten kann
++ Ich schalte Abblendlicht ein
+- Ich fahre mit Fernlicht, um weiter zu sehen
+= Bei einer Sichtweite unter 50 m dürfen Sie höchstens 50 km/h fahren – und nur, wenn Sie innerhalb der Sichtweite anhalten können. Fernlicht reflektiert im Nebel und blendet Sie selbst.
+! mutter=BSP-1.1-060
+
+? Sie wollen auf einer Landstraße einen Traktor überholen. Was ist erforderlich?
++ Eine ausreichend lange, überschaubare Strecke ohne Gegenverkehr
++ Ein ausreichender Seitenabstand zum Traktor beim Vorbeifahren
+- Ein kurzes Hupen genügt, damit der Traktor nach rechts ausweicht
+= Überholen darf nur, wer übersehen kann, dass niemand gefährdet wird, und mit deutlich höherer Geschwindigkeit fährt. Breite Anbaugeräte erfordern zusätzlich Abstand.
+! mutter=BSP-1.2-005
+
+? Sie wollen rückwärts aus einer Grundstückseinfahrt auf die Straße fahren. Was ist richtig?
++ Ich muss eine Gefährdung anderer ausschließen und mich bei schlechter Sicht einweisen lassen
+- Ich darf zügig rückwärts fahren, weil die anderen mich sehen müssen
+- Ich verlasse mich vollständig auf die Rückfahrkamera
+= Beim Rückwärtsfahren und Einfahren in den fließenden Verkehr gilt besondere Sorgfalt. Wo der Blick nicht reicht, hilft eine einweisende Person.
+! mutter=BSP-1.2-011
+
+? Sie fahren einen Lkw mit 7,5 t zulässiger Gesamtmasse und wollen innerorts nach rechts abbiegen. Wie schnell dürfen Sie höchstens fahren?
++ Schrittgeschwindigkeit
+- 20 km/h
+- 30 km/h
+= Kraftfahrzeuge über 3,5 t dürfen innerorts nur mit Schrittgeschwindigkeit rechts abbiegen, wenn mit geradeaus fahrendem Rad- oder Fußverkehr zu rechnen ist.
+! mutter=BSP-1.2-017
+
+? In welchen Situationen schalten Sie das Warnblinklicht ein?
++ Wenn mein liegengebliebenes Fahrzeug andere gefährden kann
++ Wenn ich mein Fahrzeug abschleppen lasse
+- Wenn ich in zweiter Reihe kurz halte, um etwas abzuholen
+= Warnblinklicht ist für echte Gefahren gedacht, etwa beim Liegenbleiben, Abschleppen oder Warnen vor einem Stauende. Es erlaubt kein Halten an verbotenen Stellen.
+! mutter=BSP-1.2-023
+
+? Sie halten an, um Ihrem Kind beim Aussteigen zu helfen, und es dauert etwa zwei Minuten. Sie bleiben dabei am Fahrzeug. Halten oder parken Sie?
++ Ich halte
+- Ich parke, weil ich ausgestiegen bin
+- Ich parke, weil ich länger als eine Minute stehe
+= Parken beginnt, wenn Sie das Fahrzeug verlassen oder länger als drei Minuten halten. Wer am Fahrzeug bleibt und kurz ein- oder aussteigen lässt, hält.
+! mutter=BSP-1.2-029
+
+? Sie stehen im stockenden Verkehr vor einer Ampel, direkt dahinter liegt ein Zebrastreifen. Wie verhalten Sie sich?
++ Ich fahre nur weiter, wenn ich hinter dem Zebrastreifen genügend Platz habe
+- Ich bleibe auf dem Zebrastreifen stehen, wenn es nicht weitergeht
+- Ich fahre bis an das vorausfahrende Fahrzeug heran, egal wo ich zum Stehen komme
+= Wer erkennbar auf einem Fußgängerüberweg warten müsste, darf nicht auf ihn fahren. Fußgänger müssen ihn jederzeit benutzen können.
+! mutter=BSP-1.2-038
+
+? Ein grüner Pfeil nach links leuchtet für Ihren Linksabbiegestreifen. Was ist richtig?
++ Ich kann abbiegen, weil der Gegenverkehr in diesem Moment durch Rot angehalten wird
+- Ich muss den Gegenverkehr trotzdem erst durchlassen
+- Der Pfeil erlaubt mir auch, geradeaus zu fahren
+= Der grüne Pfeil gibt nur die Pfeilrichtung frei. Ist er links hinter der Kreuzung angebracht, hat der Gegenverkehr Rot. Achten Sie trotzdem auf Fußgänger und Radfahrende.
+! mutter=BSP-1.3-002
+
+? Auf einem Feldweg kommt Ihnen eine Herde Schafe entgegen. Was tun Sie?
++ Anhalten oder sehr langsam fahren und die Tiere vorbeiziehen lassen
++ Den Anweisungen der Schäferin folgen
+- Mit Lichthupe und Hupe die Tiere zur Seite treiben
+= Tiere reagieren auf Lärm und Licht oft unberechenbar. Langsam fahren, notfalls anhalten und auf Zeichen der Begleitperson achten.
+! mutter=BSP-1.2-048
+
+? Im Verkehrsfunk hören Sie: „Auf Ihrer Autobahn kommt Ihnen ein Falschfahrer entgegen.“ Was ist richtig?
++ Ich fahre rechts, halte großen Abstand und überhole nicht
++ Ich verringere die Geschwindigkeit
+- Ich wechsle auf den linken Fahrstreifen, um den Falschfahrer früh zu sehen
+= Falschfahrende kommen meist auf dem linken Fahrstreifen entgegen. Bleiben Sie rechts, fahren Sie langsamer und verzichten Sie aufs Überholen, bis die Meldung aufgehoben ist.
+! mutter=BSP-1.2-054
+
+? Sie schleppen ein liegengebliebenes Auto ab und befinden sich bereits auf der Autobahn. Was müssen Sie tun?
++ An der nächsten Ausfahrt die Autobahn verlassen
+- Bis zum Ziel auf der Autobahn bleiben, weil es der schnellste Weg ist
+- Auf dem Seitenstreifen weiterfahren
+= Ist das Fahrzeug auf der Autobahn liegen geblieben, muss diese beim Abschleppen an der nächsten Ausfahrt verlassen werden. Von außerhalb darf mit einem abgeschleppten Fahrzeug nicht auf die Autobahn eingefahren werden.
+! mutter=BSP-1.2-066
+
+? Sie fahren in einen Kreisverkehr mit „Vorfahrt gewähren!“ ein und wollen an der zweiten Ausfahrt hinaus. Wann blinken Sie?
++ Nur vor dem Verlassen des Kreises nach rechts
+- Beim Einfahren nach rechts und beim Verlassen nach rechts
+- Beim Einfahren nach links, weil ich weiter herumfahre
+= Beim Einfahren in den Kreisverkehr wird nicht geblinkt. Das Verlassen kündigen Sie rechtzeitig mit dem rechten Blinker an.
+! mutter=BSP-1.3-025
+
+? Sie sind schon mitten in der Kreuzung, als der Polizeibeamte einen Arm nach oben hebt. Was tun Sie?
++ Ich fahre weiter und räume die Kreuzung
+- Ich halte sofort an, wo ich gerade bin
+- Ich warte auf das nächste Zeichen in der Kreuzung
+= Für Verkehrsteilnehmende in der Kreuzung bedeutet der erhobene Arm: Kreuzung räumen. Wer davor steht, wartet auf das nächste Zeichen.
+! mutter=BSP-1.3-031
+
+? Am Ende des Beschleunigungsstreifens ist auf der Autobahn keine Lücke frei. Was ist richtig?
++ Ich muss notfalls am Ende des Beschleunigungsstreifens warten, bis sich eine Lücke ergibt
+- Ich fahre trotzdem ein, weil Nachfolgende bremsen müssen
+- Ich fahre auf dem Seitenstreifen weiter
+= Der Verkehr auf der durchgehenden Fahrbahn hat Vorfahrt. Wenn sich keine Lücke findet, müssen Sie Ihre Geschwindigkeit anpassen und notfalls anhalten.
+! mutter=BSP-1.3-040
+
+? Sie wollen zum 1 km entfernten Bäcker. Was ist aus Umweltsicht sinnvoll?
++ Zu Fuß gehen oder das Fahrrad nehmen
+- Mit dem Auto fahren, weil ein kurzer Weg wenig Kraftstoff verbraucht
+- Den Motor vorher im Stand warmlaufen lassen
+= Auf kurzen Strecken ist der Motor kalt – dann sind Verbrauch und Schadstoffausstoß pro Kilometer besonders hoch. Warmlaufen im Stand ist verboten und verschwendet Kraftstoff.
+! mutter=BSP-1.5-002
+
+? Sie fahren nachts durch ein Wohngebiet. Wie halten Sie den Lärm gering?
++ Gleichmäßig in einem hohen Gang fahren
++ Kein unnötiges Hupen oder Aufheulenlassen des Motors
+- Beim Anfahren kräftig Gas geben, damit ich schneller vorbei bin
+= Hohe Drehzahlen und starkes Beschleunigen machen viel Lärm. Wer niedertourig und gleichmäßig fährt, ist leiser und spart Kraftstoff.
+! mutter=BSP-1.5-008
+
+? Vor einem geschlossenen Bahnübergang erwarten Sie eine längere Wartezeit. Was ist umweltbewusst?
++ Den Motor abstellen
+- Den Motor laufen lassen, damit die Batterie geladen wird
+- Ab und zu Gas geben, damit der Motor warm bleibt
+= Unnötiges Laufenlassen des Motors im Stand verursacht vermeidbare Abgase und Lärm. Bei absehbar längerem Warten den Motor abstellen.
+! mutter=BSP-1.5-014
+
+? Sie fahren auf einer Vorfahrtstraße. Ein Auto aus der Seitenstraße rollt deutlich zu schnell auf die Kreuzung zu. Was tun Sie?
++ Ich bin bremsbereit und rechne damit, dass es mir die Vorfahrt nimmt
+- Ich fahre mit unveränderter Geschwindigkeit weiter, weil ich Vorfahrt habe
+- Ich gebe Gas, um vor ihm über die Kreuzung zu kommen
+= Wer Vorfahrt hat, darf nicht blind darauf vertrauen. Wenn erkennbar ist, dass jemand nicht wartet, müssen Sie auf Ihr Recht verzichten.
+! mutter=BSP-1.3-066
+
+? Ihr Anhänger beginnt bei 90 km/h zu pendeln. Was ist richtig?
++ Das Lenkrad möglichst gerade halten und entschlossen bremsen
+- Kräftig Gas geben, um das Gespann zu strecken
+- Mit schnellen Gegenlenkbewegungen ausgleichen
+= Gegenlenken oder Beschleunigen verstärkt das Schlingern meist. Lenkrad ruhig halten und mit dem Bremspedal Geschwindigkeit abbauen – dabei greift die Auflaufbremse des Anhängers und streckt das Gespann.
+! mutter=BSP-2.1-002
+
+? Sie parken rückwärts in eine enge Lücke am Fahrbahnrand. Worauf achten Sie?
++ Dass die Fahrzeugfront beim Einlenken in den Fahrstreifen ausschwenkt
++ Dass hinter dem Fahrzeug kleine Kinder stehen könnten
+- Dass der Motor beim Rückwärtsfahren mehr Drehzahl braucht
+= Beim Einparken schwenkt die Front zur Fahrbahn hin aus – achten Sie auf den Verkehr neben Ihnen. Der Bereich direkt hinter dem Fahrzeug ist schwer einzusehen.
+! mutter=BSP-2.1-008
+
+? Ihr Auto wird mit einer Abschleppstange abgeschleppt, der Motor ist aus. Was müssen Sie beachten?
++ Zum Bremsen ist mehr Kraft nötig, weil der Bremskraftverstärker nicht arbeitet
++ Das Warnblinklicht ist an beiden Fahrzeugen eingeschaltet
+- Ich muss nicht lenken, weil die Stange das Fahrzeug führt
+= Ohne laufenden Motor fehlt die Unterstützung für Bremse und oft auch Lenkung. Beide Fahrzeuge warnen mit Warnblinklicht.
+! mutter=BSP-2.2-010
+
+? Sie fahren mit vier Personen und Gepäck in den Urlaub. Was tun Sie vor der Fahrt?
++ Den Reifendruck auf den Wert für hohe Beladung einstellen
+- Den Reifendruck senken, damit die Fahrt bequemer ist
+- Nichts – der Reifendruck ist unabhängig von der Beladung
+= Zu niedriger Druck bei hoher Last erhöht Verbrauch, Verschleiß und Unfallgefahr. Den passenden Wert finden Sie in der Betriebsanleitung oder am Tankdeckel.
+! mutter=BSP-2.5-004
+
+? Sie wollen einen größeren Heckspoiler an Ihren Pkw montieren. Was ist zu beachten?
++ Ich prüfe, ob das Teil eine Genehmigung hat oder abgenommen bzw. eingetragen werden muss
+- Anbauteile am Pkw sind immer genehmigungsfrei
+- Es genügt, wenn das Teil im Internet als „passend“ verkauft wird
+= Viele Anbauteile berühren die Betriebserlaubnis. Ohne passende Genehmigung oder Abnahme kann sie erlöschen – mit Folgen für Versicherung und Bußgeld.
+! mutter=BSP-2.6-007
+
+? Während der Autobahnfahrt leuchtet plötzlich die rote Öldruckwarnleuchte. Was tun Sie?
++ Ich halte an der nächsten sicheren Stelle und stelle den Motor ab
+- Ich fahre bis zur nächsten Werkstatt weiter, solange der Motor normal klingt
+- Ich ignoriere sie, weil sie oft nur kurz flackert
+= Ohne Öldruck kann der Motor binnen kurzer Zeit schwer beschädigt werden. Sicher anhalten, Motor aus, Ölstand prüfen, Hilfe holen.
+! mutter=BSP-2.7-002
+
+? Sie wollen einem Pannenfahrzeug mit Starthilfekabeln helfen. Was ist richtig?
++ Beide Batterien müssen dieselbe Nennspannung haben
++ Zuerst die Pluspole mit dem roten Kabel verbinden
+- Das schwarze Kabel immer direkt an beide Pluspole klemmen
+= Erst Plus mit Plus (rot), dann das schwarze Kabel vom Minuspol des Spenders an eine Masse des Empfängerfahrzeugs. Unterschiedliche Spannungen können die Elektronik beschädigen.
+! mutter=BSP-2.7-008
+
+? Ihr Vater (55 Jahre, seit 30 Jahren Führerschein, 3 Punkte in Flensburg) soll Sie beim begleiteten Fahren ab 17 begleiten. Was gilt?
++ Er darf nicht als Begleitperson eingetragen werden, weil er mehr als einen Punkt hat
+- Er darf begleiten, weil er alt genug ist
+- Punkte spielen für Begleitpersonen keine Rolle
+= Eine Begleitperson muss mindestens 30 Jahre alt sein, seit mindestens fünf Jahren die Klasse B haben und darf höchstens einen Punkt im Fahreignungsregister haben.
+! mutter=BSP-2.8-004
+
+? Sie fahren mit dem Motorrad nach einem Regenschauer durch die Stadt. Wo ist besondere Vorsicht geboten?
++ Auf Straßenbahnschienen und Kanaldeckeln
++ Auf Fahrbahnmarkierungen, z. B. an Zebrastreifen
+- Auf rauem, trockenem Asphalt in der Kurvenmitte
+= Glatte Oberflächen wie Metall, Bitumen oder Farbe bieten bei Nässe wenig Haftung. Dort möglichst aufrecht und ohne starkes Bremsen fahren.
+! mutter=BSP-2.1-011
+
+? Was gilt am Tag für die Beleuchtung beim Fahren mit dem Motorroller (Klasse AM)?
++ Ich muss auch am Tag mit Abblendlicht oder Tagfahrlicht fahren
+- Licht ist nur bei Dämmerung oder Dunkelheit nötig
+- Am Tag genügt das Standlicht
+= Krafträder müssen auch tagsüber mit Abblendlicht oder Tagfahrlicht fahren – so werden sie besser gesehen.
+! mutter=BSP-2.2-014
+
+? Sie kaufen ein gebrauchtes Mofa. Was brauchen Sie, um damit fahren zu dürfen?
++ Ein gültiges Versicherungskennzeichen am Mofa
+- Ein amtliches Kennzeichen von der Zulassungsstelle
+- Kein Kennzeichen, weil Mofas nur 25 km/h fahren
+= Mofas brauchen keine Zulassung, aber eine Haftpflichtversicherung. Das Versicherungskennzeichen wechselt jedes Jahr zum 1. März die Farbe.
+! mutter=BSP-2.6-013
+
+? Unter einem Radwegschild hängt „Mofas frei“. Sie fahren ein Kleinkraftrad mit 45 km/h Höchstgeschwindigkeit. Was gilt?
++ Ich muss die Fahrbahn benutzen
+- Ich darf den Radweg benutzen, solange ich nicht schneller als 25 km/h fahre
+- Ich darf den Radweg benutzen, wenn die Fahrbahn voll ist
+= Die Freigabe gilt nur für Mofas. Ein Kleinkraftrad bleibt auf der Fahrbahn, auch wenn es langsam fährt.
+! mutter=BSP-2.6-021
+
+? Wann ist ein Tempomat ungeeignet?
++ Bei Glätte oder starkem Regen
++ In dichtem, stockendem Verkehr
+- Auf einer freien Autobahn bei Trockenheit
+= Bei Glätte kann ein gleichmäßig weiter antreibender Tempomat das Fahrzeug destabilisieren; in dichtem Verkehr muss ständig angepasst werden. Dann besser selbst Gas geben.
+! mutter=BSP-2.1-020
+
+? Sie ziehen einen Wohnwagen über eine Brücke, als starker Seitenwind aufkommt. Wie reagieren Sie?
++ Langsamer fahren und das Lenkrad fest halten
+- Beschleunigen, um schneller über die Brücke zu kommen
+- Auf den linken Fahrstreifen wechseln
+= Hohe Aufbauten wie Wohnwagen bieten dem Wind viel Angriffsfläche. Mit geringerer Geschwindigkeit bleibt das Gespann besser beherrschbar.
+! mutter=BSP-2.1-026
+
+? Sie halten an einer belebten Straße, um Ihre Kinder aus dem Auto zu lassen. Was ist richtig?
++ Sie steigen auf der Gehwegseite aus
+- Sie steigen auf der Fahrbahnseite aus, wenn es schneller geht
+- Ich lasse sie hinter dem Fahrzeug über die Fahrbahn laufen
+= Auf der Gehwegseite sind Kinder vom fließenden Verkehr getrennt. Kindersicherungen an den hinteren Türen verhindern ein Öffnen zur Fahrbahn.
+! mutter=BSP-2.1-032
+
+? Sie beladen einen Anhänger mit Zementsäcken und leichten Kartons. Wie verstauen Sie die Ladung?
++ Die schweren Säcke tief und möglichst über der Achse, die Kartons darauf bzw. dahinter
+- Die schweren Säcke ganz hinten, damit die Deichsel entlastet wird
+- Die schweren Säcke obenauf, damit die Kartons geschützt sind
+= Schwere Ladung gehört nach unten und in die Mitte über die Achse. Zu viel Gewicht hinten verringert die Stützlast und erhöht die Schlingergefahr.
+! mutter=BSP-2.1-038
+
+? Ihre Freunde möchten während der Urlaubsfahrt im angehängten Wohnwagen schlafen. Was gilt?
++ Das ist verboten, im Wohnwagen dürfen während der Fahrt keine Personen mitfahren
+- Das ist erlaubt, wenn sie sich anschnallen
+- Das ist auf der Autobahn erlaubt, auf Landstraßen nicht
+= Personen dürfen in einem von einem Pkw gezogenen Wohnwagen nicht mitgenommen werden. Bei einem Unfall gibt es dort keinen Schutz.
+! mutter=BSP-2.2-020
+
+? Ihr Pkw-Anhänger hat die „Tempo 100“-Zulassung. Was muss zusätzlich erfüllt sein, damit Sie auf der Autobahn 100 km/h fahren dürfen?
++ Die 100-km/h-Plakette muss hinten am Anhänger angebracht sein
+- Der Anhänger muss leer sein
+- Ich muss die Fahrerlaubnisklasse BE besitzen
+= Neben den technischen Voraussetzungen muss die Plakette am Anhänger angebracht sein. Ansonsten gelten für Pkw mit Anhänger 80 km/h.
+! mutter=BSP-2.2-026
+
+? Sie ziehen einen Pferdeanhänger und wollen einen Lkw überholen. Was ist richtig?
++ Ich brauche eine viel längere freie Strecke als ohne Anhänger
++ Ich schere erst wieder ein, wenn das ganze Gespann mit Abstand vorbei ist
+- Mit Anhänger darf ich grundsätzlich nicht überholen
+= Ein Gespann ist lang und beschleunigt schwächer. Planen Sie Überholvorgänge daher mit viel Reserve und vergessen Sie beim Einscheren nicht die Länge des Anhängers.
+! mutter=BSP-2.2-032
+
+? Ihre Begleitperson beim begleiteten Fahren ab 17 meint, sie müsse in brenzligen Situationen ins Lenkrad greifen. Was ist richtig?
++ Sie soll mich beraten, darf aber nicht aktiv eingreifen – ich bin die Fahrzeugführerin bzw. der Fahrzeugführer
+- Sie darf jederzeit ins Lenkrad greifen
+- Sie ist für meine Fehler allein verantwortlich
+= Die Begleitperson ist Ansprechpartner und gibt Hinweise, hat aber keine Fahrlehrerfunktion. Verantwortlich für die Fahrt sind Sie selbst.
+! mutter=BSP-2.2-039
+
+? Sie lassen Ihren Pkw vor einer Ortseinfahrt mit eingelegtem Gang ausrollen. Wie hoch ist dabei der Kraftstoffverbrauch moderner Benzinmotoren meist?
++ Nahe null, wegen der Schubabschaltung
+- Höher als im Leerlauf
+- Genauso hoch wie bei konstanter Fahrt
+= Bei eingelegtem Gang und ohne Gas unterbricht die Motorsteuerung die Einspritzung. Im Leerlauf (Gang heraus) läuft der Motor dagegen mit eigenem Verbrauch weiter.
+! mutter=BSP-2.5-008
+
+? Wie können Sie im Winter die Reichweite Ihres Elektroautos verbessern?
++ Das Fahrzeug während des Ladens vorheizen
++ Sitz- und Lenkradheizung statt hoher Innenraumtemperatur nutzen
+- Möglichst oft stark beschleunigen, um den Akku zu erwärmen
+= Wärme direkt am Körper braucht viel weniger Energie als das Aufheizen des ganzen Innenraums. Vorklimatisieren am Netz schont den Akku.
+! mutter=BSP-2.5-014
+
+? Sie haben aus Ihrem Verbandkasten Pflaster für eine Schnittwunde entnommen. Was ist richtig?
++ Ich ersetze die verbrauchten Teile möglichst bald
+- Das ist egal, solange die Kiste noch im Auto ist
+- Der Verbandkasten muss nur bei der Hauptuntersuchung vollständig sein
+= Ein Verbandkasten hilft nur, wenn er vollständig ist. Fehlende oder abgelaufene Teile sollten Sie ersetzen.
+! mutter=BSP-2.6-024
+
+? Wo finden Sie in der Zulassungsbescheinigung Teil I die zulässige Anhängelast für gebremste Anhänger?
++ Im Feld O.1
+- Im Feld F.1
+- Im Feld J
+= Das Feld O.1 nennt die höchstzulässige Anhängelast gebremst, O.2 die ungebremste. F.1 ist die technisch zulässige Gesamtmasse des Fahrzeugs.
+! mutter=BSP-2.6-030
+
+? Ihr Pkw ist abgemeldet. Wo darf er stehen?
++ Nur auf privatem Grund, nicht im öffentlichen Verkehrsraum
+- Auf einem öffentlichen Parkplatz, wenn ich die Parkgebühr zahle
+- Am Fahrbahnrand vor meinem Haus
+= Ein nicht zugelassenes Fahrzeug darf nicht auf öffentlichen Straßen abgestellt werden. Es kann sonst abgeschleppt werden.
+! mutter=BSP-2.6-038
+
+? Die gelbe Warnleuchte mit dem Hufeisen und Ausrufezeichen (Reifendruck) leuchtet auf. Was tun Sie?
++ Bei nächster Gelegenheit den Reifendruck prüfen und einen Schaden ausschließen
+- Weiterfahren, bis die Leuchte von selbst ausgeht
+- Den Druck in allen Reifen senken
+= Die Leuchte meldet einen Druckverlust in mindestens einem Reifen. Zu wenig Druck verlängert den Bremsweg und kann den Reifen überhitzen.
+! mutter=BSP-2.6-044
+
+? Im Kombiinstrument erscheint: „AdBlue-Reichweite 300 km“. Was ist richtig?
++ Ich fülle bald AdBlue nach, sonst lässt sich der Motor nach dem Abstellen eventuell nicht mehr starten
+- AdBlue ist nur für die Klimaanlage wichtig
+- Ich kann AdBlue durch Wasser ersetzen
+= Bei leerem AdBlue-Tank verhindert die Motorsteuerung nach dem nächsten Abstellen meist den Neustart. Nur echte Harnstofflösung nachfüllen.
+! mutter=BSP-2.7-016
+
+? Auf einem Reifen steht „195/65 R 15 91 H“. Was bedeutet die 15?
++ Den Felgendurchmesser in Zoll
+- Die Reifenbreite in Zentimetern
+- Das Alter des Reifens in Monaten
+= 195 ist die Breite in mm, 65 das Verhältnis Höhe zu Breite in Prozent, R die Bauart, 15 der Felgendurchmesser in Zoll, 91 die Tragfähigkeitskennzahl und H die Geschwindigkeitskategorie.
+! mutter=BSP-2.7-022
+
+? Ihr Auto stand mehrere Tage im Regen. Beim ersten Bremsen hören Sie ein Schleifen und die Bremswirkung ist schwach. Was hilft?
++ Einige leichte Bremsungen bei geringer Geschwindigkeit, bis die Scheiben frei sind
+- Mit voller Kraft bremsen, um den Rost abzuschleifen
+- Mit angezogener Feststellbremse weiterfahren
+= Flugrost und Feuchtigkeit verringern kurzzeitig die Bremswirkung. Ein paar sanfte Bremsungen reinigen die Scheiben, ohne den Verkehr zu gefährden.
+! mutter=BSP-2.7-029
+
+? Ihr Notbremsassistent hat schon mehrfach Fahrzeuge vor Ihnen erkannt. Was gilt trotzdem?
++ Er kann Hindernisse übersehen, ich muss immer selbst bremsbereit sein
+- Ich kann den Abstand verringern, weil das System rechtzeitig bremst
+- Das System entbindet mich von der Pflicht, aufmerksam zu fahren
+= Assistenzsysteme haben Grenzen bei Regen, Schnee, Gegenlicht oder ungewöhnlichen Hindernissen. Die Verantwortung bleibt bei Ihnen.
+! mutter=BSP-2.7-035
+
+? Es ist −10 °C. Ihr Elektroauto lädt an der Schnellladesäule langsamer als im Sommer. Woran liegt das?
++ Ein kalter Akku nimmt die Ladeleistung nur eingeschränkt auf
+- Die Ladesäulen haben im Winter weniger Strom
+- Elektroautos können bei Kälte gar nicht laden
+= Batterien laden bei niedriger Temperatur langsamer, um Schäden zu vermeiden. Vorheizen des Akkus vor der Ankunft an der Säule hilft.
+! mutter=BSP-2.7-041
+
+? Ihnen wurde die Fahrerlaubnis nach dem Fahreignungs-Bewertungssystem entzogen. Was gilt für die Neuerteilung?
++ Frühestens nach sechs Monaten, in der Regel nur mit positiver medizinisch-psychologischer Untersuchung
+- Sofort, wenn ich ein Aufbauseminar besuche
+- Nach einem Monat ohne weitere Voraussetzungen
+= Nach der Entziehung bei 8 Punkten beträgt die Sperrfrist sechs Monate. Die Behörde verlangt in der Regel ein Gutachten zur Fahreignung (MPU).
+! mutter=BSP-2.8-013
+
+? In der Probezeit erhalten Sie die Anordnung zu einem Aufbauseminar. Sie lassen die Frist verstreichen. Was folgt?
++ Die Fahrerlaubnis wird entzogen
+- Die Probezeit verlängert sich nur um ein Jahr
+- Es passiert nichts, das Seminar ist freiwillig
+= Wer ein angeordnetes Aufbauseminar nicht fristgerecht besucht, verliert die Fahrerlaubnis. Neu erteilt wird sie erst nach Teilnahme.
+! mutter=BSP-2.8-019
+
+? Im Führerschein steht bei Klasse B die Schlüsselzahl 197. Was dürfen Sie damit?
++ Auch Fahrzeuge mit Schaltgetriebe fahren, obwohl ich die praktische Prüfung auf Automatik gemacht habe
+- Nur Fahrzeuge mit Automatikgetriebe fahren
+- Fahrzeuge bis 4250 kg Gesamtmasse fahren
+= Die 197 ersetzt die frühere Beschränkung auf Automatik, wenn eine Ausbildung und Testfahrt auf einem Schaltwagen nachgewiesen wurden.
+! mutter=BSP-2.8-029
+
+? Bei der Fahrzeugkontrolle stellt die Polizei fest, dass die Hauptuntersuchung Ihres Pkw seit zehn Monaten überfällig ist. Was droht Ihnen?
++ Ein Bußgeld und ein Punkt im Fahreignungsregister
+- Nur eine mündliche Verwarnung
+- Ein Fahrverbot von drei Monaten
+= Bei einer Überziehung um mehr als acht Monate ist neben dem Bußgeld ein Punkt fällig. Lassen Sie die HU zügig nachholen.
+! mutter=BSP-2.8-035
+
+? Sie warten an einer roten Ampel als Erster. Ein Feuerwehrfahrzeug mit Blaulicht und Einsatzhorn kommt von hinten und kann nicht vorbei. Was ist richtig?
++ Ich mache vorsichtig Platz, notfalls auch über die Haltlinie hinaus, wenn ich niemanden gefährde
+- Ich bleibe stehen, weil Rot unbedingt gilt
+- Ich fahre zügig über die Kreuzung, ohne auf den Querverkehr zu achten
+= Einsatzfahrzeugen ist sofort freie Bahn zu schaffen. Dafür dürfen Sie behutsam ein Stück über die Haltlinie rollen – ohne den Querverkehr zu gefährden.
+! mutter=BSP-1.3-100
+
+? Sie fahren mit dem Fahrrad an einer Ampel an einem wartenden Bus mit gesetztem Rechtsblinker vorbei nach vorn. Was ist sicherer?
++ Hinter dem Bus warten, weil die Fahrerin mich im toten Winkel übersehen kann
+- Neben den Bus fahren und darauf vertrauen, dass er mich in seinen Spiegeln sieht
+- Direkt vor den Bus fahren
+= Große Fahrzeuge haben beim Rechtsabbiegen große tote Winkel. Bleiben Sie mit dem Rad hinter ihnen, bis sie abgebogen sind.
+! mutter=BSP-1.1-066
+
+? Sie haben einen Fuchs angefahren. Er läuft verletzt in den Wald. Was ist richtig?
++ Die Unfallstelle sichern und die Polizei oder den zuständigen Jäger verständigen
+- Das Tier verfolgen und selbst einfangen
+- Einfach weiterfahren, weil das Tier weggelaufen ist
+= Auch wenn das Tier geflüchtet ist, sollte der Wildunfall gemeldet werden. Fassen Sie verletzte Tiere nicht an – sie können beißen oder Krankheiten übertragen.
+! mutter=BSP-1.1-072
+
+? An einem heißen Sommertag fahren Sie an eine Ampelkreuzung heran. Worauf achten Sie?
++ Auf Spurrinnen im aufgeweichten Asphalt, die das Fahrzeug versetzen können
+- Auf Glatteis in Brückenbereichen
+- Auf nichts Besonderes, weil heiße Fahrbahnen besonders griffig sind
+= Bei großer Hitze kann der Asphalt weich werden. Besonders an Ampeln, wo schwere Fahrzeuge bremsen, entstehen Spurrinnen.
+! mutter=BSP-1.1-078
+
+? Eine enge Rechtskurve kommt in Sicht. Wann bremsen Sie?
++ Vor der Kurve, solange ich noch geradeaus fahre
+- In der Kurvenmitte, wenn ich merke, dass ich zu schnell bin
+- Gar nicht – in der Kurve hilft Gas geben
+= Bremsen in der Kurve kann das Fahrzeug aus der Spur bringen. Die passende Geschwindigkeit stellen Sie vor dem Einlenken ein.
+! mutter=BSP-1.1-084
+
+? Sie haben verschlafen und kommen zu spät zur Prüfung. Wie verhalten Sie sich im Verkehr?
++ Ich fahre trotzdem regelkonform und nehme die Verspätung in Kauf
+- Ich fahre schneller als erlaubt, weil der Termin wichtig ist
+- Ich überhole auch an unübersichtlichen Stellen
+= Zeitdruck verleitet zu riskanten Entscheidungen. Ein verpasster Termin ist ärgerlich – ein Unfall hat weit schlimmere Folgen.
+! mutter=BSP-1.1-090
+
+? Sie haben ein Glas Wein getrunken (etwa 0,3 ‰). Was trifft zu?
++ Schon geringe Mengen können meine Wahrnehmung und Einschätzung beeinträchtigen
+- Unter 0,5 ‰ gibt es keinerlei Wirkung
+- Alkohol verbessert meine Reaktionszeit
+= Schon kleine Mengen erhöhen die Risikobereitschaft. Ab 0,3 ‰ können bei Fahrfehlern strafrechtliche Folgen drohen; für Fahranfänger und unter 21 gilt 0,0 ‰.
+! mutter=BSP-1.1-096
+
+? Eine Motorradfahrerin liegt nach einem Sturz bewusstlos am Boden, sie atmet. Was tun Sie mit dem Helm?
++ Ihn vorsichtig, möglichst zu zweit, abnehmen und sie in die stabile Seitenlage bringen
+- Ihn auf jeden Fall aufbehalten, bis der Rettungsdienst kommt
+- Ihn mit einem Ruck abziehen
+= Nur ohne Helm lassen sich Atemwege freihalten und Erbrochenes entfernen. Eine zweite Person stabilisiert dabei Kopf und Nacken.
+! mutter=BSP-1.1-103
+
+? Auf der Landstraße verringert das Auto vor Ihnen plötzlich die Geschwindigkeit, ohne zu blinken. Was tun Sie?
++ Ich bremse ebenfalls und warte ab, was der Fahrer vorhat
+- Ich überhole sofort links
+- Ich hupe und fahre dicht auf
+= Wer langsamer wird, will vielleicht abbiegen oder sucht eine Adresse. Unklare Situationen sind kein Anlass zum Überholen.
+! mutter=BSP-1.1-109
+
+? Zu welcher Tageszeit und wo ist mit Wildwechsel besonders zu rechnen?
++ In der Dämmerung
++ An Waldrändern und Feldern
+- Mittags in der Innenstadt
+= Wild ist besonders morgens und abends unterwegs und quert Straßen an Wald- und Feldrändern. Achten Sie auf Warnschilder.
+! mutter=BSP-1.1-115
+
+? Ihr Pkw hat einen Spurhalteassistenten. Darf er Ihnen das Lenken überlassen, während Sie Nachrichten lesen?
++ Nein, ich muss das Fahrzeug jederzeit selbst führen und aufmerksam sein
+- Ja, auf der Autobahn ist das erlaubt
+- Ja, wenn das System eingeschaltet ist
+= Ein Spurhalteassistent unterstützt nur. Sie bleiben für die Fahrzeugführung verantwortlich und dürfen sich nicht abwenden.
+! mutter=BSP-1.1-121
+
+? Bei Nebel schalten Sie das Fernlicht ein und sehen weniger als vorher. Warum?
++ Das helle Licht wird von den Wassertröpfchen zurückgestrahlt und blendet
+- Das Fernlicht ist bei Nebel automatisch gedimmt
+- Fernlicht leuchtet nur zur Seite
+= Im Nebel streut Fernlicht stark zurück. Mit Abblend- und ggf. Nebelscheinwerfern sehen Sie meist besser.
+! mutter=BSP-1.1-127
+
+? Am späten Nachmittag fahren Sie nach Osten auf eine Ampel zu, die Sonne steht hinter Ihnen. Womit rechnen Sie?
++ Dass mehrere Lampen der Ampel zu leuchten scheinen und das echte Signal schwer zu erkennen ist
+- Dass die Ampel außer Betrieb ist
+- Mit nichts – Sonne von hinten beeinträchtigt nie
+= Tief stehende Sonne kann Signalgeber scheinbar aufleuchten lassen (Phantomlicht). Fahren Sie langsam heran und schauen Sie genau hin.
+! mutter=BSP-1.1-133

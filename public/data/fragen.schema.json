@@ -1,0 +1,327 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "title": "Theorie-Trainer Fragenkatalog",
+ "type": "object",
+ "required": [
+  "meta",
+  "kapitel",
+  "fragen"
+ ],
+ "properties": {
+  "meta": {
+   "type": "object",
+   "required": [
+    "titel",
+    "version"
+   ],
+   "properties": {
+    "titel": {
+     "type": "string"
+    },
+    "version": {
+     "type": "string"
+    },
+    "stand": {
+     "type": "string"
+    },
+    "hinweis": {
+     "type": "string"
+    },
+    "pruefung": {
+     "type": "object",
+     "description": "Prüfungsregeln je Klasse nach FeV Anlage 7 (Ersterwerb/Erweiterung)",
+     "required": [
+      "klassen"
+     ],
+     "properties": {
+      "quellen": {
+       "type": "array",
+       "items": {
+        "type": "string"
+       }
+      },
+      "hinweis": {
+       "type": "string"
+      },
+      "klassen": {
+       "type": "object",
+       "additionalProperties": {
+        "type": "object",
+        "properties": {
+         "ersterwerb": {
+          "$ref": "#/$defs/pruefungsRegel"
+         },
+         "erweiterung": {
+          "$ref": "#/$defs/pruefungsRegel"
+         }
+        },
+        "additionalProperties": false
+       }
+      },
+      "katalogUmfang": {
+       "type": "object"
+      }
+     }
+    },
+    "klassen": {
+     "type": "array",
+     "items": {
+      "type": "string"
+     }
+    }
+   }
+  },
+  "kapitel": {
+   "type": "array",
+   "items": {
+    "type": "object",
+    "required": [
+     "id",
+     "titel"
+    ],
+    "properties": {
+     "id": {
+      "type": "string"
+     },
+     "titel": {
+      "type": "string"
+     },
+     "beschreibung": {
+      "type": "string"
+     },
+     "stoff": {
+      "enum": [
+       "grundstoff",
+       "zusatzstoff"
+      ]
+     }
+    }
+   }
+  },
+  "fragen": {
+   "type": "array",
+   "items": {
+    "type": "object",
+    "required": [
+     "id",
+     "mutterfrageId",
+     "kapitel",
+     "stoff",
+     "klassen",
+     "punkte",
+     "typ",
+     "text",
+     "erklaerung"
+    ],
+    "properties": {
+     "id": {
+      "type": "string",
+      "description": "Eindeutige ID dieser Frage/Variante (z. B. amtliche Fragennummer)"
+     },
+     "mutterfrageId": {
+      "type": "string",
+      "description": "ID der Mutterfrage; Varianten teilen sich diese ID. In der Prüfung wird je Mutterfrage nur eine Variante gezogen."
+     },
+     "variante": {
+      "type": "integer",
+      "description": "0 = Mutterfrage, 1..n = Variation"
+     },
+     "kapitel": {
+      "type": "string",
+      "description": "Verweis auf kapitel[].id"
+     },
+     "stoff": {
+      "enum": [
+       "grundstoff",
+       "zusatzstoff"
+      ]
+     },
+     "klassen": {
+      "type": "array",
+      "items": {
+       "type": "string"
+      },
+      "description": "z. B. [\"A\",\"B\"]"
+     },
+     "punkte": {
+      "type": "integer",
+      "minimum": 2,
+      "maximum": 5,
+      "description": "Fehlerpunkte bei falscher Antwort"
+     },
+     "typ": {
+      "enum": [
+       "auswahl",
+       "zahl",
+       "bildauswahl"
+      ],
+      "description": "auswahl = Textantworten, bildauswahl = Antwortoptionen sind Abbildungen (antworten[].bild), zahl = Zahleneingabe"
+     },
+     "text": {
+      "type": "string"
+     },
+     "antworten": {
+      "type": "array",
+      "description": "Bei typ=auswahl und typ=bildauswahl; mehrere richtige möglich",
+      "items": {
+       "type": "object",
+       "required": [
+        "text",
+        "richtig"
+       ],
+       "properties": {
+        "text": {
+         "type": "string",
+         "description": "Antworttext bzw. bei Bildauswahl die Beschriftung/Alternativtext (wird erst nach dem Auflösen gezeigt)"
+        },
+        "richtig": {
+         "type": "boolean"
+        },
+        "bild": {
+         "type": "string",
+         "description": "Nur bei typ=bildauswahl: Pfad der Abbildung (Zeichen, eigene Grafik)"
+        },
+        "zeichen": {
+         "type": "string",
+         "description": "VzKat-Nummer, falls die Abbildung ein Verkehrszeichen ist"
+        }
+       }
+      }
+     },
+     "zahl": {
+      "type": "object",
+      "description": "Nur bei typ=zahl",
+      "required": [
+       "wert"
+      ],
+      "properties": {
+       "wert": {
+        "type": "number"
+       },
+       "einheit": {
+        "type": "string"
+       },
+       "toleranz": {
+        "type": "number"
+       }
+      }
+     },
+     "erklaerung": {
+      "type": "string"
+     },
+     "medien": {
+      "type": "object",
+      "properties": {
+       "bild": {
+        "type": [
+         "string",
+         "null"
+        ],
+        "description": "Pfad/URL relativ zur App-Basis oder absolut"
+       },
+       "bildAlt": {
+        "type": [
+         "string",
+         "null"
+        ]
+       },
+       "video": {
+        "type": [
+         "string",
+         "null"
+        ],
+        "description": "Pfad/URL zu MP4/WebM (für Videofragen)"
+       },
+       "poster": {
+        "type": [
+         "string",
+         "null"
+        ],
+        "description": "Vorschaubild für das Video"
+       },
+       "zusatzbilder": {
+        "type": "array",
+        "items": {
+         "type": "string"
+        },
+        "description": "Weitere Bilder, die unter dem Hauptbild gestapelt angezeigt werden (z. B. Zusatzzeichen unter einem Hauptzeichen)"
+       },
+       "film": {
+        "type": "string",
+        "description": "ID einer eigenen animierten Szene in data/filme.json (Filmfrage)"
+       }
+      }
+     },
+     "beispiel": {
+      "type": "boolean",
+      "description": "true = selbst erstellte Beispielfrage, keine amtliche Frage"
+     },
+     "zeichen": {
+      "type": "array",
+      "items": {
+       "type": "string"
+      },
+      "description": "VzKat-Nummern der gezeigten Verkehrszeichen (Verweis auf public/signs/signs.json, für Suche)"
+     },
+     "zahlenfrage": {
+      "type": "boolean",
+      "description": "Auch im Bereich Zahlenfragen anzeigen"
+     },
+     "quelle": {
+      "type": "string",
+      "description": "Projektinterne Herkunft (Batch/Datei)"
+     },
+     "grafik": {
+      "type": "string",
+      "description": "Spezifikation der erzeugten Situationsgrafik (scripts/svg-gen.mjs)"
+     }
+    }
+   }
+  }
+ },
+ "$defs": {
+  "pruefungsRegel": {
+   "type": "object",
+   "required": [
+    "fragen",
+    "punkte",
+    "maxFehlerpunkte",
+    "fuenferRegel",
+    "grundstoff",
+    "zusatzstoff",
+    "dauerMin"
+   ],
+   "properties": {
+    "fragen": {
+     "type": "integer"
+    },
+    "punkte": {
+     "type": "integer"
+    },
+    "maxFehlerpunkte": {
+     "type": "integer"
+    },
+    "fuenferRegel": {
+     "type": "boolean",
+     "description": "Nicht bestanden bei zwei falschen 5-Punkte-Fragen"
+    },
+    "grundstoff": {
+     "type": "integer"
+    },
+    "zusatzstoff": {
+     "type": "integer"
+    },
+    "dauerMin": {
+     "type": "integer"
+    },
+    "unsicher": {
+     "type": "array",
+     "items": {
+      "type": "string"
+     },
+     "description": "Felder ohne amtlichen Beleg"
+    }
+   }
+  }
+ }
+}

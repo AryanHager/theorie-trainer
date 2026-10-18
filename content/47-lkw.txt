@@ -1,0 +1,345 @@
+// Phase 2 – Zusatzstoff Lkw (C1, C, CE) – eigene Formulierungen
+// Quellen: StVO §§ 3, 12, 17, 18, 22, 30; StVZO §§ 32, 34; FeV §§ 6, 10; Anlage 2 StVO (Zeichen 253, 261–266, 269, 277)
+
+@klassen LKW
+
+@kapitel 2.6
+
+@punkte 4
+
+? Wie schnell dürfen Sie mit einem Lkw mit einer zulässigen Gesamtmasse von 7 t außerorts (nicht auf Autobahnen) höchstens fahren?
+N 80 km/h
+= Für Kraftfahrzeuge über 3,5 t bis 7,5 t gelten außerorts 80 km/h, sofern Zeichen nichts anderes anordnen.
+! zahl
+
+? Sie fahren einen 18-Tonner auf einer Bundesstraße außerorts ohne Geschwindigkeitszeichen. Welche Höchstgeschwindigkeit gilt für Sie?
+N 60 km/h
+= Für Kraftfahrzeuge über 7,5 t gilt außerorts 60 km/h. Auf Autobahnen und Kraftfahrstraßen mit baulich getrennten Richtungsfahrbahnen sind es 80 km/h.
+! zahl punkte=5
+
+? Wie schnell dürfen Sie mit einem Lkw über 3,5 t auf der Autobahn höchstens fahren?
+N 80 km/h
+= Das gilt auch, wenn ein Verkehrszeichen eine höhere Geschwindigkeit erlaubt.
+! zahl
+
+? Sie fahren mit einem Lkw über 3,5 t und einem Anhänger auf einer Landstraße. Wie schnell dürfen Sie höchstens fahren?
+N 60 km/h
+= Kraftfahrzeuge mit Anhänger – außer Pkw, Lkw und Wohnmobile bis 3,5 t – dürfen außerorts höchstens 60 km/h fahren.
+! zahl punkte=5
+
+? Welches zulässige Gesamtgewicht darf ein Lastzug oder Sattelkraftfahrzeug mit mehr als vier Achsen im Normalfall höchstens haben?
+N 40 t
+= Im kombinierten Verkehr mit Containern oder Wechselaufbauten sind unter bestimmten Voraussetzungen bis zu 44 t zulässig.
+! zahl
+
+? Wie breit darf ein Kühlfahrzeug mit wärmegedämmten Wänden höchstens sein?
+N 2,6 m
+= Allgemein gilt eine Höchstbreite von 2,55 m. Für Kühlfahrzeuge sind wegen der dicken Wände 2,60 m erlaubt.
+! zahl punkte=3
+
+? Wie lang darf ein Lkw (Einzelfahrzeug) höchstens sein?
+N 12 m
+= Für Sattelkraftfahrzeuge und Lastzüge gelten größere Längen.
+! zahl punkte=3
+
+? Wie lang darf ein Lastzug aus Lkw und Anhänger höchstens sein?
+N 18,75 m
+= Dabei sind zusätzlich bestimmte Teillängen der Ladeflächen einzuhalten.
+! zahl
+
+? Wie lang darf ein Sattelkraftfahrzeug in der Regel höchstens sein?
+N 16,5 m
+= Voraussetzung ist, dass die vorgeschriebenen Teillängen des Sattelanhängers eingehalten werden; sonst gelten 15,50 m.
+! zahl punkte=5
+
+? Wie weit darf Ladung höchstens nach hinten hinausragen, wenn die Fahrt nicht weiter als 100 km geht?
+N 3 m
+= Bei längeren Strecken darf die Ladung höchstens 1,50 m nach hinten hinausragen.
+! zahl
+
+? Ihre Ladung ragt mehr als 1 m über die Rückstrahler nach hinten hinaus. Wie müssen Sie das Ende kennzeichnen?
++ Mit einer hellroten Fahne oder einem hellroten Schild von mindestens 30 × 30 cm oder einem hellroten Zylinder
++ Wenn es die Sicht erfordert, zusätzlich mit einer roten Leuchte und einem roten Rückstrahler
+- Mit einem weißen Tuch
+= Die Kennzeichnung darf nicht höher als 1,50 m über der Fahrbahn angebracht sein. Der Rückstrahler darf höchstens 90 cm hoch sein.
+! punkte=5
+
+? Bis zu welcher Höhe darf Ladung überhaupt nicht nach vorn über das Fahrzeug hinausragen?
+N 2,5 m
+= Oberhalb von 2,50 m darf die Ladung höchstens 50 cm nach vorn hinausragen, bei Zügen über das ziehende Fahrzeug.
+! zahl
+
+? Wie lang dürfen Fahrzeug oder Zug samt Ladung höchstens sein?
+N 20,75 m
+= Diese Gesamtlänge darf auch mit überstehender Ladung nicht überschritten werden.
+! zahl punkte=3
+
+? Welche Achslast darf eine angetriebene Einzelachse höchstens haben?
+N 11,5 t
+= Für nicht angetriebene Einzelachsen gelten 10 t.
+! zahl punkte=4
+
+? Welches zulässige Gesamtgewicht darf ein zweiachsiger Lkw höchstens haben?
+N 18 t
+= Für Fahrzeuge mit alternativem Antrieb oder emissionsfreie Fahrzeuge darf das Gesamtgewicht in bestimmten Fällen geringfügig höher sein.
+! zahl punkte=4
+
+@punkte 3
+
+? An welchen Tagen und zu welcher Zeit gilt das Sonn- und Feiertagsfahrverbot für Lkw über 7,5 t?
++ An Sonn- und Feiertagen von 0 bis 22 Uhr
+- Nur an Sonntagen von 6 bis 18 Uhr
+- An Samstagen ab 15 Uhr
+= Das Verbot betrifft die geschäftsmäßige oder entgeltliche Güterbeförderung mit Lkw über 7,5 t sowie Anhänger hinter Lkw.
+! punkte=4
+
+? Für welche Fahrten gilt das Sonn- und Feiertagsfahrverbot nicht?
++ Für die Beförderung frischer Milch, frischen Fleisches oder leicht verderblichen Obstes und Gemüses
++ Für Bergungs-, Abschlepp- und Pannenhilfsfahrzeuge im Notfall
+- Für alle Fahrten mit Kühlaufbau, unabhängig von der Ladung
+= Daneben gibt es weitere Ausnahmen, etwa für den kombinierten Verkehr bis zu bestimmten Entfernungen. Die Ausnahme hängt von der Ladung ab, nicht vom Aufbau.
+! punkte=5
+
+? Dürfen Sie Ihren Lkw mit 12 t zulässiger Gesamtmasse regelmäßig nachts in einem Wohngebiet am Straßenrand parken?
++ Nein, das regelmäßige Parken ist dort zwischen 22 und 6 Uhr sowie an Sonn- und Feiertagen unzulässig
+- Ja, wenn er beleuchtet ist
+- Ja, wenn der Motor aus ist
+= Die Regel gilt innerorts für Kraftfahrzeuge über 7,5 t und Anhänger über 2 t in Wohn-, Kur-, Klinik- und Erholungsgebieten. Gekennzeichnete Parkplätze sind ausgenommen.
+
+? Wie muss Ladung gesichert sein?
++ So, dass sie auch bei einer Vollbremsung oder einem plötzlichen Ausweichen nicht verrutschen, umfallen oder herabfallen kann
++ Nach den anerkannten Regeln der Technik
+- Nur so, dass sie bei normaler Fahrt nicht herunterfällt
+= Die Sicherung muss auch Extremsituationen standhalten. Auch Ladungssicherungsmittel und Ladeeinrichtungen sind zu sichern.
+
+? Wer ist für die Ladungssicherung verantwortlich?
++ Die Person, die das Fahrzeug führt
++ Auch die Person, die verlädt, und der Halter
+- Ausschließlich der Absender
+= Die Verantwortung ist geteilt: Wer fährt, muss dafür sorgen, dass die Ladung vorschriftsmäßig ist und sicher verstaut bleibt (StVO § 22 Abs. 1, § 23 Abs. 1). Der Halter darf die Fahrt nicht zulassen, wenn er weiß oder wissen muss, dass die Ladung nicht vorschriftsmäßig ist (StVZO § 31 Abs. 2). Im Frachtvertrag hat außerdem der Absender beförderungssicher zu verladen und zu befestigen (HGB § 412 Abs. 1).
+
+@kapitel 2.7
+
+@punkte 4
+
+? Was versteht man unter formschlüssiger Ladungssicherung?
++ Die Ladung wird lückenlos an Stirnwand, Bordwände oder andere feste Begrenzungen angelegt
+- Die Ladung wird nur durch Reibung gehalten
+- Die Ladung wird mit möglichst großen Abständen verteilt
+= Formschluss ist besonders wirksam. Lücken können mit Füllmitteln wie Luftsäcken oder Leerpaletten geschlossen werden.
+
+? Wie wirken Antirutschmatten bei der Ladungssicherung?
++ Sie erhöhen die Reibung zwischen Ladung und Ladefläche
+- Sie ersetzen jede weitere Sicherung
+- Sie verringern das Gewicht der Ladung
+= Durch höhere Reibung sind weniger Zurrmittel erforderlich. Die Ladefläche muss sauber und trocken sein.
+
+? Was müssen Sie beim Niederzurren beachten?
++ Je steiler der Zurrwinkel zur Ladefläche, desto besser die Wirkung
++ Die Vorspannkraft der Zurrgurte muss ausreichend sein
+- Niederzurren wirkt unabhängig von der Reibung
+= Beim Niederzurren wird die Ladung auf die Fläche gepresst. Wirksam ist das nur bei ausreichender Reibung.
+
+? Was ist ein Lastverteilungsplan?
++ Eine Darstellung, wie viel Ladung an welcher Stelle der Ladefläche stehen darf, ohne Achslasten zu überschreiten
+- Ein Plan für die Verteilung der Touren auf die Fahrer
+- Eine Liste der Empfänger
+= Ist die Ladung falsch verteilt, können einzelne Achsen überlastet oder die Lenkachse zu stark entlastet werden – auch wenn das Gesamtgewicht stimmt.
+
+? Ein Zurrgurt ist eingerissen und die Naht beschädigt. Was tun Sie?
++ Den Gurt nicht mehr verwenden
+- Den Gurt verknoten und weiterbenutzen
+- Ihn nur für leichte Ladung verwenden
+= Beschädigte Zurrmittel können plötzlich reißen. Auch das Etikett mit Angaben zur Belastbarkeit muss lesbar sein.
+
+? Sie haben nur einen Teil Ihrer Ladung abgeladen. Was müssen Sie vor der Weiterfahrt tun?
++ Die Restladung erneut sichern und die Lastverteilung prüfen
+- Nichts, die Ladung wurde bereits beim Beladen gesichert
+- Schneller fahren, weil das Fahrzeug leichter ist
+= Teilentladung schafft Lücken und kann die Achslastverteilung verschieben.
+
+@punkte 3
+
+? Sie fahren einen Kipper. Was müssen Sie vor dem Abkippen prüfen?
++ Ob der Untergrund fest und eben ist
++ Ob sich Freileitungen oder andere Hindernisse über dem Fahrzeug befinden
+- Ob der Motor ausgeschaltet ist, weil das Kippen sonst nicht geht
+= Auf weichem oder schrägem Untergrund kann ein Kipper umstürzen. Freileitungen können lebensgefährliche Stromschläge verursachen.
+
+? Wozu dient eine Ladebordwand und was ist beim Betrieb zu beachten?
++ Zum Be- und Entladen schwerer Lasten; niemand darf sich unter oder im Schwenkbereich aufhalten
+- Sie ersetzt die Rückwand während der Fahrt
+- Sie darf als Personenaufzug benutzt werden
+= Ladebordwände werden beim Fahren hochgeklappt und gesichert. Die Tragfähigkeit ist zu beachten.
+
+? Was bewirkt ein automatischer Blockierverhinderer (ABS) beim Lkw?
++ Er verhindert das Blockieren der Räder und erhält die Lenkfähigkeit beim Bremsen
+- Er verkürzt den Bremsweg auf jeder Fahrbahn
+- Er verhindert Auffahrunfälle automatisch
+= Mit ABS kann während einer Vollbremsung ausgewichen werden. Der Bremsweg kann auf losem Untergrund sogar länger sein.
+
+@kapitel 2.1
+
+@punkte 5
+
+? Sie fahren eine lange Gefällstrecke hinab. Wie verhindern Sie eine Überhitzung der Bremsen?
++ Vor Beginn des Gefälles einen kleinen Gang wählen und die Dauerbremse nutzen
+- Im höchsten Gang rollen lassen und bei Bedarf kräftig mit der Betriebsbremse bremsen
+- Im Leerlauf fahren, um Kraftstoff zu sparen
+= Als Faustregel wählen Sie bergab einen Gang, den Sie auch für die Steigung benötigen würden. Die Betriebsbremse bleibt so für den Notfall kühl.
+
+? Ihr leerer Lkw beginnt auf glatter Fahrbahn beim Bremsen auszubrechen. Warum ist ein leerer Lkw dafür anfälliger?
++ Die Antriebsachse ist wenig belastet und kann leichter blockieren oder durchdrehen
+- Weil leere Lkw schwerer sind
+- Ein leerer Lkw ist immer stabiler
+= Bei leeren Fahrzeugen ist die Bremswirkung schlechter dosierbar. Fahren Sie besonders vorsichtig.
+
+@punkte 4
+
+? Sie haben flüssige Ladung in einem nur teilweise gefüllten Tank. Was müssen Sie beim Bremsen und in Kurven beachten?
++ Die Flüssigkeit schwappt und kann das Fahrzeug schieben oder zum Kippen bringen
+- Teilbeladene Tanks verhalten sich wie feste Ladung
+- Flüssigkeiten erhöhen die Bodenhaftung
+= Sanft bremsen, frühzeitig verzögern und Kurven langsam durchfahren. Schwallwände verringern die Bewegung.
+
+? Hängende Ladung (z. B. Fleisch an Haken) ist besonders gefährlich. Warum?
++ Sie pendelt in Kurven und beim Bremsen und verlagert den Schwerpunkt
+- Weil sie leichter ist als stehende Ladung
+- Hängende Ladung ist ungefährlich
+= Der Schwerpunkt verlagert sich dynamisch. Kurven deutlich langsamer fahren.
+
+? Sie fahren einen Lkw mit hohem Aufbau. Worauf müssen Sie bei Bäumen am Fahrbahnrand achten?
++ Äste können in den Fahrraum ragen und Aufbau oder Spiegel beschädigen
+- Bäume sind für Lkw unproblematisch
+- Ich sollte möglichst weit rechts fahren
+= Zu weit rechts kann auch das Bankett nachgeben. Ein ausreichender Abstand zum Rand und zur Mitte ist zu wählen.
+
+@punkte 3
+
+? Sie wollen mit dem Lkw rückwärts in eine Einfahrt fahren und können den Bereich hinter dem Fahrzeug nicht einsehen. Was tun Sie?
++ Mich von einer Person einweisen lassen
+- Hupen und zügig zurücksetzen
+- Mich ganz auf die Spiegel verlassen
+= Wenn nötig, muss man sich einweisen lassen. Das gilt besonders bei Fahrzeugen, hinter denen ein großer Bereich verdeckt ist.
+
+@kapitel 2.2
+
+@punkte 4
+
+? Die Sicht ist durch Schneefall auf 40 m gesunken. Welchen Fahrstreifen dürfen Sie auf einer Autobahn mit drei Fahrstreifen mit einem Lkw über 7,5 t nicht benutzen?
++ Den äußerst linken Fahrstreifen
+- Den rechten Fahrstreifen
+- Den mittleren Fahrstreifen
+= Bei Sicht unter 50 m durch Schnee oder Regen sowie bei Schneeglätte oder Glatteis ist der äußerst linke Fahrstreifen für diese Fahrzeuge tabu.
+
+? Sie fahren auf der Autobahn und wollen einen anderen Lkw überholen. Was ist richtig?
++ Nur überholen, wenn ich mit deutlich höherer Geschwindigkeit fahren kann und das Überholen zügig abgeschlossen wird
+- Überholen ist auch erlaubt, wenn es mehrere Kilometer dauert
+- Ich darf dafür kurz die zulässige Höchstgeschwindigkeit überschreiten
+= Lange Überholvorgänge („Elefantenrennen“) behindern andere stark. Wer nur mit geringer Geschwindigkeitsdifferenz überholen kann, verzichtet darauf.
+
+@punkte 3
+
+? Sie bemerken unterwegs, dass Ladung zu verrutschen droht. Was tun Sie?
++ An sicherer Stelle anhalten und die Ladung neu sichern
+- Langsamer weiterfahren bis zum Ziel
+- Die Warnblinkanlage einschalten und weiterfahren
+= Verrutschende Ladung kann das Fahrzeug zum Kippen bringen oder herabfallen. Halten Sie bei der nächsten Gelegenheit sicher an.
+
+@kapitel 2.4
+
+@punkte 3
+
+? Sie fahren einen Lkw mit 7,5 t zulässiger Gesamtmasse. Dürfen Sie hier einfahren?
++ Nein, das Verbot gilt für Kraftfahrzeuge mit einer zulässigen Gesamtmasse über 3,5 t
+- Ja, wenn mein Lkw leer ist
+- Ja, weil das Verbot nur für Anhänger gilt
+= Maßgeblich ist die zulässige Gesamtmasse, nicht das aktuelle Gewicht.
+# zeichen 253
+
+? Dieses Zeichen zeigt 5,5 t. Ihr Lkw hat eine zulässige Gesamtmasse von 7,5 t, ist aber nur mit 5 t tatsächlich beladen und gewogen. Dürfen Sie hier fahren?
++ Ja, das Zeichen bezieht sich auf die tatsächliche Masse
+- Nein, maßgebend ist die zulässige Gesamtmasse
+- Nur mit Ausnahmegenehmigung
+= Zeichen mit Massenangabe in dieser Form beschränken die tatsächliche Masse des Fahrzeugs. Das tatsächliche Gewicht müssen Sie kennen.
+# zeichen 262-5
+! punkte=5
+
+? Was bedeutet dieses Zeichen?
++ Verbot für Fahrzeuge, deren tatsächliche Achslast die angegebene Grenze überschreitet
+- Verbot für Fahrzeuge mit mehr als der angegebenen Anzahl Achsen
+- Verbot für Fahrzeuge über der angegebenen zulässigen Gesamtmasse
+= Die Achslast ist das Gewicht, das eine Achse auf die Fahrbahn bringt. Sie hängt von der Beladung und ihrer Verteilung ab.
+# zeichen 263-8
+! punkte=4
+
+? Ihr Fahrzeug ist mit Ladung 3,9 m hoch. Das Zeichen zeigt 3,8 m. Was tun Sie?
++ Nicht durchfahren und eine andere Strecke wählen
+- Langsam durchfahren
+- Die Luft aus den Reifen lassen
+= Die Höhenangabe gilt für die tatsächliche Höhe einschließlich Ladung.
+# zeichen 265-3
+
+? Für wen gilt dieses Zeichen?
++ Für Fahrzeuge, die breiter sind als die angegebene Breite – einschließlich Ladung
+- Nur für Pkw
+- Für Fahrzeuge mit mehr als zwei Achsen
+= Auch seitlich überstehende Ladung zählt mit.
+# zeichen 264-2
+! punkte=2
+
+? Sie fahren einen Lastzug von 18 m Länge. Dieses Zeichen zeigt 10 m. Was gilt?
++ Ich darf hier nicht einfahren
+- Ich darf einfahren, wenn mein Zugfahrzeug kürzer als 10 m ist
+- Das Zeichen gilt nur für Busse
+= Maßgeblich ist die tatsächliche Länge des Fahrzeugs oder Zuges einschließlich Ladung.
+# zeichen 266-10
+! punkte=3
+
+? Sie haben 2 000 Liter Heizöl geladen. Dürfen Sie hier weiterfahren?
++ Nein, das Zeichen verbietet die Durchfahrt für Fahrzeuge mit wassergefährdender Ladung
+- Ja, Heizöl ist nicht wassergefährdend
+- Ja, wenn ich langsam fahre
+= Das Zeichen schützt z. B. Wasserschutzgebiete. Heizöl, Kraftstoffe und viele Chemikalien sind wassergefährdend.
+# zeichen 269
+! punkte=4
+
+? Dieses Überholverbot ist aufgestellt. Für welche Fahrzeuge gilt es?
++ Für Kraftfahrzeuge mit einer zulässigen Gesamtmasse über 3,5 t einschließlich ihrer Anhänger
++ Für Zugmaschinen
+- Für Kraftomnibusse
+= Pkw und Kraftomnibusse sind ausgenommen – auch wenn sie schwerer als 3,5 t sind.
+# zeichen 277
+
+@kapitel 2.8
+
+@punkte 3
+
+? Welche Fahrzeuge dürfen Sie mit der Klasse C1 fahren?
++ Kraftfahrzeuge mit einer zulässigen Gesamtmasse von mehr als 3 500 kg, aber nicht mehr als 7 500 kg (bis 8 Personen außer dem Fahrer)
+- Kraftfahrzeuge bis 12 000 kg
+- Kraftomnibusse bis 16 Fahrgastplätze
+= Mit C1 darf auch ein leichter Anhänger bis 750 kg zulässige Gesamtmasse mitgeführt werden.
+! klassen=C1
+
+? Wie alt müssen Sie mindestens sein, um die Klasse C1 zu erwerben?
+N 18 Jahre
+= Wer berufsmäßig Güter befördert, braucht zusätzlich die Grundqualifikation nach dem Berufskraftfahrerqualifikationsgesetz.
+! klassen=C1 zahl
+
+? Mit der Klasse C1 ziehen Sie einen Anhänger. Welche zulässige Gesamtmasse darf er höchstens haben, wenn Sie keine weitere Klasse besitzen?
+N 750 kg
+= Für schwerere Anhänger ist die Klasse C1E erforderlich.
+! klassen=C1 zahl punkte=4
+
+? Welche Klasse ist in der Klasse C eingeschlossen?
++ Die Klasse C1
+- Die Klasse D1
+- Die Klasse CE
+= Für schwere Anhänger über 750 kg wird zusätzlich die Klasse CE benötigt.
+! klassen=C punkte=2
+
+? Welches Mindestalter gilt für die Klassen C und CE, wenn Sie weder eine Grundqualifikation noch eine Berufsausbildung als Kraftfahrer haben?
+N 21 Jahre
+= Mit einer Grundqualifikation oder im Rahmen einer Berufsausbildung ist der Erwerb ab 18 Jahren möglich.
+! klassen=C,CE zahl punkte=4

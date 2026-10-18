@@ -1,0 +1,396 @@
+// 1.1 Gefahrenlehre (Grundstoff) – eigene Formulierungen, Batch 1
+@kapitel 1.1
+@klassen ALLE
+@punkte 4
+
+? In einer Wohnstraße sehen Sie am Fahrbahnrand einen Eiswagen. Womit rechnen Sie?
++ Kinder könnten plötzlich hinter dem Wagen hervor auf die Straße laufen
++ Personen könnten die Fahrbahn ohne auf den Verkehr zu achten überqueren
+- Mit nichts Besonderem, solange die Straße frei ist
+= Wo Kinder gelockt werden, achten sie kaum auf Fahrzeuge. Langsam fahren, Abstand zu parkenden Fahrzeugen halten und bremsbereit sein.
+
+? Vor Ihnen fährt ein Kind auf einem Fahrrad unsicher und schwankend am rechten Rand. Wie verhalten Sie sich?
++ Ich halte besonders großen Abstand und überhole nur mit ausreichendem Seitenabstand
++ Ich rechne damit, dass das Kind plötzlich nach links ausweicht
+- Ich hupe, damit das Kind weiter nach rechts fährt
+= Kinder auf Fahrrädern können unerwartet schwenken oder stürzen. Hupen kann sie erschrecken. Überholen nur mit mindestens 1,5 m (innerorts) bzw. 2 m (außerorts) Seitenabstand.
+
+? Ein älterer Mensch mit Gehstock steht am Fahrbahnrand und schaut immer wieder auf die Straße. Was ist richtig?
++ Ich rechne damit, dass die Person die Fahrbahn betreten will
++ Ich verringere die Geschwindigkeit und bin bremsbereit
+- Ich fahre zügig vorbei, bevor die Person losgeht
+= Ältere Menschen brauchen oft länger zum Überqueren und schätzen Geschwindigkeiten manchmal falsch ein. Rücksicht und Bremsbereitschaft sind gefordert.
+
+? Was gilt gegenüber Kindern, hilfsbedürftigen und älteren Menschen im Straßenverkehr?
++ Ich muss mich so verhalten, dass eine Gefährdung dieser Menschen ausgeschlossen ist
++ Ich muss insbesondere durch Verminderung der Geschwindigkeit und Bremsbereitschaft reagieren
+- Es gilt dieselbe Sorgfalt wie gegenüber allen anderen, mehr nicht
+= Die StVO verlangt gegenüber Kindern, Hilfsbedürftigen und älteren Menschen ein besonderes Maß an Vorsicht – bis hin zum Ausschluss jeder Gefährdung.
+! punkte=5
+
+? Sie fahren nachts auf einer unbeleuchteten Landstraße. Ein entgegenkommendes Fahrzeug blendet Sie. Wie reagieren Sie?
++ Ich schaue auf den rechten Fahrbahnrand
++ Ich verringere die Geschwindigkeit, notfalls halte ich an
+- Ich blende selbst auf, damit der andere abblendet
+= Wer geblendet wird, sieht kaum etwas. Blick nach rechts unten zum Fahrbahnrand und langsamer werden. Zurückblenden gefährdet beide.
+
+? Warum ist das Fahren in der Dämmerung besonders gefährlich?
++ Konturen und Farben sind schwerer zu erkennen
++ Unbeleuchtete Personen und Radfahrende werden leicht übersehen
+- Weil in der Dämmerung kein Licht eingeschaltet werden darf
+= In der Dämmerung lässt die Sehschärfe nach, Kontraste verschwimmen. Früh Licht einschalten und mit schlecht sichtbaren Verkehrsteilnehmenden rechnen.
+
+? Nach einem langen Hitzetag beginnt es leicht zu regnen. Womit müssen Sie rechnen?
++ Die Fahrbahn kann durch Staub, Reifenabrieb und Öl besonders glatt werden
++ Der Bremsweg kann sich deutlich verlängern
+- Leichter Regen macht die Fahrbahn griffiger
+= Gerade bei beginnendem Regen bildet sich mit dem Schmutz auf der Straße ein schmieriger Film. Abstand vergrößern und vorsichtig bremsen.
+
+? Wie verhalten Sie sich bei starkem Seitenwind, etwa auf Brücken oder an Waldschneisen?
++ Ich verringere die Geschwindigkeit
++ Ich halte das Lenkrad fest und rechne mit einem Versatz des Fahrzeugs
+- Ich fahre schneller, damit die Windeinwirkung kürzer dauert
+= Seitenwindböen können ein Fahrzeug plötzlich versetzen. Langsamer fahren und gegenhalten. Besonders gefährdet sind hohe Fahrzeuge, Gespanne und Zweiräder.
+
+? Auf der Fahrbahn liegt nasses Herbstlaub. Was ist richtig?
++ Das Laub kann die Fahrbahn so glatt machen wie Eis
++ Ich vermeide starkes Bremsen und abrupte Lenkbewegungen
+- Laub hat keinen Einfluss auf die Haftung der Reifen
+= Nasses Laub vermindert die Haftung erheblich. Geschwindigkeit anpassen und gleichmäßig fahren.
+
+? Bei welchem Wetter ist mit Reifglätte zu rechnen?
++ Bei klarem, kaltem Wetter in den Morgenstunden
++ Besonders in Waldstücken, Senken und auf Brücken
+- Nur wenn es vorher geschneit hat
+= Reif entsteht, wenn Luftfeuchtigkeit bei Frost auf der Fahrbahn gefriert – auch ohne Niederschlag. Typisch sind schattige Stellen und Brücken.
+
+? Was erhöht die Gefahr von Aquaplaning?
++ Hohe Geschwindigkeit
++ Geringe Profiltiefe der Reifen
+- Niedrige Geschwindigkeit
+= Je schneller und je weniger Profil, desto weniger Wasser können die Reifen verdrängen. Bei starkem Regen und Spurrinnen langsamer fahren.
+
+? Sie wollen auf einer Landstraße überholen. Was müssen Sie besonders beachten?
++ Ich muss die gesamte Überholstrecke einschließlich des Gegenverkehrs überblicken können
++ Die Geschwindigkeit des Gegenverkehrs wird oft unterschätzt
+- Überholen ist immer sicher, wenn ich stark beschleunige
+= Überholen auf Landstraßen ist besonders unfallträchtig. Nur überholen, wenn die Strecke frei und überschaubar ist und eine Behinderung des Gegenverkehrs ausgeschlossen ist.
+! punkte=5 klassen=MOT
+
+? Ein Fahrzeug vor Ihnen bremst plötzlich stark. Was hilft am meisten, einen Auffahrunfall zu vermeiden?
++ Ein ausreichender Sicherheitsabstand
++ Aufmerksamkeit und frühzeitiges Erkennen der Situation
+- Möglichst dicht auffahren, damit niemand dazwischen einschert
+= Nur wer genug Abstand hält, hat Zeit zu reagieren. Als Faustregel gilt außerorts mindestens der Abstand, den man in 2 Sekunden zurücklegt.
+
+? Wie können Sie den Sicherheitsabstand zum vorausfahrenden Fahrzeug einfach überprüfen?
++ Mit der „2-Sekunden-Regel“ an einem festen Punkt am Straßenrand
+- Indem ich auf den Drehzahlmesser achte
+- Indem ich die Fahrzeuglänge des Vordermanns schätze
+= Passiert das vordere Fahrzeug einen Leitpfosten, zählt man „einundzwanzig, zweiundzwanzig“. Erreicht man den Pfosten vorher, ist der Abstand zu klein.
+
+? Wovon hängt die Länge des Bremsweges ab?
++ Von der Geschwindigkeit
++ Vom Zustand der Fahrbahn und der Reifen
+- Von der Reaktionszeit des Fahrers
+= Der Bremsweg beginnt erst mit dem Bremsen. Die Reaktionszeit beeinflusst den Reaktionsweg, nicht den Bremsweg. Der Anhalteweg ist die Summe aus beiden.
+
+? Was gehört zum Anhalteweg?
++ Der Reaktionsweg
++ Der Bremsweg
+- Der Sicherheitsabstand
+= Anhalteweg = Reaktionsweg + Bremsweg. Er ist die Strecke vom Erkennen einer Gefahr bis zum Stillstand.
+! punkte=3
+
+? Wie verändert sich der Bremsweg, wenn Sie die Geschwindigkeit verdoppeln?
++ Er wird etwa viermal so lang
+- Er wird etwa doppelt so lang
+- Er bleibt gleich
+= Der Bremsweg wächst mit dem Quadrat der Geschwindigkeit. Doppelte Geschwindigkeit bedeutet etwa vierfachen Bremsweg.
+! zahl
+
+? Wie lang ist der normale Bremsweg nach der Faustformel „(Geschwindigkeit ÷ 10)²“ bei 100 km/h?
+N 100 m
+= 100 ÷ 10 = 10, 10 × 10 = 100 m. Bei einer Gefahrbremsung etwa die Hälfte, also rund 50 m.
+! punkte=3 mutter=BSP-7-047
+
+? Wie lang ist der Reaktionsweg nach der Faustformel „(Geschwindigkeit ÷ 10) × 3“ bei 100 km/h?
+N 30 m
+= 100 ÷ 10 = 10, 10 × 3 = 30 m. So weit fährt man in etwa einer Sekunde Reaktionszeit.
+! punkte=3 mutter=BSP-7-046
+
+? Wie lang ist der Anhalteweg (Reaktionsweg + normaler Bremsweg) nach den Faustformeln bei 70 km/h?
+N 70 m
+= Reaktionsweg: 7 × 3 = 21 m. Bremsweg: 7 × 7 = 49 m. Anhalteweg: 21 + 49 = 70 m.
+! punkte=3
+
+? Wie lang ist der Bremsweg bei einer Gefahrbremsung nach der Faustformel „(Geschwindigkeit ÷ 10)² ÷ 2“ bei 80 km/h?
+N 32 m
+= 80 ÷ 10 = 8, 8 × 8 = 64, 64 ÷ 2 = 32 m.
+! punkte=3
+
+? Was verlängert die Reaktionszeit?
++ Müdigkeit
++ Ablenkung, z. B. durch Bedienen des Navigationsgeräts
++ Alkohol und andere berauschende Mittel
+- Eine aufrechte, entspannte Sitzposition
+= Alles, was Aufmerksamkeit oder Wachheit beeinträchtigt, verzögert die Reaktion – und verlängert damit den Reaktionsweg.
+
+? Sie wollen nachts mit Abblendlicht fahren. Was müssen Sie beachten?
++ Ich muss innerhalb der ausgeleuchteten Strecke anhalten können
+- Mit Abblendlicht darf ich genauso schnell fahren wie mit Fernlicht
+- Innerorts brauche ich nachts kein Licht, wenn die Straße beleuchtet ist
+= Es gilt das Sichtfahrgebot: Man darf nur so schnell fahren, dass man innerhalb der übersehbaren Strecke anhalten kann. Mit Abblendlicht ist diese Strecke kurz.
+! punkte=5
+
+? Auf einer schmalen Straße ohne Mittellinie ist die Sicht durch eine Kurve eingeschränkt. Wie schnell dürfen Sie höchstens fahren?
++ So schnell, dass ich innerhalb der halben übersehbaren Strecke anhalten kann
+- So schnell, dass ich innerhalb der ganzen übersehbaren Strecke anhalten kann
+- So schnell wie erlaubt, der Gegenverkehr muss aufpassen
+= Auf Straßen, auf denen Gegenverkehr gefährdet werden könnte, muss man innerhalb der halben übersehbaren Strecke anhalten können – der Gegenverkehr braucht die andere Hälfte.
+! punkte=5
+
+? Was ist bei einer Fahrt mit hoher Geschwindigkeit zu beachten?
++ Das Blickfeld wird enger, seitliche Gefahren werden später erkannt
++ Der Anhalteweg wird deutlich länger
+- Die Reaktionszeit wird kürzer
+= Mit zunehmender Geschwindigkeit verengt sich der Blick („Tunnelblick“) und Anhaltewege wachsen stark an.
+
+? Sie stehen an einer roten Ampel in der linken Spur. Der Fahrstreifen rechts neben Ihnen ist frei. Bei Grün wollen Sie zügig losfahren. Was müssen Sie beachten?
++ Fußgänger oder Radfahrende könnten noch die Fahrbahn überqueren
++ Nachzügler im Querverkehr könnten noch in die Kreuzung einfahren
+- Bei Grün kann ich ohne Umschauen losfahren
+= Grün heißt nicht, dass die Kreuzung frei ist. Vor dem Anfahren auf Nachzügler und Personen auf der Fahrbahn achten.
+
+? Ein Ball springt hinter einem Gebüsch auf die Straße. Sie fahren 30 km/h. Was tun Sie?
++ Sofort bremsen, weil ein Kind folgen könnte
+- Dem Ball ausweichen und weiterfahren
+- Hupen und beschleunigen
+= Bei einem plötzlich auftauchenden Ball muss man stets mit einem nachlaufenden Kind rechnen. Sofort bremsen.
+! punkte=5
+
+? Ein Fahrzeug mit Warnblinklicht steht vor Ihnen auf dem Seitenstreifen einer Landstraße. Womit rechnen Sie?
++ Personen könnten aussteigen oder neben dem Fahrzeug stehen
++ Das Fahrzeug könnte unvermittelt anfahren
+- Mit nichts, der Seitenstreifen gehört nicht zur Fahrbahn
+= Ein liegengebliebenes oder haltendes Fahrzeug bedeutet Gefahr. Geschwindigkeit verringern und mit Abstand vorbeifahren.
+
+? An einem Bahnübergang mit Halbschranken beginnt das rote Blinklicht zu leuchten. Was tun Sie?
++ Ich halte vor dem Bahnübergang an
+- Ich fahre noch schnell hinüber, solange sich die Schranken nicht gesenkt haben
+- Ich umfahre die sich senkenden Schranken vorsichtig
+= Rotes Blinklicht oder Rotlicht am Bahnübergang verlangt anzuhalten. Ein Zug ist schneller da, als man denkt, und kann nicht ausweichen.
+! punkte=5
+
+? Ihr Fahrzeug bleibt auf einem Bahnübergang liegen. Was ist zu tun?
++ Alle Insassen sofort aus dem Gefahrenbereich bringen
++ Den Bahnbetrieb, z. B. über die Notrufnummer am Bahnübergang oder 112, verständigen
+- Im Fahrzeug bleiben und auf Hilfe warten
+= Menschenleben gehen vor. Sofort raus, Abstand zu den Gleisen, dann Bahn bzw. Notruf verständigen. Wenn möglich, das Fahrzeug nur ohne eigene Gefährdung wegschieben.
+! punkte=5
+
+? Vor Ihnen fährt ein Traktor mit etwa 25 km/h. Die Gegenfahrbahn ist nur kurz einsehbar. Was ist richtig?
++ Ich bleibe hinter dem Traktor, bis gefahrlos überholt werden kann
+- Ich überhole sofort, da der Traktor langsam ist
+- Ich fahre dicht auf, damit der Traktor rechts ranfährt
+= Auch langsame Fahrzeuge dürfen nur überholt werden, wenn die Strecke überschaubar ist und der Gegenverkehr nicht behindert wird.
+! klassen=MOT
+
+? Wie wirkt sich Alkohol auf das Fahrverhalten aus?
++ Die Risikobereitschaft steigt
++ Das Reaktionsvermögen sinkt
+- Die Sehleistung, insbesondere bei Nacht, verbessert sich
+= Alkohol verlangsamt Reaktionen, verschlechtert das Sehen (Tunnelblick, Blendempfindlichkeit) und führt zur Selbstüberschätzung.
+! punkte=5
+
+? Wodurch lässt sich der Abbau von Alkohol im Blut beschleunigen?
+- Durch Kaffee
+- Durch Bewegung an frischer Luft
++ Durch nichts – der Körper baut Alkohol nur langsam und gleichmäßig ab
+= Der Körper baut im Schnitt nur etwa 0,1 bis 0,2 Promille pro Stunde ab. Kaffee, kalte Duschen oder Spaziergänge ändern daran nichts.
+! punkte=4
+
+? Sie haben am Abend viel Alkohol getrunken. Was gilt am nächsten Morgen?
++ Ich kann noch immer fahruntüchtig sein
++ Ich verzichte im Zweifel auf das Fahren
+- Nach dem Schlafen ist der Alkohol immer vollständig abgebaut
+= Restalkohol am Morgen ist eine häufige Unfallursache. Schlafen beschleunigt den Abbau nicht.
+! punkte=5
+
+? Was gilt für das Führen eines Kraftfahrzeugs nach dem Konsum von Cannabis (außerhalb der Probezeit und ab 21 Jahren)?
++ Ab einem THC-Wert von 3,5 ng/ml im Blutserum liegt eine Ordnungswidrigkeit vor
++ Der gleichzeitige Konsum von Cannabis und Alkohol ist beim Fahren verboten
+- Cannabis ist seit der Legalisierung beim Fahren ohne Grenzwert erlaubt
+= Seit 2024 gilt im Straßenverkehr ein THC-Grenzwert von 3,5 ng/ml Blutserum. Mischkonsum mit Alkohol ist verboten. Für Fahranfänger in der Probezeit und unter 21 gilt ein Cannabisverbot.
+! punkte=5 klassen=MOT
+
+? Sie nehmen Medikamente ein. Was müssen Sie beachten?
++ Ich lese den Beipackzettel auf Hinweise zur Fahrtüchtigkeit
++ Im Zweifel frage ich Arzt oder Apotheke
+- Medikamente vom Arzt beeinträchtigen nie die Fahrtüchtigkeit
+= Viele Arzneimittel – z. B. gegen Allergien, Schmerzen oder Schlafstörungen – können müde machen oder die Reaktion verlangsamen. Zusammen mit Alkohol verstärkt sich die Wirkung.
+
+? Woran erkennen Sie Übermüdung am Steuer?
++ Die Augen brennen und die Lider werden schwer
++ Ich gähne häufig und kann mich schlecht konzentrieren
+- Ich fahre besonders gleichmäßig
+= Typische Anzeichen sind häufiges Gähnen, schwere Lider, Frösteln und „Abdriften“ der Gedanken. Dann sofort eine Pause einlegen.
+
+? Was ist bei langen Fahrten sinnvoll?
++ Etwa alle zwei Stunden eine Pause einlegen
++ Ausgeruht losfahren
+- Pausen möglichst vermeiden, um schnell anzukommen
+= Regelmäßige Pausen mit Bewegung und frischer Luft beugen Ermüdung vor. Am sichersten fährt man ausgeschlafen.
+! punkte=3
+
+? Ein Fahrzeug vor Ihnen fährt in Schlangenlinien. Was ist richtig?
++ Ich halte ausreichend Abstand
++ Ich überhole nur, wenn dies gefahrlos möglich ist
+- Ich fahre dicht auf und hupe dauerhaft
+= Der Fahrer könnte übermüdet, krank oder berauscht sein. Abstand halten, nicht riskant überholen, notfalls die Polizei verständigen.
+
+? Sie nähern sich einer Stelle, an der ein Unfall passiert ist. Was ist zu tun?
++ Geschwindigkeit verringern und auf Personen auf der Fahrbahn achten
++ Wenn nötig, anhalten und Hilfe leisten
+- Langsam vorbeifahren und mit dem Handy filmen
+= Jeder ist bei Unfällen zur Hilfe verpflichtet, soweit zumutbar. Gaffen und Filmen behindert Rettungskräfte und kann strafbar sein.
+! punkte=5
+
+? Wie sichern Sie eine Unfallstelle auf einer Landstraße ab?
++ Warnblinklicht einschalten und Warnweste anziehen
++ Das Warndreieck in ausreichender Entfernung aufstellen, außerorts etwa 100 m vor der Unfallstelle
+- Das Warndreieck direkt hinter das Fahrzeug stellen
+= Nachfolgender Verkehr muss rechtzeitig gewarnt werden. Als Faustwerte gelten innerorts etwa 50 m, auf Landstraßen etwa 100 m und auf Autobahnen etwa 200 m – vor Kurven und Kuppen entsprechend früher.
+! klassen=MOT
+
+? Welche Notrufnummer gilt in ganz Europa für Rettungsdienst und Feuerwehr?
+N 112
+= Die 112 ist in allen EU-Staaten kostenlos erreichbar, auch ohne Guthaben auf dem Handy.
+! punkte=3
+
+? Was sollten Sie bei einem Notruf mitteilen?
++ Wo ist der Unfall passiert?
++ Wie viele Personen sind verletzt?
+- Wer am Unfall schuld ist
+= Wichtig sind Ort, Geschehen, Zahl und Art der Verletzungen. Am Ende Rückfragen der Leitstelle abwarten.
+! punkte=3
+
+? Auf einer Autobahn sehen Sie, dass weiter vorne der Verkehr plötzlich stark abbremst. Was ist richtig?
++ Ich verringere die Geschwindigkeit und schalte das Warnblinklicht ein, um Nachfolgende zu warnen
++ Ich achte auf ausreichenden Abstand und lasse Raum für eine Rettungsgasse
+- Ich wechsle schnell auf den Standstreifen
+= Am Stauende drohen schwere Auffahrunfälle. Warnblinklicht warnt den nachfolgenden Verkehr. Der Seitenstreifen ist kein Ausweichfahrstreifen.
+! klassen=MOT
+
+? Wie verhalten Sie sich bei plötzlich einsetzendem Starkregen auf der Autobahn?
++ Ich verringere die Geschwindigkeit deutlich
++ Ich vergrößere den Abstand
+- Ich schalte die Nebelschlussleuchte ein, auch wenn die Sicht mehr als 50 m beträgt
+= Bei Starkregen sind Sicht und Haftung schlecht. Die Nebelschlussleuchte darf nur bei einer Sichtweite unter 50 m durch Nebel, Schnee oder Regen benutzt werden.
+! klassen=MOT
+
+? Sie fahren auf einer kurvigen Strecke. Wo ist die Gefahr, von der Fahrbahn abzukommen, besonders groß?
++ Wenn ich zu schnell in eine Kurve hineinfahre
+- Wenn ich vor der Kurve bremse
+- Wenn ich in der Kurve gleichmäßig fahre
+= Die meisten Kurvenunfälle entstehen durch zu hohe Geschwindigkeit beim Einfahren. Vor der Kurve bremsen, in der Kurve gleichmäßig fahren.
+
+? Was ist eine typische Gefahr beim Rechtsabbiegen?
++ Radfahrende und zu Fuß Gehende, die geradeaus weiterfahren bzw. gehen, werden übersehen
+- Der Gegenverkehr nimmt mir die Vorfahrt
+- Es gibt keine besonderen Gefahren
+= Beim Rechtsabbiegen müssen geradeaus fahrende Radfahrende und Fußgänger durchgelassen werden. Schulterblick nicht vergessen!
+! punkte=5
+
+? Warum ist der Schulterblick vor dem Fahrstreifenwechsel wichtig?
++ Weil Fahrzeuge im toten Winkel in den Spiegeln nicht zu sehen sind
+- Weil der Innenspiegel den gesamten Bereich hinter mir zeigt
+- Er ist nur bei Dunkelheit nötig
+= Spiegel decken nicht alle Bereiche ab. Im toten Winkel können sich Zweiräder oder Autos befinden.
+
+? Sie fahren durch eine Allee mit wechselndem Licht und Schatten. Was ist zu beachten?
++ Hindernisse und Personen im Schatten werden leicht übersehen
++ Im Schatten kann es bei Kälte noch glatt sein
+- Die Sicht ist in Alleen immer besser
+= Licht-Schatten-Wechsel erschwert das Sehen. Zudem trocknen und tauen schattige Stellen später auf.
+
+? Was müssen Sie bei Fahrten im Winter vor dem Losfahren tun?
++ Alle Scheiben vollständig von Eis und Schnee befreien
++ Schnee vom Dach und von den Leuchten entfernen
+- Ein Guckloch in der Frontscheibe reicht aus
+= Mit eingeschränkter Sicht darf nicht gefahren werden. Schnee vom Dach kann beim Bremsen auf die Scheibe rutschen oder Nachfolgende gefährden.
+! klassen=MOT
+
+? Ein Fahrzeug fährt Ihnen sehr dicht auf. Wie verhalten Sie sich?
++ Ich bleibe ruhig und fahre gleichmäßig weiter
++ Wenn möglich, lasse ich es überholen
+- Ich bremse kurz, um es zu „erziehen“
+= Eine Schreckbremsung kann einen Auffahrunfall auslösen und ist verboten. Ruhig bleiben und gefahrlos überholen lassen.
+
+? Sie fahren hinter einem Lkw. Was ist für Ihre Sicherheit wichtig?
++ Größeren Abstand halten, damit ich am Lkw vorbeisehen kann
++ Damit rechnen, dass der Lkw beim Abbiegen weit ausholt
+- Dicht dahinter fahren, um im Windschatten zu sparen
+= Hinter großen Fahrzeugen ist die Sicht eingeschränkt. Genug Abstand verschafft Überblick und Zeit. Abbiegende Lkw brauchen viel Platz.
+
+? Was ist beim Vorbeifahren an einer Haltestelle zu beachten, an der eine Straßenbahn hält?
++ Fahrgäste könnten auf die Fahrbahn treten
++ Wenn Fahrgäste auf der Fahrbahn ein- oder aussteigen, darf ich rechts nur mit Schrittgeschwindigkeit und ausreichendem Abstand vorbeifahren; wenn nötig, muss ich warten
+- Ich darf zügig rechts vorbeifahren, die Fahrgäste müssen warten
+= An haltenden Straßenbahnen und Linienbussen ist auf ein- und aussteigende Fahrgäste besondere Rücksicht zu nehmen.
+! punkte=5
+
+? Was kann zur Ablenkung am Steuer führen?
++ Das Bedienen eines Navigationsgeräts während der Fahrt
++ Ein angeregtes Gespräch mit Mitfahrenden
+- Ein regelmäßiger Blick in die Spiegel
+= Schon wenige Sekunden Blickabwendung bedeuten bei 50 km/h viele Meter „Blindflug“. Navi vor der Fahrt einstellen.
+! punkte=3
+
+? Sie fahren mit 50 km/h und blicken 2 Sekunden auf Ihr Handy. Wie weit fahren Sie etwa „blind“?
+- Etwa 5 m
++ Etwa 28 m
+- Etwa 100 m
+= 50 km/h sind knapp 14 m pro Sekunde. In 2 Sekunden legt man also rund 28 m zurück, ohne die Straße zu sehen.
+! zahl punkte=3
+
+? Wann besteht beim Bremsen die Gefahr, dass die Räder blockieren (Fahrzeug ohne ABS)?
++ Bei zu starkem Bremsen, insbesondere auf glatter Fahrbahn
+- Nur bei Bergabfahrt
+- Bei leichtem, gefühlvollem Bremsen
+= Blockierte Räder übertragen kaum Seitenführungskräfte – das Fahrzeug ist nicht mehr lenkbar. ABS verhindert dies.
+! punkte=3 klassen=MOT
+
+? Wie fahren Sie an einer Gruppe spielender Kinder am Straßenrand vorbei?
++ Langsam und bremsbereit
++ Mit möglichst großem Seitenabstand
+- Mit gleichbleibender Geschwindigkeit, Kinder müssen auf den Verkehr achten
+= Kinder sind unberechenbar und können jederzeit auf die Fahrbahn laufen. Geschwindigkeit verringern und Abstand halten.
+! punkte=5
+
+? Sie biegen in eine Straße ein und sehen Schulkinder, die auf den Bus warten. Was ist richtig?
++ Ich rechne damit, dass Kinder drängeln und auf die Fahrbahn geraten
++ Ich fahre langsam und bremsbereit
+- Ich fahre schnell vorbei, damit die Kinder nicht erschrecken
+= An Haltestellen können Kinder durch Gedränge oder Spiele auf die Fahrbahn geraten. Vorsichtig und langsam vorbeifahren.
+
+? Was müssen Sie bei Blendung durch tiefstehende Sonne tun?
++ Die Sonnenblende herunterklappen
++ Die Geschwindigkeit verringern
+- Schneller fahren, um aus der Blendung herauszukommen
+= Tief stehende Sonne kann völlig blenden. Saubere Scheiben, Sonnenblende und angepasste Geschwindigkeit helfen.
+! punkte=3
+
+? Bei dichtem Nebel sehen Sie nur 30 m weit. Wie schnell dürfen Sie höchstens fahren, wenn Sie innerhalb der Sichtweite anhalten wollen?
+- 50 km/h, denn das ist bei Nebel unter 50 m Sicht immer erlaubt
++ Deutlich langsamer als 50 km/h, sodass ich innerhalb von 30 m anhalten kann
+- So schnell wie die Fahrzeuge vor mir
+= 50 km/h ist bei Sicht unter 50 m die absolute Obergrenze. Bei 30 m Sicht muss man so langsam fahren, dass der Anhalteweg kürzer ist als die Sichtweite.
+! punkte=5
+
+? Was sollten Sie bei Glatteis tun, wenn die Fahrt nicht unbedingt nötig ist?
++ Auf die Fahrt verzichten oder öffentliche Verkehrsmittel nutzen
+- Mit höherer Drehzahl fahren
+- Den Abstand verringern
+= Bei Glatteis ist das Unfallrisiko sehr hoch. Wer fahren muss, fährt sehr langsam, mit großem Abstand und ohne abrupte Manöver.
+! punkte=3

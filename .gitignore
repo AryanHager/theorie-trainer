@@ -1,0 +1,26 @@
+# Abhängigkeiten und Build
+node_modules/
+dist/
+*.tsbuildinfo
+
+# Lokale Mess- und Testartefakte
+screenshots/
+docs/lh-*.json
+docs/lighthouse-*.json
+*.log
+scripts/_*.mjs
+
+# Lokale Geheimnisse / Umgebung
+.env
+.env.*
+*.pem
+*.key
+.npmrc
+
+# System
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc

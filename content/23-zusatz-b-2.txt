@@ -1,0 +1,1140 @@
+// Zusatzstoff Klasse B – Runde 2 (2.1 Gefahrenlehre, 2.2 Verhalten)
+@klassen B
+
+@kapitel 2.1
+@punkte 4
+
+? Wie stellen Sie die Kopfstütze richtig ein?
++ Die Oberkante sollte etwa auf Höhe des Scheitels liegen, mindestens aber auf Augenhöhe
+- So tief wie möglich, damit sie nicht stört
+- Die Höhe spielt keine Rolle
+= Eine richtig eingestellte Kopfstütze verringert bei einem Heckaufprall die Gefahr von Halswirbelverletzungen.
+! punkte=3
+
+? Wie sollte der Sicherheitsgurt verlaufen?
++ Der Beckengurt liegt tief über dem Becken, der Schultergurt über Schultermitte und Brustbein
+- Der Schultergurt liegt am Hals an
+- Der Gurt darf locker sitzen, damit er nicht drückt
+= Ein falsch oder locker angelegter Gurt kann bei einem Unfall schwere innere Verletzungen verursachen. Dicke Jacken vorher ausziehen.
+
+? Warum sollten Sie zum Lenkrad einen ausreichenden Abstand halten?
++ Damit der Airbag sich entfalten kann, ohne mich zu verletzen
++ Damit ich mit leicht angewinkelten Armen sicher lenken kann
+- Damit ich mich beim Fahren bequem anlehnen kann
+= Bei gestreckten Armen sind schnelle Lenkbewegungen schwer möglich. Zum Airbag ist Abstand nötig, weil er sich mit großer Wucht entfaltet.
+
+? Ihr Pkw untersteuert in einer Kurve (schiebt über die Vorderräder nach außen). Wie reagieren Sie?
++ Gas wegnehmen und den Lenkeinschlag nicht weiter vergrößern
+- Stärker einlenken
+- Kräftig Gas geben
+= Beim Untersteuern verlieren die Vorderräder an Seitenführung. Mehr Lenkeinschlag verschlimmert das. Durch Gaswegnehmen werden die Vorderräder belastet und greifen wieder.
+! punkte=5
+
+? Bei welchen Bedingungen sollten Sie den Tempomaten nicht benutzen?
++ Bei Nässe, Schnee oder Glätte
++ Bei dichtem Verkehr
+- Auf freien, trockenen Autobahnen
+= Bei Aquaplaning oder Glätte kann ein Tempomat das Fahrzeug weiter beschleunigen. Bei dichtem Verkehr verlängert er die Reaktionszeit.
+
+? Die Scheiben Ihres Fahrzeugs beschlagen während der Fahrt. Was ist sinnvoll?
++ Gebläse auf die Scheiben richten und die Klimaanlage zur Trocknung der Luft einschalten
+- Mit der Hand freiwischen und weiterfahren
+- Das Gebläse ausschalten
+= Beschlagene Scheiben behindern die Sicht stark. Die Klimaanlage entzieht der Luft Feuchtigkeit.
+! punkte=3
+
+? Im Winter ist Ihr Pkw vereist und mit Schnee bedeckt. Was müssen Sie vor der Fahrt tun?
++ Alle Scheiben vollständig freimachen
++ Schnee auch vom Dach, von den Leuchten und den Kennzeichen entfernen
+- Es genügt ein Guckloch in der Windschutzscheibe
+= Herabrutschender Schnee kann mir oder anderen die Sicht nehmen. Leuchten und Kennzeichen müssen erkennbar sein.
+
+? Sie fahren ein Elektroauto mit geringer Geschwindigkeit durch ein Wohngebiet. Was sollten Sie bedenken?
++ Zu Fuß Gehende hören mein Fahrzeug möglicherweise nicht kommen
+- Elektroautos werden immer früher bemerkt als Verbrenner
+- Ich darf schneller fahren als mit einem Verbrenner
+= Trotz Geräuschgeneratoren bei niedrigen Geschwindigkeiten werden Elektroautos leicht überhört.
+
+? Sie wollen mit einem Gespann rückwärts fahren. Was ist zu beachten?
++ Der Anhänger schwenkt entgegen der Lenkbewegung aus
++ Ich lenke mit kleinen Bewegungen und lasse mich bei Bedarf einweisen
+- Der Anhänger folgt der Lenkung des Zugfahrzeugs in gleicher Richtung
+= Beim Rückwärtsfahren mit Anhänger muss zunächst in die Gegenrichtung gelenkt werden. Ein Einweiser verhindert Schäden und Gefährdungen.
+
+? Sie fahren mit Anhänger eine längere Gefällstrecke hinab. Wie verhalten Sie sich?
++ Ich fahre langsam und nutze einen niedrigen Gang
+- Ich lasse das Gespann laufen und bremse erst unten
+- Ich schalte in den Leerlauf, um Kraftstoff zu sparen
+= Ein schiebender Anhänger kann das Gespann instabil machen. Niedriger Gang und geringe Geschwindigkeit verhindern Pendeln und Überhitzen der Bremsen.
+! punkte=5
+
+? Ein Lkw überholt Sie auf der Autobahn, während Sie einen leichten Anhänger ziehen. Womit müssen Sie rechnen?
++ Mit einem seitlichen Sog bzw. Druck, der das Gespann versetzen kann
+- Mit nichts, Anhänger sind dagegen unempfindlich
+- Mit einer Verbesserung der Fahrstabilität
+= Luftverwirbelungen beim Überholtwerden wirken auf hohe, leichte Anhänger besonders stark. Lenkrad gut festhalten.
+
+? Sie haben ein Tier (z. B. einen Hund) im Pkw dabei. Was ist richtig?
++ Das Tier muss so gesichert sein, dass es bei einer Bremsung nicht durch den Innenraum geschleudert wird
+- Hunde dürfen frei im Fahrzeug herumlaufen
+- Es genügt, das Fenster zu öffnen
+= Tiere gelten wie Ladung und müssen gesichert werden, z. B. durch Transportbox, Gitter oder Sicherheitsgeschirr.
+
+? Warum ist es gefährlich, schwere Gegenstände auf der Hutablage zu transportieren?
++ Sie werden bei einer Vollbremsung oder einem Unfall nach vorne geschleudert
++ Sie behindern die Sicht nach hinten
+- Sie verbessern die Straßenlage
+= Lose Gegenstände entwickeln bei einem Aufprall ein Vielfaches ihres Gewichts.
+! punkte=3
+
+? Sie haben einen Pkw mit Allradantrieb. Was gilt bei Schnee und Glätte?
++ Allrad hilft beim Anfahren, verkürzt aber den Bremsweg nicht
+- Mit Allrad kann ich bei Glätte genauso schnell fahren wie bei Trockenheit
+- Allrad ersetzt Winterreifen
+= Beim Bremsen und in Kurven ist ein Allradfahrzeug nicht besser als andere. Die Reifen bestimmen die Haftung.
+
+? Was ist bei einem Fahrzeug mit Automatikgetriebe beim Anhalten an einer Ampel zu beachten?
++ Das Fahrzeug kann in Fahrstellung „kriechen“; ich halte es mit der Bremse fest
+- Ich kann den Fuß von der Bremse nehmen, das Fahrzeug bleibt immer stehen
+- Ich muss jedes Mal in die Parkstellung schalten
+= In Fahrstellung bewegt sich ein Automatikfahrzeug ohne Bremse langsam vorwärts.
+! punkte=3
+
+? Wie verhindern Sie, dass Kinder während der Fahrt eine hintere Tür öffnen?
++ Ich aktiviere die Kindersicherung der hinteren Türen
+- Ich verriegele nur die Fahrertür
+- Ich öffne die Fenster
+= Die Kindersicherung verhindert das Öffnen der hinteren Türen von innen.
+! punkte=3
+
+? Sie wollen Kinder aussteigen lassen. Auf welcher Seite sollten sie aussteigen?
++ Auf der Gehwegseite
+- Auf der Fahrbahnseite, damit sie schneller über die Straße kommen
+- Das spielt keine Rolle
+= Auf der Fahrbahnseite droht Gefahr durch den fließenden Verkehr.
+! punkte=3
+
+? Sie fahren mit einem hohen Fahrzeug (z. B. Kleintransporter) bei starkem Seitenwind. Was ist richtig?
++ Geschwindigkeit verringern und Lenkrad fest halten
++ Besonders an Brücken, Waldschneisen und beim Verlassen von Einschnitten mit Böen rechnen
+- Möglichst dicht hinter einem Lkw fahren
+= Große Seitenflächen bieten dem Wind viel Angriffsfläche.
+
+? Warum ist es gefährlich, im Winter mit Sommerreifen zu fahren?
++ Die Gummimischung wird bei Kälte hart und haftet schlechter
++ Das Profil ist nicht für Schnee und Matsch ausgelegt
+- Sommerreifen haben bei Kälte einen kürzeren Bremsweg
+= Unter etwa 7 °C bieten Winter- bzw. Ganzjahresreifen deutlich mehr Haftung.
+
+? Wie können Sie den toten Winkel Ihres Pkw verkleinern?
++ Durch richtig eingestellte Außenspiegel
++ Durch den Schulterblick vor dem Fahrstreifenwechsel
+- Durch höheres Tempo
+= Auch mit gut eingestellten Spiegeln bleibt ein Bereich, den nur der Schulterblick zeigt.
+! punkte=3
+
+? Sie fahren bei Nacht auf einer Landstraße ohne Gegenverkehr. Was erhöht Ihre Sicherheit?
++ Fernlicht nutzen, solange niemand geblendet wird
++ Saubere Scheiben und Scheinwerfer
+- Mit Standlicht fahren, um Energie zu sparen
+= Fernlicht vergrößert die Sichtweite erheblich. Verschmutzte Scheinwerfer verringern die Leuchtweite.
+! punkte=3
+
+? Das Navigationsgerät führt Sie in eine Straße, deren Einfahrt verboten ist. Was gilt?
++ Die Verkehrszeichen haben Vorrang vor den Angaben des Navigationsgeräts
+- Ich folge dem Navigationsgerät, weil es aktueller ist
+- Ich darf langsam einfahren
+= Navigationsgeräte entbinden nicht von der Pflicht, Verkehrszeichen zu beachten.
+! punkte=3
+
+? Sie haben einen Anhänger mit Ladung auf der Ladefläche. Wo platzieren Sie schwere Ladung?
++ Möglichst über der Achse und tief
+- Möglichst weit hinten
+- Ganz vorne an der Deichsel, egal wie schwer
+= So bleiben Stützlast und Schwerpunkt im zulässigen Bereich. Zu viel Last hinten führt zu Pendeln, zu viel vorne überlastet die Kupplung.
+
+? Sie fahren mit Dachgepäckträger und Fahrrädern auf dem Dach. Worauf müssen Sie achten?
++ Auf die zulässige Dachlast einschließlich des Trägers
++ Auf die größere Fahrzeughöhe, z. B. bei Garagen und Durchfahrten
+- Darauf, dass ich schneller fahren darf
+= Die zulässige Dachlast steht in der Betriebsanleitung. Die Höhe des Fahrzeugs wird oft unterschätzt.
+
+? Warum sollten Sie bei einem Pkw mit Anhänger früher bremsen?
++ Weil das Gespann einen längeren Bremsweg hat
+- Weil der Anhänger das Gespann zusätzlich abbremst
+- Weil sonst der Anhänger abreißt
+= Die höhere Masse verlängert den Bremsweg. Ein ungebremster Anhänger schiebt zusätzlich.
+
+? Sie fahren nachts und werden von einem entgegenkommenden Fahrzeug geblendet. Was ist richtig?
++ Geschwindigkeit verringern und an den rechten Fahrbahnrand schauen
+- Selbst kurz aufblenden, damit der andere abblendet, und weiterfahren
+- In das Licht schauen, um den Abstand besser einzuschätzen
+= Wer geblendet wird, sieht für kurze Zeit fast nichts. Der Blick zum rechten Fahrbahnrand hilft, die Spur zu halten.
+! punkte=5
+
+? Was ist zu bedenken, wenn Sie einen ungewohnten Mietwagen fahren?
++ Vor Fahrtbeginn mache ich mich mit Bedienelementen, Licht und Assistenzsystemen vertraut
+- Alle Fahrzeuge funktionieren gleich, ich fahre sofort los
+- Ich probiere die Funktionen während der Fahrt aus
+= Die Suche nach Schaltern während der Fahrt lenkt ab.
+! punkte=3
+
+@kapitel 2.2
+@punkte 3
+
+? Wann dürfen Sie den Sicherheitsgurt ausnahmsweise nicht anlegen?
++ Bei Fahrten mit Schrittgeschwindigkeit wie Rückwärtsfahren oder auf Parkplätzen
+- Auf Kurzstrecken innerorts
+- Wenn das Fahrzeug Airbags hat
+= Diese eng begrenzte Ausnahme gilt nur bei Schrittgeschwindigkeit. Airbags ersetzen den Gurt nicht.
+
+? Dürfen Personen in einem Wohnwagen mitfahren, der von einem Pkw gezogen wird?
++ Nein, das ist verboten
+- Ja, wenn sie sich anschnallen
+- Ja, auf kurzen Strecken
+= Die Mitnahme von Personen in Wohnanhängern hinter Kraftfahrzeugen ist verboten.
+
+? Dürfen Sie Personen auf der Ladefläche eines Pick-ups mitnehmen?
++ Nein, grundsätzlich nicht
+- Ja, wenn sie sitzen
+- Ja, innerorts bis 30 km/h
+= Die Mitnahme auf Ladeflächen ist verboten. Ausnahmen gelten nur für Personen, die dort notwendige Arbeiten verrichten.
+
+? Ihr Fahrzeug hat nicht für alle Sitze Sicherheitsgurte (Oldtimer). Was gilt für Kinder unter 3 Jahren?
++ Sie dürfen in diesem Fahrzeug nicht befördert werden
+- Sie dürfen auf dem Schoß eines Erwachsenen sitzen
+- Sie dürfen vorne sitzen
+= Kinder unter drei Jahren dürfen in Fahrzeugen ohne Sicherheitsgurte nicht mitgenommen werden.
+! punkte=4
+
+? Auf der Rückbank sind bereits zwei Kindersitze, für einen dritten ist kein Platz. Was gilt für ein weiteres Kind ab drei Jahren?
++ Es darf auf dem Rücksitz mit dem vorgeschriebenen Sicherheitsgurt gesichert werden
+- Es darf ungesichert mitfahren
+- Es muss auf dem Beifahrersitz ohne Kindersitz sitzen
+= Diese Ausnahme gilt nur, wenn für weitere Kindersitze kein Platz ist und das Kind mindestens drei Jahre alt ist.
+! punkte=4
+
+? Sie ziehen einen Anhänger und Ihr Gespann ist länger als 7 m. Was gilt außerorts für den Abstand zum Vorausfahrenden?
++ Ich muss so viel Abstand halten, dass ein überholendes Kraftfahrzeug vor mir einscheren kann
+- Es gilt kein besonderer Abstand
+- Ich muss mindestens 200 m Abstand halten
+= Damit Überholende gefahrlos wieder einscheren können, müssen lange Züge außerorts eine ausreichende Lücke lassen.
+! punkte=4
+
+? Ihr Pkw hat eine Tempo-100-Zulassung für den Anhänger. Wo dürfen Sie dann 100 km/h fahren?
++ Auf Autobahnen und Kraftfahrstraßen
+- Auf allen Straßen außerorts
+- Auch innerorts, wenn keine Beschränkung angezeigt ist
+= Die Tempo-100-Regelung gilt nur auf Autobahnen und Kraftfahrstraßen; sonst bleibt es bei 80 km/h außerorts.
+! punkte=4
+
+? Was ist eine Voraussetzung dafür, mit einem Pkw-Anhänger auf der Autobahn 100 km/h fahren zu dürfen?
++ Am Anhänger muss die „100“-Plakette angebracht sein
+- Der Anhänger muss leer sein
+- Der Fahrer muss mindestens fünf Jahre den Führerschein besitzen
+= Die Plakette wird nach Prüfung der Voraussetzungen ausgegeben, u. a. geeignete Reifen und Zugfahrzeug-Anhänger-Kombination.
+
+? Sie parken nachts innerorts am Fahrbahnrand. Wann müssen Sie Ihren Pkw beleuchten?
++ Wenn die Straßenbeleuchtung das Fahrzeug nicht auf ausreichende Entfernung deutlich sichtbar macht
+- Nie, innerorts ist Beleuchtung beim Parken nie nötig
+- Immer mit Abblendlicht
+= Innerorts genügt dann z. B. die Parkleuchte auf der Fahrbahnseite. Außerorts müssen haltende Fahrzeuge immer beleuchtet sein.
+! punkte=4
+
+? Sie stellen einen Pkw-Anhänger nachts innerorts auf der Fahrbahn ab. Was gilt?
++ Er muss stets mit eigener Lichtquelle beleuchtet oder anders zugelassen kenntlich gemacht sein
+- Er braucht keine Beleuchtung, wenn eine Straßenlaterne in der Nähe ist
+- Es genügen die Rückstrahler
+= Für Anhänger auf der Fahrbahn reicht die Straßenbeleuchtung nicht aus.
+! punkte=4
+
+? Was ist beim Abschleppen eines Fahrzeugs mit einem Seil zu beachten?
++ Das Seil muss gut erkennbar gekennzeichnet sein, z. B. mit einem roten Fähnchen
++ Ich fahre langsam an, damit das Seil nicht ruckartig gespannt wird
+- Das Seil darf beliebig lang sein
+= Ein Seil ist für andere schwer zu sehen. Der Abstand darf höchstens 5 m betragen.
+
+? Sie bekommen Hilfe beim Rückwärtsausparken aus einer unübersichtlichen Einfahrt. Was ist sinnvoll?
++ Eine Person weist mich ein und achtet auf den Verkehr
+- Ich fahre zügig rückwärts, damit es schnell geht
+- Ich hupe dauerhaft
+= Wenn die Sicht fehlt, ist das Einweisen eine wichtige Hilfe; die Verantwortung bleibt bei mir.
+
+? Sie halten mit Ihrem Pkw kurz an einer Bushaltestelle, um jemanden aussteigen zu lassen. Was gilt?
++ Kurzes Halten zum Ein- oder Aussteigen ist erlaubt, wenn kein Bus behindert wird und kein Halteverbot besteht
+- Halten ist dort immer erlaubt
+- Ich darf dort bis zu 15 Minuten parken
+= An Haltestellen ist das Parken im Bereich von 15 m vor und hinter dem Schild verboten; kurzes Halten ist möglich, sofern es nicht verboten ist und den Busverkehr nicht behindert.
+
+? Sie wollen mit einem Pkw mit Anhänger auf einer Landstraße überholen. Was müssen Sie besonders beachten?
++ Ich brauche eine deutlich längere freie Strecke
++ Nach dem Überholen schere ich mit ausreichendem Abstand wieder ein
+- Ich darf die Höchstgeschwindigkeit für Gespanne kurz überschreiten
+= Die Höchstgeschwindigkeit gilt auch beim Überholen. Deshalb wird Überholen mit Gespann oft unmöglich.
+
+? Wie verhalten Sie sich, wenn Sie mit Ihrem Pkw liegen bleiben und abgeschleppt werden müssen?
++ Ich sichere das Fahrzeug ab und rufe einen Pannendienst
++ Ich schalte beim Abschleppen an beiden Fahrzeugen das Warnblinklicht ein
+- Ich lasse mich ohne Absicherung auf der Fahrbahn abschleppen
+= Absicherung und Warnblinklicht machen auf die besondere Situation aufmerksam.
+
+? Ihr Fahrzeug hat einen Fahrradträger auf der Anhängerkupplung, der Leuchten und Kennzeichen verdeckt. Was ist vorgeschrieben?
++ Der Träger muss eigene Leuchten und ein Kennzeichen haben
+- Das ist erlaubt, wenn ich tagsüber fahre
+- Ich muss nur das Warnblinklicht einschalten
+= Verdeckte Leuchten und Kennzeichen müssen am Träger wiederholt werden.
+
+? Mit welcher Höchstgeschwindigkeit dürfen Sie mit einem Pkw mit Anhänger innerorts fahren?
+N 50 km/h
+= Innerorts gilt für alle Kraftfahrzeuge 50 km/h, sofern nichts anderes angeordnet ist.
+! zahl
+
+? Ihr Anhänger ist breiter als Ihr Zugfahrzeug. Was müssen Sie beachten?
++ Ich muss nach hinten ausreichend sehen können, notfalls mit zusätzlichen Außenspiegeln
+- Nichts, Spiegel sind bei Anhängern nicht nötig
+- Ich darf dann nur nachts fahren
+= Wenn der Anhänger die Sicht nach hinten verdeckt, sind zusätzliche Spiegel erforderlich.
+
+? Sie wollen auf einer Bergstrecke mit Ihrem Pkw anhalten. Wie sichern Sie das Fahrzeug?
++ Feststellbremse anziehen
++ Bei Gefälle zusätzlich einen Gang bzw. die Parkstellung einlegen und die Räder zum Bordstein einschlagen
+- Nur den Leerlauf einlegen
+= Mehrere Sicherungen verhindern, dass das Fahrzeug wegrollt.
+
+? Darf ein Fahrschüler oder eine Fahrschülerin mit Begleitung ab 17 ohne Begleitperson fahren?
++ Nein, bis zum 18. Geburtstag nur mit einer eingetragenen Begleitperson
+- Ja, auf kurzen Strecken
+- Ja, wenn die Probezeit ohne Verstoß ist
+= Beim begleiteten Fahren muss bis zur Volljährigkeit eine eingetragene Begleitperson dabei sein. Fahren ohne Begleitung ist ein schwerwiegender Verstoß.
+! punkte=4
+
+? Was gilt für die Begleitperson beim begleiteten Fahren ab 17 während der Fahrt?
++ Sie soll als Ansprechpartner zur Verfügung stehen, darf aber nicht aktiv ins Fahren eingreifen
+- Sie darf am Lenkrad mitlenken
+- Sie muss Fahrlehrer sein
+= Die Begleitperson hat eine beratende Rolle und darf nicht alkoholisiert oder berauscht sein.
+
+? Sie müssen mit Ihrem Pkw auf der Autobahn wegen einer Panne anhalten. Was ist nach dem Absichern das sicherste Verhalten?
++ Alle Insassen hinter der Schutzplanke warten lassen
+- Im Fahrzeug sitzen bleiben und angeschnallt bleiben
+- Auf dem Seitenstreifen neben dem Fahrzeug warten
+= Auf dem Seitenstreifen besteht Lebensgefahr durch auffahrende Fahrzeuge.
+! punkte=4
+
+? Was gilt beim Parken mit Parkscheibe?
++ Ich stelle die Ankunftszeit auf den nächsten halben Stundenstrich ein
+- Ich stelle die Zeit ein, zu der ich zurückkomme
+- Die Parkscheibe darf unter dem Sitz liegen
+= Die Parkscheibe muss gut lesbar hinter der Windschutzscheibe liegen.
+
+? Sie wollen an einer Ladesäule für Elektrofahrzeuge parken. Was gilt in der Regel?
++ Die Fläche darf nur von Elektrofahrzeugen genutzt werden, häufig nur während des Ladevorgangs
+- Jeder darf dort kurz parken
+- Verbrenner dürfen dort parken, wenn die Säule frei ist
+= Zusatzzeichen legen fest, wer die Ladeparkplätze unter welchen Bedingungen nutzen darf.
+
+@kapitel 2.4
+@punkte 3
+
+? Sie fahren einen Pkw (zulässige Gesamtmasse 2,1 t) mit einem Anhänger. Dürfen Sie hier weiterfahren?
++ Ja, Personenkraftwagen sind von diesem Verbot ausgenommen
+- Nein, weil das Gespann schwerer als 3,5 t sein kann
+- Nur ohne Anhänger
+= Zeichen 253 gilt für Kraftfahrzeuge über 3,5 t zulässiger Gesamtmasse und Zugmaschinen. Personenkraftwagen und Kraftomnibusse sind ausgenommen.
+# zeichen 253
+
+? Für wen gilt dieses Verbot?
++ Für Kraftfahrzeuge, deren zulässige Gesamtmasse einschließlich Anhänger mehr als 7,5 t beträgt
+- Für alle Kraftfahrzeuge über 3,5 t
+- Für Personenkraftwagen über 7,5 t
+= Eine Massenangabe auf dem Zusatzzeichen beschränkt das Verbot auf Fahrzeuge oberhalb dieser Grenze; Pkw und Kraftomnibusse bleiben ausgenommen.
+# zeichen 253 1053-33
+
+? Ihr Pkw wiegt mit Ladung tatsächlich 2,3 t. Dürfen Sie hier einfahren?
++ Ja
+- Nein
+- Nur mit Sondergenehmigung
+= Zeichen 262 verbietet die Durchfahrt für Fahrzeuge, deren tatsächliche Masse die angegebene Grenze (hier 5,5 t) übersteigt.
+# zeichen 262-5
+
+? Ihr Pkw mit Dachbox und Fahrrädern auf dem Dach ist 2,4 m hoch. Dürfen Sie hier durchfahren?
++ Ja, das Fahrzeug ist niedriger als die angegebene Höhe
+- Nein, mit Dachlast ist die Durchfahrt immer verboten
+- Nur wenn ich die Fahrräder abnehme
+= Zeichen 265 begrenzt die tatsächliche Höhe einschließlich Ladung, hier auf 3,8 m.
+# zeichen 265-3
+
+? Ihr Gespann aus Pkw und Wohnwagen ist insgesamt 11,5 m lang. Dürfen Sie hier einfahren?
++ Nein, das Verbot gilt auch für Fahrzeugkombinationen über der angegebenen Länge
+- Ja, Pkw sind ausgenommen
+- Ja, nur der Wohnwagen zählt
+= Zeichen 266 verbietet die Einfahrt für Fahrzeuge und Züge, deren Länge einschließlich Ladung die angegebene Grenze überschreitet (hier 10 m).
+# zeichen 266-10
+! punkte=4
+
+? Ihr Pkw ist ohne Spiegel 1,85 m breit, mit Wohnwagen 2,3 m. Dürfen Sie mit dem Wohnwagen hier einfahren?
++ Nein
+- Ja, Spiegel und Anhänger zählen nicht
+- Ja, wenn ich langsam fahre
+= Zeichen 264 begrenzt die tatsächliche Breite einschließlich Ladung, hier auf 2 m. Der Wohnwagen ist breiter.
+# zeichen 264-2
+! punkte=4
+
+? Sie fahren auf der Autobahn mit einem Pkw mit Anhänger. Was bedeutet dieses Zeichen für Sie?
++ Ich darf hier nicht überholen
+- Das Überholverbot gilt nur für Lkw
+- Ich darf überholen, weil Pkw immer ausgenommen sind
+= Mit diesem Zusatzzeichen gilt das Überholverbot für schwere Kraftfahrzeuge auch für Kraftomnibusse und Pkw mit Anhänger.
+# zeichen 277 1060-32
+! punkte=4
+
+? Sie fahren einen Pkw ohne Anhänger. Dürfen Sie hier überholen?
++ Ja, das Verbot gilt nicht für Pkw ohne Anhänger
+- Nein, Überholverbote gelten immer für alle
+- Nur Lkw
+= Das Zusatzzeichen beschränkt das Überholverbot auf Pkw mit Anhänger sowie Kraftfahrzeuge über 3,5 t einschließlich ihrer Anhänger und Zugmaschinen.
+# zeichen 276 1048-20
+
+? Sie ziehen mit Ihrem Pkw einen Anhänger. Was gilt ab diesem Zeichen?
++ Ich darf hier nicht überholen
+- Ich darf hier nur Lkw überholen
+- Das Zeichen gilt nur bei Nässe
+= Das Zusatzzeichen nennt auch Pkw mit Anhänger. Für sie gilt das Überholverbot.
+# zeichen 276 1048-20
+
+? Was ist an dieser Stelle verboten?
++ Die Durchfahrt mit einem Pkw mit Anhänger
+- Die Durchfahrt mit jedem Pkw
+- Das Parken von Anhängern
+= Das Sinnbild im Verbotszeichen zeigt einen Pkw mit Anhänger. Pkw ohne Anhänger dürfen fahren.
+# zeichen 257-56
+
+? Wovor warnt dieses Zusatzzeichen?
++ Vor Schleudergefahr für Wohnwagengespanne durch starken Seitenwind an Gefällstrecken
+- Vor einem Wohnwagenparkplatz
+- Vor einem Überholverbot für Wohnwagen
+= Gespanne mit Wohnwagen sind besonders seitenwindempfindlich, vor allem bergab. Geschwindigkeit verringern.
+# zeichen 1006-30
+
+? Sie fahren mit Ihrem Pkw in eine Zone mit diesem Zeichen ein. Was müssen Sie beachten?
++ Mein Fahrzeug braucht die passende Feinstaubplakette (hier: grün), sofern es nicht ausgenommen ist
+- Hier gilt Tempo 30
+- Hier dürfen nur Elektrofahrzeuge parken
+= Es handelt sich um eine Umweltzone. Das Zusatzzeichen zeigt, welche Plaketten zugelassen sind.
+# zeichen 270.1 1031-52
+
+? Was bedeutet dieses Zeichen?
++ Ende einer Umweltzone
+- Ende einer Tempo-30-Zone
+- Ende eines verkehrsberuhigten Bereichs
+= Ab hier gelten die Fahrverbote der Umweltzone nicht mehr.
+# zeichen 270.2
+
+? Dürfen Sie mit einem Benzin-Pkw diesen Parkplatz nutzen?
++ Nein, er ist Elektrofahrzeugen vorbehalten
+- Ja, wenn ich nur kurz parke
+- Ja, außerhalb der Ladezeiten immer
+= Das Zusatzzeichen beschränkt das Parken auf elektrisch betriebene Fahrzeuge.
+# zeichen 314 1010-66
+
+? Sie parken Ihr Elektroauto auf diesem Parkplatz. Was gilt?
++ Ich darf hier nur parken, solange mein Fahrzeug geladen wird
+- Ich darf hier unbegrenzt parken
+- Ich darf hier auch ohne Ladekabel parken
+= Das Zusatzzeichen erlaubt das Parken nur während des Ladevorgangs.
+# zeichen 314 1010-66 1053-54
+
+? Wer darf trotz dieses Verbots fahren?
++ Elektrisch betriebene Fahrzeuge
+- Alle Pkw mit Partikelfilter
+- Nur Taxis
+= Mit diesem Zusatzzeichen sind Elektrofahrzeuge von dem Verkehrsverbot ausgenommen.
+# zeichen 251 1026-61
+
+? Wer darf diesen Fahrstreifen bzw. diese Straße trotz des Verbots benutzen?
++ Pkw, die mit mehreren Personen besetzt sind
+- Pkw mit nur einer Person
+- Alle Fahrzeuge mit Anhänger
+= Das Zusatzzeichen nimmt mehrfach besetzte Pkw aus. Wie viele Personen nötig sind, kann zusätzlich angegeben sein.
+# zeichen 251 1024-22
+
+? Wer ist hier vom Verbot ausgenommen?
++ Fahrzeuge von Carsharing-Anbietern
+- Mietwagen aller Art
+- Taxis
+= Das Zusatzzeichen nimmt nur Carsharingfahrzeuge aus.
+# zeichen 251 1024-21
+
+? Was ist hier zusätzlich verboten?
++ Auch das Halten auf dem Seitenstreifen
+- Nur das Halten auf der Fahrbahn
+- Nur das Parken
+= Ohne Zusatzzeichen gilt das Haltverbot nur auf der Fahrbahn. Mit diesem Zusatzzeichen gilt es auch auf dem Seitenstreifen.
+# zeichen 283 1060-31
+
+? Was bedeutet diese Beschilderung auf der Autobahn?
++ Der Seitenstreifen darf vorübergehend als Fahrstreifen benutzt werden
+- Auf dem Seitenstreifen darf geparkt werden
+- Der Seitenstreifen ist gesperrt
+= Bei hohem Verkehrsaufkommen kann der Seitenstreifen freigegeben werden. Dann gilt er wie ein Fahrstreifen.
+# zeichen 1013-50
+
+? Was zeigt dieses Zusatzzeichen auf der Autobahn an?
++ Der Seitenstreifen muss geräumt werden
+- Der Seitenstreifen darf befahren werden
+- Ab hier gilt Tempo 80
+= Die Freigabe endet. Wer den Seitenstreifen befährt, muss auf die Hauptfahrstreifen wechseln.
+# zeichen 1013-51
+
+? Welche Fahrzeuge dürfen hier parken?
++ Fahrzeuge bis 2,8 t zulässiger Gesamtmasse, halb auf dem Gehweg
+- Alle Fahrzeuge, auch Lkw über 3,5 t
+- Nur Fahrräder
+= Zeichen 315 erlaubt das Gehwegparken nur Fahrzeugen bis 2,8 t zulässiger Gesamtmasse. Das Sinnbild zeigt, wie aufzustellen ist (hier halb auf dem Gehweg). Auch ein schwerer Pkw über 2,8 t darf hier nicht parken.
+# zeichen 315-55
+! punkte=4
+
+? Was bedeutet dieses Zeichen?
++ Beginn eines Radschnellwegs
+- Autobahn für Radfahrende mit Kraftfahrzeugfreigabe
+- Fahrradparkplatz
+= Ein Radschnellweg ist für den Radverkehr bestimmt. Andere Fahrzeuge dürfen ihn nicht benutzen, sofern das nicht durch Zusatzzeichen erlaubt ist.
+# zeichen 350.1
+
+@kapitel 2.5
+@punkte 3
+
+? Ein Dachträger oder eine Dachbox ist montiert, wird aber gerade nicht gebraucht. Was ist umweltbewusst?
++ Abnehmen, weil der Luftwiderstand und damit der Verbrauch steigt
+- Montiert lassen, das spart Zeit
+- Mit höherem Tempo fahren, um den Mehrverbrauch auszugleichen
+= Auch eine leere Dachbox kann den Verbrauch spürbar erhöhen.
+
+? Warum ist es nicht sinnvoll, den Motor im Winter im Stand warmlaufen zu lassen?
++ Der Motor erwärmt sich im Leerlauf nur langsam und verschleißt dabei stärker
++ Unnötiges Laufenlassen verursacht vermeidbare Abgase und Lärm und ist verboten
+- Weil der Motor sonst überhitzt
+= Es ist besser, nach dem Starten sofort mit mäßiger Drehzahl loszufahren.
+
+? Wie wirkt sich eine höhere Geschwindigkeit auf der Autobahn auf den Verbrauch aus?
++ Der Luftwiderstand steigt stark an, deshalb nimmt der Verbrauch überproportional zu
+- Der Verbrauch sinkt, weil man schneller am Ziel ist
+- Die Geschwindigkeit hat keinen Einfluss
+= Der Luftwiderstand wächst mit dem Quadrat der Geschwindigkeit.
+! punkte=4
+
+? Sie rollen mit eingelegtem Gang und ohne Gas auf eine rote Ampel zu. Was passiert bei den meisten modernen Verbrennungsmotoren?
++ Die Kraftstoffzufuhr wird abgeschaltet (Schubabschaltung)
+- Der Motor verbraucht besonders viel
+- Der Motor geht aus
+= Im Schubbetrieb wird kein Kraftstoff eingespritzt. Im Leerlauf dagegen verbraucht der Motor weiter.
+! punkte=4
+
+? Was zeigt das EU-Reifenlabel an?
++ Die Kraftstoff- bzw. Energieeffizienz (Rollwiderstand)
++ Die Nasshaftung
++ Das externe Rollgeräusch
+= Reifen mit niedrigem Rollwiderstand senken den Verbrauch; die Nasshaftung ist für die Sicherheit wichtig.
+
+? Wie können Sie bei Kurzstrecken die Umwelt entlasten?
++ Wenn möglich zu Fuß gehen, Rad oder öffentliche Verkehrsmittel nutzen
++ Mehrere Erledigungen zu einer Fahrt zusammenfassen
+- Kurzstrecken sind besonders sparsam
+= Ein kalter Motor verbraucht mehr, und der Katalysator wirkt erst nach Erreichen der Betriebstemperatur voll.
+
+? Sie stellen einen Ölfleck unter Ihrem parkenden Pkw fest. Was ist richtig?
++ Das Fahrzeug bald in einer Werkstatt überprüfen lassen
+- Ignorieren, das ist normal
+- Den Fleck mit Wasser in den Gully spülen
+= Schon geringe Mengen Öl verunreinigen große Mengen Wasser.
+
+? Wo dürfen Sie Ihr Auto waschen?
++ In Waschanlagen oder auf Waschplätzen mit Ölabscheider
+- Am Straßenrand mit dem Gartenschlauch
+- Am Ufer eines Sees
+= Wasch- und Reinigungsmittel, Öl- und Bremsabrieb gelangen sonst ungefiltert ins Grundwasser oder in Gewässer. Örtliche Vorschriften beachten.
+
+? Wie entsorgen Sie Altöl und eine alte Starterbatterie richtig?
++ Über die Verkaufsstelle, eine Werkstatt oder einen Wertstoffhof
+- Im Hausmüll
+- Altöl darf in den Abfluss gegossen werden
+= Händler sind zur Rücknahme verpflichtet. Altöl und Batteriesäure sind umweltgefährlich.
+
+? Was spart beim Fahren eines Elektroautos besonders viel Energie?
++ Gleichmäßiges, vorausschauendes Fahren mit moderater Geschwindigkeit
++ Den Innenraum vorklimatisieren, solange das Fahrzeug noch am Ladekabel hängt
+- Häufiges starkes Beschleunigen
+= Heizung und Klimatisierung kosten viel Reichweite; beim Vorklimatisieren kommt die Energie aus dem Netz.
+
+? Was bewirkt ein Start-Stopp-System?
++ Es schaltet den Motor beim Halten, z. B. an Ampeln, automatisch ab und spart so Kraftstoff
+- Es verhindert ein Abwürgen des Motors
+- Es schaltet die Bremse ein
+= Das System startet den Motor beim Weiterfahren wieder automatisch.
+
+? Warum belasten häufige Kurzstrecken einen Diesel mit Partikelfilter besonders?
++ Der Filter kann sich nur bei längeren Fahrten freibrennen (regenerieren) und kann sonst verstopfen
+- Weil Diesel bei kurzen Strecken mehr Partikel ausstößt als ein Lkw
+- Kurzstrecken sind für Diesel unbedenklich
+= Bleibt die Regeneration aus, meldet eine Kontrollleuchte einen zugesetzten Filter.
+
+? Wie wirkt sich das Ziehen eines Wohnwagens auf den Kraftstoffverbrauch aus?
++ Der Verbrauch steigt deutlich, vor allem durch Luftwiderstand und höhere Masse
+- Der Verbrauch sinkt
+- Der Verbrauch bleibt gleich
+= Mäßige Geschwindigkeit und vorausschauendes Fahren mindern den Mehrverbrauch.
+
+? Wie können Sie Lärm beim Fahren vermeiden?
++ Niedrige Drehzahlen wählen und unnötiges Hupen und Türenschlagen vermeiden
+- Mit hoher Drehzahl anfahren
+- Laute Musik bei offenen Fenstern
+= Unnötiger Lärm ist verboten (§ 30 StVO) und belastet die Anwohner.
+
+? Was können Sie tun, um mit einem Fahrzeug mit Allradantrieb Kraftstoff zu sparen?
++ Bei zuschaltbarem Allrad diesen nur bei Bedarf einschalten
+- Den Allrad immer eingeschaltet lassen
+- Im ersten Gang fahren
+= Ein zugeschalteter Allradantrieb erhöht Reibung und Verbrauch.
+
+@kapitel 2.6
+@punkte 3
+
+? Wie viele Warnwesten müssen in einem Pkw mindestens mitgeführt werden?
+N 1 Stück
+= Vorgeschrieben ist mindestens eine Warnweste. Sinnvoll ist eine für jede mitfahrende Person.
+! zahl
+
+? Was müssen Sie beim Verbandkasten im Pkw beachten?
++ Er muss vollständig sein und den aktuellen Anforderungen entsprechen
++ Verbrauchte oder abgelaufene Teile sollten ersetzt werden
+- Er darf im Pkw fehlen, wenn ich einen Erste-Hilfe-Kurs habe
+= Der Verbandkasten gehört zur vorgeschriebenen Ausrüstung.
+
+? Dürfen Sie in Ihrem Pkw ein Gerät betreiben, das vor Geschwindigkeitsmessungen warnt?
++ Nein, das ist verboten
+- Ja, wenn ich es nur auf der Autobahn verwende
+- Ja, weil es der Sicherheit dient
+= Geräte oder App-Funktionen, die Verkehrsüberwachungsmaßnahmen anzeigen oder stören, dürfen nicht betrieben oder betriebsbereit mitgeführt werden.
+
+? Dürfen Sie in Deutschland mit Spikereifen fahren?
++ Nein, Spikes sind in Deutschland grundsätzlich verboten
+- Ja, im Winter immer
+- Ja, wenn Schnee liegt
+= Spikereifen beschädigen die Fahrbahn. Es gelten nur sehr enge Ausnahmen.
+
+? Ihre Winterreifen sind für eine geringere Höchstgeschwindigkeit zugelassen als Ihr Pkw fahren kann. Was ist vorgeschrieben?
++ Im Blickfeld des Fahrers muss ein Hinweis auf die zulässige Höchstgeschwindigkeit der Reifen angebracht sein
+- Das ist verboten
+- Ich muss es der Zulassungsstelle melden
+= Die Reifenhöchstgeschwindigkeit darf nicht überschritten werden; ein Aufkleber erinnert daran.
+! punkte=4
+
+? Welche Kennzeichnung müssen Reifen haben, die bei winterlichen Straßenverhältnissen genutzt werden?
++ Das Alpine-Symbol (Bergpiktogramm mit Schneeflocke)
+- Nur die Kennzeichnung „M+S“ genügt auch bei neuen Reifen
+- Keine besondere
+= Reifen mit nur „M+S“-Kennzeichnung sind seit Oktober 2024 bei winterlichen Verhältnissen nicht mehr zulässig.
+! punkte=4
+
+? Was bedeutet die vierstellige DOT-Nummer „2324“ auf einem Reifen?
++ Der Reifen wurde in der 23. Woche des Jahres 2024 hergestellt
+- Der Reifen ist bis 2324 km zugelassen
+- Es handelt sich um die Reifengröße
+= Die ersten beiden Ziffern stehen für die Kalenderwoche, die letzten beiden für das Jahr.
+! punkte=4
+
+? Was ist in der Zulassungsbescheinigung Teil I im Feld O.1 angegeben?
++ Die zulässige Anhängelast für gebremste Anhänger
+- Die zulässige Gesamtmasse des Zugfahrzeugs
+- Die Stützlast
+= Feld O.2 enthält die Anhängelast für ungebremste Anhänger.
+! punkte=4
+
+? Was zeigt die Prüfplakette auf dem hinteren Kennzeichen an?
++ Den Monat und das Jahr der nächsten Hauptuntersuchung
+- Die Schadstoffklasse
+- Den Wohnort des Halters
+= Die Zahl oben auf der Plakette zeigt den Monat, die Farbe und die Zahl in der Mitte das Jahr.
+
+? Wann muss ein neu zugelassener Pkw das erste Mal zur Hauptuntersuchung?
+N 36 Monate
+= Danach ist die Hauptuntersuchung alle 24 Monate fällig.
+! zahl punkte=4
+
+? Was müssen Sie tun, wenn Sie umziehen und das Fahrzeug auf Sie zugelassen ist?
++ Die neue Anschrift unverzüglich der Zulassungsbehörde melden
+- Nichts, das erledigt das Einwohnermeldeamt automatisch in jedem Fall
+- Erst bei der nächsten Hauptuntersuchung melden
+= Halter müssen Änderungen in der Zulassungsbescheinigung mitteilen.
+
+? Was gilt für ein Fahrzeug mit Saisonkennzeichen außerhalb des angegebenen Zeitraums?
++ Es darf auf öffentlichen Straßen weder gefahren noch abgestellt werden
+- Es darf gefahren, aber nicht geparkt werden
+- Es gelten keine Einschränkungen
+= Außerhalb des Zeitraums darf das Fahrzeug nur auf privatem Grund stehen.
+
+? Wofür steht der Buchstabe „E“ am Ende eines Kennzeichens?
++ Für ein elektrisch betriebenes Fahrzeug
+- Für ein Fahrzeug aus dem Ausland
+- Für ein Fahrzeug der Feuerwehr
+= Mit dem E-Kennzeichen können Bevorrechtigungen für E-Fahrzeuge genutzt werden.
+
+? Wofür steht ein „H“ am Ende eines Kennzeichens?
++ Für ein historisches Fahrzeug (Oldtimer)
+- Für ein Fahrzeug mit Hybridantrieb
+- Für einen Hänger
+= Das H-Kennzeichen setzt u. a. voraus, dass das Fahrzeug mindestens 30 Jahre alt und weitgehend im Originalzustand ist.
+! punkte=4
+
+? Für wie viele Tage gilt ein Kurzzeitkennzeichen höchstens?
+N 5 Tage
+= Kurzzeitkennzeichen sind für Prüfungs-, Probe- und Überführungsfahrten gedacht und höchstens fünf Tage gültig.
+! zahl punkte=4
+
+? Dürfen Sie ein abgemeldetes Fahrzeug am Straßenrand abstellen?
++ Nein
+- Ja, für höchstens zwei Wochen
+- Ja, wenn die Kennzeichen dran bleiben
+= Fahrzeuge ohne Zulassung dürfen nicht auf öffentlichen Straßen abgestellt werden.
+
+? Welche Kindersitze dürfen Sie benutzen?
++ Amtlich genehmigte Sitze nach UN-Regelung 129 (i-Size)
++ Amtlich genehmigte Sitze nach UN-Regelung 44, Version 03 oder neuer
+- Jeder Sitz, auf den das Kind passt
+= Die Genehmigung ist auf einem orangefarbenen Etikett am Sitz angegeben.
+! punkte=4
+
+? Sie haben eine Anhängerkupplung mit abnehmbarem Kugelkopf. Was ist ohne Anhänger zu beachten?
++ Den Kugelkopf abnehmen, wenn er das Kennzeichen oder Leuchten verdeckt
+- Der Kugelkopf muss immer montiert bleiben
+- Ich muss dann langsamer fahren
+= Verdeckte Kennzeichen sind unzulässig; außerdem erhöht ein vorstehender Kugelkopf das Verletzungsrisiko.
+
+? Was gilt für die Feinstaubplakette?
++ Sie muss gut sichtbar innen an der Windschutzscheibe kleben
+- Sie muss im Handschuhfach liegen
+- Sie ist nur für Lkw nötig
+= Die Plakette passt zu einem bestimmten Kennzeichen und ist nicht übertragbar.
+
+? Was müssen Sie bei einem gebremsten Anhänger mit Auflaufbremse beim Ankuppeln beachten?
++ Das Abreißseil am Zugfahrzeug befestigen
++ Das Stützrad hochkurbeln und sichern
+- Die Handbremse des Anhängers angezogen lassen
+= Das Abreißseil löst beim Abreißen des Anhängers dessen Bremse aus.
+! punkte=4
+
+? Was müssen Sie vor jeder Fahrt mit Anhänger kontrollieren?
++ Ob die Kupplung sicher eingerastet ist
++ Ob die Beleuchtung des Anhängers funktioniert
++ Ob die Ladung gesichert ist
+= Eine unzureichend geschlossene Kupplung kann zum Abreißen des Anhängers führen.
+
+? Was bedeutet es, wenn die Reifendruck-Kontrollleuchte aufleuchtet?
++ Der Druck in mindestens einem Reifen ist zu niedrig
+- Die Reifen sind abgefahren
+- Die Bremsen sind verschlissen
+= Ein Reifendruckkontrollsystem ist für neue Pkw seit 2014 vorgeschrieben. Bei Druckverlust Reifen prüfen.
+
+? Dürfen Sie mit Tagfahrlicht bei Dunkelheit fahren?
++ Nein, bei Dunkelheit muss das Abblendlicht eingeschaltet sein
+- Ja, das Tagfahrlicht ersetzt das Abblendlicht
+- Ja, innerorts
+= Beim Tagfahrlicht leuchten die Schlussleuchten oft nicht; es ist nur für Tageslicht gedacht.
+
+? Wo ist geregelt, welche Reifengrößen Sie fahren dürfen?
++ In den Fahrzeugpapieren bzw. in der Übereinstimmungsbescheinigung (CoC) oder einer Freigabe
+- Ich darf jede passende Größe montieren
+- Nur beim Händler
+= Nicht freigegebene Reifengrößen können die Betriebserlaubnis erlöschen lassen.
+! punkte=4
+
+? Welche Lichter muss ein Pkw-Anhänger hinten mindestens haben?
++ Schlussleuchten, Bremsleuchten und Fahrtrichtungsanzeiger
++ Rückstrahler (Dreiecke) und eine Kennzeichenbeleuchtung
+- Nur Rückstrahler
+= Zusätzlich ist an Anhängern meist eine Nebelschlussleuchte vorhanden bzw. vorgeschrieben.
+! punkte=4
+
+@kapitel 2.7
+@punkte 3
+
+? Während der Fahrt leuchtet die ABS-Kontrollleuchte dauerhaft auf. Was bedeutet das?
++ Das ABS ist ausgefallen; die normale Bremsanlage funktioniert in der Regel weiter
++ Bei einer Vollbremsung können die Räder blockieren
+- Die Bremsen funktionieren überhaupt nicht mehr
+= Ich fahre vorsichtig weiter und lasse das System bald in einer Werkstatt prüfen.
+! punkte=4
+
+? Die Blinkerkontrolle blinkt plötzlich deutlich schneller als sonst. Was ist die wahrscheinliche Ursache?
++ Eine Blinkleuchte ist ausgefallen
+- Der Tank ist fast leer
+- Die Batterie ist voll geladen
+= Viele Fahrzeuge zeigen einen Ausfall durch schnelleres Blinken an. Die Leuchte sollte bald ersetzt werden.
+
+? Bei Ihrem Diesel-Pkw ist der AdBlue-Tank leer. Was kann passieren?
++ Nach dem Abstellen lässt sich der Motor nicht mehr starten
+- Der Motor läuft ohne Einschränkungen weiter
+- Der Verbrauch an Diesel sinkt
+= Das Fahrzeug warnt rechtzeitig. AdBlue sollte nachgefüllt werden, bevor der Tank leer ist.
+
+? Woran erkennen Sie in einem Elektro- oder Hybridfahrzeug Hochvolt-Leitungen?
++ An ihrer orangen Farbe
+- An einer blauen Ummantelung
+- Sie sind nicht erkennbar
+= Hochvolt-Bauteile dürfen nicht berührt oder beschädigt werden. Arbeiten daran sind Fachkräften vorbehalten.
+! punkte=4
+
+? Dürfen Sie mit jedem Benziner E10 tanken?
++ Nein, nur wenn der Hersteller das Fahrzeug für E10 freigegeben hat
+- Ja, alle Benziner vertragen E10
+- Nein, E10 ist nur für Dieselfahrzeuge
+= Die meisten neueren Benziner vertragen E10. Im Zweifel in der Betriebsanleitung oder beim Hersteller nachsehen.
+
+? Sie haben versehentlich Diesel in einen Benziner getankt. Was ist richtig?
++ Den Motor nicht starten und das Fahrzeug abschleppen bzw. den Kraftstoff absaugen lassen
+- Einfach losfahren, der Motor verträgt das
+- Mit Benzin auffüllen und weiterfahren
+= Wird der Motor nicht gestartet, lassen sich größere Schäden meist vermeiden.
+
+? Die Kühlmittel-Warnleuchte leuchtet rot. Was tun Sie?
++ Sobald es gefahrlos möglich ist anhalten und den Motor abstellen
++ Den Kühlerdeckel erst öffnen, wenn der Motor abgekühlt ist
+- Weiterfahren, damit der Fahrtwind den Motor kühlt
+= Heiße Kühlflüssigkeit steht unter Druck und kann Verbrühungen verursachen.
+! punkte=4
+
+? Wie prüfen Sie den Motorölstand richtig?
++ Das Fahrzeug steht waagerecht, der Motor ist einige Minuten aus; der Ölstand liegt zwischen den Markierungen
+- Bei laufendem Motor
+- Am Berg, damit das Öl nach vorne läuft
+= Zu wenig und zu viel Öl kann dem Motor schaden.
+
+? Was geben die Angaben „205/55 R 16 91 V“ auf einem Reifen unter anderem an?
++ Die Reifenbreite von 205 mm und den Felgendurchmesser von 16 Zoll
++ Mit „V“ die zulässige Höchstgeschwindigkeit des Reifens
+- Die Profiltiefe von 5,5 mm
+= 55 steht für das Verhältnis von Höhe zu Breite in Prozent, 91 für die Tragfähigkeit, R für Radialbauweise.
+! punkte=4
+
+? Welche Höchstgeschwindigkeit erlaubt der Geschwindigkeitsindex „H“?
+N 210 km/h
+= Beispiele: T = 190 km/h, H = 210 km/h, V = 240 km/h, W = 270 km/h.
+! zahl punkte=4
+
+? Sie haben ein Notrad (schmales Ersatzrad) montiert. Was ist zu beachten?
++ Die auf dem Rad angegebene Höchstgeschwindigkeit, meist 80 km/h, darf nicht überschritten werden
+- Ich darf damit dauerhaft fahren
+- Ich kann damit beliebig schnell fahren
+= Notreifen sind nur für kurze Strecken bis zur nächsten Werkstatt gedacht.
+
+? Sie haben eine Reifenpanne mit einem Reifendichtmittel provisorisch abgedichtet. Wie geht es weiter?
++ Langsam zur nächsten Werkstatt fahren und den Reifen prüfen bzw. ersetzen lassen
+- Normal weiterfahren, der Reifen ist dauerhaft repariert
+- Den Reifendruck absenken
+= Pannensets sind eine Notlösung. Die Höchstgeschwindigkeit steht meist auf einem beiliegenden Aufkleber.
+
+? Was ist bei einem Reifen mit Laufrichtungsbindung zu beachten?
++ Er muss so montiert werden, dass er sich in Pfeilrichtung dreht
+- Er darf nur an der Vorderachse gefahren werden
+- Die Laufrichtung ist egal
+= Falsch montiert verliert er an Haftung bei Nässe und kann lauter sein.
+
+? Der Motor Ihres Pkw geht während der Fahrt aus. Worauf müssen Sie sich einstellen?
++ Lenken und Bremsen erfordern deutlich mehr Kraft
+- Die Lenkung blockiert sofort
+- Die Bremsen funktionieren nicht mehr
+= Servolenkung und Bremskraftverstärker arbeiten nicht mehr. Den Schlüssel nicht abziehen, sonst kann das Lenkradschloss einrasten.
+! punkte=5
+
+? Woran erkennen Sie, dass die Kupplung rutscht?
++ Die Drehzahl steigt beim Gasgeben, aber das Fahrzeug beschleunigt kaum
+- Der Motor geht beim Anfahren aus
+- Das Fahrzeug zieht nach rechts
+= Eine rutschende Kupplung verschleißt schnell und sollte erneuert werden.
+
+? Nach einer Waschanlage oder längerer Standzeit bei Nässe bremst Ihr Pkw schlechter. Was hilft?
++ Mit einigen leichten Bremsungen die Bremsscheiben trocken bremsen bzw. säubern
+- Kräftig Gas geben
+- Die Handbremse während der Fahrt ziehen
+= Feuchtigkeit oder Flugrost auf den Scheiben verringern kurzzeitig die Bremswirkung.
+
+? Eine rote Kontrollleuchte erscheint im Kombiinstrument. Was bedeutet das grundsätzlich?
++ Es liegt eine Störung vor, die meist ein sofortiges, gefahrloses Anhalten erfordert
+- Es ist nur eine Information ohne Bedeutung
+- Ich muss erst bei der nächsten Inspektion reagieren
+= Gelbe Leuchten weisen meist auf eine Störung hin, die bald behoben werden muss; rote auf eine dringende.
+
+? Warum sollten Sie dem Scheibenwaschwasser im Winter Frostschutz zugeben?
++ Damit Behälter, Leitungen und Düsen nicht einfrieren und die Scheibe nicht vereist
+- Damit es besser riecht
+- Das ist nicht nötig
+= Ohne Frostschutz kann das Wasser auf der Scheibe gefrieren und die Sicht nehmen.
+
+? Woran erkennen Sie, dass die Wischerblätter ersetzt werden müssen?
++ An Schlieren oder ungewischten Streifen auf der Scheibe
+- Am Rattern des Motors
+- Gar nicht, sie halten ewig
+= Wischerblätter altern durch UV-Licht, Hitze und Frost.
+
+? Was bewirkt das asymmetrische Abblendlicht?
++ Der rechte Fahrbahnrand wird weiter ausgeleuchtet als die Gegenfahrbahn
+- Der Gegenverkehr wird stärker beleuchtet
+- Es blendet bewusst
+= So sehe ich den Fahrbahnrand und blende den Gegenverkehr möglichst wenig.
+
+? Wie wird die Bremse eines Pkw-Anhängers mit Auflaufbremse betätigt?
++ Wenn das Zugfahrzeug bremst, schiebt der Anhänger auf und betätigt dabei seine Bremse
+- Elektrisch vom Bremspedal aus
+- Gar nicht, Anhänger bremsen nicht
+= Beim Rückwärtsfahren lässt die Rückfahrautomatik die Räder trotz Auflaufens drehen.
+! punkte=4
+
+? Was müssen Sie beim Fahren mit einem Spurhalteassistenten beachten?
++ Er unterstützt nur und erkennt verblasste oder fehlende Markierungen möglicherweise nicht
+- Ich kann die Hände dauerhaft vom Lenkrad nehmen
+- Er ersetzt den Schulterblick
+= Die Verantwortung für das Lenken bleibt bei mir.
+
+? Ihr Pkw hat einen Abstandsregeltempomaten. Was ist richtig?
++ Er hält den gewählten Abstand, erkennt aber stehende Hindernisse oder Querverkehr nicht immer
+- Er bremst immer bis zum Stillstand vor jedem Hindernis
+- Er funktioniert bei jedem Wetter zuverlässig
+= Sensoren können bei Schnee, Regen oder Verschmutzung eingeschränkt sein.
+
+? Warum sollten Sie die Sensoren und Kameras Ihres Fahrzeugs sauber halten?
++ Verschmutzungen können Assistenzsysteme stören oder abschalten
+- Weil sonst die Kfz-Steuer steigt
+- Sauberkeit spielt keine Rolle
+= Das Fahrzeug meldet Ausfälle meist mit einer Kontrollleuchte.
+
+? Was ist bei einer Rückfahrkamera zu beachten?
++ Sie zeigt nicht den gesamten Bereich um das Fahrzeug; ich achte zusätzlich auf Spiegel und Umfeld
+- Sie zeigt alle Hindernisse sicher an
+- Mit Kamera darf ich schneller rückwärts fahren
+= Kinder oder niedrige Hindernisse können außerhalb des Bildes sein.
+
+? Warum lässt die Kapazität der Starterbatterie im Winter nach?
++ Bei Kälte laufen die chemischen Vorgänge in der Batterie langsamer ab
+- Weil die Batterie einfriert und sich entleert
+- Kälte hat keinen Einfluss
+= Gleichzeitig braucht der Motor bei Kälte mehr Startenergie. Schwache Batterien versagen deshalb oft im Winter.
+
+? Was ist bei einem Fahrzeug mit Turbolader nach starker Belastung (z. B. Bergfahrt) sinnvoll?
++ Vor dem Abstellen kurz mit geringer Last fahren, damit der Lader abkühlen kann
+- Den Motor sofort nach Vollgas abstellen
+- Im Stand Gas geben
+= So wird der Turbolader geschont.
+
+? Was verringert sich bei einem Elektroauto bei sehr kalten Temperaturen?
++ Die Reichweite
++ Die Ladegeschwindigkeit, solange die Batterie kalt ist
+- Die Bremswirkung der Scheibenbremsen
+= Batterie und Heizung brauchen Energie. Vorkonditionieren vor dem Schnellladen hilft.
+
+? Die Bremsbelag-Verschleißanzeige leuchtet. Was ist zu tun?
++ Die Bremsbeläge bald in einer Werkstatt ersetzen lassen
+- Weiterfahren bis zur nächsten Hauptuntersuchung
+- Die Bremsflüssigkeit auffüllen
+= Abgefahrene Beläge können die Bremsscheiben beschädigen und die Bremswirkung verringern.
+
+? Welchen Vorteil hat eine elektronische Parkbremse mit Anfahrhilfe?
++ Sie löst beim Anfahren am Berg automatisch, sodass das Fahrzeug nicht zurückrollt
+- Sie ersetzt die Betriebsbremse
+- Sie verkürzt den Bremsweg
+= Ich muss trotzdem wissen, wie die Bremse von Hand betätigt und gelöst wird.
+
+@kapitel 2.8
+@punkte 3
+
+? Ab welcher Höhe einer Geldbuße wird eine Ordnungswidrigkeit im Fahreignungsregister eingetragen?
+N 60 €
+= Verwarnungsgelder unter 60 € führen nicht zu einem Eintrag. Eingetragen werden außerdem verkehrsbezogene Straftaten.
+! zahl punkte=4
+
+? Nach welcher Zeit wird eine Ordnungswidrigkeit mit einem Punkt im Fahreignungsregister getilgt?
++ Nach 2,5 Jahren
+- Nach 6 Monaten
+- Nach 10 Jahren
+= Die Frist beginnt mit der Rechtskraft der Entscheidung. Ordnungswidrigkeiten mit zwei Punkten werden nach fünf Jahren getilgt.
+! punkte=4
+
+? Nach welcher Zeit wird eine Ordnungswidrigkeit mit zwei Punkten im Fahreignungsregister getilgt?
+N 5 Jahre
+= Besonders schwere Ordnungswidrigkeiten (z. B. mit Fahrverbot) bleiben länger im Register als einfache.
+! zahl punkte=4
+
+? Bei welchem Punktestand werden Sie von der Fahrerlaubnisbehörde ermahnt?
++ Bei 4 oder 5 Punkten
+- Bereits ab 1 Punkt
+- Erst ab 8 Punkten
+= Gleichzeitig wird auf die Möglichkeit eines freiwilligen Fahreignungsseminars hingewiesen.
+! punkte=4
+
+? Bei welchem Punktestand werden Sie verwarnt?
++ Bei 6 oder 7 Punkten
+- Bei 2 Punkten
+- Bei 10 Punkten
+= Bei der Verwarnung kann ein Fahreignungsseminar nicht mehr zum Punkteabzug führen. Ab 8 Punkten wird die Fahrerlaubnis entzogen.
+! punkte=4
+
+? Ihnen wurde die Fahrerlaubnis wegen 8 Punkten entzogen. Wann können Sie frühestens eine neue Fahrerlaubnis bekommen?
++ Nach sechs Monaten, in der Regel mit einem positiven medizinisch-psychologischen Gutachten
+- Sofort nach Abgabe des Führerscheins
+- Nach einer Woche
+= Die Frist beginnt mit der Abgabe des Führerscheins.
+! punkte=5
+
+? Für welchen Zeitraum kann ein Fahrverbot verhängt werden, das wegen einer Ordnungswidrigkeit angeordnet wird?
++ Für einen bis drei Monate
+- Für höchstens eine Woche
+- Für mindestens ein Jahr
+= Während des Fahrverbots darf kein Kraftfahrzeug geführt werden, für das eine Fahrerlaubnis nötig ist; der Führerschein wird amtlich verwahrt.
+
+? Sie haben zum ersten Mal ein Fahrverbot bekommen und in den zwei Jahren davor keines gehabt. Was gilt in der Regel?
++ Ich kann den Beginn des Fahrverbots innerhalb von vier Monaten nach Rechtskraft selbst wählen
+- Das Fahrverbot beginnt sofort mit dem Verstoß
+- Ich muss die Fahrerlaubnis neu beantragen
+= Spätestens mit Ablauf der vier Monate muss der Führerschein abgegeben sein.
+! punkte=4
+
+? Sie fahren während eines Fahrverbots ein Auto. Was ist das?
++ Eine Straftat (Fahren ohne Fahrerlaubnis)
+- Eine geringfügige Ordnungswidrigkeit
+- Erlaubt, wenn die Strecke kurz ist
+= Auch wer als Halter zulässt, dass jemand ohne Fahrerlaubnis oder trotz Fahrverbots fährt, macht sich strafbar.
+! punkte=5
+
+? Sie überlassen Ihr Auto einer Person, von der Sie wissen, dass sie keine Fahrerlaubnis hat. Was gilt?
++ Ich mache mich als Halter strafbar
+- Nur die fahrende Person handelt verbotswidrig
+- Das ist erlaubt, wenn ich mitfahre
+= Der Halter darf das Führen seines Fahrzeugs nur Personen mit gültiger Fahrerlaubnis erlauben.
+! punkte=5
+
+? Sie begehen in der Probezeit einen schwerwiegenden Verstoß (A-Verstoß). Welche Folgen hat das?
++ Ich muss an einem Aufbauseminar teilnehmen
++ Die Probezeit verlängert sich auf insgesamt vier Jahre
+- Die Fahrerlaubnis wird sofort entzogen
+= Zwei weniger schwerwiegende Verstöße (B-Verstöße) haben die gleiche Folge.
+! punkte=5
+
+? Sie nehmen in der Probezeit nicht an einem angeordneten Aufbauseminar teil. Was folgt daraus?
++ Die Fahrerlaubnis wird entzogen
+- Nichts, das Seminar ist freiwillig
+- Ich bekomme einen Punkt
+= Das Aufbauseminar ist in diesem Fall Pflicht.
+! punkte=5
+
+? Was folgt, wenn Sie in der verlängerten Probezeit nach dem Aufbauseminar erneut einen schwerwiegenden Verstoß begehen?
++ Eine schriftliche Verwarnung mit der Empfehlung einer verkehrspsychologischen Beratung
+- Die Probezeit endet sofort
+- Nichts
+= Bei einem weiteren solchen Verstoß wird die Fahrerlaubnis entzogen.
+! punkte=5
+
+? Welche dieser Verstöße gelten in der Probezeit als schwerwiegend (A-Verstoß)?
++ Überschreitung der zulässigen Höchstgeschwindigkeit um mehr als 20 km/h
++ Missachten einer roten Ampel
+- Eine Überschreitung der Parkzeit
+= A-Verstöße sind u. a. auch Vorfahrtsverstöße, gefährliches Überholen und Alkohol am Steuer.
+! punkte=4
+
+? Sie fahren als Fahranfänger innerorts 68 km/h statt der erlaubten 50 km/h. Ist das ein A-Verstoß in der Probezeit?
++ Nein, erst eine Überschreitung um mehr als 20 km/h ist ein A-Verstoß
+- Ja, jede Überschreitung ist ein A-Verstoß
+- Ja, weil es innerorts ist
+= Die Überschreitung um 18 km/h ist eine Ordnungswidrigkeit, wird aber nicht als A-Verstoß gewertet.
+! punkte=4
+
+? Ab welcher Blutalkoholkonzentration wird zur Klärung der Eignung in jedem Fall ein medizinisch-psychologisches Gutachten verlangt?
+N 1,6 ‰
+= Auch wiederholte Alkoholverstöße können eine MPU nach sich ziehen, schon bei geringeren Werten.
+! zahl punkte=5
+
+? Wie alt darf die Sehtestbescheinigung höchstens sein, wenn Sie den Führerschein beantragen?
+N 2 Jahre
+= Bei Mängeln kann eine augenärztliche Untersuchung nötig sein.
+! zahl
+
+? Wie viele Unterrichtseinheiten umfasst die für den Führerschein vorgeschriebene Erste-Hilfe-Schulung?
+N 9 Unterrichtseinheiten
+= Die Schulung vermittelt Grundlagen, die bei einem Unfall Leben retten können.
+! zahl
+
+? In welchem Alter dürfen Sie frühestens allein (ohne Begleitperson) einen Pkw mit der Klasse B fahren?
+N 18 Jahre
+= Mit dem begleiteten Fahren ist ab 17 Jahren das Fahren mit eingetragener Begleitperson möglich.
+! zahl
+
+? Welche Klassen sind in der Fahrerlaubnis Klasse B eingeschlossen?
++ Klasse AM
++ Klasse L
+- Klasse A1
+= A1-Leichtkrafträder dürfen nur mit zusätzlicher Schlüsselzahl 196 nach einer Schulung gefahren werden.
+! punkte=4
+
+? Unter welchen Voraussetzungen können Sie die Schlüsselzahl 196 (Leichtkrafträder bis 125 cm³) erwerben?
++ Ich bin mindestens 25 Jahre alt und habe die Klasse B seit mindestens fünf Jahren
++ Ich habe eine Fahrerschulung mit Theorie- und Praxisanteil in einer Fahrschule absolviert
+- Ich lege eine theoretische Prüfung beim TÜV oder bei der DEKRA ab
+= Eine Prüfung ist nicht vorgesehen. Die Schlüsselzahl 196 gilt nur in Deutschland.
+! punkte=4
+
+? Was bedeutet die Schlüsselzahl 197 im Führerschein?
++ Ich habe die Prüfung auf einem Automatikfahrzeug abgelegt, darf aber nach zusätzlicher Ausbildung auch Schaltwagen fahren
+- Ich darf nur Automatikfahrzeuge fahren
+- Ich darf Anhänger bis 4 250 kg ziehen
+= Voraussetzung sind mindestens zehn Fahrstunden auf einem Schaltwagen und eine Testfahrt von mindestens 15 Minuten.
+! punkte=4
+
+? Was bedeutet die Schlüsselzahl 78 im Führerschein?
++ Ich darf nur Fahrzeuge mit Automatikgetriebe fahren
+- Ich muss eine Brille tragen
+- Ich darf auch Leichtkrafträder fahren
+= Die Beschränkung kann durch eine praktische Prüfung auf einem Schaltwagen aufgehoben werden.
+
+? Wie können Sie erfahren, wie viele Punkte Sie im Fahreignungsregister haben?
++ Durch eine kostenlose Auskunft beim Kraftfahrt-Bundesamt
+- Nur über einen Anwalt
+- Die Punkte sind geheim
+= Die Auskunft kann online mit dem Personalausweis, schriftlich oder persönlich beantragt werden.
+
+? Sie haben einen Unfall verursacht und niemand ist am Unfallort. Was müssen Sie tun?
++ Angemessene Zeit warten und, wenn niemand kommt, die Polizei verständigen bzw. die Feststellungen unverzüglich nachholen
+- Einen Zettel hinter den Scheibenwischer klemmen und wegfahren
+- Wegfahren, weil niemand da ist
+= Unerlaubtes Entfernen vom Unfallort ist eine Straftat und kann zum Entzug der Fahrerlaubnis führen. Ein Zettel genügt nicht.
+! punkte=5
+
+? Sie wurden mit dem Handy am Steuer erwischt und haben dabei andere gefährdet. Was droht neben einer Geldbuße?
++ Zwei Punkte und ein Fahrverbot von einem Monat
+- Keine weiteren Folgen
+- Nur eine mündliche Verwarnung
+= Ohne Gefährdung oder Sachbeschädigung gibt es für die Handynutzung einen Punkt.
+! punkte=4
+
+? Sie bilden bei stockendem Verkehr auf der Autobahn keine Rettungsgasse. Mit welchen Folgen müssen Sie rechnen?
++ Mit einer Geldbuße und Punkten im Fahreignungsregister
++ Bei Behinderung oder Gefährdung von Einsatzkräften zusätzlich mit einem Fahrverbot
+- Mit keinen, eine Rettungsgasse ist eine Empfehlung
+= Die Rettungsgasse ist Pflicht, sobald der Verkehr stockt.
+! punkte=4
+
+? Sie fahren mit einem Pkw, dessen Hauptuntersuchung seit mehr als acht Monaten überfällig ist. Was droht?
++ Eine Geldbuße und ein Punkt im Fahreignungsregister
+- Nichts, solange das Fahrzeug fahrtüchtig ist
+- Die Beschlagnahme des Führerscheins
+= Bei der verspäteten Prüfung kann zudem eine Ergänzungsuntersuchung fällig werden.
+
+? Sie leiden an einer Erkrankung, die zu plötzlicher Bewusstlosigkeit führen kann. Was ist richtig?
++ Ich kläre mit meinem Arzt, ob und unter welchen Bedingungen ich fahren darf
+- Ich fahre weiter, solange keine Anfälle auftreten
+- Ich fahre nur nachts
+= Jeder muss selbst prüfen, ob er körperlich und geistig zum Fahren in der Lage ist.
+! punkte=5
+
+? Was gilt für ältere Führerscheine (z. B. Papierführerscheine)?
++ Sie müssen nach festgelegten Fristen in den EU-Kartenführerschein umgetauscht werden
++ Die Fahrerlaubnis selbst bleibt beim Umtausch erhalten
+- Sie gelten unbegrenzt weiter
+= Die Fristen sind nach Geburtsjahr bzw. Ausstellungsjahr gestaffelt.

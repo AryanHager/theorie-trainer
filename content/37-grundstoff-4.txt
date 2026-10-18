@@ -1,0 +1,286 @@
+// Grundstoff – Runde 4 (1.3, 1.2, 1.1, 1.5) – eigene Formulierungen
+@klassen ALLE
+
+@kapitel 1.3
+@punkte 4
+
+? An einer roten Ampel ist rechts ein grünes Pfeilschild (Grünpfeil) angebracht. Was müssen Sie tun, bevor Sie rechts abbiegen?
++ An der Haltlinie anhalten
++ Mich vergewissern, dass ich niemanden gefährde oder behindere
+- Ich darf ohne Anhalten zügig abbiegen
+= Der Grünpfeil erlaubt das Abbiegen bei Rot nur nach vorherigem Anhalten. Wer nicht anhält, begeht einen Rotlichtverstoß.
+! klassen=MOT
+
+? Sie wollen an einer roten Ampel mit Grünpfeilschild rechts abbiegen. Auf wen müssen Sie besonders achten?
++ Auf zu Fuß Gehende, die bei Grün die Straße überqueren, in die ich abbiege
++ Auf den Fahrzeugverkehr, der Grün hat und dessen Fahrtrichtung ich kreuze oder in die ich einbiege
+- Nur auf Fahrzeuge von links
+= Wer nach Grünpfeil abbiegt, ist gegenüber allen wartepflichtig, die gerade Grün haben.
+! klassen=MOT
+
+? An einer roten Ampel hängt ein grünes Pfeilschild mit einem Fahrradsymbol. Dürfen Sie mit dem Pkw rechts abbiegen?
++ Nein, dieser Grünpfeil gilt nur für Radfahrende
+- Ja, für alle Fahrzeuge
+- Ja, wenn kein Fahrrad zu sehen ist
+= Der Grünpfeil mit Fahrradsymbol gibt nur dem Radverkehr das Rechtsabbiegen bei Rot frei.
+! klassen=MOT
+
+? Zwei Fahrzeuge kommen sich an einer Kreuzung entgegen und wollen beide links abbiegen. Wie biegen sie in der Regel ab?
++ Voreinander, also so, dass sie rechts aneinander vorbeifahren
+- Hintereinander, also erst nachdem sie aneinander vorbeigefahren sind
+- Wer zuerst blinkt, fährt zuerst
+= Das voreinander Abbiegen ist der Normalfall. Nur wenn Markierungen oder die Lage es erfordern, wird hintereinander abgebogen.
+
+? Sie wollen links in eine Straße abbiegen. Ein entgegenkommendes Fahrzeug will rechts in dieselbe Straße abbiegen. Wer darf zuerst fahren?
++ Das entgegenkommende Fahrzeug, ich muss es durchfahren lassen
+- Ich, weil ich zuerst an der Kreuzung war
+- Wer größer ist
+= Linksabbieger müssen entgegenkommende Fahrzeuge durchfahren lassen, auch wenn diese rechts abbiegen.
+
+? Sie wollen von einer Tankstelle auf die Straße fahren. Was gilt?
++ Ich muss den fließenden Verkehr vorlassen und darf niemanden gefährden
+- Ich habe Vorfahrt, weil ich von rechts komme
+- Der Verkehr auf der Straße muss mich einfädeln lassen
+= Wer aus einem Grundstück, z. B. einer Tankstelle oder einem Parkplatz, auf die Straße fährt, ist gegenüber allen anderen wartepflichtig.
+
+? Sie kommen aus einer Seitenstraße mit „Vorfahrt gewähren!“. Entlang der Vorfahrtstraße verläuft ein Radweg. Was gilt für die Radfahrenden darauf?
++ Sie haben ebenfalls Vorfahrt, auch wenn sie von rechts kommen
+- Sie müssen warten, weil sie nicht auf der Fahrbahn fahren
+- Nur Radfahrende von links haben Vorfahrt
+= Die Vorfahrt der Vorfahrtstraße gilt auch für deren Radwege. Achten Sie auf Radverkehr aus beiden Richtungen.
+
+? Ihre Ampel zeigt Grün, aber hinter der Kreuzung staut sich der Verkehr. Was tun Sie?
++ Vor der Kreuzung warten, bis ich sie zügig überqueren kann
+- In die Kreuzung einfahren, weil ich Grün habe
+- In die Kreuzung einfahren und mit Warnblinklicht warten
+= Wer in der Kreuzung stehen bleibt, blockiert den Querverkehr. Auch bei Grün darf nur einfahren, wer nicht in der Kreuzung warten muss.
+
+@kapitel 1.2
+@punkte 3
+
+? Sie stehen an einer roten Ampel, die Start-Stopp-Automatik hat den Motor abgeschaltet. Dürfen Sie jetzt Ihr Handy in die Hand nehmen und tippen?
++ Nein, eine automatische Abschaltung zählt nicht als ausgeschalteter Motor
+- Ja, weil der Motor aus ist
+- Ja, wenn ich nur eine kurze Nachricht schreibe
+= Das Handy darf nur in die Hand genommen werden, wenn das Fahrzeug steht und der Motor vollständig ausgeschaltet ist.
+! klassen=MOT punkte=4
+
+? Auf der Autobahn steht der Verkehr auf dem linken Fahrstreifen, rechts fahren Sie langsam an der Schlange vorbei. Was ist richtig?
++ Ich darf nur mit geringfügig höherer Geschwindigkeit und mit äußerster Vorsicht vorbeifahren
+- Ich darf mit beliebiger Geschwindigkeit vorbeifahren
+- Ich muss mich in die stehende Schlange einreihen
+= Aus der Schlange können Fahrzeuge plötzlich nach rechts wechseln. Deshalb nur wenig schneller als die Schlange und jederzeit bremsbereit fahren; eine feste km/h-Grenze nennt die StVO nicht.
+! klassen=MOT punkte=4
+
+? Sie nähern sich einem Bahnübergang. Ab wo dürfen Sie Kraftfahrzeuge nicht mehr überholen?
++ Ab der dreistreifigen Bake bzw. dem Gefahrzeichen bis einschließlich des Bahnübergangs
+- Erst direkt am Andreaskreuz
+- Überholen ist an Bahnübergängen immer erlaubt
+= Vor Bahnübergängen muss jederzeit angehalten werden können. Überholvorgänge sind dort zu gefährlich.
+! klassen=MOT
+
+? Sie wollen Ihr Fahrzeug verlassen. Was müssen Sie tun?
++ Den Motor abstellen und das Fahrzeug gegen Wegrollen sichern
++ Das Fahrzeug gegen unbefugte Benutzung sichern
+- Den Motor laufen lassen, wenn ich nur kurz weg bin
+= Ein unbeaufsichtigtes Fahrzeug mit laufendem Motor kann wegrollen oder gestohlen werden.
+! klassen=MOT
+
+? Es regnet am Tag so stark, dass die Sicht deutlich eingeschränkt ist. Welches Licht müssen Sie einschalten?
++ Abblendlicht
+- Nur das Tagfahrlicht
+- Fernlicht
+= Bei Sichtbehinderung durch Regen, Nebel oder Schneefall ist auch am Tag Abblendlicht vorgeschrieben. Tagfahrlicht reicht nicht, weil es hinten keine Leuchten einschaltet.
+! klassen=MOT
+
+? Dürfen Sie auf einem Schutzstreifen für den Radverkehr halten?
++ Nein, Halten ist dort verboten
+- Ja, bis zu drei Minuten
+- Ja, zum Be- und Entladen
+= Haltende Fahrzeuge auf dem Schutzstreifen zwingen Radfahrende, in den fließenden Verkehr auszuweichen.
+
+? In einer schmalen Straße liegt Ihnen gegenüber eine Grundstücksausfahrt. Dürfen Sie hier parken?
++ Nein, auf schmalen Fahrbahnen ist auch das Parken gegenüber von Grundstücksein- und -ausfahrten verboten
+- Ja, solange ich nicht direkt vor der Ausfahrt parke
+- Ja, wenn ich einen Zettel mit meiner Telefonnummer hinterlasse
+= Sonst kann man nicht mehr aus der Ausfahrt herausfahren.
+
+? Sie wollen kurz vor einer Ampel parken. Was müssen Sie beachten?
++ Bis zu 10 m vor der Ampel ist Parken verboten, wenn sie dadurch verdeckt wird
+- Direkt neben der Ampel ist Parken immer erlaubt
+- Vor Ampeln gilt ein Parkverbot von 50 m
+= Auch Zeichen wie „Vorfahrt gewähren!“ und „Halt. Vorfahrt gewähren.“ dürfen nicht verdeckt werden.
+
+? Sie fahren auf einer sehr schmalen Straße, auf der Begegnungsverkehr gefährlich ist. Wie schnell dürfen Sie fahren?
++ So schnell, dass ich innerhalb der halben Sichtweite anhalten kann
+- So schnell, dass ich innerhalb der ganzen Sichtweite anhalten kann
+- Die erlaubte Höchstgeschwindigkeit, weil ich Vorrang habe
+= Auch der Gegenverkehr braucht einen Teil der Sichtstrecke zum Anhalten.
+! punkte=4
+
+? Ein blinder Mensch mit weißem Stock will die Fahrbahn überqueren. Wie verhalten Sie sich?
++ Anhalten und ihn gefahrlos über die Straße gehen lassen
+- Hupen, damit er weiß, dass ich komme
+- Ohne Halt vorbeifahren, weil er mich ja hört
+= Wer einen weißen Stock trägt, ist besonders zu schützen. Hupen kann ihn erschrecken und verwirren.
+
+? Auf Ihrem Fahrstreifen endet die Fahrbahn wegen einer Baustelle. Wie ordnen Sie sich in den benachbarten Fahrstreifen ein?
++ Erst unmittelbar vor der Engstelle abwechselnd nach dem Reißverschlussverfahren
+- So früh wie möglich, sobald die Engstelle angekündigt ist
+- Gar nicht, die anderen müssen mich vorlassen, wenn ich angekommen bin
+= Beim Reißverschlussverfahren wird erst kurz vor dem Ende des Fahrstreifens abwechselnd eingefädelt. So wird der Platz am besten genutzt.
+
+? Sie fahren auf einem Beschleunigungsstreifen auf die Autobahn. Was ist richtig?
++ Auf dem Beschleunigungsstreifen zügig beschleunigen und mich in eine Lücke einfädeln
+- Den Seitenstreifen nutzen, wenn der Beschleunigungsstreifen zu kurz ist
+- Auf dem Beschleunigungsstreifen anhalten und warten, bis die Autobahn frei ist
+= Anhalten auf dem Beschleunigungsstreifen ist nur bei dichtem Verkehr ausnahmsweise nötig. Der Seitenstreifen darf nicht zum Einfädeln benutzt werden.
+! klassen=MOT
+
+@kapitel 1.1
+@punkte 4
+
+? Eine ältere Person fährt mit einem Pedelec vor Ihnen. Womit müssen Sie rechnen?
++ Sie kann schneller sein, als ich es von einem Fahrrad erwarte
++ Sie kann beim Anfahren oder Absteigen unsicher sein
+- Pedelecs fahren grundsätzlich nur Schrittgeschwindigkeit
+= Pedelecs unterstützen bis 25 km/h. Die Geschwindigkeit wird von anderen leicht unterschätzt.
+
+? Eine Fußgängerin schaut auf ihr Smartphone und geht auf den Fahrbahnrand zu. Wie verhalten Sie sich?
++ Bremsbereit sein und damit rechnen, dass sie ohne zu schauen auf die Fahrbahn tritt
+- Weiterfahren, sie muss ja auf den Verkehr achten
+- Kräftig hupen und beschleunigen
+= Abgelenkte Fußgänger nehmen Fahrzeuge oft nicht wahr. Mit Fehlern anderer muss gerechnet werden.
+
+? Ein Lieferfahrzeug hält vor Ihnen in zweiter Reihe. Womit müssen Sie beim Vorbeifahren rechnen?
++ Dass Personen hinter oder vor dem Fahrzeug hervortreten
++ Dass sich eine Tür öffnet
+- Dass das Fahrzeug sicher stehen bleibt und keine Gefahr besteht
+= Lieferpersonal steht oft unter Zeitdruck. Fahren Sie langsam und mit ausreichendem Seitenabstand vorbei.
+
+? Kinder fahren vor Ihnen mit Fahrrädern auf der Fahrbahn. Was ist richtig?
++ Mit unsicherem, schwankendem Fahren rechnen
++ Nur mit ausreichend großem Seitenabstand überholen
+- Durch Hupen zum Rechtsfahren auffordern
+= Kinder können Gefahren oft nicht einschätzen und lenken plötzlich. Innerorts sind beim Überholen mindestens 1,5 m Abstand vorgeschrieben.
+
+? Sie wollen aus einer Ausfahrt fahren, Ihre Sicht ist durch einen geparkten Transporter verdeckt. Wie verhalten Sie sich?
++ Langsam und vorsichtig vortasten, bis ich ausreichend sehen kann
++ Notfalls mich einweisen lassen
+- Zügig herausfahren, damit ich schnell weg bin
+= Wer aus einem Grundstück ausfährt, darf andere nicht gefährden. Achten Sie auch auf Radfahrende auf dem Gehweg oder Radweg.
+
+? Vor Ihnen fährt ein Lkw, auf dessen Plane oder Dach Schnee und Eis liegen. Was ist richtig?
++ Großen Abstand halten, weil Eisplatten herabfallen können
+- Dicht auffahren, damit herabfallendes Eis nicht auf die Scheibe trifft
+- Den Lkw sofort überholen, auch wenn die Sicht schlecht ist
+= Herabfallende Eisplatten können die Windschutzscheibe durchschlagen. Mehr Abstand gibt Zeit zum Ausweichen oder Bremsen.
+
+? Sie fahren aus einer Grundstücksausfahrt. Auf dem Radweg kommen Radfahrende von rechts und von links. Was ist richtig?
++ Ich muss auf Radfahrende aus beiden Richtungen achten
+- Ich muss nur auf Radfahrende von links achten
+- Radfahrende müssen mich vorlassen
+= Radwege können in beide Richtungen freigegeben sein. Außerdem fahren manche Radfahrende verbotswidrig in Gegenrichtung.
+
+? Sie fahren an einer Baustelle vorbei, auf der Personen nahe der Fahrbahn arbeiten. Wie verhalten Sie sich?
++ Langsam und mit möglichst großem Seitenabstand vorbeifahren
++ Damit rechnen, dass Personen oder Fahrzeuge plötzlich auf die Fahrbahn kommen
+- Zügig vorbeifahren, damit die Gefahr schnell vorbei ist
+= In Baustellen konzentrieren sich die Beschäftigten auf ihre Arbeit und achten oft nicht auf den Verkehr.
+
+? Eine Gruppe Jugendlicher steht an einer Bushaltestelle und rangelt miteinander. Wie verhalten Sie sich?
++ Langsamer fahren und damit rechnen, dass jemand auf die Fahrbahn gestoßen wird
+- Mit unveränderter Geschwindigkeit weiterfahren
+- Durch Hupen zur Ruhe auffordern
+= In Gruppen sind Jugendliche oft abgelenkt. Mit plötzlichem Betreten der Fahrbahn ist zu rechnen.
+
+@kapitel 1.5
+@punkte 3
+
+? Sie verabschieden sich nachts vor einem Haus. Dürfen Sie dabei hupen?
++ Nein, Hupen ist nur zur Warnung erlaubt; unnötiger Lärm ist verboten
+- Ja, kurz hupen ist immer erlaubt
+- Ja, wenn niemand schläft
+= Schallzeichen sind nur erlaubt, um vor Gefahren zu warnen oder außerorts das Überholen anzukündigen.
+
+? Beim Tanken ist Kraftstoff auf den Boden gelaufen. Was tun Sie?
++ Das Tankstellenpersonal informieren
+- Den Kraftstoff mit Wasser wegspülen
+- Nichts, er verdunstet sowieso
+= Die Tankstelle hat Bindemittel. Kraftstoff darf nicht in die Kanalisation oder den Boden gelangen.
+! klassen=MOT
+
+? Warum dürfen Sie Zigarettenkippen nicht aus dem Fahrzeug werfen?
++ Sie können Brände an Böschungen oder im Wald auslösen
++ Sie enthalten Schadstoffe, die Boden und Wasser belasten
+- Weil sie die Fahrbahn rutschig machen
+= Das Wegwerfen von Abfall aus dem Fahrzeug ist außerdem eine Ordnungswidrigkeit.
+
+? Sie laden vor einem Geschäft Ihr Fahrzeug aus. Was ist umweltgerecht?
++ Den Motor abstellen
+- Den Motor laufen lassen, damit die Heizung warm bleibt
+- Den Motor laufen lassen, weil es nur einige Minuten dauert
+= Unnötiges Laufenlassen des Motors ist verboten. Es verursacht Lärm und Abgase.
+! klassen=MOT
+
+? Sie kommen spät in der Nacht in einem Wohngebiet an. Wie verhalten Sie sich rücksichtsvoll?
++ Türen und Kofferraum leise schließen
++ Laute Musik vorher ausschalten
+- Den Motor noch einige Minuten laufen lassen
+= Nachts wird Lärm als besonders störend empfunden. Vermeidbarer Lärm ist zu unterlassen.
+
+? Warum sollten Sie beim Anfahren die Kupplung nicht unnötig lange schleifen lassen?
++ Die Kupplung verschleißt schneller
++ Der Verbrauch steigt
+- Weil das Fahrzeug dann schneller beschleunigt
+= Kurz und gefühlvoll einkuppeln, dann zügig hochschalten.
+! klassen=MOT
+
+? Wie oft sollten Sie den Reifendruck prüfen?
++ Regelmäßig, z. B. alle zwei Wochen, und vor längeren Fahrten
+- Nur bei der Hauptuntersuchung
+- Nur wenn ein Reifen sichtbar platt ist
+= Reifen verlieren langsam Luft. Der Druck wird bei kalten Reifen gemessen.
+! klassen=MOT
+
+? Sie schmieren die Antriebskette Ihres Motorrads. Was ist umweltgerecht?
++ Nur so viel Kettenspray verwenden wie nötig und Überschuss mit einem Tuch abwischen
+- Viel Spray auftragen, das Zuviel tropft ja ab
+- Das Spray auch auf den Reifen sprühen
+= Abtropfendes Fett gelangt in den Boden. Fett auf dem Reifen ist zudem sehr gefährlich.
+! klassen=ZWEIRAD
+
+? Sie fahren mit dem Motorrad durch ein Wohngebiet. Wie verhalten Sie sich umweltbewusst?
++ Mit niedriger Drehzahl und gleichmäßig fahren
+- Im niedrigen Gang hochdrehen, damit man mich hört
+- Beim Anfahren an der Ampel das Gas kurz aufreißen
+= Motorräder sind bei hohen Drehzahlen sehr laut. Viele Anwohner fühlen sich durch Motorradlärm belästigt.
+! klassen=ZWEIRAD
+
+? Ihr altes Auto soll verschrottet werden. Was ist richtig?
++ Es bei einem anerkannten Verwertungsbetrieb abgeben und einen Verwertungsnachweis erhalten
+- Es im Wald abstellen
+- Öl und Kühlmittel selbst in den Gully ablassen und das Auto dann verkaufen
+= Altfahrzeuge enthalten Öl, Kühlmittel und Batterien. Der Verwertungsnachweis ist für die Abmeldung nötig.
+! klassen=MOT
+
+? Sie wollen am Waldrand parken. Was ist zu beachten?
++ Waldwege und Zufahrten nicht zuparken, weil Rettungs- und Forstfahrzeuge sie brauchen
++ Nicht auf trockenem Gras abstellen
+- Am besten weit in den Waldweg hineinfahren
+= Bei einem Waldbrand müssen Feuerwehrfahrzeuge die Wege nutzen können. Viele Waldwege sind für Kraftfahrzeuge ohnehin gesperrt.
+! klassen=MOT
+
+? Sie transportieren Sand oder Gartenabfälle auf einem offenen Anhänger. Was ist richtig?
++ Die Ladung mit einer Plane oder einem Netz abdecken
+- Nicht abdecken, damit der Fahrtwind sie kühlt
+- Nur bei Regen abdecken
+= Herabfallende oder herauswehende Ladung gefährdet andere und verschmutzt die Umwelt.
+! klassen=MOT
+
+? Ihr Elektroauto bremst fast nur durch Rekuperation. Was kann an den Bremsscheiben passieren?
++ Sie können rosten, weil sie selten benutzt werden
+- Sie verschleißen besonders schnell
+- Nichts, Bremsscheiben altern nicht
+= Gelegentliches kräftiges Bremsen hält die Scheiben frei. Verrostete Scheiben verschlechtern die Bremswirkung und müssen früher ersetzt werden.
+! klassen=MOT

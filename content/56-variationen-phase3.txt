@@ -1,0 +1,771 @@
+// Variationen (Phase 3) – eigene Abwandlungen unserer eigenen Mutterfragen aus den Dateien 43–53
+
+// ---------- Krad (A1, A2, A) ----------
+
+? Eine enge Landstraßenkurve ist durch Büsche verdeckt. Wie gehen Sie mit dem Motorrad heran?
++ So langsam, dass ich vor einem Hindernis im sichtbaren Bereich noch zum Stehen komme
++ Auf einer Linie, die mir früh Einblick gibt, ohne über die Mitte zu geraten
+- Möglichst schnell, um die Kurve mit viel Schwung zu durchfahren
+= In einer uneinsehbaren Kurve kann hinter der Sichtgrenze ein Hindernis liegen. Maßgeblich ist, dass Sie innerhalb der überschaubaren Strecke anhalten können (StVO § 3 Abs. 1).
+! mutter=BSP-2.1-063
+
+? Mitten in einer Kurve merken Sie, dass Sie zu schnell sind und zum Außenrand driften. Was ist jetzt am hilfreichsten?
++ Den Blick auf den gewünschten Kurvenausgang richten und die Schräglage durch Lenkimpuls erhöhen
+- Auf das Hindernis am Außenrand schauen, um es genau im Blick zu haben
+- Die Kupplung ziehen und das Vorderrad voll abbremsen
+= Das Motorrad folgt dem Blick. Moderne Reifen erlauben meist mehr Schräglage, als man sich zutraut; eine harte Bremsung in Schräglage richtet das Motorrad dagegen auf und trägt es nach außen.
+! mutter=BSP-2.1-064
+
+? Woran lässt sich vor einer Landstraßenkurve abschätzen, wie eng sie wird?
++ An Leitpfosten und Baumreihen, die den Kurvenverlauf nachzeichnen
++ An Gefahrzeichen und Richtungstafeln
+- Am Wetterbericht
+= Leitpfosten, Bepflanzung und Masten zeigen oft schon von Weitem, wie sich die Straße krümmt. Gefahrzeichen und Richtungstafeln kündigen enge Kurven ausdrücklich an.
+! mutter=BSP-2.1-065
+
+? Sie fahren mit drei Freunden auf Motorrädern eine gerade Landstraße entlang. Wie ordnen Sie sich an?
++ Versetzt im eigenen Fahrstreifen, abwechselnd links und rechts
+- Alle genau in derselben Spur mit sehr kurzem Abstand
+- Zu zweit nebeneinander im Fahrstreifen
+= Beim versetzten Fahren hat jede Person nach vorn einen längeren Bremsweg zum direkt Vorausfahrenden in derselben Spur. In Kurven fährt jeder seine eigene Linie mit ausreichendem Abstand.
+! mutter=BSP-2.1-066
+
+? Nach Wochen ohne Regen fallen die ersten Tropfen. Worauf stellen Sie sich mit dem Motorrad ein?
++ Auf eine besonders schmierige Fahrbahn durch gelösten Schmutz, Öl und Gummiabrieb
+- Auf bessere Haftung, weil der Regen die Straße reinigt
+- Auf nichts, Regen wirkt erst nach Stunden
+= In der ersten Regenphase vermischt sich der angesammelte Schmutz mit dem Wasser zu einem rutschigen Film. Erst länger anhaltender Regen spült die Fahrbahn sauber.
+! mutter=BSP-2.1-067
+
+? Auf der Autobahn haben schwere Lkw tiefe Spurrinnen hinterlassen. Was bedeutet das für Sie auf dem Motorrad?
++ Das Motorrad kann in den Rinnen geführt werden und beim Spurwechsel unruhig werden
++ Beim schrägen Herausfahren kann das Vorderrad versetzen
+- Spurrinnen verbessern die Führung des Motorrads auf gerader Strecke
+= Spurrinnen und Längsrillen lenken die Reifen. Verlassen Sie solche Rinnen möglichst in einem größeren Winkel und ohne hastige Bewegungen.
+! mutter=BSP-2.1-068
+
+? Aus einer Seitenstraße will ein Pkw einbiegen. Sie haben Vorfahrt. Was tun Sie auf dem Motorrad?
++ Ich fahre bremsbereit und suche Blickkontakt
++ Ich wähle eine Position, in der ich gut zu sehen bin
+- Ich fahre unverändert weiter, weil der Pkw warten muss
+= Motorräder werden wegen ihrer schmalen Silhouette leicht übersehen oder ihre Geschwindigkeit wird unterschätzt. Auf die eigene Vorfahrt allein dürfen Sie sich nicht verlassen.
+! mutter=BSP-2.1-069
+
+? Hinter einer Baustelle liegt Split auf der Fahrbahn. Wie fahren Sie mit dem Motorrad?
++ Langsam und möglichst aufrecht
+- Mit starker Schräglage, damit die Reifen sich in den Split drücken
+- Zügig beschleunigend, damit das Hinterrad Druck bekommt
+= Loser Split wirkt wie Kugellager unter den Reifen. Starkes Bremsen, Beschleunigen und Schräglage können zum Sturz führen.
+! mutter=BSP-2.1-070
+
+? Sie fahren auf dem Motorrad hinter einem Lkw her. Warum halten Sie besonders großen Abstand?
++ Damit ich am Lkw vorbei nach vorn sehen kann
++ Damit mich der Lkw-Fahrer in seinen Spiegeln erkennt
+- Damit ich vom Windschatten profitiere
+= Dicht hinter einem Lkw sehen Sie nichts vom Verkehr vor ihm, und der Fahrer sieht Sie nicht. Mehr Abstand verschafft Sicht und Reaktionszeit.
+! mutter=BSP-2.2-062
+
+? Darf sich ein Motorrad vor einer roten Ampel rechts an der Schlange wartender Pkw vorbei bis zur Haltlinie schlängeln?
++ Nein, dieses Vorbeifahren ist nur Rad Fahrenden und Mofa Fahrenden erlaubt
+- Ja, wenn ich dabei langsam fahre
+- Ja, auf dem Seitenstreifen
+= Nach StVO § 5 Abs. 8 dürfen nur Rad Fahrende und Mofa Fahrende bei ausreichendem Raum rechts an wartenden Fahrzeugen vorbeifahren. Motorräder gehören nicht dazu.
+! mutter=BSP-2.2-064
+
+? Sie wollen Ihr Motorrad nach Einbruch der Dunkelheit auf der Fahrbahn stehen lassen. Was gilt?
++ Es darf dort nicht unbeleuchtet stehen
+- Der Seitenständer genügt als Sicherung
+- Für Motorräder gilt beim Parken keine Beleuchtungspflicht
+= Haltende Fahrzeuge sind außerorts mit eigener Lichtquelle zu beleuchten; innerorts genügen unter bestimmten Voraussetzungen Parkleuchten oder eine ausreichende Straßenbeleuchtung (StVO § 17 Abs. 4). Am einfachsten stellen Sie das Motorrad außerhalb der Fahrbahn ab, wo das erlaubt ist.
+! mutter=BSP-2.2-065
+
+? Welches Verhalten ist auf dem Motorrad verboten?
++ Mit beiden Händen vom Lenker zu fahren
++ Sich von einem anderen Fahrzeug ziehen zu lassen, indem man sich festhält
+- Die Füße auf den Fußrasten zu lassen
+= Wer ein Kraftrad führt, darf sich nicht an Fahrzeuge anhängen und nicht freihändig fahren (StVO § 23 Abs. 3).
+! mutter=BSP-2.2-067
+
+? Ihre Partnerin möchte hinten auf Ihrem Motorrad mitfahren. Was muss das Motorrad dafür haben?
++ Einen Sitzplatz für die zweite Person
++ Fußstützen für die zweite Person
+- Einen Gepäckträger
+= Auf Krafträdern ohne besonderen Sitz dürfen keine Personen mitgenommen werden (StVO § 21 Abs. 1 Nr. 1; StVZO § 35a Abs. 9). Fußstützen für die mitfahrende Person schreibt StVZO § 61 Abs. 2 vor.
+! mutter=BSP-2.6-061
+
+? Was leistet ABS beim Motorrad?
++ Die Räder blockieren bei einer starken Bremsung nicht
++ Das Motorrad bleibt bei einer Geradeausbremsung stabil
+- Es macht Kurvenfahrten auf Split ungefährlich
+= ABS regelt den Bremsdruck so, dass die Räder nicht blockieren. Die Haftungsgrenze der Reifen hebt es aber nicht auf.
+! mutter=BSP-2.7-051
+
+? Mit welcher Bremse erreichen Sie auf trockener Straße die stärkste Verzögerung Ihres Motorrads?
++ Mit der Vorderradbremse
+- Mit der Hinterradbremse
+- Mit dem Herunterschalten
+= Beim Bremsen verlagert sich das Gewicht nach vorn. Das Vorderrad wird stark belastet und kann deshalb die meiste Bremskraft übertragen.
+! mutter=BSP-2.7-052
+
+? Sie wollen in den Urlaub mit Gepäck. Wo verstauen Sie schwere Sachen am Motorrad?
++ Tief und möglichst nahe am Schwerpunkt, z. B. in Seitenkoffern oder einer Tankrucksack-Kombination
+- Hoch oben auf dem Gepäckträger
+- Am Lenker in Taschen
+= Schweres Gepäck weit oben oder hinten verlagert den Schwerpunkt und macht das Motorrad kippelig. Gepäck am Lenker beeinträchtigt das Lenken.
+! mutter=BSP-2.7-055
+
+? Wie verbessern Sie auf dem Motorrad, dass andere Sie früh erkennen?
++ Mit hellen oder leuchtenden Farben an Helm und Kleidung
++ Mit reflektierenden Elementen an der Kleidung
+- Mit schwarzer Kleidung
+= Helle Farben und Reflexmaterial heben Sie vom Hintergrund ab – tagsüber wie bei Dunkelheit.
+! mutter=BSP-2.8-040
+
+? Sie fahren nachts mit dem Motorrad. Was gilt für Ihr Visier?
++ Ein getöntes Visier ist ungeeignet
+- Ein dunkles Visier verbessert nachts die Sicht
+- Nachts muss das Visier immer offen sein
+= Getönte Visiere und Sonnenbrillen nehmen bei Dunkelheit zu viel Licht weg. Nutzen Sie nachts ein klares, sauberes Visier.
+! mutter=BSP-2.8-042
+
+? Warum ist das Hinterrad Ihres leistungsstarken Motorrads beim Herausbeschleunigen aus Kurven gefährdet?
++ Zu viel Gas in Schräglage kann das Hinterrad durchdrehen lassen
++ Bei starkem Beschleunigen kann das Vorderrad entlastet werden
+- Leistungsstarke Motorräder haben dafür immer genug Haftung
+= Der Reifen kann in Schräglage nur begrenzt Kräfte übertragen. Viel Antriebskraft kann dann ein Wegrutschen des Hinterrads oder ein Steigen des Vorderrads auslösen.
+! mutter=BSP-2.8-051
+
+? Sie fahren über eine hohe Brücke, und ein Lkw überholt Sie auf dem Zweirad. Was erwarten Sie?
++ Plötzliche Böen, die mich seitlich versetzen
++ Dass der Windschatten neben dem Lkw abrupt endet
+- Keinen Einfluss, weil Zweiräder schmal sind
+= Auf Brücken wirkt Seitenwind oft stärker. Neben einem Lkw sind Sie kurz geschützt; endet der Windschatten, trifft Sie die Böe umso plötzlicher.
+! mutter=BSP-2.1-071
+
+? Sie halten mit dem Zweirad an einer Ampel, vor der schon einige Autos warten. Wo stellen Sie sich hin?
++ Hinter das letzte Fahrzeug in meinem Fahrstreifen
+- Zwischen den Autos nach vorn bis zur Haltlinie
+- Auf den Gehweg, um schneller loszukommen
+= Für Krafträder gibt es kein Recht, an wartenden Fahrzeugen vorbei nach vorn zu fahren. Gehwege dürfen Sie nicht befahren.
+! mutter=BSP-2.2-070
+
+// ---------- AM und Mofa ----------
+
+? Eine Kraftfahrstraße ist der kürzeste Weg zur Schule. Dürfen Sie sie mit Ihrem Mofa oder Kleinkraftrad befahren?
++ Nein, dort dürfen nur Kraftfahrzeuge mit einer bauartbedingten Höchstgeschwindigkeit von mehr als 60 km/h fahren
+- Ja, auf dem Seitenstreifen
+- Ja, außerhalb des Berufsverkehrs
+= Autobahnen und Kraftfahrstraßen dürfen nur mit Kraftfahrzeugen benutzt werden, deren bauartbedingte Höchstgeschwindigkeit mehr als 60 km/h beträgt (StVO § 18 Abs. 1).
+! mutter=BSP-2.6-065
+
+? Was zeigt das Versicherungskennzeichen an Ihrem Kleinkraftrad an?
++ Dass für das Fahrzeug eine Haftpflichtversicherung abgeschlossen ist
+- Dass das Fahrzeug technisch geprüft wurde
+- Dass ich die Fahrerlaubnis besitze
+= Mofas und Kleinkrafträder brauchen kein amtliches Kennzeichen, sondern ein Versicherungskennzeichen. Es belegt den Haftpflichtversicherungsschutz.
+! mutter=BSP-2.6-066
+
+? Sie stehen auf dem Mofa an der Ampel direkt rechts neben einem Lkw. Warum ist das gefährlich?
++ Der Lkw-Fahrer kann mich im toten Winkel übersehen, wenn er rechts abbiegt
+- Weil der Lkw beim Anfahren zu laut ist
+- Das ist ungefährlich, Lkw fahren sehr langsam an
+= Rechts neben dem Führerhaus liegt ein großer Bereich, der für den Lkw-Fahrer schlecht einsehbar ist. Halten Sie besser hinter dem Lkw oder deutlich vor ihm im Blickfeld.
+! mutter=BSP-2.1-076
+
+? Ihre Mofa-Bremse lässt plötzlich stark nach. Was tun Sie?
++ Anhalten und das Mofa schieben
+- Mit den Füßen auf dem Boden weiterbremsen
+- Langsam weiterfahren und nur noch die andere Bremse benutzen
+= Mit einer defekten Bremse ist das Fahrzeug nicht mehr verkehrssicher. Schieben Sie es bis zu einem sicheren Ort oder zur Werkstatt.
+! mutter=BSP-2.6-068
+
+? Sie wollen mit dem Mofa oder Kleinkraftrad über Straßenbahngleise. In welchem Winkel?
++ Möglichst rechtwinklig zu den Schienen
+- Möglichst spitz, fast längs zu den Schienen
+- Der Winkel spielt keine Rolle
+= Bei spitzem Winkel kann das Vorderrad in die Schienenrille geraten oder auf der glatten Schiene wegrutschen.
+! mutter=BSP-2.1-129
+
+? Nasses Herbstlaub bedeckt die Straße. Wie fahren Sie mit dem Kleinkraftrad?
++ Langsamer und ohne starkes Bremsen auf dem Laub
+- Mit unverminderter Geschwindigkeit, Laub ist weich
+- Mit plötzlichen Ausweichbewegungen um jedes Blatt
+= Nasses Laub ist sehr rutschig. Bremsen und Schräglage sollten Sie davor erledigen, nicht darauf.
+! mutter=BSP-2.1-131
+
+? Sie fahren auf Ihrem Mofa an parkenden Autos entlang. In einem Auto sitzt jemand. Was tun Sie?
++ Ich halte so viel Abstand, dass eine sich öffnende Tür mich nicht trifft
++ Ich bin bremsbereit
+- Ich fahre ganz dicht an den Autos entlang
+= Eine plötzlich geöffnete Fahrzeugtür gehört zu den häufigsten Unfallursachen für Zweiräder. Abstand und Aufmerksamkeit schützen Sie.
+! mutter=BSP-2.1-133
+
+? Sie fahren mit zwei Freunden auf Kleinkrafträdern zum Sportplatz. Wie fahren Sie?
++ Hintereinander und möglichst weit rechts
+- Nebeneinander, wenn die Straße frei ist
+- Nebeneinander, wenn wir langsamer als 25 km/h fahren
+= Nebeneinander dürfen nach StVO § 2 Abs. 4 nur Rad Fahrende fahren. Mofas und Kleinkrafträder fahren hintereinander.
+! mutter=BSP-2.2-106
+
+? Sie wollen auf dem Kleinkraftrad Musik über Kopfhörer hören. Was gilt?
++ Das ist nur erlaubt, wenn mein Gehör dadurch nicht beeinträchtigt wird
+- Auf Zweirädern ist jede Lautstärke erlaubt
+- Mit einem Ohrhörer ist jede Lautstärke erlaubt
+= Wer ein Fahrzeug führt, ist dafür verantwortlich, dass sein Gehör nicht durch Geräte beeinträchtigt wird (StVO § 23 Abs. 1).
+! mutter=BSP-2.2-108
+
+? Es ist glatt und es gilt Winterreifenpflicht. Was gilt für Ihr Kleinkraftrad?
++ Einspurige Kraftfahrzeuge sind von der Winterreifenpflicht ausgenommen
++ Ich muss trotzdem besonders vorsichtig fahren oder das Fahrzeug stehen lassen
+- Ohne Winterreifen darf ich nicht fahren
+= Nach StVO § 2 Abs. 3a gilt die Winterreifenpflicht nicht für einspurige Kraftfahrzeuge. Glätte bleibt für Zweiräder dennoch sehr gefährlich.
+! mutter=BSP-2.6-162
+
+? Sie sind 18 Jahre alt und noch in der Probezeit. Dürfen Sie vor der Fahrt mit dem Kleinkraftrad ein Glas Sekt trinken?
++ Nein, ich darf überhaupt keinen Alkohol trinken, bevor ich fahre
+- Ja, bis 0,5 Promille
+- Ja, weil das Alkoholverbot nur für Pkw gilt
+= Für Fahranfänger in der Probezeit und vor Vollendung des 21. Lebensjahres gilt beim Führen eines Kraftfahrzeugs ein absolutes Alkoholverbot (StVG § 24c).
+! mutter=BSP-2.6-164
+
+? Was kontrollieren Sie kurz, bevor Sie mit dem Mofa losfahren?
++ Ob Licht und Bremsen funktionieren
++ Ob der Ständer hochgeklappt ist
+- Ob das Mofa frisch gewaschen ist
+= Ein heruntergeklappter Ständer kann in Linkskurven aufsetzen. Licht und Bremsen sind für die Sicherheit unverzichtbar.
+! mutter=BSP-2.7-117
+
+? Ihr Kleinkraftrad hat einen Zweitaktmotor ohne Öltank. Wie tanken Sie?
++ Gemisch aus Kraftstoff und Öl im Mischungsverhältnis des Herstellers
+- Reines Benzin ohne Öl
+- Benzin und so viel Öl wie möglich
+= Ohne Getrenntschmierung wird der Motor über das Öl im Kraftstoff geschmiert. Zu wenig Öl kann den Motor beschädigen, zu viel verschmutzt ihn und erhöht den Ausstoß.
+! mutter=BSP-2.5-049
+
+? Ihr Mofa wurde frisiert und fährt jetzt 35 km/h. Was ist richtig?
++ Für dieses Fahrzeug reicht die Mofa-Prüfbescheinigung nicht mehr aus
++ Fahren ohne die nötige Fahrerlaubnis ist eine Straftat
+- Bis 40 km/h bleibt es ein Mofa
+= Ein Mofa darf bauartbedingt höchstens 25 km/h fahren. Ist es schneller, ist eine Fahrerlaubnis nötig; Fahren ohne sie ist nach StVG § 21 strafbar.
+! mutter=BSP-2.6-165
+
+? Sie sind 15 Jahre alt und haben die Klasse AM. Wo dürfen Sie damit vor Ihrem 16. Geburtstag fahren?
++ Nur in Deutschland
+- In der ganzen EU
+- Nur in Begleitung Erwachsener
+= Eine mit 15 Jahren erteilte Klasse AM gilt bis zum 16. Geburtstag nur im Inland (FeV § 10).
+! mutter=BSP-2.8-055
+
+// ---------- L und T ----------
+
+? Ihr Traktor fährt bauartbedingt 50 km/h. Dürfen Sie damit auf der Autobahn fahren?
++ Nein, dafür muss die bauartbedingte Höchstgeschwindigkeit mehr als 60 km/h betragen
+- Ja, auf dem rechten Fahrstreifen
+- Ja, mit eingeschaltetem Rundumlicht
+= Autobahnen und Kraftfahrstraßen sind Kraftfahrzeugen mit einer bauartbedingten Höchstgeschwindigkeit von mehr als 60 km/h vorbehalten (StVO § 18 Abs. 1).
+! mutter=BSP-2.6-078
+
+? Ihr Nachbar will auf dem Kotflügel Ihres Traktors mitfahren. Was gilt?
++ Mitfahren darf er nur, wenn ein geeigneter Sitz für ihn vorhanden ist
+- Das ist erlaubt, wenn er sich gut festhält
+- Das ist erlaubt, wenn wir langsam fahren
+= Auf Zugmaschinen dürfen Personen nur auf geeigneten Sitzen mitgenommen werden. Kotflügel und Anbauteile sind keine Sitzplätze.
+! mutter=BSP-2.6-085
+
+? Hinter Ihrem langsamen Traktor hat sich eine lange Schlange gebildet. Was ist richtig?
++ Ich fahre an geeigneter Stelle langsamer oder halte notfalls an, damit andere überholen können
+- Ich fahre weiter, die anderen können ja warten
+- Ich gebe Handzeichen, damit die anderen trotz Gegenverkehr überholen
+= Wer langsam fährt und eine Schlange hinter sich hat, muss an geeigneter Stelle das Überholen ermöglichen (StVO § 5 Abs. 6).
+! mutter=BSP-2.2-073
+
+? Ein Auto überholt Ihre Zugmaschine. Was dürfen Sie jetzt nicht tun?
++ Schneller werden
+- Gleichmäßig weiterfahren
+- Im Fahrstreifen bleiben
+= Wer überholt wird, darf seine Geschwindigkeit nicht erhöhen (StVO § 5 Abs. 6).
+! mutter=BSP-2.2-074
+
+? Ihre Zugmaschine hat beim Verlassen des Ackers Lehm auf die Straße getragen. Was tun Sie?
++ Den Lehm unverzüglich entfernen
++ Bis dahin die Stelle für andere kenntlich machen
+- Nichts, das ist bei Landwirtschaft üblich
+= Wer die Straße verunreinigt, muss die Verschmutzung unverzüglich beseitigen und sie bis dahin kenntlich machen (StVO § 32 Abs. 1).
+! mutter=BSP-2.2-076
+
+? Sie sind mit dem Frontlader auf der Straße unterwegs. Wie halten Sie die Schwinge?
++ Möglichst tief, damit Sicht und Scheinwerfer frei bleiben
+- Möglichst hoch, damit sie niemanden trifft
+- Leicht angehoben mit gefüllter Schaufel
+= Eine hoch gehaltene Schaufel verdeckt Sicht und Scheinwerfer und erhöht den Schwerpunkt. Bei einem Aufprall wirkt sie zudem wie ein Rammbock.
+! mutter=BSP-2.2-077
+
+? Ihr Anhänger ist schwer beladen, und es geht steil bergab. Was droht?
++ Der Anhänger schiebt nach und kann den Zug einknicken lassen
++ Bei Dauerbremsung können die Bremsen überhitzen
+- Bergab ist ein schwerer Anhänger am stabilsten
+= Fahren Sie deshalb schon vor dem Gefälle langsam, wählen Sie einen kleinen Gang und nutzen Sie die Motorbremse.
+! mutter=BSP-2.1-081
+
+? Sie arbeiten am Hang mit der Zugmaschine. Was macht ein Umkippen wahrscheinlicher?
++ Ein weit angehobenes Gerät oder ein voller Frontlader
++ Plötzliches Lenken in Richtung Hang
+- Langsames Fahren mit abgesenktem Gerät
+= Je höher der Schwerpunkt und je ruckartiger die Bewegung, desto eher kippt die Zugmaschine am Hang.
+! mutter=BSP-2.1-082
+
+? Was prüfen Sie, nachdem Sie einen Anhänger an Ihre Zugmaschine angekuppelt haben?
++ Ob die Kupplung eingerastet und gesichert ist
++ Ob Licht und Bremsen des Anhängers funktionieren
+- Ob der Anhänger frisch lackiert ist
+= Eine nicht eingerastete Kupplung oder ein Anhänger ohne funktionierende Beleuchtung gefährden den Verkehr.
+! mutter=BSP-2.7-061
+
+? Wie verhindern Sie, dass ein abgestellter Anhänger am Hang wegrollt?
++ Mit Unterlegkeilen und der Feststellbremse
+- Mit einem Ziegelstein unter der Deichsel
+- Mit einem Seil an einem Baum
+= Unterlegkeile sichern das abgestellte Fahrzeug zusätzlich zur Feststellbremse gegen Wegrollen.
+! mutter=BSP-2.7-062
+
+? Sie besitzen die Klasse B. Dürfen Sie damit auch einen Traktor der Klasse L fahren?
++ Ja, die Klasse B schließt die Klasse L ein
+- Nein, dafür brauche ich immer die Klasse T
+- Nur mit zusätzlicher Prüfung
+= Die Klassen B und T schließen die Klasse L ein (FeV § 6 Abs. 3).
+! mutter=BSP-2.8-058
+
+? Wozu dürfen Sie Fahrzeuge mit der Klasse T einsetzen?
++ Nur für land- oder forstwirtschaftliche Zwecke
+- Für Transporte jeder Art
+- Für private Umzüge
+= Die Klasse T gilt für Zugmaschinen und selbstfahrende Arbeitsmaschinen, die für land- oder forstwirtschaftliche Zwecke eingesetzt werden (FeV § 6 Abs. 1).
+! mutter=BSP-2.8-061
+
+// ---------- C und D gemeinsam ----------
+
+? Was gilt während einer Fahrtunterbrechung?
++ Ich lenke nicht und erledige keine anderen Arbeiten
+- Ich darf in dieser Zeit tanken und den Lkw waschen
+- Ich darf in dieser Zeit Ladung sichern
+= Eine Fahrtunterbrechung dient ausschließlich der Erholung. Arbeiten wie Tanken, Waschen oder Laden gehören nicht dazu.
+! mutter=BSP-2.6-098
+
+? Sie fahren nach einem Halt an der Autobahn wieder auf den rechten Fahrstreifen zurück. Wie gehen Sie mit Ihrem schweren Fahrzeug vor?
++ Ich blinke früh und schaue mehrmals in die rechten Spiegel
++ Ich wechsle langsam, damit Übersehene noch reagieren können
+- Ich wechsle ruckartig, damit es schnell geht
+= Beim Wechsel nach rechts liegt ein großer Teil des Raums neben dem Fahrzeug im Sichtschatten. Langsames, angekündigtes Wechseln gibt anderen Zeit.
+! mutter=BSP-2.1-113
+
+? Warum halten Sie außerorts hinter einem anderen langsamen Fahrzeug mit Ihrem Lkw oder Bus großen Abstand?
++ Damit Überholende zwischen uns einscheren können
+- Damit ich weniger Sprit verbrauche
+- Weil das nur bei Nebel gilt
+= Wer ein Kraftfahrzeug mit besonderer Geschwindigkeitsbeschränkung oder einen Zug über 7 m Länge führt, muss außerorts zum vorausfahrenden Kraftfahrzeug so viel Abstand halten, dass ein Überholender einscheren kann (StVO § 4 Abs. 2).
+! mutter=BSP-2.2-081
+
+? Mit welcher Geschwindigkeit dürfen Sie mit einem Lkw über 3,5 t innerorts rechts abbiegen, wenn mit geradeaus fahrendem Radverkehr zu rechnen ist?
++ Mit Schrittgeschwindigkeit
+- Mit 25 km/h
+- So schnell es die Kurve erlaubt
+= Wer innerorts ein Kraftfahrzeug über 3,5 t führt, muss beim Rechtsabbiegen Schrittgeschwindigkeit fahren, wo mit geradeaus fahrendem Rad- oder Fußverkehr zu rechnen ist (StVO § 9 Abs. 6).
+! mutter=BSP-2.2-082
+
+? Sie wollen mit Ihrem langen Fahrzeug auf einer Landstraße einen Traktor überholen. Was gilt?
++ Ich brauche eine besonders lange freie und einsehbare Strecke
++ Der Überholvorgang dauert wegen meiner Länge und der kleinen Geschwindigkeitsdifferenz lange
+- Wegen meiner Größe muss der Gegenverkehr mir Platz machen
+= Ein großes Fahrzeug braucht für das Überholen einen langen Weg. Überholen Sie nur, wenn eine Gefährdung des Gegenverkehrs ausgeschlossen ist.
+! mutter=BSP-2.2-085
+
+? Wo kann eine Person neben Ihrem Lkw oder Bus vollständig verdeckt sein?
++ Rechts neben dem Fahrzeug
++ Direkt vor der Front
+- Nur hinter dem Fahrzeug
+= Große Fahrzeuge haben Sichtschatten an der rechten Seite und vor der Front. Spiegel, Kameras und Assistenten verkleinern sie, beseitigen sie aber nicht ganz.
+! mutter=BSP-2.1-087
+
+? Sie biegen mit Ihrem langen Lkw oder Bus nach rechts ab. Was gilt für die Hinterräder?
++ Sie laufen auf einer engeren Bahn als die Vorderräder
+- Sie folgen genau der Spur der Vorderräder
+- Sie laufen weiter außen als die Vorderräder
+= Diese Schleppkurve ist der Grund, warum lange Fahrzeuge weiter ausholen müssen und der Raum rechts neben dem Fahrzeug so wichtig ist.
+! mutter=BSP-2.1-088
+
+? Sie fahren nachts mit Ihrem Lkw oder Bus. Welche Anzeichen deuten auf Übermüdung hin?
++ Ich erinnere mich an die letzten Kilometer nicht
++ Ich muss oft gähnen und die Augen fallen zu
+- Ich sehe besonders scharf
+= Sekundenschlaf kündigt sich durch solche Zeichen an. Dann hilft nur eine Pause mit Schlaf.
+! mutter=BSP-2.1-089
+
+? Ihr Lkw ist leer und hat einen hohen Kofferaufbau. Es weht ein starker Seitenwind. Was tun Sie?
++ Langsamer fahren
+- Schneller fahren, damit der Wind weniger angreifen kann
+- Nichts, schwere Fahrzeuge spüren Seitenwind nicht
+= Ein leerer, hoher Aufbau ist leicht und bietet dem Wind eine große Angriffsfläche. Das Fahrzeug kann versetzt werden oder sogar umkippen.
+! mutter=BSP-2.1-090
+
+? Dichter Nebel lässt Sie weniger als 50 m weit sehen. Was gilt für Ihren Lkw über 7,5 t?
++ Ich darf nicht überholen
+- Ich darf nur noch Lkw überholen
+- Für Lkw gibt es dafür keine besondere Regel
+= Wer ein Kraftfahrzeug mit einer zulässigen Gesamtmasse über 7,5 t führt, darf bei einer Sichtweite unter 50 m durch Nebel, Schnee oder Regen nicht überholen (StVO § 5 Abs. 3a).
+! mutter=BSP-2.1-091
+
+? Was müssen Sie in einem Lkw oder Bus über 3,5 t zusätzlich zum Warndreieck mitführen?
++ Eine tragbare Warnleuchte mit gelbem Blinklicht
+- Eine zweite Warnweste für jeden Fahrgast
+- Eine rote Fahne
+= In Kraftfahrzeugen mit einer zulässigen Gesamtmasse über 3,5 t sind ein Warndreieck und getrennt davon eine Warnleuchte mitzuführen (StVZO § 53a Abs. 2 Nr. 2).
+! mutter=BSP-2.7-065
+
+? Wozu dient ein Retarder?
++ Er entlastet die Betriebsbremse, besonders auf langen Gefällstrecken
+- Er hält das Fahrzeug beim Parken fest
+- Er bremst nur bei einer Notbremsung
+= Retarder und Motorbremse arbeiten verschleißfrei. Sie verhindern, dass die Betriebsbremse bei Dauerbremsungen überhitzt.
+! mutter=BSP-2.7-067
+
+? Im Display leuchtet eine Warnung für zu geringen Vorratsdruck der Druckluftbremse. Was tun Sie?
++ Ich fahre nicht los bzw. halte sofort an einer sicheren Stelle an
+- Ich fahre weiter, die Warnung erlischt von selbst
+- Ich fahre schneller, damit der Kompressor mehr Luft fördert
+= Bei zu geringem Vorratsdruck ist die Bremswirkung nicht mehr gesichert. Die Ursache muss geklärt werden.
+! mutter=BSP-2.7-068
+
+? Es ist Winter und die Straßen sind glatt. Welche Achsen Ihres Lkw oder Busses brauchen mindestens Winterreifen?
++ Die Antriebsachsen
++ Die vorderen Lenkachsen
+- Nur die Achsen des Anhängers
+= Bei Kraftfahrzeugen der Klassen M2, M3, N2 und N3 müssen bei winterlichen Verhältnissen mindestens die Räder der permanent angetriebenen Achsen und der vorderen Lenkachsen mit Winterreifen ausgerüstet sein (StVO § 2 Abs. 3a).
+! mutter=BSP-2.7-071
+
+? Ihr Arzt hat Ihnen ein Medikament verschrieben, das müde machen kann. Sie fahren beruflich Lkw. Was ist richtig?
++ Ich kläre mit dem Arzt, ob und wann ich wieder fahren darf
+- Ich trinke einfach mehr Kaffee
+- Ich nehme das Medikament erst nach Feierabend und fahre ganz normal
+= Medikamente können die Fahrtüchtigkeit stark beeinträchtigen. Wer sich nicht sicher ist, darf nicht fahren.
+! mutter=BSP-2.8-070
+
+? Sie warten an der Laderampe 20 Minuten auf das Entladen. Was tun Sie mit dem Motor?
++ Ich stelle ihn ab, um Lärm und Abgase zu vermeiden
+- Ich lasse ihn laufen, damit er warm bleibt
+- Ich lasse ihn laufen, weil der Fahrtenschreiber das verlangt
+= Unnötiges Laufenlassen von Motoren ist verboten (StVO § 30 Abs. 1) und belastet Anwohner und Umwelt.
+! mutter=BSP-2.5-047
+
+? Sie stehen mit Ihrem Lkw oder Bus an einer roten Ampel und wollen gleich rechts abbiegen. Was tun Sie unmittelbar vor dem Anfahren?
++ Noch einmal alle rechten Spiegel kontrollieren
++ Bei Zweifeln stehen bleiben, bis klar ist, dass niemand neben mir ist
+- Mich auf den Spiegelblick von vor einer Minute verlassen
+= Während der Rotphase kann sich ein Radfahrer neben Ihr Fahrzeug gestellt haben. Ein letzter Spiegelblick direkt vor dem Anfahren ist entscheidend.
+! mutter=BSP-2.1-111
+
+? Ihr Fahrzeug hat eine hohe Front. Sie halten vor einem Zebrastreifen. Warum schauen Sie vor dem Anfahren in den Frontspiegel?
++ Weil kleine Kinder direkt vor der Front nicht zu sehen sein können
++ Weil dieser Bereich nur über Frontspiegel oder Kamera einsehbar ist
+- Weil Fußgänger dort immer warten müssen
+= Direkt vor einer hohen Front liegt ein Sichtschatten, in dem ein Kind vollständig verschwinden kann.
+! mutter=BSP-2.1-112
+
+? Sie überholen innerorts mit Ihrem Lkw einen Radfahrer. Welcher Seitenabstand ist mindestens einzuhalten?
++ 1,5 m
+- 0,5 m
+- 1 m
+= Beim Überholen von Fahrrädern ist innerorts ein Seitenabstand von mindestens 1,5 m, außerorts von mindestens 2 m einzuhalten (StVO § 5 Abs. 4).
+! mutter=BSP-2.1-114
+
+? Ihr Einweiser verschwindet aus Ihren Spiegeln, während Sie rangieren. Was tun Sie?
++ Sofort anhalten
++ Erst weiterfahren, wenn ich ihn wieder sehe und wir uns verständigt haben
+- Weiterfahren, er weiß ja, wo ich hinfahre
+= Wenn Sie den Einweiser nicht sehen, sehen Sie seine Zeichen nicht – und er könnte selbst in Gefahr sein.
+! mutter=BSP-2.1-116
+
+? Vor Ihnen liegt ein Bahnübergang, und dahinter stockt der Verkehr. Was tun Sie mit Ihrem langen Fahrzeug?
++ Ich warte vor dem Andreaskreuz, bis mein Fahrzeug hinter den Gleisen vollständig Platz hat
+- Ich fahre so weit vor, dass nur das Heck über den Gleisen steht
+- Ich fahre auf die Gleise, damit niemand dazwischen drängt
+= Wer einen Bahnübergang nicht zügig und ohne Aufenthalt überqueren kann, muss vor dem Andreaskreuz warten (StVO § 19 Abs. 3).
+! mutter=BSP-2.1-117
+
+? Sie haben nachts plötzlich Sekundenschlaf am Steuer. Was ist richtig?
++ Am nächsten geeigneten Platz anhalten und schlafen
+- Kalte Luft hereinlassen und weiterfahren
+- Laut Musik hören und weiterfahren
+= Frische Luft und Musik helfen nur kurz. Gegen Übermüdung hilft nur Schlaf.
+! mutter=BSP-2.1-119
+
+? Ihr Fahrzeug hat einen großen Hecküberhang. Sie lenken beim Anfahren vom rechten Rand stark nach links. Was passiert hinten?
++ Das Heck schwenkt nach rechts aus
++ Deshalb beobachte ich beim Einlenken den rechten Spiegel
+- Das Heck bewegt sich mit nach links
+= Beim Einlenken dreht sich das Fahrzeug um die Hinterachse; der Überhang dahinter schwenkt zur Gegenseite aus – etwa über Gehweg oder Radweg.
+! mutter=BSP-2.2-098
+
+? Der Rastplatz ist nachts voll. Wo dürfen Sie Ihren Lkw nicht abstellen, um Ihre Ruhezeit einzulegen?
++ Auf dem Seitenstreifen der Autobahn
++ In der Ausfahrt des Rastplatzes
+- Auf einem freien Platz eines Autohofs
+= Halten ist auf Autobahnen auch auf Seitenstreifen verboten (StVO § 18 Abs. 8). Abgestellte Lkw in Ausfahrten sind eine große Unfallgefahr.
+! mutter=BSP-2.2-100
+
+? Wegen eines Staus sind Sie weit hinter Ihrem Zeitplan. Was ist richtig?
++ Ich halte meine Lenk- und Ruhezeiten trotzdem ein
++ Ich informiere meinen Disponenten
+- Ich verkürze dafür die nächste Pause
+= Lenk- und Ruhezeiten gelten unabhängig vom Zeitplan. Wer Druck ausübt, um sie zu verletzen, handelt ebenfalls ordnungswidrig.
+! mutter=BSP-2.2-101
+
+? Was geschieht, wenn die Luft im Federspeicherkreis Ihres Lkw vollständig entweicht?
++ Die Federspeicher legen die Bremse ein
+- Die Bremse löst sich
+- Das hat keinen Einfluss auf die Bremse
+= Federspeicherbremsen werden durch Druckluft gelöst und durch Federkraft betätigt. Ohne Druck bremsen sie.
+! mutter=BSP-2.7-093
+
+? Sie haben ein Rad Ihres Lkw gewechselt. Was ist danach wichtig?
++ Nach kurzer Strecke das Anzugsmoment der Radmuttern nachprüfen
+- Die Muttern mit Verlängerung so fest wie möglich anziehen
+- Nichts mehr, Radmuttern lösen sich nicht
+= Radmuttern können sich setzen. Zu festes Anziehen beschädigt Bolzen und Felgen; maßgeblich ist das Anzugsmoment des Herstellers.
+! mutter=BSP-2.7-095
+
+? Ihr Lkw hat einen Notbremsassistenten. Was gilt?
++ Er ersetzt keinen ausreichenden Sicherheitsabstand
+- Ich darf dichter auffahren als ohne Assistent
+- Ich muss nie mehr selbst bremsen
+= Notbremsassistenten können Auffahrunfälle verhindern oder abmildern, aber nicht in jeder Situation rechtzeitig reagieren.
+! mutter=BSP-2.7-097
+
+? Sie fahren mit eingeschaltetem Retarder auf eisglatter Fahrbahn. Was droht?
++ Die Antriebsräder können blockieren
++ Deshalb nutze ich die Dauerbremse nur gefühlvoll oder schalte sie ab
+- Ein Retarder macht das Fahrzeug bei Glätte stabiler
+= Die Dauerbremse wirkt meist nur auf die Antriebsachse. Auf Glätte kann sie die Räder dort zum Blockieren bringen.
+! mutter=BSP-2.7-098
+
+? Wofür ist AdBlue in Ihrem Lkw oder Bus nötig?
++ Zur Verringerung der Stickoxide im Abgas
+- Als Frostschutz für den Diesel
+- Zur Schmierung der Einspritzpumpe
+= Die Harnstofflösung wird in das Abgas eingespritzt und wandelt im SCR-Katalysator Stickoxide in Stickstoff und Wasser um.
+! mutter=BSP-2.5-048
+
+? Wann wirkt eine Motorbremse?
++ Wenn ein Gang eingelegt und die Kupplung geschlossen ist
+- Im Leerlauf
+- Nur zusammen mit der Betriebsbremse
+= Die Motorbremse nutzt den Widerstand des Motors. Dafür muss der Motor über eingelegten Gang und geschlossene Kupplung mit den Rädern verbunden sein.
+! mutter=BSP-2.7-111
+
+? Unter Ihrem Lkw tropft Öl auf den Boden. Was tun Sie?
++ Ich kläre die Ursache, bevor ich weiterfahre
++ Ich verhindere, dass Öl in Boden oder Kanalisation gelangt
+- Ich fahre los, solange keine Warnleuchte brennt
+= Ausgetretenes Öl verschmutzt Boden und Wasser, und die Ursache kann die Betriebssicherheit gefährden.
+! mutter=BSP-2.7-114
+
+// ---------- C, C1, CE ----------
+
+? Wie muss Ladung auf Ihrem Lkw gesichert sein?
++ So, dass sie auch bei Vollbremsung oder plötzlichem Ausweichen nicht verrutscht oder herabfällt
++ Nach den anerkannten Regeln der Technik
+- So, dass sie bei normaler Fahrt liegen bleibt
+= Ladung ist so zu verstauen und zu sichern, dass sie selbst bei Vollbremsung oder plötzlicher Ausweichbewegung nicht verrutscht, umfällt, hin- und herrollt oder herabfällt (StVO § 22 Abs. 1).
+! mutter=BSP-2.6-134
+
+? Was erreichen Sie mit Antirutschmatten unter der Ladung?
++ Mehr Reibung zwischen Ladung und Ladefläche
+- Eine leichtere Ladung
+- Dass keine Zurrgurte mehr nötig sind
+= Antirutschmatten erhöhen den Reibbeiwert. Sie verringern die nötigen Sicherungskräfte, ersetzen eine Sicherung aber meist nicht.
+! mutter=BSP-2.7-073
+
+? Ein Zurrgurt hat einen tiefen Schnitt im Gewebe. Was tun Sie?
++ Ich sortiere ihn aus
+- Ich verknote die Stelle
+- Ich nehme ihn nur noch für leichte Ladung
+= Ein beschädigter Gurt kann unter Last plötzlich reißen. Er darf nicht mehr verwendet werden.
+! mutter=BSP-2.7-076
+
+? Nach der ersten Abladestelle ist Ihr Lkw nur noch halb voll. Was tun Sie vor der Weiterfahrt?
++ Die restliche Ladung neu sichern und die Lastverteilung prüfen
+- Nichts, gesichert wurde ja schon beim Beladen
+- Schneller fahren, weil der Lkw leichter ist
+= Nach Teilentladung können Lücken entstehen und Achslasten sich verschieben. Die Sicherung muss angepasst werden.
+! mutter=BSP-2.7-077
+
+? Sie wollen mit Ihrem Kipper abkippen. Was prüfen Sie vorher?
++ Ob über dem Fahrzeug Freileitungen verlaufen
++ Ob der Boden tragfähig und eben ist
+- Ob die Musik im Führerhaus leise ist
+= Eine angehobene Mulde kann Freileitungen berühren; auf weichem oder schiefem Untergrund kann der Kipper umstürzen.
+! mutter=BSP-2.7-078
+
+? Sie fahren mit Ihrem Lkw eine lange, steile Gefällstrecke hinunter. Was tun Sie gegen heiße Bremsen?
++ Vorher einen kleinen Gang wählen und die Dauerbremse nutzen
+- Im Leerlauf rollen
+- Im großen Gang fahren und immer wieder kräftig bremsen
+= Mit kleinem Gang und Dauerbremse bleibt die Betriebsbremse für Notfälle kühl und voll wirksam.
+! mutter=BSP-2.1-093
+
+? Sie transportieren Flüssigkeit in einem halb vollen Tank. Was müssen Sie wissen?
++ Die Flüssigkeit schwappt beim Bremsen und in Kurven und schiebt das Fahrzeug
+- Halbvolle Tanks verhalten sich wie feste Ladung
+- Flüssigkeit verbessert die Bodenhaftung
+= Schwallbewegungen verlagern den Schwerpunkt schlagartig. Bremsen und lenken Sie deshalb besonders gefühlvoll.
+! mutter=BSP-2.1-095
+
+? Sie können beim Rückwärtsfahren mit Ihrem Lkw den Raum hinter dem Fahrzeug nicht einsehen. Was ist richtig?
++ Ich lasse mich einweisen
+- Ich hupe und setze zügig zurück
+- Ich verlasse mich auf den Rückfahrwarner
+= Beim Rückwärtsfahren muss eine Gefährdung anderer ausgeschlossen sein; erforderlichenfalls muss man sich einweisen lassen (StVO § 9 Abs. 5).
+! mutter=BSP-2.1-098
+
+? Sie bemerken unterwegs, dass sich Ladung lockert. Was tun Sie?
++ An einer sicheren Stelle anhalten und die Ladung neu sichern
+- Mit Warnblinklicht weiterfahren
+- Bis zum Ziel langsamer fahren
+= Lose Ladung kann herabfallen oder das Fahrverhalten plötzlich verändern. Die Sicherung muss sofort wiederhergestellt werden.
+! mutter=BSP-2.2-088
+
+? Bei welcher Gelegenheit nutzen Sie die Differenzialsperre Ihres Lkw?
++ Zum Anfahren auf rutschigem Untergrund bei sehr geringer Geschwindigkeit
+- Dauerhaft bei schneller Fahrt
+- In engen Kurven auf trockenem Asphalt
+= Die Sperre verhindert das Durchdrehen eines einzelnen Rades, erschwert aber das Lenken. Schalten Sie sie danach wieder aus.
+! mutter=BSP-2.7-103
+
+? Sie wollen Ware in eine Fußgängerzone liefern, für die Lieferverkehr freigegeben ist. Wie schnell dürfen Sie fahren?
++ Mit Schrittgeschwindigkeit
+- Mit 20 km/h
+- Mit 30 km/h
+= In Fußgängerzonen, in denen Fahrzeugverkehr zugelassen ist, gilt Schrittgeschwindigkeit, und auf Fußgänger ist Rücksicht zu nehmen (StVO Anlage 2, Zeichen 242.1).
+! mutter=BSP-2.2-105
+
+// ---------- CE ----------
+
+? Sie haben einen Sattelauflieger aufgesattelt. Was prüfen Sie vor der Abfahrt?
++ Ob der Königszapfen verriegelt ist (Sicht- und Zugprobe)
++ Ob die Stützwinden ganz eingefahren und die Leitungen angeschlossen sind
+- Ob der Auflieger leer ist
+= Ein nicht verriegelter Königszapfen oder eine nicht eingefahrene Stützwinde kann zu schweren Unfällen führen.
+! mutter=BSP-2.7-081
+
+? Die Vorratsleitung reißt ab, weil sich Ihr Anhänger löst. Was passiert mit dem Anhänger?
++ Er bremst selbsttätig
+- Er rollt ungebremst weiter
+- Nur das Zugfahrzeug bremst
+= Druckluftgebremste Anhänger bremsen beim Druckabfall in der Vorratsleitung automatisch (Abreißbremsung).
+! mutter=BSP-2.7-083
+
+? Bei hoher Geschwindigkeit pendelt der Anhänger Ihres Lastzugs. Wie reagieren Sie?
++ Gas wegnehmen und das Lenkrad ruhig halten
++ Gefühlvoll verzögern
+- Beschleunigen und kräftig gegenlenken
+= Gegenlenken verstärkt das Pendeln oft. Ruhiges Verzögern bringt das Gespann wieder in eine stabile Lage.
+! mutter=BSP-2.1-100
+
+? Sie setzen mit einem Gliederzug mit Drehschemelanhänger zurück. Was ist richtig?
++ Der Anhänger schwenkt zunächst entgegen meinem Lenkeinschlag
++ Langsam fahren und klein lenken hilft
+- Ein Gliederzug rangiert wie ein Solofahrzeug
+= Beim Rückwärtsfahren mit Anhänger kehrt sich die Lenkrichtung für den Anhänger um. Kleine Korrekturen sind leichter zu kontrollieren.
+! mutter=BSP-2.1-101
+
+? Was macht einen leeren Anhänger hinter einem schwer beladenen Lkw besonders gefährlich?
++ Seine Räder können beim Bremsen leichter blockieren, er kann ausbrechen
+- Er bremst den ganzen Zug stärker
+- Er stabilisiert den Zug
+= Wenig Last bedeutet wenig Haftung. Der leere Anhänger kann deshalb beim Bremsen blockieren oder seitlich ausscheren.
+! mutter=BSP-2.1-102
+
+? Welche Fahrerlaubnisklassen schließt die Klasse CE unter anderem ein?
++ Die Klassen C1E und BE
++ Die Klasse T
+- Die Klasse D
+= Nach FeV § 6 Abs. 3 berechtigt die Klasse CE auch zum Führen von Fahrzeugen der Klassen C1E, BE und T sowie DE, sofern die Klasse D vorhanden ist.
+! mutter=BSP-2.8-076
+
+// ---------- Bus ----------
+
+? Wie dürfen Fahrgäste im Kraftomnibus nicht befördert werden?
++ Liegend, außer Kinder im Kinderwagen
+- Sitzend mit angelegtem Gurt
+- Stehend in einem dafür zugelassenen Linienbus
+= Das liegende Befördern von Fahrgästen ist in Kraftomnibussen nicht erlaubt; Kinder in Kinderwagen sind ausgenommen (StVZO § 35i Abs. 2).
+! mutter=BSP-2.6-152
+
+? Ihr Reisebus hat Sicherheitsgurte. Was gehört vor der Abfahrt zu Ihren Aufgaben?
++ Die Fahrgäste auf die Pflicht zum Anlegen der Gurte hinweisen
+- Die Gurte jedes Fahrgasts selbst schließen
+- Nichts, das ist Sache der Fahrgäste
+= Fahrgäste in Kraftomnibussen sind auf die Gurtpflicht hinzuweisen, z. B. durch eine Ansage, Video oder Piktogramme.
+! mutter=BSP-2.6-154
+
+? Was dürfen Fahrgäste im Linienbus während der Fahrt nicht?
++ Eigenmächtig die Türen öffnen
++ Sich während der Fahrt mit der Fahrerin oder dem Fahrer unterhalten
+- Sich an Haltestangen festhalten
+= Nach BOKraft § 14 ist es Fahrgästen untersagt, sich während der Fahrt mit dem Fahrzeugführer zu unterhalten und die Türen eigenmächtig zu öffnen.
+! mutter=BSP-2.6-157
+
+? Ihr Linienbus nähert sich einer Haltestelle, an der Warnblinklicht angeordnet ist. Wann schalten Sie es ein?
++ Schon beim Heranfahren und so lange, wie Fahrgäste ein- und aussteigen
+- Erst wenn der Bus steht
+- Nur wenn Kinder an der Haltestelle stehen
+= An Haltestellen, für die das Warnblinklicht von der Behörde angeordnet ist, muss es beim Annähern und während des Fahrgastwechsels eingeschaltet sein (StVO § 16 Abs. 2).
+! mutter=BSP-2.2-090
+
+? Ihr Bus ist voll mit stehenden Fahrgästen. Wie fahren Sie?
++ Weich anfahren und gleichmäßig bremsen
++ Erst losfahren, wenn ältere Fahrgäste sicher stehen oder sitzen
+- Zügig, um die Verspätung aufzuholen
+= Stehende Fahrgäste können bei ruckartigem Fahren stürzen. Besonders ältere und gehbehinderte Menschen brauchen Zeit.
+! mutter=BSP-2.2-093
+
+? Sie wollen an einer Haltestelle die Türen schließen. Was tun Sie zuvor?
++ Mit Spiegel oder Monitor prüfen, dass niemand in der Tür steht
+- Mich auf den Einklemmschutz verlassen
+- Die Türen schließen, sobald die Abfahrtszeit erreicht ist
+= Der Einklemmschutz reagiert nicht immer, etwa bei dünnen Gegenständen oder Kinderhänden.
+! mutter=BSP-2.2-095
+
+? Sie fahren mit dem Bus an eine Haltestelle, an der viele Schulkinder warten. Was ist richtig?
++ Langsam heranfahren, weil Kinder auf die Fahrbahn drängen können
++ So halten, dass die Kinder sicher ein- und aussteigen können
+- Zügig heranfahren, damit es schnell geht
+= Kinder drängeln oft beim Einsteigen und können an den Fahrbahnrand oder darüber hinaus geschoben werden.
+! mutter=BSP-2.1-104
+
+? Ein Fahrgast wird während der Fahrt bewusstlos. Was tun Sie?
++ So bald wie möglich sicher anhalten, Erste Hilfe leisten und den Notruf wählen
+- Bis zur Endhaltestelle weiterfahren
+- Nur über Lautsprecher einen Arzt suchen und weiterfahren
+= Bei einem medizinischen Notfall zählt jede Minute. Sichern Sie den Bus und leisten Sie Erste Hilfe.
+! mutter=BSP-2.1-107
+
+? Im Motorraum Ihres Busses brennt es. Was tun Sie als Erstes?
++ Sofort sicher anhalten, Motor aus und Fahrgäste aus dem Bus bringen
+- Die Motorklappe weit öffnen
+- Bis zur nächsten Werkstatt weiterfahren
+= Das Wichtigste ist, dass alle Menschen den Bus schnell verlassen. Öffnen der Klappe führt dem Feuer Sauerstoff zu.
+! mutter=BSP-2.7-090
+
+? Wozu dient die Haltestellenbremse in Ihrem Linienbus?
++ Sie hält den Bus beim Fahrgastwechsel sicher fest
+- Sie ersetzt die Betriebsbremse
+- Sie bremst nur bei Glätte
+= Die Haltestellenbremse verhindert das Wegrollen, solange die Türen offen sind und Fahrgäste ein- und aussteigen.
+! mutter=BSP-2.7-089
+
+? Ihr Reisebus hat auf der Autobahn eine Panne und steht auf dem Seitenstreifen. Wie bringen Sie die Fahrgäste in Sicherheit?
++ Aussteigen auf der verkehrsabgewandten Seite und hinter die Schutzplanke
++ Warnblinklicht an und die Pannenstelle absichern
+- Alle Fahrgäste im Bus sitzen lassen
+= Ein auf dem Seitenstreifen stehender Bus kann von hinten angefahren werden. Hinter der Schutzplanke sind die Fahrgäste sicherer.
+! mutter=BSP-2.1-126

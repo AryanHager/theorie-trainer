@@ -1,0 +1,352 @@
+// Filmfragen – eigene animierte Szenen (content/filme.mjs), eigene Formulierungen
+@klassen MOT
+@kapitel 1.1
+@punkte 5
+
+? Sehen Sie sich die Szene an. Womit müssen Sie jetzt rechnen?
++ Dass ein Kind dem Ball hinterher zwischen den parkenden Autos hervorläuft
++ Dass ich sofort stark bremsen muss
+- Mit nichts Besonderem – ein Ball allein ist ungefährlich
+= Wo ein Ball rollt, ist oft ein Kind nicht weit. Es läuft dem Ball meist ohne auf den Verkehr zu achten hinterher und ist zwischen parkenden Autos kaum zu sehen. Fuß vom Gas, bremsen.
+# film f01-ball
+
+? Sehen Sie sich die Szene an. Wie reagieren Sie richtig?
++ Bremsen, notfalls bis zum Stillstand
+- Nach links ausweichen, ohne auf den Gegenverkehr zu achten
+- Beschleunigen, um noch vor der Tür vorbeizukommen
+= Die Tür öffnet sich in Ihren Fahrweg. Ein Ausweichen ist wegen des Gegenverkehrs nicht möglich – also bremsen.
+# film f02-tuer
+
+? Sehen Sie sich die Szene an. Was hätte die Gefahr von vornherein verringert?
++ Ein größerer Seitenabstand zu den parkenden Autos, soweit der Verkehr das zulässt
++ Ein Blick in die parkenden Autos, ob dort jemand sitzt
+- Möglichst dicht an den parkenden Autos entlangzufahren, um dem Gegenverkehr Platz zu lassen
+= Sitzt jemand im Auto, kann sich jederzeit eine Tür öffnen. Mit etwa einem Meter Abstand und Aufmerksamkeit für Personen in Fahrzeugen bleibt Zeit zu reagieren.
+# film f02-tuer
+! punkte=4
+
+? Sehen Sie sich die Szene an. Wie dürfen Sie an dem Bus vorbeifahren?
++ Nur mit Schrittgeschwindigkeit
++ Nur mit so viel Abstand, dass die Fahrgäste nicht gefährdet werden
++ Wenn nötig, muss ich warten
+- Mit unverminderter Geschwindigkeit, weil der Bus in einer Haltebucht steht
+= Hält ein Linienbus mit Warnblinklicht an einer Haltestelle, darf nur mit Schrittgeschwindigkeit und mit ausreichendem Abstand vorbeigefahren werden; Fahrgäste dürfen nicht behindert werden (§ 20 Abs. 4 StVO).
+# film f03-bus
+! kapitel=1.2
+
+? Sehen Sie sich die Szene an. Was ist jetzt richtig?
++ Mit mäßiger Geschwindigkeit an den Überweg heranfahren
++ Der Frau das Überqueren ermöglichen und notfalls anhalten
+- Weiterfahren, weil sie die Fahrbahn noch nicht betreten hat
+= Wer einen Fußgängerüberweg erkennbar benutzen will, dem ist das Überqueren zu ermöglichen. Man darf nur mit mäßiger Geschwindigkeit heranfahren und muss wenn nötig warten (§ 26 Abs. 1 StVO).
+# film f04-zebra
+! kapitel=1.2
+
+? Sehen Sie sich die Szene an. Sie wollen rechts abbiegen. Wie verhalten Sie sich?
++ Den Radfahrer geradeaus durchfahren lassen
++ Vor dem Abbiegen nach rechts hinten schauen
+- Abbiegen – ich habe ja rechtzeitig geblinkt
+= Wer abbiegt, muss Radfahrende, die in gleicher Richtung auf oder neben der Fahrbahn weiterfahren, durchfahren lassen (§ 9 Abs. 3 StVO). Der Schulterblick deckt den toten Winkel ab.
+# film f05-rad-rechts
+! kapitel=1.3
+
+? Sehen Sie sich die Szene an. Sie wollen links abbiegen. Was gilt?
++ Ich muss das entgegenkommende Auto zuerst durchfahren lassen
+- Ich darf zuerst abbiegen, weil ich zuerst an der Kreuzung war
+- Wer schneller ist, darf zuerst fahren
+= Linksabbieger müssen entgegenkommende Fahrzeuge durchfahren lassen (§ 9 Abs. 3 StVO).
+# film f06-links-gegen
+! kapitel=1.3
+
+? Sehen Sie sich die Szene an. Keine Ampel und kein Zeichen regeln hier die Vorfahrt. Wer darf zuerst fahren?
++ Das Auto, das von rechts kommt
+- Ich, weil ich geradeaus fahre
+- Wer zuerst die Kreuzungsmitte erreicht
+= Ohne Regelung durch Zeichen oder Ampel hat an Kreuzungen und Einmündungen Vorfahrt, wer von rechts kommt (§ 8 Abs. 1 StVO).
+# film f07-rechts-vor-links
+! kapitel=1.3
+
+? Sehen Sie sich die Szene an. Was ist richtig?
++ Das Auto im Kreisverkehr hat Vorfahrt
++ Beim Einfahren in diesen Kreisverkehr blinke ich nicht
+- Ich habe Vorfahrt, weil das andere Auto von links kommt
+= Steht an der Einfahrt „Kreisverkehr“ unter „Vorfahrt gewähren“, hat der Verkehr auf der Kreisfahrbahn Vorfahrt. Beim Einfahren ist das Blinken unzulässig (§ 8 Abs. 1a StVO).
+# film f08-kreisel
+! kapitel=1.3
+
+? Sehen Sie sich die Szene an. Die Ampel springt auf Gelb, die Haltlinie ist noch ein gutes Stück entfernt. Was tun Sie?
++ Gefühlvoll bremsen und vor der Haltlinie anhalten
+- Beschleunigen, um die Kreuzung noch vor Rot zu erreichen
+- Unverändert weiterfahren, Gelb bedeutet „Vorsicht“
+= Gelb ordnet an, vor der Kreuzung auf das nächste Zeichen zu warten (§ 37 Abs. 2 StVO). Ist ein Anhalten wie hier gut möglich, wird angehalten.
+# film f09-gelb
+! kapitel=1.2 punkte=4
+
+? Sehen Sie sich die Szene an. Was zeigt diese Situation?
++ Dunkel gekleidete Personen sind im Abblendlicht erst spät zu erkennen
++ Bei Dunkelheit muss ich so schnell fahren, dass ich innerhalb der überschaubaren Strecke anhalten kann
+- Abblendlicht reicht bei jeder Geschwindigkeit aus, um rechtzeitig anzuhalten
+= Dunkle Kleidung reflektiert kaum Licht. Es darf nur so schnell gefahren werden, dass innerhalb der übersehbaren Strecke gehalten werden kann (§ 3 Abs. 1 StVO).
+# film f10-nacht-fussg
+
+? Sehen Sie sich die Szene an. Das Reh ist über die Straße gelaufen. Was ist jetzt richtig?
++ Mit weiteren Tieren rechnen, die folgen
++ Langsamer fahren und bremsbereit bleiben
+- Wieder beschleunigen – die Gefahr ist vorbei
+= Rehe sind oft in Gruppen unterwegs; nach dem ersten Tier folgen häufig weitere. Deshalb Geschwindigkeit verringern und bremsbereit bleiben.
+# film f11-reh
+
+? Sehen Sie sich die Szene an. Die Sicht beträgt durch Nebel deutlich weniger als 50 Meter. Was gilt?
++ Ich darf höchstens 50 km/h fahren, wenn nicht noch langsamer geboten ist
++ Ich darf die Nebelschlussleuchte einschalten
+- Mit Fernlicht sehe ich im Nebel weiter
+= Unter 50 m Sichtweite durch Nebel, Schneefall oder Regen gilt höchstens 50 km/h (§ 3 Abs. 1 StVO); Nebelschlussleuchten dürfen nur bei Sichtweite unter 50 m wegen Nebels benutzt werden (§ 17 Abs. 3 StVO). Fernlicht blendet im Nebel zurück.
+# film f12-nebel
+
+? Sehen Sie sich die Szene an. Womit müssen Sie rechnen und was tun Sie?
++ Die Reifen können in der Wasserfläche aufschwimmen (Aquaplaning)
++ Schon vor der Wasserfläche deutlich langsamer werden
+- Kräftig beschleunigen, um schnell hindurchzukommen
+= Bei stehendem Wasser kann sich ein Wasserkeil unter die Reifen schieben; das Auto lässt sich dann kaum noch lenken oder bremsen. Vorher Geschwindigkeit verringern.
+# film f13-wasser
+
+? Sehen Sie sich die Szene an. Was ist jetzt richtig?
++ Sofort kräftig bremsen
++ Warnblinklicht einschalten, um den nachfolgenden Verkehr zu warnen
+- Auf den Seitenstreifen ausweichen und am Stau vorbeifahren
+= Bei Annäherung an ein Stauende darf zur Warnung des nachfolgenden Verkehrs das Warnblinklicht eingeschaltet werden (§ 16 Abs. 2 StVO). Der Seitenstreifen ist kein Ausweichfahrstreifen.
+# film f14-stauende
+
+? Sehen Sie sich die Szene an. Sie fahren links. Was müssen Sie tun?
++ Möglichst weit nach links fahren, damit in der Mitte eine Gasse frei wird
++ Die Gasse schon jetzt bilden, weil nur noch Schrittgeschwindigkeit gefahren wird
+- Nach rechts zu den anderen Fahrzeugen ausweichen
+= Bei Schrittgeschwindigkeit oder Stillstand auf Autobahnen muss zwischen dem äußerst linken und dem rechts daneben liegenden Fahrstreifen eine Gasse gebildet werden (§ 11 Abs. 2 StVO). Wer links fährt, weicht nach links aus.
+# film f15-gasse
+! kapitel=1.2
+
+? Sehen Sie sich die Szene an. Was ist richtig?
++ Dem Rettungswagen sofort freie Bahn schaffen, z. B. rechts heranfahren und wenn nötig anhalten
+- Beschleunigen, um vor dem Rettungswagen zu bleiben
+- Weiterfahren wie bisher – der Rettungswagen muss selbst einen Weg finden
+= Blaues Blinklicht mit Einsatzhorn ordnet an: Alle übrigen Verkehrsteilnehmer haben sofort freie Bahn zu schaffen (§ 38 Abs. 1 StVO).
+# film f16-blaulicht
+! kapitel=1.2
+
+? Sehen Sie sich die Szene an. Was gilt beim Auffahren?
++ Der Verkehr auf der Autobahn hat Vorfahrt
++ Ich nutze den Beschleunigungsstreifen, um meine Geschwindigkeit anzupassen, und fädele in eine ausreichende Lücke ein
+- Der Lkw muss mir Platz machen, weil mein Fahrstreifen endet
+= Auf Autobahnen hat der Verkehr auf der durchgehenden Fahrbahn die Vorfahrt (§ 18 Abs. 3 StVO). Wer auffährt, muss sich anpassen.
+# film f17-auffahrt
+! kapitel=1.3
+
+? Sehen Sie sich die Szene an. Dürfen Sie den Traktor jetzt überholen?
++ Nein, solange der Gegenverkehr gefährdet werden könnte
+- Ja, wenn ich stark beschleunige
+- Ja, der Gegenverkehr kann ja bremsen
+= Überholen ist nur erlaubt, wenn eine Gefährdung des Gegenverkehrs ausgeschlossen ist (§ 5 Abs. 2 StVO). Hier reicht die freie Strecke nicht.
+# film f18-traktor
+! kapitel=1.2
+
+? Sehen Sie sich die Szene an. Wie verhalten Sie sich?
++ Geschwindigkeit verringern und bremsbereit sein
++ Damit rechnen, dass das Kind auf die Fahrbahn läuft
+- Hupen und mit unveränderter Geschwindigkeit weiterfahren
+= Gegenüber Kindern muss man sich so verhalten, dass eine Gefährdung ausgeschlossen ist – insbesondere durch geringere Geschwindigkeit und Bremsbereitschaft (§ 3 Abs. 2a StVO).
+# film f19-schule
+
+? Sehen Sie sich die Szene an. Was ist richtig?
++ Vor dem Andreaskreuz warten, bis der Zug vorbeigefahren ist
+- Noch schnell vor dem Zug über die Gleise fahren
+- Mit Schrittgeschwindigkeit auf die Gleise rollen und dort warten
+= Schienenfahrzeuge haben am Bahnübergang Vorrang. Nähert sich ein Zug, muss vor dem Andreaskreuz gewartet werden (§ 19 StVO).
+# film f20-bahn
+! kapitel=1.3
+
+? Sehen Sie sich die Szene an. Sie fahren mit dem Fahrrad. Womit müssen Sie rechnen?
++ Dass der Lkw-Fahrer mich im toten Winkel nicht sieht
++ Dass es sicherer ist, zurückzubleiben, bis der Lkw abgebogen ist
+- Dass der Lkw auf jeden Fall wartet, weil ich Vorrang habe
+= Auch wenn Abbiegende Radfahrende durchlassen müssen: Große Fahrzeuge haben beim Rechtsabbiegen große tote Winkel. Vorrang nützt nichts, wenn man nicht gesehen wird.
+# film f21-lkw-rad
+! klassen=ALLE
+
+? Sehen Sie sich die Szene an. Was gilt für das Überholen des Radfahrers?
++ Innerorts muss ich beim Überholen mindestens 1,5 m Seitenabstand halten
++ Lässt der Gegenverkehr das nicht zu, bleibe ich hinter dem Radfahrer
+- Auf einem Schutzstreifen darf ohne besonderen Abstand überholt werden
+= Kraftfahrzeuge müssen beim Überholen von Radfahrenden innerorts mindestens 1,5 m, außerorts mindestens 2 m Seitenabstand halten (§ 5 Abs. 4 StVO).
+# film f22-schutzstreifen
+! kapitel=1.2
+
+? Sehen Sie sich die Szene an. Sie haben Grün und wollen rechts abbiegen. Was ist richtig?
++ Die Fußgänger zuerst gehen lassen
++ Wenn nötig, warte ich
+- Die Fußgänger müssen warten, weil ich Grün habe
+= Beim Abbiegen ist auf zu Fuß Gehende besondere Rücksicht zu nehmen; wenn nötig, ist zu warten (§ 9 Abs. 3 StVO).
+# film f23-fussg-abbiegen
+! kapitel=1.3
+
+? Sehen Sie sich die Szene an. Sie wollen vom Fahrbahnrand losfahren. Was ist richtig?
++ Den Radfahrer und das Auto zuerst vorbeifahren lassen
++ Blinken und vor dem Anfahren über die linke Schulter schauen
+- Losfahren – die anderen sehen ja meinen Blinker und bremsen
+= Wer vom Fahrbahnrand anfährt, muss eine Gefährdung anderer ausschließen und die Absicht mit dem Fahrtrichtungsanzeiger ankündigen (§ 10 StVO).
+# film f24-anfahren
+! kapitel=1.2
+
+? Sehen Sie sich die Szene an. Was gilt hier?
++ Ich muss mit Schrittgeschwindigkeit fahren
++ Kinder dürfen hier überall auf der Straße spielen
+- Hier gilt Tempo 30
+= Im verkehrsberuhigten Bereich ist Schrittgeschwindigkeit vorgeschrieben; Fußgänger dürfen die ganze Straßenbreite nutzen, Kinderspiele sind überall erlaubt (StVO Anlage 3, Zeichen 325.1).
+# film f25-spielstrasse
+! kapitel=1.4
+
+? Sehen Sie sich die Szene an. Wie verhalten Sie sich richtig?
++ Den Abstand zum vorausfahrenden Auto deutlich vergrößern
++ Gefühlvoll bremsen und ruckartige Lenkbewegungen vermeiden
+- Zügig überholen, um nicht hinter dem schlingernden Auto zu bleiben
+= Auf Schnee verlängert sich der Bremsweg erheblich. Großer Abstand und sanfte Bedienung verhindern, dass auch das eigene Auto ins Rutschen kommt.
+# film f26-schnee
+
+? Sehen Sie sich die Szene an. Was ist hier falsch gelaufen?
++ Mein Abstand war viel zu gering
+- Der Vorausfahrende hätte nicht bremsen dürfen
+- Nichts – bei 50 km/h reichen wenige Meter Abstand
+= Schon die Reaktionszeit kostet bei 50 km/h rund 14 m Weg. Wer so dicht auffährt, kann einen Auffahrunfall kaum vermeiden.
+# film f27-dicht
+
+? Sehen Sie sich die Szene an. Was ist jetzt richtig?
++ Warten, bis das Motorrad vorbeigefahren ist
++ Die Geschwindigkeit von Motorrädern wird leicht unterschätzt
+- Jetzt zügig abbiegen, solange die Lücke frei ist
+= Motorräder wirken durch ihre schmale Silhouette weiter entfernt und langsamer, als sie sind. Als Linksabbieger müssen Sie den Gegenverkehr durchfahren lassen.
+# film f28-motorrad
+! kapitel=1.3
+
+? Sehen Sie sich die Szene an. Wen müssen Sie durchfahren lassen?
++ Den Lieferwagen von links
++ Das Auto von rechts
+- Niemanden, weil ich schon fast stehe
+= „Vorfahrt gewähren“ verpflichtet, den Verkehr auf der Hauptstraße aus beiden Richtungen durchfahren zu lassen.
+# film f29-einmuendung
+! kapitel=1.3
+
+? Sehen Sie sich die Szene an. Was ist richtig?
++ Ich ermögliche dem Bus das Abfahren und warte wenn nötig
+- Ich beschleunige, um noch vor dem Bus vorbeizukommen
+- Der Bus muss warten, bis die Fahrbahn frei ist
+= Linienbussen und Schulbussen ist das Abfahren von gekennzeichneten Haltestellen zu ermöglichen; wenn nötig, müssen andere Fahrzeuge warten (§ 20 Abs. 5 StVO).
+# film f30-bus-abfahrt
+! kapitel=1.2
+
+? Sehen Sie sich die Szene an. Womit müssen Sie rechnen?
++ Dass der Radfahrer gleich nach links ausweicht, um am Lieferwagen vorbeizukommen
++ Dass ich jetzt nicht überholen sollte, sondern Abstand halte
+- Dass der Radfahrer anhält und wartet, bis ich vorbei bin
+= Radfahrende müssen am Hindernis vorbei und scheren dafür aus. Wer jetzt überholt, drängt sie in eine gefährliche Enge.
+# film f31-rad-hindernis
+
+? Sehen Sie sich die Szene an. Wer muss hier warten?
++ Ich, weil das Hindernis auf meiner Seite steht
+- Das entgegenkommende Auto, weil ich zuerst da bin
+- Wer langsamer ist
+= Wer an einem Hindernis oder einem haltenden Fahrzeug links vorbeifahren will, muss entgegenkommende Fahrzeuge durchfahren lassen (§ 6 StVO).
+# film f32-engstelle
+! kapitel=1.3
+
+? Sehen Sie sich die Szene an. Wann wechseln Sie auf den linken Fahrstreifen?
++ Unmittelbar vor der Verengung, im Wechsel mit den Fahrzeugen auf dem linken Fahrstreifen
+- So früh wie möglich, auch wenn ich mich dafür in eine kleine Lücke drängen muss
+- Gar nicht – ich warte am Ende meines Fahrstreifens, bis links alles frei ist
+= Endet ein Fahrstreifen, wird nach dem Reißverschlussverfahren eingeordnet: unmittelbar vor Beginn der Verengung, abwechselnd (§ 7 Abs. 4 StVO).
+# film f33-reissverschluss
+! kapitel=1.2
+
+? Sehen Sie sich die Szene an. Wie verhalten Sie sich?
++ Langsamer werden und bremsbereit sein
++ Damit rechnen, dass die Frau mehr Zeit zum Überqueren braucht
+- Hupen, damit sie sich beeilt
+= Gegenüber älteren und hilfsbedürftigen Menschen gilt besondere Vorsicht: Geschwindigkeit vermindern und bremsbereit sein (§ 3 Abs. 2a StVO).
+# film f34-mittelinsel
+
+? Sehen Sie sich die Szene an. Was ist richtig?
++ Damit rechnen, dass der Hund plötzlich auf die Fahrbahn läuft
++ Die Geschwindigkeit verringern
+- Mit Lichthupe warnen und zügig vorbeifahren
+= Tiere sind unberechenbar, ein freilaufender Hund kann jederzeit auf die Fahrbahn wechseln.
+# film f35-hund
+! punkte=4
+
+? Sehen Sie sich die Szene an. Was müssen Sie tun, bevor Sie abbiegen?
++ An der Haltlinie anhalten
++ Die Fußgänger in der Querstraße gehen lassen
+- Ohne Halt langsam abbiegen, der Grünpfeil erlaubt das
+= Mit Grünpfeil darf bei Rot nur nach vorherigem Anhalten rechts abgebogen werden, ohne den freigegebenen Verkehr und zu Fuß Gehende zu behindern (§ 37 Abs. 2 StVO).
+# film f36-gruenpfeil
+! kapitel=1.3
+
+? Sehen Sie sich die Szene an. Ihnen kommt in der Einbahnstraße ein Radfahrer entgegen. Was ist richtig?
++ Das kann erlaubt sein, wenn die Einbahnstraße für Radverkehr in Gegenrichtung freigegeben ist
++ Ich fahre langsam und mit ausreichendem Abstand an ihm vorbei
+- Ich zwinge ihn zum Anhalten, weil er hier nicht fahren darf
+= Viele Einbahnstraßen sind per Zusatzzeichen für Radfahrende in Gegenrichtung freigegeben. Rechnen Sie also mit Gegenverkehr auf zwei Rädern.
+# film f37-einbahn-rad
+! kapitel=1.2 punkte=4
+
+? Sehen Sie sich die Szene an. Sie möchten den Lkw überholen. Wie verhalten Sie sich?
++ Warten, bis das schnelle Auto auf dem linken Fahrstreifen vorbei ist
++ Vor dem Ausscheren in den Spiegel schauen und den Schulterblick machen
+- Sofort ausscheren, das schnelle Auto muss eben bremsen
+= Wer zum Überholen ausscheren will, muss eine Gefährdung des nachfolgenden Verkehrs ausschließen (§ 5 Abs. 4 StVO).
+# film f38-ausscheren
+! kapitel=1.2
+
+? Sehen Sie sich die Szene an. Die Ampel ist ausgefallen. Was gilt jetzt?
++ Das Zeichen „Vorfahrt gewähren“ regelt die Vorfahrt – ich muss warten
+- Jetzt gilt „rechts vor links“
+- Ich darf fahren, da die Ampel nichts anzeigt
+= Lichtzeichen gehen Vorrangregeln und Vorfahrtszeichen vor. Fällt die Ampel aus, gelten die aufgestellten Verkehrszeichen.
+# film f39-ampel-aus
+! kapitel=1.3
+
+? Sehen Sie sich die Szene an. Wie dürfen Sie an dem Schulbus vorbeifahren?
++ Nur mit Schrittgeschwindigkeit, auch wenn er auf der Gegenseite steht
++ Mit Kindern rechnen, die über die Fahrbahn laufen
+- Normal, die Regel gilt nur für Fahrzeuge hinter dem Bus
+= Hält ein gekennzeichneter Schulbus mit Warnblinklicht an einer Haltestelle, gilt Schrittgeschwindigkeit auch für den Gegenverkehr auf derselben Fahrbahn (§ 20 Abs. 4 StVO).
+# film f40-schulbus
+! kapitel=1.2
+
+? Sehen Sie sich die Szene an. Was ist richtig?
++ Schon vor der Kurve deutlich langsamer werden
++ Nasses Laub kann so glatt sein wie Eis
+- In der Kurve kräftig bremsen, falls es zu schnell wird
+= Bremsen in der Kurve kann auf rutschigem Untergrund zum Ausbrechen führen. Geschwindigkeit vorher abbauen.
+# film f41-laub
+
+? Sehen Sie sich die Szene an. Sie fahren Motorrad. Was ist richtig?
++ Damit rechnen, dass Entgegenkommende die Kurve schneiden
++ In der Rechtskurve nicht zu weit zur Fahrbahnmitte fahren
+- Weiter zur Mitte fahren, damit man mich besser sieht
+= In Rechtskurven droht Gefahr durch Gegenverkehr, der die Kurve schneidet. Eine Linie mit Abstand zur Mitte schafft Reserve.
+# film f42-kurve-krad
+! klassen=KRAD
+
+? Sehen Sie sich die Szene an. Warum ist die Situation für Sie besonders gefährlich?
++ Ich sehe den Fußgänger erst sehr spät
++ Mein Anhalteweg bei 80 km/h ist länger als die vom Abblendlicht ausgeleuchtete Strecke
+- Fußgänger dürfen auf Landstraßen nicht gehen
+= Der Anhalteweg aus 80 km/h beträgt nach Faustformel gut 50 m. Wer schneller fährt, als das Licht reicht, kann nicht mehr rechtzeitig anhalten.
+# film f10-nacht-fussg
+! punkte=4
+
+? Sehen Sie sich die Szene an. Was ist hier richtig?
++ Das Auto im Kreisverkehr fährt vor mir
++ Ich verringere meine Geschwindigkeit und warte wenn nötig an der Einfahrt
+- Ich fahre zügig ein, damit der Kreisverkehrsfluss nicht stockt
+= Wer an einem Kreisverkehr mit „Vorfahrt gewähren“ einfährt, ist wartepflichtig und muss das durch mäßige Geschwindigkeit erkennen lassen (§ 8 Abs. 2 StVO).
+# film f08-kreisel
+! kapitel=1.3 punkte=4

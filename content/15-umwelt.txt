@@ -1,0 +1,107 @@
+// 1.5 Umweltschutz (Grundstoff)
+@kapitel 1.5
+@klassen MOT
+@punkte 3
+
+? Wie verhalten Sie sich nach dem Kaltstart des Motors umweltbewusst?
++ Ich fahre sofort los und vermeide hohe Drehzahlen
+- Ich lasse den Motor im Stand warmlaufen
+- Ich gebe im Stand mehrmals Gas, damit er schneller warm wird
+= Warmlaufenlassen im Stand ist verboten, belästigt andere und verschleißt den Motor. Moderates Losfahren wärmt den Motor schneller auf.
+
+? Was ist bei Fahrten mit Kurzstrecken unter Umweltgesichtspunkten zu bedenken?
++ Der Verbrauch und Schadstoffausstoß ist bei kaltem Motor besonders hoch
++ Für kurze Wege sind Fahrrad oder Fußweg oft die bessere Wahl
+- Kurzstrecken schonen den Motor besonders
+= Ein kalter Motor verbraucht deutlich mehr. Viele Kurzstrecken belasten Umwelt und Motor.
+
+? Wie wirkt sich unnötiges Gewicht im Fahrzeug aus?
++ Der Kraftstoffverbrauch steigt
+- Es hat keinen Einfluss auf den Verbrauch
+- Der Verbrauch sinkt, weil das Fahrzeug stabiler liegt
+= Jede zusätzliche Last muss beschleunigt werden. Unnötiges Gepäck ausladen.
+! punkte=2
+
+? Was erhöht den Kraftstoffverbrauch erheblich?
++ Häufiges starkes Beschleunigen und Bremsen
++ Fahren mit offenen Fenstern bei hoher Geschwindigkeit
+- Gleichmäßiges Fahren im höchstmöglichen Gang
+= Ein gleichmäßiger, vorausschauender Fahrstil spart Kraftstoff. Offene Fenster und Dachaufbauten erhöhen den Luftwiderstand.
+
+? Wann sollten Sie in den nächsthöheren Gang schalten, um Kraftstoff zu sparen?
++ Möglichst früh, bei niedriger Drehzahl
+- Erst kurz vor dem roten Drehzahlbereich
+- Immer erst bei 4000 Umdrehungen pro Minute
+= Niedertourig fahren spart Kraftstoff und reduziert Lärm. Moderne Motoren vertragen frühes Hochschalten gut.
+! klassen=B,KRAD,AM,L,T
+
+? Was bewirkt das Ausrollenlassen mit eingelegtem Gang (Schubabschaltung)?
++ Der Motor verbraucht in dieser Phase in der Regel keinen Kraftstoff
+- Der Verbrauch steigt
+- Der Motor geht aus
+= Bei modernen Einspritzmotoren wird im Schubbetrieb die Kraftstoffzufuhr abgeschaltet.
+
+? Wie entsorgen Sie Altöl richtig?
++ Bei einer Annahmestelle, z. B. dort, wo ich Motoröl kaufe
+- Über die Kanalisation
+- Im Hausmüll
+= Verkaufsstellen von Motoröl müssen Altöl in gleicher Menge kostenlos zurücknehmen. Schon kleine Mengen verunreinigen große Wassermengen.
+
+? Wie lässt sich Lärm beim Fahren vermeiden?
++ Türen leise schließen und unnötiges Hupen vermeiden
++ Niedertourig fahren
+- Den Motor im Stand laufen lassen
+= Unnötiger Lärm ist verboten und belästigt andere – vor allem nachts.
+! punkte=2
+
+? Warum sollten Sie Ihr Fahrzeug nicht auf einer Wiese oder an einem Bach waschen?
++ Reinigungsmittel, Öl und Schmutz gelangen ins Grundwasser oder Gewässer
+- Weil das nur nachts erlaubt ist
+- Weil die Waschanlage billiger ist
+= Fahrzeugwäsche gehört in Waschanlagen mit Ölabscheider oder auf dafür zugelassene Waschplätze.
+! punkte=2
+
+? Was tun Sie, wenn aus Ihrem Fahrzeug Öl oder Kraftstoff austritt?
++ Den Schaden umgehend beheben lassen
++ Bei größeren Mengen Feuerwehr oder Polizei informieren
+- Weiterfahren, das verdunstet von allein
+= Ausgetretene Betriebsstoffe gefährden Wasser und Boden sowie andere Verkehrsteilnehmende durch Rutschgefahr.
+
+? Welche Vorteile hat eine vorausschauende Fahrweise für die Umwelt?
++ Weniger Kraftstoffverbrauch und Schadstoffausstoß
++ Weniger Bremsabrieb und Lärm
+- Höhere Durchschnittsgeschwindigkeit um jeden Preis
+= Wer vorausschauend fährt, rollt aus statt hart zu bremsen und muss seltener stark beschleunigen.
+
+? Wozu dient eine Umweltzone mit Plakettenpflicht?
++ Der Verbesserung der Luftqualität in Städten
+- Der Verkehrsberuhigung in Wohngebieten
+- Der Lärmminderung auf Autobahnen
+= In Umweltzonen dürfen nur Fahrzeuge mit der jeweils geforderten Plakette fahren. Ziel ist weniger Feinstaub und Stickstoffdioxid.
+! klassen=B,C1,C,CE,D1,D,L,T
+
+? Wie beeinflusst eine hohe Geschwindigkeit den Kraftstoffverbrauch?
++ Der Verbrauch steigt mit der Geschwindigkeit überproportional, weil der Luftwiderstand stark zunimmt
+- Er bleibt gleich
+- Er sinkt, weil man schneller am Ziel ist
+= Der Luftwiderstand wächst mit dem Quadrat der Geschwindigkeit. Mäßiges Tempo spart viel Kraftstoff.
+
+? Was ist umweltbewusst bei längeren Wartezeiten, z. B. im Stau?
++ Den Motor abstellen, wenn es die Situation erlaubt
+- Den Motor laufen lassen, damit die Klimaanlage arbeitet
+- Im Leerlauf mehrmals Gas geben
+= Im Leerlauf verbraucht der Motor Kraftstoff, ohne voranzukommen. Start-Stopp-Systeme helfen dabei.
+! punkte=2
+
+? Welches Verhalten bei der Fahrzeugpflege und -wartung schont die Umwelt?
++ Regelmäßige Wartung und richtig eingestellter Motor
++ Leichtlauföl und rollwiderstandsarme Reifen verwenden
+- Möglichst lange Wartungsintervalle überschreiten
+= Ein gut gewartetes Fahrzeug verbraucht weniger und stößt weniger Schadstoffe aus.
+
+? Wie schonen Sie die Umwelt bei der Planung von Fahrten?
++ Fahrten zusammenlegen und Fahrgemeinschaften bilden
++ Wenn möglich öffentliche Verkehrsmittel nutzen
+- Für jede Besorgung einzeln fahren
+= Weniger Fahrten bedeuten weniger Verbrauch, weniger Emissionen und weniger Verkehr.
+! punkte=2

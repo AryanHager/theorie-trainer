@@ -1,0 +1,45 @@
+// Phase 2 – Filmfragen für Lkw, Bus, Zugmaschine und Motorrad – eigene Szenen und Formulierungen
+
+@kapitel 2.1
+
+@punkte 5
+
+? Sehen Sie sich die Szene an. Wie verhalten Sie sich als Lkw-Fahrer?
++ Die Radfahrerin geradeaus durchfahren lassen und erst danach abbiegen
++ Mit Schrittgeschwindigkeit abbiegen und Spiegel sowie Abbiegeassistent im Blick behalten
+- Zügig abbiegen, damit ich der Radfahrerin nicht im Weg stehe
+= Radfahrende im toten Winkel rechts neben dem Lkw sind beim Abbiegen extrem gefährdet. Innerorts gilt für Fahrzeuge über 3,5 t beim Rechtsabbiegen Schrittgeschwindigkeit, wenn mit Radverkehr zu rechnen ist.
+# film f43-lkw-rechts-rad
+! klassen=LKW
+
+? Sehen Sie sich die Szene an. Worauf müssen Sie als Busfahrer jetzt besonders achten?
++ Das Kind kann bis an die Bordsteinkante laufen oder stolpern; ich fahre besonders langsam und bremsbereit an
++ Spiegel und Fahrzeugfront schwenken beim Einfahren in die Haltebucht über den Bordstein
+- Ich kann zügig einfahren, weil Wartende hinter der Bordsteinkante sicher sind
+= Beim Einfahren in die Haltestelle können Spiegel und Frontüberhang Wartende am Bordstein treffen. Kinder unterschätzen diese Gefahr.
+# film f44-bus-haltestelle
+! klassen=BUS
+
+? Sehen Sie sich die Szene an. Was ist richtig?
++ An geeigneter Stelle, z. B. in einer Haltebucht oder einem Feldweg, rechts heranfahren und die Kolonne vorbeilassen
++ Damit rechnen, dass jemand trotz Gegenverkehr riskant überholt
+- Schneller fahren, als die Zugmaschine bauartbedingt erlaubt
+= Wer ein langsames Fahrzeug führt, muss mehreren folgenden Fahrzeugen das Überholen ermöglichen, wenn es nur so geht – notfalls auch durch Warten.
+# film f45-traktor-kolonne
+! klassen=LT kapitel=2.2
+
+? Sehen Sie sich die Szene an. Was müssen Sie tun?
++ Den Abstand vergrößern, bis er mindestens 50 m beträgt
+- Den Abstand beibehalten, weil beide Lkw gleich schnell fahren
+- Links ausscheren und den vorderen Lkw überholen, obwohl das kaum schneller geht
+= Lkw über 3,5 t müssen auf Autobahnen bei mehr als 50 km/h mindestens 50 m Abstand zum Vorausfahrenden halten. Ein Elefantenrennen mit geringer Geschwindigkeitsdifferenz behindert andere.
+# film f46-lkw-abstand
+! klassen=LKW kapitel=2.2 punkte=4
+
+? Sehen Sie sich die Szene an. Wie verhalten Sie sich auf dem Motorrad?
++ Gas wegnehmen und bremsbereit sein, weil die Autofahrerin mich übersehen könnte
++ Blickkontakt suchen und Platz für ein Ausweichen einplanen
+- Weiterfahren, ich habe Vorfahrt
+= Motorräder werden an Einmündungen häufig übersehen oder in ihrer Geschwindigkeit unterschätzt. Vorfahrt hilft nicht, wenn der andere sie nicht gewährt.
+# film f47-krad-einmuendung
+! klassen=KRAD

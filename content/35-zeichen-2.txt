@@ -1,0 +1,932 @@
+// 1.4 Verkehrszeichen – Runde 4 (eigene Formulierungen; Bilder: amtliche Zeichen, gemeinfrei, Wikimedia Commons)
+@kapitel 1.4
+@klassen ALLE
+@punkte 3
+
+? Womit müssen Sie bei diesem Gefahrzeichen rechnen?
++ Mit tief fliegenden Flugzeugen und plötzlichem, lautem Fluglärm
+- Mit einem Hubschrauberlandeplatz auf der Fahrbahn
+- Mit Seitenwind durch Windkraftanlagen
+= Das Zeichen steht z. B. in der Nähe von Flugplätzen. Plötzlicher Lärm kann erschrecken. Konzentrieren Sie sich weiter auf den Verkehr.
+# zeichen 101-10
+
+? Was kündigt dieses Gefahrzeichen an?
++ Einen Fußgängerüberweg (Zebrastreifen)
+- Eine Fußgängerzone
+- Einen Gehweg, der auf der Fahrbahn endet
+= Das Zeichen warnt vor einem Zebrastreifen, der z. B. hinter einer Kurve schlecht zu sehen ist. Stellen Sie sich darauf ein, Fußgängern das Überqueren zu ermöglichen.
+# zeichen 101-11
+
+? Wie verhalten Sie sich bei diesem Gefahrzeichen richtig, wenn Ihnen Reiter begegnen?
++ Langsam und mit großem Seitenabstand vorbeifahren
++ Auf Hupen und unnötigen Lärm verzichten
+- Durch kurzes Hupen auf mich aufmerksam machen
+- Zügig beschleunigen, damit die Begegnung schnell vorbei ist
+= Pferde sind Fluchttiere und können durch Lärm oder dichtes Vorbeifahren scheuen.
+# zeichen 101-13
+
+? Wovor warnt dieses Gefahrzeichen?
++ Vor einer Straße, die an einem Ufer oder Kai entlangführt oder dort endet
+- Vor einer Fähre mit Gebühren
+- Vor Glätte durch Sprühnebel
+= Hier besteht die Gefahr, ins Wasser zu geraten, z. B. bei Dunkelheit, Nebel oder Glätte.
+# zeichen 101-53
+
+? Was kündigt Ihnen dieses Gefahrzeichen an?
++ Eine Brücke, die geöffnet werden kann (z. B. Klapp- oder Drehbrücke)
+- Eine Brücke mit Gewichtsbeschränkung
+- Eine Brücke mit Gegenverkehr auf einem Fahrstreifen
+= Bei geöffneter Brücke wird der Verkehr meist durch Schranken oder Lichtzeichen angehalten. Achten Sie darauf.
+# zeichen 101-55
+
+? Für welche Fahrzeuge ist dieses Gefahrzeichen besonders wichtig?
++ Für hohe Fahrzeuge, z. B. Lkw, Busse oder Wohnmobile
+- Nur für Radfahrer
+- Für tiefergelegte Sportwagen
+= Das Zeichen warnt vor einem unzureichenden Lichtraumprofil, z. B. durch überhängende Äste. Hohe Fahrzeuge können oben anstoßen.
+# zeichen 101-54
+
+? Was kündigt dieses Zeichen an?
++ Eine Rechtskurve
+- Eine Einmündung von rechts
+- Eine Fahrstreifenverengung rechts
+= Vor der Kurve rechtzeitig die Geschwindigkeit verringern, nicht erst in der Kurve bremsen.
+# zeichen 103-20
+
+? Welcher Streckenverlauf folgt nach diesem Zeichen?
++ Zuerst eine Rechtskurve, danach eine Linkskurve
+- Zuerst eine Linkskurve, danach eine Rechtskurve
+- Eine Kreuzung mit versetzten Einmündungen
+= Das Zeichen kündigt eine Doppelkurve an, die mit einer Rechtskurve beginnt.
+# zeichen 105-20
+
+? Was bedeutet die Angabe „11 %“ auf diesem Zeichen?
++ Auf 100 m Strecke geht es etwa 11 m bergab
+- Die Straße ist auf den nächsten 11 km abschüssig
+- Das Gefälle beträgt 11 Grad
+= Die Prozentangabe beschreibt den Höhenunterschied pro 100 m waagerechter Strecke.
+# zeichen 108-11
+
+? Von welcher Seite droht bei diesem Zeichen der Seitenwind?
++ Von rechts
+- Von links
+- Von vorn
+= Der Windsack zeigt, aus welcher Richtung der Wind weht. Halten Sie das Lenkrad gut fest und rechnen Sie mit Böen, z. B. am Ende eines Waldstücks oder auf Brücken.
+# zeichen 117-10
+
+? Was kündigt dieses Zeichen an?
++ Die Fahrbahn verengt sich von links
+- Die Fahrbahn verengt sich von rechts
+- Der linke Fahrstreifen ist ein Abbiegestreifen
+= Das Zeichen zeigt, auf welcher Seite die Fahrbahn schmaler wird. Gegebenenfalls ist der Fahrstreifen zu wechseln.
+# zeichen 121-20
+
+? Sie sehen diese zweistreifige Bake vor einem Bahnübergang. Wie weit ist der Bahnübergang noch entfernt?
++ Etwa 160 m
+- Etwa 80 m
+- Etwa 240 m
+= Die Baken stehen in Abständen von etwa 80 m. Die dreistreifige Bake steht etwa 240 m, die zweistreifige etwa 160 m und die einstreifige etwa 80 m vor dem Bahnübergang.
+# zeichen 159-10
+
+? Wie weit ist ein Bahnübergang nach einer einstreifigen Bake ungefähr noch entfernt?
+N 80 m
+= Die einstreifige Bake ist die letzte Bake vor dem Bahnübergang. Spätestens jetzt müssen Sie bremsbereit sein.
+! zahl
+# zeichen 162-10
+
+? Was bedeutet der Blitzpfeil an diesem Andreaskreuz?
++ Der Bahnübergang hat eine Oberleitung mit Hochspannung
+- Der Bahnübergang wird elektronisch überwacht
+- Die Schranken schließen sehr schnell
+= Bei elektrischer Oberleitung besteht Lebensgefahr, wenn man ihr mit hoher Ladung oder Gegenständen zu nahe kommt. Nicht auf Fahrzeuge klettern.
+# zeichen 201-51
+
+? Sie stehen an einer Kreuzung vor diesem Zeichen. Wie dürfen Sie weiterfahren?
++ Nur nach links
+- Nach links oder geradeaus
+- Nach links oder rechts
+= Das Zeichen schreibt die Fahrtrichtung vor. An der Kreuzung darf nur links abgebogen werden.
+# zeichen 209-10
+
+? Welche Fahrtrichtungen erlaubt Ihnen dieses Zeichen?
++ Rechts oder links
+- Nur geradeaus
+- Geradeaus oder rechts
+= Geradeaus darf hier nicht gefahren werden. Erlaubt ist nur das Abbiegen nach rechts oder links.
+# zeichen 214-30
+
+? Welche Fahrtrichtungen sind bei diesem Zeichen erlaubt?
++ Geradeaus oder links
+- Geradeaus oder rechts
+- Nur links
+= Rechts abbiegen ist hier nicht erlaubt.
+# zeichen 214-10
+
+? Was schreibt Ihnen dieses Zeichen vor, z. B. vor einem Hindernis?
++ Links an der Stelle vorbeizufahren
+- Rechts vorbeizufahren
+- Anzuhalten und zu warten
+= Die Vorbeifahrt ist nur links erlaubt, z. B. an einer Baustelle oder einem Hindernis auf der rechten Seite.
+# zeichen 222-10
+
+? Sie fahren in eine Einbahnstraße mit diesem Zeichen. Wo dürfen Sie dort halten und parken, wenn keine Schienen vorhanden sind und nichts anderes angeordnet ist?
++ Am rechten Fahrbahnrand
++ Am linken Fahrbahnrand
+- Nur am rechten Fahrbahnrand
+= In Einbahnstraßen darf ausnahmsweise auch am linken Fahrbahnrand gehalten und geparkt werden.
+# zeichen 220-10
+
+? Was bedeutet dieses Zeichen?
++ Ende der Fußgängerzone, ab hier gelten wieder die allgemeinen Regeln
+- Beginn einer Fußgängerzone
+- Ende eines Gehwegs
+= Nach dem Zeichen dürfen Fahrzeuge die Straße wieder benutzen, soweit keine anderen Zeichen etwas anderes anordnen.
+# zeichen 242.2
+
+? Sie verlassen eine Straße an diesem Zeichen. Was gilt ab hier?
++ Die besonderen Regeln der Fahrradstraße enden
+- Radfahrende dürfen ab hier nicht mehr fahren
+- Ab hier beginnt ein Radweg, der benutzt werden muss
+= Nach dem Ende der Fahrradstraße gelten wieder die allgemeinen Regeln, z. B. die allgemeine Höchstgeschwindigkeit.
+# zeichen 244.2
+
+? Was zeigt Ihnen dieses Zeichen an?
++ Das Ende einer Fahrradzone
+- Das Ende eines Radwegs
+- Ein Verbot für Radfahrende
+= In einer Fahrradzone gelten ähnliche Regeln wie in einer Fahrradstraße, z. B. höchstens 30 km/h. Am Zeichen enden diese Regeln.
+# zeichen 244.4
+
+? Wem verbietet dieses Zeichen die Weiterfahrt?
++ Mofas
+- Allen Krafträdern
+- Fahrrädern mit Hilfsmotor bis 25 km/h und Pedelecs
+= Das Zeichen gilt nur für Mofas. Pedelecs gelten als Fahrräder und sind nicht betroffen.
+# zeichen 257-50
+
+? Für wen gilt dieses Verbot?
++ Für Reiter
+- Für Pferdefuhrwerke und Kutschen
+- Für den Viehtrieb
+= Das Zeichen verbietet das Reiten und das Führen von Pferden auf dieser Straße.
+# zeichen 257-51
+
+? Welche Fahrzeuge dürfen hier nicht fahren?
++ Kraftomnibusse
+- Lkw über 3,5 t
+- Pkw mit Anhänger
+= Das Verbot gilt für Busse. Andere Fahrzeuge sind nicht betroffen.
+# zeichen 257-54
+
+? Sie fahren einen Pkw. Was gilt bei diesem Zeichen?
++ Ich darf hier nicht weiterfahren
+- Ich darf nur mit Anhänger weiterfahren
+- Das Zeichen gilt nur für Taxis
+= Das Zeichen verbietet Personenkraftwagen die Durchfahrt.
+# zeichen 257-55
+
+? Was ist bei diesem Zeichen verboten?
++ Das Fahren mit Lkw mit Anhänger
+- Das Fahren mit allen Lkw
+- Das Fahren mit Pkw mit Anhänger
+= Das Verbot betrifft nur Lastkraftwagen, die einen Anhänger mitführen.
+# zeichen 257-57
+
+? Für wen gilt dieses Verbot?
++ Für Kraftfahrzeuge und Züge, die nicht schneller als 25 km/h fahren können oder dürfen
+- Für alle Fahrzeuge über 25 t
+- Für alle Fahrzeuge an Tagen mit Glätte
+= Das Zeichen sperrt langsame Fahrzeuge, z. B. Traktoren, von Straßen, auf denen sie den Verkehr stark behindern würden.
+# zeichen 257-58
+
+? Wem verbietet dieses Zeichen das Weiterfahren?
++ Elektrokleinstfahrzeugen wie E-Scootern
+- Elektroautos
+- Pedelecs
+= Das Zeichen gilt für Elektrokleinstfahrzeuge nach der eKFV. Elektroautos und Pedelecs sind nicht gemeint.
+# zeichen 257-59
+
+? Was verbietet dieses Zeichen?
++ Das Fahren mit Fahrzeugen, die wassergefährdende Stoffe geladen haben
+- Das Fahren bei Hochwasser
+- Das Waschen von Fahrzeugen
+= Das Zeichen steht z. B. in Wasserschutzgebieten. Ausgelaufene Ladung könnte das Grundwasser verunreinigen.
+# zeichen 269
+
+? Was verbietet dieses Zeichen?
++ Das Befahren mit Fahrzeugen, deren tatsächliche Achslast 8 t übersteigt
+- Das Befahren mit Fahrzeugen über 8 t Gesamtmasse
+- Das Befahren mit Fahrzeugen mit mehr als 8 Achsen
+= Maßgeblich ist die tatsächliche Last auf einer Achse, nicht die zulässige Gesamtmasse des Fahrzeugs.
+# zeichen 263-8
+
+? Sie fahren innerorts mit Ihrem Pkw an diesem Zeichen vorbei. Wie schnell dürfen Sie bei guten Bedingungen fahren?
+N 70 km/h
+= Das Zeichen kann die innerorts geltende Höchstgeschwindigkeit von 50 km/h erhöhen. Bei schlechter Sicht oder Glätte müssen Sie langsamer fahren.
+! zahl
+# zeichen 274-70
+
+? Sie fahren mit Ihrem Pkw auf einer Landstraße an diesem Zeichen vorbei. Wie schnell dürfen Sie danach höchstens fahren, wenn kein weiteres Zeichen folgt?
+N 100 km/h
+= Nach dem Ende der Beschränkung gilt wieder die allgemeine Höchstgeschwindigkeit. Für Pkw sind das außerorts 100 km/h.
+! zahl
+# zeichen 278-80
+
+? Was bedeutet dieses Zeichen?
++ Ende der vorgeschriebenen Mindestgeschwindigkeit
+- Ende der zulässigen Höchstgeschwindigkeit von 30 km/h
+- Ende einer Tempo-30-Zone
+= Ab hier müssen Sie nicht mehr mindestens 30 km/h fahren. Blaue Zeichen sind hier Gebote, das rote Band zeigt das Ende.
+# zeichen 279-30
+
+? Sie fahren in einen Bereich mit diesem Zeichen. Was gilt?
++ Ich darf höchstens 20 km/h fahren
++ Die Regel gilt bis zum Ende-Zeichen der Zone
+- Ich darf Schritttempo nicht überschreiten
+= Das Zeichen beginnt eine Tempo-20-Zone in einem verkehrsberuhigten Geschäftsbereich. Im verkehrsberuhigten Bereich (Zeichen 325.1) gilt dagegen Schrittgeschwindigkeit.
+# zeichen 274.1-20
+
+? Was bedeutet dieses Zeichen?
++ Lkw über 3,5 t dürfen ab hier wieder überholen
+- Ab hier gilt ein Überholverbot für Lkw
+- Lkw dürfen ab hier schneller fahren
+= Das Zeichen beendet das Überholverbot für Kraftfahrzeuge mit einer zulässigen Gesamtmasse über 3,5 t.
+# zeichen 281
+
+? Was endet an diesem Zeichen?
++ Das Verbot, einspurige Fahrzeuge zu überholen
+- Das Überholverbot für Krafträder
+- Ein Radweg
+= Mehrspurige Kraftfahrzeuge dürfen ab hier Radfahrende und andere einspurige Fahrzeuge wieder überholen, wenn sie den nötigen Seitenabstand einhalten.
+# zeichen 281.1
+
+? Sie verlassen ein Gebiet an diesem Zeichen. Was bedeutet es?
++ Das eingeschränkte Haltverbot für die Zone endet
+- Ab hier gilt ein absolutes Haltverbot
+- Ab hier ist Parken nur mit Parkscheibe erlaubt
+= Nach dem Zeichen gelten wieder die allgemeinen Halt- und Parkregeln.
+# zeichen 290.2
+
+? Was zeigt diese Markierung an?
++ Wo ein Wartepflichtiger warten sollte
+- Wo ein Fahrstreifen endet
+- Einen Parkstreifen
+= Die Wartelinie ergänzt Zeichen wie „Vorfahrt gewähren!“. Sie empfiehlt dem Wartepflichtigen, dort zu warten.
+# zeichen 341
+
+? Was bedeuten diese dreieckigen Markierungen quer auf der Fahrbahn (Haifischzähne)?
++ Sie zeigen an, dass Vorfahrt zu gewähren ist
+- Sie kennzeichnen einen Parkplatz
+- Sie warnen vor einer Bodenwelle
+= Die Spitzen zeigen auf den Wartepflichtigen. Die Markierung kann das Zeichen „Vorfahrt gewähren!“ ergänzen.
+# zeichen 342
+
+? Was zeigt Ihnen dieses Zeichen an?
++ Den Beginn eines Bereichs, in dem Parken erlaubt ist
+- Das Ende eines Parkplatzes
+- Eine Einfahrt, die freizuhalten ist
+= Der Pfeil zeigt, in welche Richtung der Parkplatz beginnt.
+# zeichen 314-10
+
+? Worauf weist Sie dieses Zeichen hin?
++ Auf ein Parkhaus oder eine Parkgarage
+- Auf eine Hochgarage nur für Anwohner
+- Auf eine Tankstelle
+= Das Zeichen weist auf Parkmöglichkeiten in einem Gebäude hin.
+# zeichen 314-50
+
+? Sie fahren an diesem Zeichen vorbei. Was gilt?
++ Im gesamten Bereich darf nur nach den Vorgaben des Zusatzzeichens geparkt werden, z. B. mit Parkschein
+- Parken ist im ganzen Bereich verboten
+- Parken ist im ganzen Bereich unbegrenzt erlaubt
+= Das Zeichen beginnt eine Zone, in der das Parken bewirtschaftet wird. Die Regeln (Parkschein, Parkscheibe, Bewohner) stehen auf dem Zusatzzeichen.
+# zeichen 314.1
+
+? Was bedeutet dieses Zeichen?
++ Das Ende einer Zone, in der das Parken bewirtschaftet wird
+- Das Ende eines Parkhauses
+- Das Ende des Parkverbots
+= Nach dem Zeichen gelten wieder die allgemeinen Parkregeln.
+# zeichen 314.2
+
+? Für wen ist ein Parkplatz mit diesem Zeichen gedacht?
++ Für Menschen, die das Auto abstellen und mit öffentlichen Verkehrsmitteln weiterfahren
+- Nur für Reisebusse
+- Für Kurzparker an einem Einkaufszentrum
+= „Park and Ride“: Das Zeichen weist auf Parkplätze z. B. an Bahnhöfen hin.
+# zeichen 316
+
+? Was zeigt dieses Zeichen an?
++ Einen Parkplatz für Fahrgemeinschaften
+- Einen Parkplatz für Carsharing-Fahrzeuge
+- Einen Parkplatz für Taxis
+= Auf diesen Plätzen kann man sein Auto abstellen und bei anderen mitfahren.
+# zeichen 316-50
+
+? Worauf weist dieses Zeichen hin?
++ Auf einen Parkplatz für Wanderer
+- Auf einen Wanderweg, der für Fahrzeuge gesperrt ist
+- Auf einen Rastplatz an der Autobahn
+= Das Zeichen weist auf Parkplätze hin, die als Ausgangspunkt für Wanderungen dienen.
+# zeichen 317
+
+? Was bedeutet dieses Zeichen?
++ Ende der Kraftfahrstraße
+- Ende der Autobahn
+- Beginn einer Kraftfahrstraße
+= Nach dem Zeichen gelten wieder die allgemeinen Regeln, z. B. dürfen auch langsame Fahrzeuge die Straße benutzen.
+# zeichen 331.2
+
+? Wofür steht dieses Zeichen?
++ Für eine Sackgasse, die für Fußgänger und Radfahrende durchlässig ist
+- Für eine Sackgasse ohne Wendemöglichkeit
+- Für einen Fuß- und Radweg, der für Kraftfahrzeuge freigegeben ist
+= Fahrzeuge müssen umkehren, zu Fuß und mit dem Fahrrad kommt man weiter.
+# zeichen 357-50
+
+? Was bedeutet dieses Zeichen?
++ Hier gibt es Erste Hilfe
+- Hier ist ein Krankenhaus mit Notaufnahme
+- Hier befindet sich eine Apotheke
+= Das Zeichen weist auf eine Stelle hin, an der Erste Hilfe geleistet werden kann.
+# zeichen 358
+
+? Worauf weist dieses Zeichen hin?
++ Auf eine Polizeidienststelle
+- Auf eine Polizeikontrolle
+- Auf eine Ausfahrt nur für Einsatzfahrzeuge
+= Das Zeichen zeigt den Weg zur Polizei.
+# zeichen 363
+
+? Wofür steht dieses Zeichen?
++ Für eine Notrufsäule
+- Für eine öffentliche Telefonzelle in der Stadt
+- Für eine Raststätte
+= An Autobahnen zeigen zusätzlich kleine Pfeile an den Leitpfosten die Richtung zur nächsten Notrufsäule.
+# zeichen 365-51
+
+? Was zeigt Ihnen dieses Zeichen an?
++ Eine Ladestation für Elektrofahrzeuge
+- Eine Tankstelle für Diesel
+- Eine Werkstatt für Elektrik
+= Das Zeichen weist auf Lademöglichkeiten für Elektrofahrzeuge hin.
+# zeichen 365-65
+
+? Welche Kraftstoffart wird an einer Tankstelle mit diesem Zeichen angeboten?
++ Wasserstoff
+- Erdgas
+- Autogas (LPG)
+= Das Zeichen weist auf eine Tankstelle für Wasserstofffahrzeuge hin.
+# zeichen 365-66
+
+? Was zeigt Ihnen dieses Zeichen an?
++ Eine Tankstelle für Autogas (Flüssiggas)
+- Eine Werkstatt
+- Eine Tankstelle nur für Lkw
+= Nicht jede Tankstelle bietet Autogas an. Das Zeichen hilft Fahrern solcher Fahrzeuge.
+# zeichen 365-53
+
+? Sie fahren an diesem gelben Schild vorbei. Was gilt?
++ Das Schild nennt nur einen Ortsteil oder einen Ortsnamen, die Geschwindigkeitsregeln ändern sich nicht
+- Ab hier gilt innerorts 50 km/h
+- Ab hier gilt die Ortschaft als beendet
+= Die Ortshinweistafel ist keine Ortstafel. Sie gibt keine Geschwindigkeit vor.
+# zeichen 385
+
+? Was bedeutet dieses Zeichen?
++ Auf dieser Straße gilt eine Maut für Lkw
+- Alle Fahrzeuge müssen hier eine Maut bezahlen
+- Lkw dürfen hier nicht fahren
+= Für Pkw gilt diese Maut nicht. Sie betrifft Lastkraftwagen ab einer bestimmten Masse.
+# zeichen 390
+
+? Was zeigt Ihnen dieses Zeichen an?
++ Eine Strecke, für deren Benutzung eine Gebühr zu zahlen ist
+- Eine Strecke, auf der Geld abgehoben werden kann
+- Eine Strecke nur für Lkw
+= Manche Brücken oder Tunnel dürfen nur gegen Gebühr befahren werden.
+# zeichen 391
+
+? Was zeigt dieses Zeichen an?
++ Eine Zollstelle
+- Eine Raststätte
+- Ein Ende der Autobahn
+= An einer Zollstelle können Sie und Ihr Fahrzeug kontrolliert werden. Langsam heranfahren und Anweisungen befolgen.
+# zeichen 392
+
+? Eine Straßenlaterne ist mit diesem rot-weißen Ring gekennzeichnet. Was bedeutet das?
++ Die Laterne brennt nicht die ganze Nacht
++ Wer dort nachts parkt, muss das Fahrzeug unter Umständen selbst beleuchten
+- Die Laterne ist defekt und muss gemeldet werden
+= Dort ist nicht sicher, dass das Fahrzeug nachts beleuchtet ist. Ihr Fahrzeug muss dann z. B. mit Parklicht kenntlich gemacht werden.
+# zeichen 394
+
+? Was zeigt Ihnen dieses Zeichen an?
++ Eine Umleitung
+- Eine Einbahnstraße
+- Eine Ausfahrt
+= Die Umleitung führt um eine gesperrte Strecke herum. Folgen Sie den Umleitungsschildern.
+# zeichen 454-10
+
+? Was kündigt dieses Zeichen auf der Fahrbahn an?
++ Die Fahrstreifen werden verschwenkt oder auf die andere Fahrbahnseite übergeleitet
+- Ein Fahrstreifen endet
+- Überholen ist ab hier verboten
+= Die Tafel steht oft vor Baustellen. Fahren Sie langsam und bleiben Sie in Ihrem Fahrstreifen.
+# zeichen 501-10
+
+? Was kündigt Ihnen diese Tafel an?
++ Der rechte Fahrstreifen endet, es bleibt ein Fahrstreifen links
++ Die Fahrzeuge müssen sich nach dem Reißverschlussverfahren einordnen
+- Der linke Fahrstreifen endet
+= Bis kurz vor die Engstelle dürfen beide Fahrstreifen benutzt werden. Dann wird abwechselnd eingeordnet.
+# zeichen 531-10
+
+? Was bedeutet diese Tafel?
++ Das direkte Abbiegen ist nicht möglich, Sie werden um einen Häuserblock herumgeführt
+- Hier beginnt eine Fußgängerzone
+- Hier gibt es einen Kreisverkehr
+= Die Blockumfahrung wird angeordnet, wenn das direkte Abbiegen z. B. wegen einer Baustelle verboten ist.
+# zeichen 590-10
+
+? Was bedeutet diese Absperrschranke?
++ Die Fläche dahinter ist gesperrt und darf nicht befahren werden
+- Ich darf langsam vorbeifahren, wenn ich vorsichtig bin
+- Sie kündigt nur eine Gefahrstelle an
+= Absperrschranken sperren Straßen oder Teile davon, z. B. bei Baustellen.
+# zeichen 600-31
+
+? Wie fahren Sie an dieser Pfeilbake vorbei?
++ In Richtung der Pfeile
+- Auf der den Pfeilen entgegengesetzten Seite
+- Sie gilt nur für Fußgänger
+= Pfeilbaken zeigen an, auf welcher Seite vorbeizufahren ist. Sie stehen oft bei Baustellen.
+# zeichen 605-11
+
+? Was gilt bei Leitkegeln, die eine Fläche auf der Fahrbahn abgrenzen?
++ Ich darf die abgegrenzte Fläche nicht befahren
+- Ich darf zwischen den Kegeln hindurchfahren
+- Sie haben nur empfehlenden Charakter
+= Leitkegel sperren Flächen, z. B. an Unfallstellen oder Baustellen. Sie dürfen nicht überfahren werden.
+# zeichen 610-40
+
+? Diese fahrbare Absperrtafel steht auf Ihrem Fahrstreifen. Was müssen Sie tun?
++ Den Fahrstreifen rechtzeitig wechseln und in Pfeilrichtung vorbeifahren
+- Hinter der Tafel anhalten und warten
+- Rechts an der Tafel vorbeifahren
+= Die Tafel sichert Arbeiten auf der Fahrbahn. Der Pfeil zeigt, auf welcher Seite vorbeizufahren ist.
+# zeichen 615
+
+? Was bedeutet der gelbe Blinkpfeil auf dieser Absperrtafel?
++ Der Fahrstreifen ist gesperrt, ich muss in Pfeilrichtung ausweichen
+- Ich darf in Pfeilrichtung abbiegen
+- Die Absperrung ist aufgehoben
+= Die Blinklichter machen die Absperrtafel weithin sichtbar. Wechseln Sie frühzeitig den Fahrstreifen.
+# zeichen 616-30
+
+? Auf welcher Fahrbahnseite steht ein Leitpfosten mit diesem rechteckigen Rückstrahler?
++ Rechts
+- Links
+- In der Fahrbahnmitte
+= Auf der rechten Seite haben Leitpfosten einen rechteckigen, auf der linken Seite zwei runde Rückstrahler.
+# zeichen 620-40
+
+? In welchem Abstand stehen Leitpfosten in der Regel?
+N 50 m
+= Mit Leitpfosten können Sie Abstände schätzen. Bei Nebel helfen sie zu erkennen, wie weit Sie sehen.
+! zahl
+# zeichen 620-41
+
+? Wofür werden diese Tafeln verwendet?
++ Um parkende Anhänger oder große Fahrzeuge kenntlich zu machen
+- Um einen Bahnübergang anzukündigen
+- Um Einfahrten freizuhalten
+= Parkwarntafeln sind lichttechnische Einrichtungen für abgestellte Fahrzeuge. Innerorts dürfen z. B. auf der Fahrbahn abgestellte Anhänger damit statt mit einer eigenen Lichtquelle kenntlich gemacht werden.
+# zeichen 630-10
+
+? Was gilt bei Leitschwellen, die einen Fahrstreifen abgrenzen?
++ Die so gekennzeichnete Fläche darf nicht befahren werden
+- Sie dürfen jederzeit überfahren werden
+- Sie gelten nur für Radfahrende
+= Leitschwellen und Leitborde verbieten das Befahren der gekennzeichneten Fläche und leiten den Verkehr daran vorbei, etwa in Baustellen. Ein Überfahren kann zudem das Fahrzeug beschädigen.
+# zeichen 628-10
+
+? Was bedeutet dieses Zusatzzeichen unter einem Zeichen „Vorfahrt gewähren!“?
++ Radfahrende kreuzen von links und von rechts
+- Radfahrende dürfen die Straße nicht überqueren
+- Die Vorfahrt gilt nur für Radfahrende
+= Wer wartepflichtig ist, muss hier auf Radverkehr aus beiden Richtungen achten, z. B. auf einem Zweirichtungsradweg.
+# zeichen 205 1000-32
+
+? Was bedeutet dieses Zusatzzeichen unter einem Gefahrzeichen?
++ Die Gefahrstrecke ist etwa 3 km lang
+- Die Gefahrstelle folgt nach 3 km
+- Für 3 km gilt eine Höchstgeschwindigkeit
+= Die Pfeile nach oben zeigen eine Länge an. Die Gefahr besteht auf der ganzen angegebenen Strecke.
+# zeichen 112 1001-31
+
+? Wie ist dieses Zusatzzeichen unter einem Gefahrzeichen zu verstehen?
++ Die Gefahrstelle beginnt in etwa 2 km
+- Die Gefahrstrecke ist 2 km lang
+- Die Gefahr besteht nur 2 km lang auf jeder Seite
+= Die Entfernungsangabe ohne Pfeile gibt an, wie weit die Gefahrstelle noch entfernt ist.
+# zeichen 114 1004-31
+
+? Was bedeutet dieses Zusatzzeichen unter einem Zeichen „Verengte Fahrbahn“?
++ Ich bleibe zunächst auf meinem Fahrstreifen, eingeordnet wird erst nach etwa 200 m
+- Ich muss sofort den Fahrstreifen wechseln
+- Nach 200 m darf ich nicht mehr wechseln
+= Beim Reißverschlussverfahren wird erst kurz vor der Engstelle abwechselnd eingeordnet. Zu frühes Wechseln führt zu unnötigem Stau.
+# zeichen 121-10 1005-30
+
+? Ein Gefahrzeichen hat dieses Zusatzzeichen. Womit müssen Sie rechnen?
++ Mit einer Ölspur und damit sehr rutschiger Fahrbahn
+- Mit einer Tankstelle
+- Mit Rauch auf der Fahrbahn
+= Öl auf der Fahrbahn vermindert die Haftung stark, besonders für Zweiräder. Langsam fahren, nicht stark bremsen oder beschleunigen.
+# zeichen 101 1007-30
+
+? Wovor warnt dieses Zusatzzeichen?
++ Vor losem Splitt, der hochgeschleudert werden kann
+- Vor einem neuen Fahrbahnbelag
+- Vor einer Ölspur
+= Bei Rollsplitt langsam fahren und großen Abstand halten. Hochgeschleuderte Steine beschädigen Scheiben und gefährden Zweiradfahrende.
+# zeichen 101 1007-32
+
+? Ein Gefahrzeichen hat dieses Zusatzzeichen. Was ist richtig?
++ Ich muss mit Baustellenfahrzeugen rechnen, die auf die Straße fahren
++ Die Fahrbahn kann verschmutzt sein
+- Die Baustelle ist bereits beendet
+= Baufahrzeuge sind schwer und fahren langsam an. Durch Erdreich kann die Fahrbahn glatt werden.
+# zeichen 101 1007-33
+
+? Was kündigt dieses Zusatzzeichen unter einem Gefahrzeichen an?
++ Einen Unfall
+- Eine Unfallstatistik
+- Eine Polizeikontrolle
+= Fahren Sie langsam, rechnen Sie mit Menschen auf der Fahrbahn und einem Stauende.
+# zeichen 101 1007-50
+
+? Ein Gefahrzeichen hat dieses Zusatzzeichen. Womit müssen Sie rechnen?
++ Mit Wasser auf der Fahrbahn
+- Mit einer Fährverbindung
+- Mit Starkregen in den nächsten Stunden
+= Bei Hochwasser kann die Straße überflutet sein. Die Wassertiefe ist kaum einzuschätzen. Im Zweifel nicht durchfahren.
+# zeichen 101 1007-51
+
+? Ein Gefahrzeichen hat dieses Zusatzzeichen. Worauf stellen Sie sich ein?
++ Spurrinnen können das Fahrzeug ablenken
++ In den Rinnen kann sich Wasser sammeln, es droht Aquaplaning
+- Die Fahrbahnmarkierungen fehlen
+= Spurrinnen entstehen durch schwere Fahrzeuge. Bei Regen sammelt sich darin Wasser.
+# zeichen 101 1007-53
+
+? Wovor warnt dieses Zusatzzeichen unter einem Gefahrzeichen?
++ Vor einer Kuppe, hinter der die Sicht eingeschränkt ist
+- Vor einem steilen Gefälle
+- Vor einem Kreisverkehr
+= Vor einer Kuppe ist nicht zu sehen, was dahinter kommt. Hier nicht überholen und rechts fahren.
+# zeichen 101 1007-57
+
+? Ein Gefahrzeichen hat dieses Zusatzzeichen. Was ist zu tun?
++ Mit stark eingeschränkter Sicht rechnen und die Geschwindigkeit anpassen
+- Fernlicht einschalten
+- Den Abstand zum Vordermann verringern, um die Rückleuchten zu sehen
+= Bei Nebel blendet Fernlicht durch Reflexion. Bei Sicht unter 50 m höchstens 50 km/h.
+# zeichen 101 1007-61
+
+? Was bedeutet dieses Zusatzzeichen unter einem Gefahrzeichen?
++ Die Fahrbahn ist durch Schmutz verunreinigt und kann rutschig sein
+- Die Straße wird gerade gereinigt
+- Ich darf hier nicht anhalten
+= Erde oder Laub vermindern die Haftung, besonders bei Nässe.
+# zeichen 101 1007-35
+
+? Was besagt dieses Zusatzzeichen unter einem Gefahrzeichen?
++ Der neue Belag kann noch weniger griffig sein
+- Die Fahrbahn ist besonders griffig
+- Die Höchstgeschwindigkeit ist aufgehoben
+= Frischer Asphalt kann vor allem bei Nässe glatt sein. Oft liegt zudem noch Splitt auf der Fahrbahn.
+# zeichen 101 1007-52
+
+? Dieses Zusatzzeichen hängt unter einem Gefahrzeichen. Was ist richtig?
++ Die Verkehrsführung wurde verändert, ich muss besonders aufmerksam sein
+- Ab hier gelten keine Verkehrszeichen mehr
+- Die Ortsdurchfahrt ist gesperrt
+= Wer eine Strecke kennt, fährt oft „automatisch“. Nach Änderungen ist dies gefährlich.
+# zeichen 101 1008-31
+
+? Was bedeutet dieses Zusatzzeichen unter einem Vorfahrtzeichen?
++ Die Vorfahrtregelung wurde vor Kurzem geändert
+- Die Vorfahrt gilt nur noch zeitweise
+- Ich habe ab hier keine Vorfahrt mehr
+= Gewohnheiten können hier gefährlich sein. Achten Sie besonders auf die Beschilderung und auf andere Fahrzeuge.
+# zeichen 306 1008-30
+
+? Was bedeutet dieses Zusatzzeichen unter dem Zeichen „Sackgasse“?
++ Am Ende der Straße gibt es keine Möglichkeit zum Wenden
+- Ich darf die Straße nicht befahren
+- Am Ende gibt es einen Wendehammer
+= Wer hineinfährt, muss eventuell rückwärts wieder herausfahren.
+# zeichen 357 1008-34
+
+? Unter dem Zeichen „Verbot für Fahrzeuge aller Art“ hängt dieses Zusatzzeichen. Was bedeutet das?
++ Kinder dürfen hier auf der Fahrbahn spielen
++ Ich darf mit dem Fahrzeug nicht einfahren
+- Ich darf mit Schrittgeschwindigkeit einfahren
+= Die Straße ist eine Spielstraße. Für Fahrzeuge gilt das Verbot ohne Ausnahme, sofern kein weiteres Zusatzzeichen etwas anderes erlaubt.
+# zeichen 250 1010-10
+
+? Was bedeutet dieses Zusatzzeichen unter dem Zeichen „Verbot für Fahrzeuge aller Art“?
++ Die Straße darf für Wintersport, z. B. Rodeln oder Skilaufen, benutzt werden
+- Die Straße wird im Winter nicht geräumt
+- Die Straße darf nur mit Winterreifen befahren werden
+= Auf der Straße darf Wintersport betrieben werden. Fahrzeuge dürfen nicht einfahren.
+# zeichen 250 1010-11
+
+? Was bedeutet dieses Zusatzzeichen unter dem Zeichen „Verbot der Einfahrt“?
++ Radfahrende dürfen hier einfahren
++ Ich muss in der Straße mit entgegenkommenden Radfahrenden rechnen
+- Ich darf mit dem Pkw einfahren, wenn kein Radfahrer kommt
+= So wird z. B. eine Einbahnstraße für den Radverkehr in Gegenrichtung freigegeben.
+# zeichen 267 1022-10
+
+? Sie wollen mit dem Pkw in eine Straße mit dieser Beschilderung fahren. Wann ist das erlaubt?
++ Wenn ich dort wohne oder ein Grundstück an dieser Straße aufsuchen will
+- Wenn ich die Straße als Abkürzung nutzen will
+- Nie, nur Radfahrende dürfen einfahren
+= Anlieger sind alle, die ein Grundstück an der Straße erreichen wollen, z. B. Bewohner, Besucher oder Lieferanten.
+# zeichen 250 1020-12
+
+? Wer darf trotz dieses Verbots einfahren?
++ Wer an dieser Straße ein Grundstück aufsucht
++ Wer in der Straße parken will
+- Wer die Straße nur durchfahren will
+= Das Zusatzzeichen erlaubt Anliegern und Personen, die dort parken wollen, das Einfahren. Durchgangsverkehr ist verboten.
+# zeichen 260 1020-31
+
+? Wer darf in eine Straße mit dieser Beschilderung einfahren?
++ Fahrzeuge, die Waren liefern oder abholen
+- Alle Pkw, wenn sie nur kurz halten
+- Nur Taxis
+= Lieferverkehr ist der Transport von Waren zu oder von Geschäften und Wohnungen in diesem Bereich.
+# zeichen 250 1026-35
+
+? Sie wollen mit dem Pkw auf diesem Wirtschaftsweg zu einem Spaziergang fahren. Ist das erlaubt?
++ Nein, frei ist nur der landwirtschaftliche Verkehr
+- Ja, das Zusatzzeichen erlaubt Pkw generell
+- Ja, an Wochenenden
+= Nur Fahrten, die der Landwirtschaft dienen, sind erlaubt. Freizeitfahrten gehören nicht dazu.
+# zeichen 260 1026-36
+
+? Welche Fahrzeuge sind hier trotz des Verbots zugelassen?
++ Busse im Linienverkehr dürfen einfahren
+- Alle Busse, auch Reisebusse, dürfen einfahren
+- Taxis dürfen einfahren
+= Linienverkehr meint Busse, die nach Fahrplan auf festgelegten Linien fahren.
+# zeichen 250 1026-32
+
+? Was erlaubt dieses Zusatzzeichen unter dem Zeichen „Verbot für Kraftwagen“?
++ Pkw dürfen hier fahren, andere Kraftwagen nicht
+- Nur Lkw dürfen hier fahren
+- Alle Kraftfahrzeuge dürfen hier fahren
+= Das Zusatzzeichen nimmt nur Personenkraftwagen vom Verbot aus, z. B. nicht Lkw oder Busse.
+# zeichen 251 1024-10
+
+? Wer darf trotz dieser Beschilderung einfahren?
++ Elektrisch betriebene Fahrzeuge, z. B. mit E-Kennzeichen
+- Nur Fahrräder
+- Fahrzeuge mit grüner Umweltplakette
+= Das Zusatzzeichen nimmt elektrisch betriebene Fahrzeuge vom Verbot aus.
+# zeichen 251 1024-20
+
+? Sie wollen in eine Straße mit diesem Verbot und dem Zusatzzeichen „bis Baustelle frei“ einfahren. Was gilt?
++ Ich darf bis zur Baustelle fahren, aber nicht durch sie hindurch
+- Ich darf die gesamte Straße befahren
+- Nur Baufahrzeuge dürfen einfahren
+= So erreicht man z. B. Grundstücke vor der Baustelle. Eine Durchfahrt ist nicht möglich.
+# zeichen 250 1028-31
+
+? Was erlaubt dieses Zusatzzeichen unter dem Zeichen „Verbot für Fahrzeuge aller Art“?
++ Wer zu einer Fähre will, darf einfahren
+- Fahrradfahrer dürfen einfahren
+- Die Fähre ist außer Betrieb
+= Nur Fahrzeuge, die zur Fähre fahren, dürfen die Straße benutzen.
+# zeichen 250 1028-34
+
+? Was erlaubt dieses Zusatzzeichen unter dem Zeichen „Bussonderfahrstreifen“?
++ Taxis dürfen den Sonderfahrstreifen benutzen
+- Pkw mit mehreren Insassen dürfen den Sonderfahrstreifen benutzen
+- Taxis dürfen dort parken
+= Der Sonderfahrstreifen bleibt für andere Fahrzeuge verboten. Halten und Parken sind dort ebenfalls nicht erlaubt.
+# zeichen 245 1026-30
+
+? Was bedeutet dieses Zusatzzeichen?
++ Radfahrende müssen absteigen und schieben
+- Radfahrende haben hier Vorrang
+- Hier beginnt ein Radweg
+= Wer schiebt, gilt als Fußgänger. Das Zeichen steht z. B. an engen Brücken oder Unterführungen.
+# zeichen 1012-32
+
+? Dieses Zusatzzeichen steht an einer Haltlinie, die weit vor einer Ampel liegt. Was bedeutet es?
++ Bei Rot muss ich bereits an dieser Haltlinie anhalten
+- Ich darf bei Rot bis zur Ampel weiterfahren
+- Die Haltlinie gilt nur für Radfahrende
+= So werden z. B. Bahnübergänge oder Einmündungen freigehalten. Bei Rot wird an der Haltlinie angehalten.
+# zeichen 1012-35
+
+? Was bedeutet dieses Zusatzzeichen unter dem Zeichen „Zulässige Höchstgeschwindigkeit 30“?
++ Die Beschränkung dient dem Schutz der Anwohner vor Lärm
+- Die Beschränkung gilt nur nachts
+- Die Beschränkung gilt nur für Lkw
+= Das Zusatzzeichen nennt den Grund. Die Höchstgeschwindigkeit gilt trotzdem für alle Fahrzeuge.
+# zeichen 274-30 1012-36
+
+? Was bedeutet dieses Zusatzzeichen an einer Auffahrt zur Autobahn?
++ Ampeln regeln den Zufluss auf die Autobahn
+- Die Auffahrt ist für Lkw gesperrt
+- Ich darf ohne Rücksicht auf die Ampel einfädeln
+= Zuflussregelungsanlagen verhindern, dass zu viele Fahrzeuge gleichzeitig einfädeln. Rot ist zu beachten.
+# zeichen 1012-37
+! klassen=MOT
+
+? Was gilt bei diesen Zeichen?
++ Höchstens 30 km/h von 22 bis 6 Uhr
+- 30 km/h am Tag, nachts keine Beschränkung
+- 30 km/h nur, wenn es laut ist
+= Die Zeitangabe schränkt die Gültigkeit ein. Grund ist der Lärmschutz in der Nacht.
+# zeichen 274-30 1040-35
+
+? Was gilt bei dieser Beschilderung?
++ Ab dem 8. November, 18 Uhr gilt hier ein absolutes Haltverbot
+- Bis zum 8. November gilt ein Haltverbot
+- Am 8. November ist das Halten nur bis 18 Uhr verboten
+= Solche Schilder werden z. B. für Umzüge oder Bauarbeiten aufgestellt. Wer vorher parkt, muss mit Abschleppen rechnen, sobald das Verbot gilt.
+# zeichen 283 1040-34
+
+? Sie wollen samstags um 18.30 Uhr hier halten. Ist das erlaubt?
++ Nein, auch samstags ist ein Werktag
+- Ja, das Verbot gilt nur montags bis freitags
+- Ja, wenn ich im Fahrzeug bleibe
+= Werktage sind Montag bis Samstag. Das Haltverbot gilt auch am Samstag von 18 bis 19 Uhr.
+# zeichen 283 1042-31
+
+? An welchen Tagen gilt das eingeschränkte Haltverbot mit diesem Zusatzzeichen?
++ Von Montag bis Freitag jeweils von 16 bis 18 Uhr
+- Täglich von 16 bis 18 Uhr
+- Nur samstags
+= Außerhalb dieser Zeit dürfen Sie hier parken, soweit nichts anderes angeordnet ist.
+# zeichen 286 1042-33
+
+? Wann gilt ein Zeichen mit dem Zusatzzeichen „werktags außer samstags“?
++ Montag bis Freitag
+- Montag bis Samstag
+- An allen Tagen außer Sonntag
+= Samstage sind eigentlich Werktage. Mit diesem Zusatzzeichen werden sie ausdrücklich ausgenommen. Feiertage zählen nicht als Werktage.
+# zeichen 286 1042-38
+
+? Was bedeutet dieses Zusatzzeichen unter einem eingeschränkten Haltverbot?
++ Samstags und sonntags ist Parken hier erlaubt
+- Samstags und sonntags gilt ein absolutes Haltverbot
+- Parken ist nur werktags erlaubt
+= An Wochenenden ist das Haltverbot aufgehoben. An den anderen Tagen gilt es weiter.
+# zeichen 286 1042-37
+
+? Ein Parkplatz-Zeichen hat dieses Zusatzzeichen. Wer darf hier parken?
++ Schwerbehinderte Menschen mit außergewöhnlicher Gehbehinderung und blinde Menschen mit entsprechendem Parkausweis
+- Alle Menschen über 70 Jahren
+- Jeder, wenn er nur kurz einkauft
+= Diese Parkplätze sind breiter und liegen nah am Ziel. Ohne Berechtigung ist das Parken unzulässig und wird verfolgt.
+# zeichen 314 1044-10
+
+? Wer darf auf einem Parkplatz mit diesem Zusatzzeichen parken?
++ Nur Bewohner mit dem angegebenen Parkausweis
+- Alle Pkw mit Parkscheibe
+- Nur Besucher der Bewohner
+= Bewohnerparkplätze sind für Anwohner eines Gebiets reserviert, die einen Ausweis besitzen.
+# zeichen 314 1044-30
+
+? Was gilt auf einem Parkplatz mit diesem Zusatzzeichen?
++ Parken ist nur mit gültigem Parkschein erlaubt
+- Parken ist kostenlos
+- Parken ist nur mit Parkscheibe erlaubt
+= Der Parkschein wird am Automaten oder per App gelöst und muss gut sichtbar ausgelegt werden, wenn er nicht digital erfasst wird.
+# zeichen 314 1053-31
+
+? Wie müssen Sie bei dieser Beschilderung parken?
++ Quer zur Fahrbahn
+- Längs zur Fahrbahn
+- Schräg zur Fahrbahn
+= Das Sinnbild zeigt die vorgeschriebene Aufstellung der Fahrzeuge.
+# zeichen 314 1053-38
+
+? Sie stellen Ihren Pkw auf diesem Parkplatz ab. Welche Aufstellung ist vorgeschrieben?
++ Schräg, so wie es das Sinnbild zeigt
+- Rechtwinklig zum Bordstein
+- Beliebig, Hauptsache innerhalb der Markierung
+= Das Zusatzzeichen gibt die Aufstellung der Fahrzeuge vor.
+# zeichen 314 1053-39
+
+? Was bedeutet dieses Zusatzzeichen unter dem Zeichen „Überholverbot für Kraftfahrzeuge aller Art“?
++ Ich darf Traktoren und andere Fahrzeuge überholen, die nicht schneller als 25 km/h fahren können oder dürfen
+- Ich darf überholen, wenn ich nicht schneller als 25 km/h fahre
+- Das Überholverbot gilt nur für Traktoren
+= Langsame Fahrzeuge dürfen trotz des Überholverbots überholt werden, wenn das gefahrlos möglich ist.
+# zeichen 276 1049-11
+
+? Was bedeutet dieses Zusatzzeichen unter dem Zeichen „Kinder“?
++ In der Nähe befindet sich eine Schule
+- Hier ist der Schulweg vorgeschrieben
+- Hier fahren nur Schulbusse
+= Besonders vor und nach dem Unterricht ist mit vielen, auch unaufmerksamen Kindern zu rechnen.
+# zeichen 136-10 1012-50
+
+? Was ist bei dieser Haltestelle zu beachten?
++ Hier halten zu den angegebenen Zeiten Schulbusse
++ Ich muss besonders mit Kindern rechnen, die die Fahrbahn überqueren
+- Hier darf ich jederzeit parken
+= Schulkinder sind oft in Gruppen unterwegs und unaufmerksam. An der Haltestelle darf bis zu 15 m vor und hinter dem Schild nicht geparkt werden.
+# zeichen 224-51
+
+? Was zeigt Ihnen dieses Zusatzzeichen unter einem Gefahrzeichen an?
++ Die Gefahrstrecke ist noch 2 km lang
+- Die Gefahrstelle folgt erst in 2 km
+- In 2 km endet die Autobahn
+= Das Zusatzzeichen wird innerhalb einer längeren Gefahrstrecke wiederholt und zeigt die verbleibende Länge.
+# zeichen 101 1001-33
+
+? Was kündigt dieses Schild auf der Autobahn an?
++ Die nächste Ausfahrt (Anschlussstelle 26) in 1000 m
+- Eine Raststätte in 1000 m
+- Das Ende der Autobahn in 1000 m
+= Die Ankündigungstafel steht etwa 1000 m vor der Ausfahrt. Danach folgen weitere Hinweisschilder.
+# zeichen 448
+! klassen=MOT
+
+? Was zeigt Ihnen diese blaue Tafel auf der Autobahn an?
++ Die Entfernungen zu Zielen auf der weiteren Strecke
+- Die Ausfahrten nur für Lkw
+- Die Höchstgeschwindigkeiten der folgenden Abschnitte
+= Entfernungstafeln stehen hinter Anschlussstellen und nennen die Entfernungen bis zu verschiedenen Zielen.
+# zeichen 453
+! klassen=MOT
+
+? Wozu dient dieses Zeichen?
++ Es zeigt eine Umleitungsstrecke für den Fall an, dass die Autobahn gesperrt ist
+- Es kündigt eine U-Bahn-Station an
+- Es zeigt eine Ausfahrt nur für Busse
+= Bedarfsumleitungen sind mit einem „U“ und einer Nummer gekennzeichnet. Folgen Sie den Zeichen mit derselben Nummer.
+# zeichen 460-10
+! klassen=MOT
+
+? Was bedeutet dieser orangefarbene Pfeil?
++ Eine Empfehlung, eine andere Strecke zu benutzen, z. B. bei Stau
+- Einen Hinweis auf eine Tankstelle
+- Eine vorgeschriebene Fahrtrichtung
+= Umlenkungspfeile helfen, eine überlastete Strecke zu umfahren. Sie sind eine Empfehlung.
+# zeichen 467.1-10
+
+? Was bedeutet dieses Zeichen über einem Seitenstreifen der Autobahn?
++ Der Seitenstreifen darf als zusätzlicher Fahrstreifen befahren werden
+- Der Seitenstreifen ist gesperrt
+- Der Seitenstreifen darf nur zum Halten benutzt werden
+= Bei hohem Verkehrsaufkommen wird der Seitenstreifen vorübergehend freigegeben. Er wird dann wie ein Fahrstreifen benutzt.
+# zeichen 223.1-50
+! klassen=MOT
+
+? Was müssen Sie bei diesem Zeichen tun, wenn Sie auf dem freigegebenen Seitenstreifen fahren?
++ Den Seitenstreifen verlassen und mich in den Fahrstreifen links einordnen
+- Auf dem Seitenstreifen weiterfahren
+- Auf dem Seitenstreifen anhalten
+= Das Zeichen bedeutet, dass der Seitenstreifen zu räumen ist, z. B. weil die Freigabe endet.
+# zeichen 223.3-50
+! klassen=MOT
+
+? Was bedeutet dieses Zeichen?
++ Der Seitenstreifen darf nicht mehr befahren werden
+- Der Seitenstreifen ist ab hier freigegeben
+- Der Seitenstreifen ist ein Parkstreifen
+= Die Freigabe des Seitenstreifens als Fahrstreifen endet hier.
+# zeichen 223.2-50
+! klassen=MOT
+
+? Welche Fahrzeuge dürfen hier parken?
++ Fahrzeuge, die für Carsharing gekennzeichnet sind
+- Alle Mietwagen
+- Fahrgemeinschaften
+= Carsharing-Parkplätze sind für Fahrzeuge reserviert, die mit einer entsprechenden Plakette gekennzeichnet sind.
+# zeichen 314 1010-70
+
+? Was gilt in einer Zone mit diesem Zeichen und diesem Zusatzzeichen?
++ Parken ist nur in den gekennzeichneten Flächen erlaubt
+- Parken ist in der Zone überall verboten
+- Halten ist in der Zone überall verboten
+= Außerhalb der markierten Parkflächen gilt das eingeschränkte Haltverbot.
+# zeichen 290.1 1053-30
+
+? Was bedeutet dieses Zusatzzeichen unter einem eingeschränkten Haltverbot?
++ Halten zum Be- und Entladen ist in diesem Bereich vorgesehen
+- Ich darf hier unbegrenzt parken
+- Hier dürfen nur Elektrofahrzeuge laden
+= Eine Ladezone dient dem Liefer- und Ladeverkehr. Dauerparken ist dort nicht erlaubt.
+# zeichen 286 1012-30

@@ -1,0 +1,181 @@
+// Zusatzstoff Krafträder (A1, A2, A) und AM / Mofa – eigene Formulierungen
+@klassen KRAD
+@kapitel 2.1
+@punkte 4
+
+? Wie leiten Sie mit dem Motorrad bei höherer Geschwindigkeit eine Kurve oder ein Ausweichmanöver schnell ein?
++ Durch einen kurzen Lenkimpuls zur Kurveninnenseite hin am Lenker drücken (Lenkimpuls)
+- Durch Gewichtsverlagerung allein nach außen
+- Durch starkes Bremsen in der Kurve
+= Ein Druck auf die kurveninnere Lenkerhälfte bringt das Motorrad schnell in Schräglage.
+! punkte=5
+
+? Warum ist Bremsen in Schräglage mit dem Motorrad gefährlich?
++ Ein Teil der Reifenhaftung wird bereits für die Seitenführung benötigt
++ Das Motorrad richtet sich beim Bremsen auf und fährt nach außen
+- Weil die Bremsen in Schräglage nicht funktionieren
+= Möglichst vor der Kurve bremsen. Muss in der Kurve gebremst werden, das Motorrad möglichst aufrichten und dann bremsen.
+! punkte=5
+
+? Welche Fahrbahnstellen sind für Motorradfahrende bei Nässe besonders gefährlich?
++ Fahrbahnmarkierungen und Kanaldeckel
++ Bitumenflicken und Schienen
+- Frisch aufgerauter Asphalt
+= Diese Flächen bieten bei Nässe deutlich weniger Haftung. Möglichst in aufrechter Fahrt überfahren.
+
+? Sie überholen mit dem Motorrad einen Lkw auf der Landstraße. Womit müssen Sie rechnen?
++ Mit einem Windstoß, wenn ich aus dem Windschatten herausfahre
+- Mit besserer Straßenlage durch den Sog
+- Mit nichts Besonderem
+= Beim Ausscheren und beim Passieren der Lkw-Front kann Seitenwind das Motorrad versetzen.
+
+? Was ändert sich beim Motorradfahren mit Beifahrer?
++ Der Bremsweg wird länger
++ Ich muss Federung und Reifendruck an die höhere Last anpassen
+- Das Motorrad wird wendiger
+= Mehr Gewicht verändert Fahrverhalten, Beschleunigung und Bremsweg.
+
+? Warum werden Motorradfahrende von anderen häufig übersehen?
++ Wegen ihrer schmalen Silhouette
++ Weil ihre Geschwindigkeit oft falsch eingeschätzt wird
+- Weil Motorräder nachts ohne Licht fahren dürfen
+= Helle Kleidung, Licht und defensives Fahren erhöhen die Sicherheit.
+
+? Wie verhalten Sie sich mit dem Motorrad in einer Kolonne auf der Landstraße am besten?
++ Versetzt fahren und ausreichend Abstand halten
+- Dicht nebeneinander auf einem Fahrstreifen fahren
+- Zwischen den Fahrzeugen hindurchschlängeln
+= Versetztes Fahren verbessert die Sicht und schafft Ausweichraum. Der Sicherheitsabstand zum direkt Vorausfahrenden gilt trotzdem.
+
+@kapitel 2.2
+@punkte 3
+
+? Warum sollten Sie mit dem Motorrad in einer Linkskurve nicht zu weit links fahren?
++ In Schräglage können Kopf und Oberkörper in die Gegenfahrbahn ragen
+- Weil links die Fahrbahn immer glatter ist
+- Weil man links schlechter beschleunigen kann
+= Durch die Schräglage beansprucht ein Motorrad seitlich mehr Raum, als die Reifenspur vermuten lässt. Ausreichend Abstand zur Mittellinie halten.
+! punkte=4
+
+? Was gilt für das Licht an Krafträdern am Tag?
++ Es muss auch am Tag mit Abblendlicht oder Tagfahrlicht gefahren werden
+- Am Tag ist Licht nur bei Regen nötig
+- Am Tag ist Fernlicht vorgeschrieben
+= Krafträder müssen auch tagsüber mit Abblendlicht bzw. Tagfahrlicht fahren.
+! klassen=ZWEIRAD
+
+? Was ist bei der Mitnahme einer Person auf dem Motorrad vorgeschrieben?
++ Ein eigener Sitzplatz und Fußrasten für die mitfahrende Person
++ Auch die mitfahrende Person muss einen geeigneten Schutzhelm tragen
+- Die mitfahrende Person darf seitlich sitzen
+= Ein Soziussitz und Fußrasten müssen vorhanden sein. Für alle auf dem Kraftrad gilt Helmpflicht.
+! punkte=4 klassen=ZWEIRAD
+
+? Dürfen Sie mit dem Motorrad im Stau zwischen den Fahrstreifen hindurchfahren?
++ Nein, das ist nicht erlaubt
+- Ja, mit höchstens 30 km/h
+- Ja, auf der Rettungsgasse
+= Das Durchschlängeln und die Benutzung der Rettungsgasse sind in Deutschland verboten.
+
+? Mit welcher Klasse dürfen Sie ab 16 Jahren Leichtkrafträder bis 125 cm³ und 11 kW fahren?
++ A1
+- A2
+- AM
+= Klasse A1: Hubraum bis 125 cm³, Leistung bis 11 kW, Verhältnis Leistung/Gewicht höchstens 0,1 kW/kg.
+! klassen=ZWEIRAD
+
+? Welche Höchstleistung darf ein Motorrad haben, das Sie mit der Klasse A2 fahren?
+N 35 kW
+= Klasse A2: bis 35 kW und Leistung/Gewicht höchstens 0,2 kW/kg. Das Motorrad darf nicht von mehr als dem Doppelten der Leistung abgeleitet sein.
+! zahl
+
+@kapitel 2.7
+@punkte 3
+
+? Wie prüfen Sie den richtigen Reifendruck an Ihrem Motorrad?
++ Bei kalten Reifen, mit den Werten des Herstellers für Solo- bzw. Beifahrerbetrieb
+- Nach Gefühl durch Daumendruck
+- Nach einer schnellen Fahrt bei warmen Reifen
+= Falscher Druck verschlechtert Haftung, Kurvenverhalten und Bremsweg.
+
+? Was kann die Ursache für Lenkerflattern sein?
++ Unwucht oder ungleichmäßig abgefahrene Reifen
++ Ein ausgeschlagenes Lenkkopflager
+- Zu volle Tankfüllung
+= Lenkerflattern ist gefährlich. Lenker nicht verkrampft festhalten, Gas wegnehmen und die Ursache in der Werkstatt beheben lassen.
+
+@kapitel 2.6
+@punkte 3
+@klassen AM,Mofa
+
+? Welche bauartbedingte Höchstgeschwindigkeit darf ein Mofa haben?
+N 25 km/h
+= Ein Mofa ist ein einspuriges, einsitziges Fahrrad mit Hilfsmotor und einer bauartbedingten Höchstgeschwindigkeit von höchstens 25 km/h.
+! klassen=Mofa zahl
+
+? Welches Kennzeichen braucht ein Mofa?
++ Ein gültiges Versicherungskennzeichen
+- Ein amtliches Kennzeichen mit HU-Plakette
+- Gar keines
+= Das Versicherungskennzeichen wechselt jedes Jahr zum 1. März seine Farbe. Ohne gültiges Kennzeichen besteht kein Versicherungsschutz.
+! klassen=Mofa
+
+? Was gilt für den Schutzhelm beim Mofafahren?
++ Ein geeigneter Schutzhelm ist vorgeschrieben
+- Bis 25 km/h ist kein Helm nötig
+- Nur außerorts ist ein Helm vorgeschrieben
+= Auch für Mofas gilt die Helmpflicht.
+! klassen=Mofa
+
+? Wo dürfen Sie mit einem Mofa fahren?
++ Auf der Fahrbahn
++ Außerorts auf Radwegen
+- Auf Gehwegen, wenn die Fahrbahn voll ist
+= Mofas dürfen außerorts Radwege benutzen, innerorts nur, wenn ein Zusatzzeichen dies erlaubt.
+! klassen=Mofa
+
+? Welche Fahrzeuge dürfen Sie mit der Klasse AM fahren?
++ Kleinkrafträder mit einer bauartbedingten Höchstgeschwindigkeit bis 45 km/h
++ Leichte vierrädrige Kraftfahrzeuge mit höchstens 45 km/h
+- Motorräder bis 125 cm³
+= Klasse AM umfasst zwei- und dreirädrige Kleinkrafträder sowie leichte vierrädrige Kfz bis 45 km/h.
+! klassen=AM
+
+? Dürfen Sie mit einem Kleinkraftrad (45 km/h) auf die Autobahn?
++ Nein, weil die bauartbedingte Höchstgeschwindigkeit nicht mehr als 60 km/h beträgt
+- Ja, auf dem rechten Fahrstreifen
+- Ja, auf dem Seitenstreifen
+= Autobahnen und Kraftfahrstraßen sind nur für Kfz mit mehr als 60 km/h bbH erlaubt.
+! klassen=AM
+
+? Sie haben Ihr Mofa tunen lassen, sodass es 40 km/h fährt. Was ist die Folge?
++ Die Betriebserlaubnis erlischt und ich brauche eine höhere Fahrerlaubnisklasse
++ Der Versicherungsschutz kann gefährdet sein
+- Nichts, solange ich vorsichtig fahre
+= Wer ein frisiertes Fahrzeug ohne passende Fahrerlaubnis fährt, macht sich wegen Fahrens ohne Fahrerlaubnis strafbar.
+! punkte=5 klassen=AM,Mofa
+
+
+? Ab welchem Alter dürfen Sie mit einer Mofa-Prüfbescheinigung ein Mofa fahren?
+N 15 Jahre
+= Die Mofa-Prüfbescheinigung erhält man frühestens mit 15 Jahren nach Ausbildung und theoretischer Prüfung.
+! klassen=Mofa zahl
+
+? Welche bauartbedingte Höchstgeschwindigkeit darf ein zweirädriges Kleinkraftrad der Klasse AM höchstens haben?
+N 45 km/h
+= Kleinkrafträder der Klasse AM: höchstens 45 km/h bauartbedingt und bei Verbrennungsmotor höchstens 50 cm³ Hubraum.
+! klassen=AM zahl
+
+? Dürfen Sie mit einem Kleinkraftrad (45 km/h) einen Radweg mit dem Zusatzzeichen „Mofas frei“ benutzen?
++ Nein, die Freigabe gilt nur für Mofas bis 25 km/h
+- Ja, Kleinkrafträder sind Mofas gleichgestellt
+- Ja, wenn ich höchstens 25 km/h fahre
+= Entscheidend ist die Fahrzeugart, nicht die gefahrene Geschwindigkeit. Kleinkrafträder gehören auf die Fahrbahn.
+! klassen=AM
+
+? Ihr Kleinkraftrad fährt mit einem Versicherungskennzeichen. Wann verliert das Kennzeichen seine Gültigkeit?
++ Jedes Jahr mit Ablauf des Februars; ab 1. März gilt ein neues Kennzeichen in anderer Farbe
+- Nach zwei Jahren bei der Hauptuntersuchung
+- Es gilt unbegrenzt
+= Versicherungskennzeichen gelten für ein Verkehrsjahr vom 1. März bis Ende Februar.
+! klassen=AM,Mofa

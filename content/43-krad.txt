@@ -1,0 +1,354 @@
+// Phase 2 – Zusatzstoff Krafträder (A1, A2, A) und Zweiräder (AM) – eigene Formulierungen
+// Quellen: StVO §§ 3, 5, 7, 17, 18, 21, 21a, 23; StVZO §§ 32, 35a, 36, 53; FeV §§ 6, 10
+
+@klassen KRAD
+
+@kapitel 2.1
+
+@punkte 5
+
+? Sie fahren mit dem Motorrad auf eine Kurve zu, deren Verlauf Sie nicht einsehen können. Wie verhalten Sie sich?
++ Vor der Kurve so weit verzögern, dass ich auch innerhalb der Sichtweite anhalten könnte
++ Eine Linie wählen, die mir möglichst früh Einblick in den Kurvenverlauf gibt, ohne die Fahrbahnmitte zu überschreiten
+- Mit Schwung hineinfahren und erst in Schräglage entscheiden
+= Das Tempo muss zur Sichtweite passen. Wer zu schnell ankommt und in der Kurve korrigieren muss, verliert Haftungsreserven für die Seitenführung.
+
+? Sie haben die Kurve zu schnell angefahren und merken, dass Sie nach außen getragen werden. Was hilft am ehesten?
++ Blick dorthin richten, wo ich hinfahren will, und die Schräglage durch Lenkimpuls vergrößern
+- Auf den Gegenverkehr oder den Fahrbahnrand starren
+- Kupplung ziehen und hart vorne bremsen
+= Das Motorrad folgt dem Blick. Moderne Reifen erlauben meist mehr Schräglage, als man sich in der Schrecksituation zutraut.
+
+@punkte 4
+
+? Woran erkennen Sie vorausschauend, wie eine Landstraßenkurve weiter verläuft?
++ Am Verlauf von Leitpfosten, Baumreihen oder Masten
++ An Verkehrszeichen und Richtungstafeln vor der Kurve
+- An der Farbe der Fahrbahndecke
+= Leitpfosten und Randbepflanzung zeichnen den Kurvenverlauf oft schon lange vor dem Scheitelpunkt nach.
+
+? Bei einer Gruppenausfahrt fahren mehrere Motorräder hintereinander. Welche Anordnung ist auf gerader Strecke sinnvoll?
++ Versetzt fahren, also abwechselnd links und rechts im eigenen Fahrstreifen
+- Exakt in einer Spur mit wenigen Metern Abstand
+- Nebeneinander, damit die Gruppe kürzer wird
+= Versetztes Fahren vergrößert den Abstand zum direkten Vordermann und die Sicht. In Kurven fährt jeder seine eigene Linie mit vollem Sicherheitsabstand.
+
+? Es beginnt nach längerer Trockenheit zu regnen. Warum ist es für Motorradfahrende jetzt besonders rutschig?
++ Staub, Gummiabrieb und Öl bilden mit dem ersten Regen einen schmierigen Film
+- Weil sich der Reifendruck durch Regen erhöht
+- Weil die Bremsen nass gar nicht mehr wirken
+= Der erste Regen ist oft gefährlicher als Dauerregen, der die Fahrbahn bereits gereinigt hat.
+
+? Warum reagieren Motorräder empfindlich auf Längsrillen und Spurrinnen?
++ Die Reifen können in den Rillen geführt werden, das Motorrad wird unruhig
++ Beim Herausfahren aus der Spurrinne kann das Vorderrad wegrutschen oder versetzen
+- Weil Spurrinnen nur bei Nässe vorkommen
+= Spurrinnen möglichst in einem flachen Winkel meiden oder gezielt mit wenig Lenkbewegung durchfahren.
+
+@punkte 3
+
+? Wie verringern Sie die Gefahr, an einer Einmündung von einem wartepflichtigen Pkw übersehen zu werden?
++ Bremsbereit fahren und Blickkontakt suchen
++ Eine Position im Fahrstreifen wählen, in der ich gut sichtbar bin
+- Darauf vertrauen, dass ich Vorfahrt habe
+= Motorräder werden wegen ihrer schmalen Silhouette leicht unterschätzt. Wer mit Fehlern anderer rechnet, hat mehr Zeit zu reagieren.
+
+? Auf der Fahrbahn liegt nach einer Baustelle loser Rollsplitt. Wie fahren Sie darüber?
++ Langsam, möglichst aufrecht und ohne starkes Bremsen oder Beschleunigen
+- In Schräglage, damit die Reifen besser greifen
+- Mit kräftigem Gasgeben, damit das Motorrad stabil bleibt
+= Auf losem Untergrund haben die Reifen wenig Haftung. Ruckartige Lenk-, Brems- oder Gasbewegungen führen schnell zum Sturz.
+
+@kapitel 2.2
+
+@punkte 4
+
+? Ein Lkw fährt dicht vor Ihnen auf der Landstraße. Wie verhalten Sie sich mit dem Motorrad?
++ Großen Abstand halten, damit ich vorbeisehen kann und vom Lkw-Fahrer im Spiegel gesehen werde
+- Dicht auffahren, um im Windschatten zu fahren
+- Rechts neben dem Lkw fahren, damit er mich sieht
+= Hinter einem Lkw sieht man den Gegenverkehr nicht. Außerdem verdeckt der Lkw Schlaglöcher und Hindernisse bis zum letzten Moment.
+
+? Sie wollen mit dem Motorrad überholen. Was ist gegenüber dem Pkw-Fahren anders?
++ Das Überholen kann wegen der starken Beschleunigung kürzer dauern, Gegenverkehr kann die Geschwindigkeit des Motorrads aber unterschätzen
++ Auch für Motorräder gilt ein ausreichender Seitenabstand zu überholten Fahrzeugen
+- Motorräder dürfen auch bei Gegenverkehr in der Fahrbahnmitte überholen
+= Die Regeln des Überholens gelten für Motorräder genauso. Wer überholt wird, rechnet oft nicht mit dem schnellen Annähern eines Motorrads.
+
+? Dürfen Sie mit dem Motorrad an einer roten Ampel rechts an den wartenden Autos vorbei nach vorn fahren?
++ Nein, das Rechtsüberholen wartender Fahrzeuge ist nur Rad- und Mofafahrenden erlaubt
+- Ja, wenn genug Platz vorhanden ist
+- Ja, mit Schrittgeschwindigkeit
+= Die Ausnahme in der StVO gilt nur für Fahrräder und Mofas. Mit dem Motorrad reihen Sie sich hinten ein.
+
+@punkte 3
+
+? Sie stellen Ihr Motorrad nachts auf der Fahrbahn ab. Was ist zu beachten?
++ Es darf bei Dunkelheit nicht unbeleuchtet auf der Fahrbahn stehen bleiben
+- Es genügt, den Seitenständer auszuklappen
+- Krafträder sind von der Beleuchtungspflicht beim Parken ausgenommen
+= Fahrzeuge, die man leicht von der Fahrbahn entfernen kann – dazu zählen Krafträder –, müssen bei Dunkelheit dort weggebracht oder beleuchtet werden.
+
+? Ihr Motorrad hat unterwegs einen Defekt, der die Verkehrssicherheit erheblich beeinträchtigt. Was dürfen Sie tun?
++ Das Motorrad schieben
+- Mit Warnblinklicht langsam weiterfahren bis nach Hause
+- Mich von einem Pkw an einem Seil ziehen lassen und selbst lenken
+= Krafträder dürfen bei solchen Mängeln geschoben werden. Das Abschleppen eines Motorrads am Seil ist gefährlich und sollte unterbleiben.
+
+? Was ist beim Motorradfahren verboten?
++ Freihändig zu fahren
++ Sich an ein anderes Fahrzeug anzuhängen
+- Im Stehen auf den Fußrasten zu fahren
+= Wer ein Kraftrad fährt, darf sich nicht an Fahrzeuge anhängen und nicht freihändig fahren.
+
+@punkte 2
+
+? Dichter Nebel behindert die Sicht erheblich. Ihr Motorrad ohne Beiwagen hat einen Nebelscheinwerfer. Was gilt?
++ Statt des Abblendlichts genügt es, nur den Nebelscheinwerfer zu benutzen
+- Der Nebelscheinwerfer darf am Motorrad nie allein leuchten
+- Nebelscheinwerfer dürfen auch bei klarer Sicht eingeschaltet sein
+= Nebelscheinwerfer dürfen nur bei erheblicher Sichtbehinderung durch Nebel, Schneefall oder Regen eingeschaltet sein. An Krafträdern ohne Beiwagen reicht dann der Nebelscheinwerfer allein.
+
+@kapitel 2.6
+
+@punkte 4
+
+? Sie ziehen mit dem Motorrad einen Anhänger. Wie schnell dürfen Sie auf der Autobahn höchstens fahren?
+N 60 km/h
+= Für Krafträder mit Anhänger gilt auf Autobahnen und außerorts eine Höchstgeschwindigkeit von 60 km/h.
+! zahl
+
+? Wie breit darf ein Anhänger hinter einem Kraftrad höchstens sein?
+N 1 m
+= Anhänger hinter Krafträdern dürfen nicht breiter als 1,00 m sein.
+! zahl punkte=3
+
+@punkte 3
+
+? Was muss vorhanden sein, damit Sie auf Ihrem Motorrad eine Person mitnehmen dürfen?
++ Ein Sitz für den Beifahrer
++ Fußrasten für den Beifahrer
+- Ein Topcase als Rückenlehne
+= Personen dürfen auf Krafträdern nur auf einem besonderen Sitz mitgenommen werden. Ohne Fußrasten findet der Beifahrer keinen sicheren Halt.
+
+? Ihr Kind ist 6 Jahre alt. Unter welchen Voraussetzungen darf es auf dem Motorrad mitfahren?
++ Auf einem besonderen Kindersitz, bei dem die Füße nicht in die Speichen oder das Rad geraten können
+- Es darf auf dem Tank vor mir sitzen
+- Nur ohne Helm, weil Kinderhelme zu schwer sind
+= Für Kinder unter sieben Jahren sind ein besonderer Sitz und ein Schutz gegen das Hineingeraten der Füße in das Rad vorgeschrieben. Helmpflicht gilt auch für Kinder.
+
+? Welche Mindestprofiltiefe muss das Hauptprofil der Reifen eines Motorrads der Klasse A haben?
+N 1,6 mm
+= Für schwere Krafträder gelten wie für Pkw 1,6 mm. Für Leichtkrafträder, Kleinkrafträder und Mofas genügen 1 mm.
+! zahl
+
+@kapitel 2.7
+
+@punkte 4
+
+? Was bewirkt ein Antiblockiersystem (ABS) beim Motorrad?
++ Es verhindert, dass die Räder bei einer Vollbremsung blockieren
++ Das Motorrad bleibt beim Bremsen in Geradeausfahrt stabil und lenkbar
+- Es verkürzt den Bremsweg auf Rollsplitt immer erheblich
+= ABS verhindert den gefürchteten Sturz durch ein blockierendes Vorderrad. Bremsen in Schräglage bleibt ohne Kurven-ABS dennoch heikel.
+
+? Welche Bremse überträgt beim Motorrad bei einer starken Bremsung auf trockener Straße den größten Teil der Verzögerung?
++ Die Vorderradbremse
+- Die Hinterradbremse
+- Die Motorbremse
+= Beim Bremsen verlagert sich das Gewicht nach vorn. Das Vorderrad kann deshalb viel mehr Bremskraft übertragen als das Hinterrad.
+
+? Woran erkennen Sie, dass die Antriebskette Ihres Motorrads gewartet werden muss?
++ Sie hängt deutlich mehr durch als vom Hersteller angegeben
++ Sie ist trocken, rostig oder hat steife Glieder
+- Sie glänzt gleichmäßig
+= Eine schlecht gespannte oder ungeschmierte Kette verschleißt schnell und kann im schlimmsten Fall abspringen oder reißen.
+
+@punkte 3
+
+? Was müssen Sie tun, wenn Sie mit Beifahrer und Gepäck fahren wollen?
++ Reifendruck und gegebenenfalls Federvorspannung an die höhere Beladung anpassen
++ Scheinwerfereinstellung prüfen
+- Nichts, das Motorrad gleicht dies selbst aus
+= Mehr Gewicht hinten hebt die Front an, das Licht kann blenden und das Fahrwerk wird weicher. Die Angaben dazu stehen in der Betriebsanleitung.
+
+? Wo soll schweres Gepäck auf dem Motorrad möglichst untergebracht werden?
++ Tief und nah am Schwerpunkt, z. B. in Seitenkoffern
+- Möglichst hoch und weit hinten im Topcase
+- Am Lenker
+= Gewicht weit oben und hinten macht das Motorrad kopflastig und bei Seitenwind unruhig. Zulässiges Gesamtgewicht und Zuladung des Gepäcksystems beachten.
+
+@kapitel 2.8
+
+@punkte 3
+
+? Welche Schutzkleidung ist für das Motorradfahren sinnvoll?
++ Motorradjacke und -hose mit Protektoren
++ Motorradstiefel und Handschuhe
+- Kurze Hose an warmen Tagen, weil sie die Konzentration fördert
+= Bei einem Sturz schützt nur abriebfeste Kleidung mit Protektoren. Auch ein kurzer Weg rechtfertigt keine Jeans und Turnschuhe.
+
+? Wer muss auf einem Motorrad einen geeigneten Schutzhelm tragen?
++ Die Person, die fährt
++ Die Person, die mitfährt
+- Nur Personen unter 18 Jahren
+= Die Helmpflicht gilt für alle, die auf einem Kraftrad mit einer bauartbedingten Höchstgeschwindigkeit über 20 km/h fahren oder mitfahren.
+
+? Welche Helmfarbe und Kleidung erhöhen Ihre Sichtbarkeit?
++ Helle oder leuchtende Farben und Reflexstreifen
+- Möglichst dunkle Farben, weil sie Schmutz verbergen
+- Das spielt keine Rolle
+= Auffällige Kleidung verbessert die Chance, rechtzeitig gesehen zu werden, besonders in der Dämmerung.
+
+@punkte 2
+
+? Warum sollten Sie sich vor einer längeren Motorradtour gut ausruhen und regelmäßig Pausen einlegen?
++ Motorradfahren ist körperlich anstrengend und Ermüdung verlängert die Reaktionszeit
+- Weil Motorräder nach zwei Stunden abkühlen müssen
+- Pausen sind nur bei Regen nötig
+= Wind, Lärm, Vibrationen und Wetter belasten mehr als im Pkw. Müdigkeit macht sich beim Motorrad schnell durch Fahrfehler bemerkbar.
+
+? Was gilt für Brillen und Visiere beim Motorradfahren in der Nacht?
++ Getönte Visiere oder Sonnenbrillen sind bei Dunkelheit ungeeignet
+- Ein getöntes Visier reduziert die Blendung und verbessert die Sicht
+- Visiere sind nachts hochzuklappen
+= Getönte Visiere schlucken Licht. Ein zerkratztes Visier streut zusätzlich das Licht entgegenkommender Fahrzeuge.
+
+@kapitel 2.5
+
+@punkte 3
+
+? Wie fahren Sie mit dem Motorrad umweltschonend und leise?
++ Niedertourig und gleichmäßig fahren
++ Unnötiges Hochdrehen beim Anfahren und im Stand vermeiden
+- Die Auspuffanlage ändern, damit der Motor freier atmet
+= Lärm stört Anwohner und führt zu Streckensperrungen für Motorräder. Veränderte Auspuffanlagen können außerdem die Betriebserlaubnis erlöschen lassen.
+
+// klassenspezifisch
+
+@kapitel 2.8
+
+@punkte 4
+
+? Welche Leistung darf ein Leichtkraftrad der Klasse A1 höchstens haben?
+N 11 kW
+= Zusätzlich darf das Leistungsgewicht 0,1 kW/kg nicht überschreiten, der Hubraum höchstens 125 cm³ betragen.
+! klassen=A1 zahl
+
+? Sie möchten ein Leichtkraftrad bis 125 cm³ fahren. Wie alt müssen Sie für die Klasse A1 mindestens sein?
+N 16 Jahre
+= Mit der Klasse A1 ist auch die Klasse AM eingeschlossen.
+! klassen=A1 zahl punkte=3
+
+? Sie besitzen die Klasse A1. Welche Fahrzeuge dürfen Sie damit auch fahren?
++ Fahrzeuge der Klasse AM, z. B. Roller bis 45 km/h
+- Motorräder bis 35 kW
+- Pkw bis 3,5 t
+= Die Klasse A1 schließt die Klasse AM ein.
+! klassen=A1 punkte=2
+
+? Wie alt müssen Sie mindestens sein, um mit der Klasse A2 Motorräder bis 35 kW fahren zu dürfen?
+N 18 Jahre
+= Wer A2 mindestens zwei Jahre besitzt, kann die Klasse A bereits ab 20 Jahren erwerben.
+! klassen=A2 zahl punkte=3
+
+? Ihr Motorrad ist durch Drosselung von ursprünglich 80 kW auf 35 kW reduziert worden. Dürfen Sie es mit der Klasse A2 fahren?
++ Nein, das gedrosselte Motorrad darf nicht von einem Fahrzeug mit mehr als dem Doppelten der zulässigen Leistung abgeleitet sein
+- Ja, maßgeblich ist nur die eingetragene Leistung
+- Ja, wenn die Drosselung eingetragen ist
+= Für A2 gilt: höchstens 35 kW, Leistungsgewicht höchstens 0,2 kW/kg und nicht abgeleitet von einem Fahrzeug mit mehr als 70 kW.
+! klassen=A2 punkte=5
+
+? Welches Leistungsgewicht darf ein Motorrad der Klasse A2 höchstens haben?
+N 0,2 kW/kg
+= Ein Motorrad mit 35 kW muss demnach mindestens 175 kg wiegen.
+! klassen=A2 zahl punkte=4
+
+? Welche Fahrzeuge schließt die Klasse A ein?
++ Fahrzeuge der Klassen A2 und A1
++ Fahrzeuge der Klasse AM
+- Fahrzeuge der Klasse B
+= Mit der Klasse A dürfen alle Krafträder geführt werden. Pkw gehören nicht dazu.
+! klassen=A punkte=2
+
+? Ab welchem Alter kann die Klasse A ohne vorherigen Besitz der Klasse A2 (Direkteinstieg) erteilt werden?
+N 24 Jahre
+= Mit mindestens zwei Jahren Vorbesitz der Klasse A2 ist der Erwerb ab 20 Jahren möglich.
+! klassen=A zahl
+
+? Sie fahren ein leistungsstarkes Motorrad der Klasse A. Was müssen Sie beim Beschleunigen aus Kurven bedenken?
++ Zu schnelles Gasgeben in Schräglage kann das Hinterrad durchdrehen lassen
++ Das Vorderrad kann bei starkem Beschleunigen entlastet werden und abheben
+- Leistungsstarke Motorräder haften durch ihre Leistung besser
+= Viel Leistung erfordert feinfühligen Umgang mit dem Gasgriff, besonders bei Schräglage, Nässe und kalten Reifen.
+! klassen=A punkte=5
+
+// gemeinsamer Zweiradstoff (AM, A1, A2, A)
+
+@klassen ZWEIRAD
+
+@kapitel 2.1
+
+@punkte 4
+
+? Sie fahren mit einem Zweirad bei Seitenwind über eine Brücke. Worauf stellen Sie sich ein?
++ Auf plötzliche Böen, die das Fahrzeug versetzen können
++ Auf den Windschatten von Lkw, der beim Überholen abrupt endet
+- Seitenwind wirkt sich auf Zweiräder kaum aus
+= Brücken, Waldschneisen und Talübergänge sind typische Stellen für Böen. Locker am Lenker bleiben und mit angepasstem Tempo fahren.
+
+? Warum sind Fahrbahnränder auf Landstraßen für Zweiradfahrende oft gefährlich?
++ Dort sammeln sich Laub, Sand und Schmutz
++ Die Fahrbahndecke ist am Rand häufig beschädigt
+- Weil dort grundsätzlich Fußgänger laufen
+= Am Fahrbahnrand ist die Haftung oft schlechter. Halten Sie Abstand zum Rand, ohne zu weit zur Mitte zu fahren.
+
+@punkte 3
+
+? Sie wollen mit dem Zweirad stark bremsen. Was gehört zur richtigen Technik?
++ Beide Bremsen gleichzeitig benutzen
++ Möglichst aufrecht und geradeaus bremsen
+- Nur hinten bremsen, damit man nicht über den Lenker geht
+= Mit beiden Bremsen wird der kürzeste Bremsweg erreicht. Gefühlvoll, aber entschlossen zubremsen und dann den Druck erhöhen.
+
+? Es ist kalt und die Reifen Ihres Zweirads sind noch nicht warm gefahren. Was bedeutet das?
++ Die Reifen haften zunächst schlechter
+- Kalte Reifen haften besser, weil sie härter sind
+- Das ist nur im Rennsport von Bedeutung
+= Kalte Reifen erreichen ihre volle Haftung erst nach einigen Kilometern. Vorsicht bei den ersten Kurven und Bremsungen.
+
+@kapitel 2.2
+
+@punkte 3
+
+? Wie müssen Sie mit einem Kraftrad am Tag fahren?
++ Mit Abblendlicht oder eingeschalteten Tagfahrleuchten
+- Ohne Licht, wenn die Sonne scheint
+- Nur mit Standlicht
+= Für Krafträder gilt das Fahren mit Licht auch am Tag. Das hilft, früher gesehen zu werden.
+
+? Wo ordnen Sie sich mit einem Zweirad vor einer Ampel ein, an der mehrere Pkw warten?
++ Hinter dem letzten wartenden Fahrzeug in meinem Fahrstreifen
+- Zwischen den wartenden Pkw nach vorn bis zur Haltlinie
+- Auf dem Gehweg nach vorn
+= Das Vorbeifahren an wartenden Fahrzeugen auf der rechten Seite ist nur Rad- und Mofafahrenden erlaubt.
+
+@kapitel 2.7
+
+@punkte 3
+
+? Wie prüfen Sie vor der Fahrt, ob die Bremsen Ihres Zweirads in Ordnung sind?
++ Bremshebel betätigen und prüfen, ob Druckpunkt und Bremswirkung vorhanden sind
++ Bremsflüssigkeitsstand und Beläge kontrollieren
+- Das ist nur bei der Hauptuntersuchung nötig
+= Ein weicher oder wandernder Druckpunkt kann auf Luft im System oder auf verschlissene Beläge hindeuten.
+
+@kapitel 2.8
+
+@punkte 2
+
+? Warum gehört zum Zweiradfahren immer ein geschlossener Helm mit passender Größe?
++ Ein zu großer Helm kann sich bei einem Sturz verschieben oder vom Kopf gezogen werden
+- Weil zu kleine Helme besser schützen
+- Die Helmgröße ist egal, wenn der Kinnriemen geschlossen ist
+= Der Helm muss fest sitzen und der Kinnriemen geschlossen sein. Nach einem Sturz ist ein Helm in der Regel auszutauschen.

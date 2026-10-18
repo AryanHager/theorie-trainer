@@ -1,0 +1,142 @@
+// Phase 2 – Zusatzstoff CE (Lastzüge und Sattelkraftfahrzeuge) – eigene Formulierungen
+// Quellen: StVO §§ 3, 4, 12, 30; StVZO §§ 32, 34, 41, 53; FeV §§ 6, 10
+
+@klassen CE
+
+@kapitel 2.7
+
+@punkte 4
+
+? Sie wollen einen Sattelanhänger aufsatteln. Was prüfen Sie, bevor Sie losfahren?
++ Ob der Königszapfen sicher in der Sattelkupplung verriegelt ist (Sicht- und Zugprobe)
++ Ob Druckluft- und Elektroleitungen angeschlossen und die Stützwinden ganz hochgekurbelt sind
+- Ob der Sattelanhänger leer ist, weil beladene Anhänger nicht aufgesattelt werden dürfen
+= Eine nicht verriegelte Sattelkupplung kann dazu führen, dass der Auflieger beim Anfahren herunterfällt. Zum Schluss Feststellbremse des Aufliegers lösen.
+
+? Sie kuppeln einen Anhänger mit Druckluftbremse ab. In welcher Reihenfolge trennen Sie die Kupplungsköpfe?
++ Zuerst den roten Kupplungskopf (Vorrat), dann den gelben (Bremse)
+- Zuerst den gelben, dann den roten Kupplungskopf
+- Beide gleichzeitig
+= Wird die Vorratsleitung zuerst getrennt, bremst der Anhänger selbsttätig ein. Danach wird zusätzlich die Feststellbremse angezogen.
+
+? Was geschieht, wenn sich der Anhänger während der Fahrt vom Zugfahrzeug löst und die Vorratsleitung abreißt?
++ Der Anhänger wird durch seine Bremsanlage selbsttätig abgebremst
+- Der Anhänger rollt ungebremst weiter
+- Das Zugfahrzeug wird automatisch abgebremst und der Anhänger nicht
+= Druckluftbremsanlagen von Anhängern sind so gebaut, dass bei Druckabfall in der Vorratsleitung eine Notbremsung erfolgt.
+
+? Wie viele Unterlegkeile muss ein Sattelanhänger mindestens mitführen?
+N 2
+= Auch Starrdeichsel- und Zentralachsanhänger über 750 kg sowie drei- und mehrachsige Fahrzeuge brauchen mindestens zwei Unterlegkeile.
+! zahl punkte=3
+
+? Woran erkennen Sie einen Zentralachsanhänger?
++ Seine Achsen liegen nahe der Mitte, die Deichsel ist starr und überträgt eine Stützlast auf das Zugfahrzeug
+- Er hat eine drehbare Vorderachse mit Drehschemel
+- Er hat keine Achsen
+= Bei Zentralachsanhängern muss die zulässige Stützlast der Kupplung beachtet werden. Drehschemelanhänger übertragen dagegen kaum Stützlast.
+
+@punkte 3
+
+? Welche Form müssen die roten Rückstrahler an der Rückseite eines Anhängers haben?
++ Dreieckig mit der Spitze nach oben
+- Rund
+- Rechteckig
+= Die dreieckigen Rückstrahler kennzeichnen nachts einen Anhänger. Ihre Seitenlänge muss mindestens 150 mm betragen.
+
+@kapitel 2.1
+
+@punkte 5
+
+? Was kann dazu führen, dass ein Sattelzug beim Bremsen „einknickt“?
++ Starkes Bremsen in der Kurve oder auf glatter Fahrbahn, wenn die Antriebsachse blockiert
++ Ein leerer Auflieger, der das Zugfahrzeug schiebt
+- Langsames, vorausschauendes Bremsen auf gerader Strecke
+= Beim Einknicken (Jackknifing) dreht die Zugmaschine um den Königszapfen. ABS und vorausschauendes Bremsen verringern die Gefahr.
+
+? Der Anhänger Ihres Lastzugs beginnt bei hoher Geschwindigkeit zu pendeln. Was tun Sie?
++ Gas wegnehmen und das Lenkrad ruhig halten
++ Gleichmäßig und gefühlvoll verzögern, bis das Pendeln aufhört
+- Kräftig beschleunigen und gegenlenken
+= Gegenlenken verstärkt das Pendeln. Ursachen sind oft zu hohe Geschwindigkeit, Seitenwind oder eine falsche Lastverteilung.
+
+@punkte 4
+
+? Sie setzen mit einem Lastzug mit Drehschemelanhänger rückwärts. Was müssen Sie wissen?
++ Der Anhänger schwenkt zunächst in die entgegengesetzte Richtung meines Lenkeinschlags
++ Kleine Lenkbewegungen und langsames Fahren erleichtern das Rangieren
+- Das Rangieren funktioniert genauso wie mit einem Einzelfahrzeug
+= Beim Rückwärtsfahren mit Anhänger knickt der Zug leicht ein. Lassen Sie sich im Zweifel einweisen.
+
+? Warum ist ein leerer Anhänger hinter einem beladenen Zugfahrzeug gefährlich?
++ Der Anhänger kann beim Bremsen leichter blockieren und ausbrechen
+- Weil ein leerer Anhänger die Bremswirkung des Zugfahrzeugs erhöht
+- Das ist ungefährlich
+= Möglichst schwere Ladung im Zugfahrzeug und leichte im Anhänger vermeiden. Das Zugfahrzeug sollte nicht leichter beladen sein als der Anhänger.
+
+? Sie fahren mit einem Sattelzug in einen engen Kreisverkehr. Worauf achten Sie?
++ Der Auflieger schneidet die Kurve stark; die Hinterachsen laufen weit innen
++ Käme mein Zug sonst nicht hindurch, darf ich die Mittelinsel überfahren, wenn eine Gefährdung anderer ausgeschlossen ist
+- Ich fahre mit möglichst hoher Geschwindigkeit, damit der Auflieger nicht ausbricht
+= Das Überfahren der Mittelinsel ist nur Fahrzeugen erlaubt, die wegen ihrer Abmessungen sonst nicht durch den Kreisverkehr kämen. Fußgänger und Radfahrende am Rand im Blick behalten.
+
+@kapitel 2.6
+
+@punkte 4
+
+? Wie schnell dürfen Sie mit einem Sattelkraftfahrzeug über 7,5 t auf der Autobahn höchstens fahren?
+N 80 km/h
+= Auf Landstraßen gelten für diese Fahrzeuge 60 km/h.
+! zahl punkte=3
+
+? Sie fahren außerorts mit einem Lastzug von 18 m Länge hinter einem anderen Lkw. Was müssen Sie beachten?
++ So viel Abstand halten, dass ein überholendes Fahrzeug vor mir einscheren kann
+- Möglichst dicht auffahren, damit niemand zwischen uns einschert
+- Nichts Besonderes
+= Züge über 7 m Länge müssen außerorts diesen Einscher-Abstand halten, außer beim Überholen oder wenn mehrere Fahrstreifen vorhanden sind.
+
+? Sie haben Ihren Sattelauflieger am Freitag am Straßenrand eines Gewerbegebiets abgekuppelt. Was gilt für die Parkdauer?
++ Ein Anhänger ohne Zugfahrzeug darf dort höchstens zwei Wochen stehen, außer auf entsprechend gekennzeichneten Parkplätzen
+- Unbegrenzt
+- Höchstens 24 Stunden
+= Abgestellte Anhänger müssen zusätzlich gegen Wegrollen gesichert und bei Dunkelheit kenntlich gemacht sein.
+! punkte=3
+
+? Gilt das Sonn- und Feiertagsfahrverbot auch für einen Anhänger hinter einem Lkw mit nur 7,5 t?
++ Ja, das Verbot gilt für Anhänger hinter Lkw unabhängig von der Masse des Lkw
+- Nein, nur Lkw über 7,5 t sind betroffen
+- Nur, wenn der Anhänger über 7,5 t wiegt
+= Betroffen ist die geschäftsmäßige oder entgeltliche Güterbeförderung. Es gibt Ausnahmen, z. B. für frische Lebensmittel.
+! punkte=5
+
+? Ein Sattelzug hat fünf Achsen. Welches zulässige Gesamtgewicht darf die Kombination im Normalfall nicht überschreiten?
+N 40 t
+= Bei Kombinationen mit weniger als vier Achsen gelten 28 t, bei bestimmten vierachsigen Kombinationen 36 t oder 38 t.
+! zahl punkte=4
+
+@kapitel 2.8
+
+@punkte 3
+
+? Sie haben die Fahrerlaubnis CE bestanden. Welche Kombinationen und Fahrzeuge dürfen Sie damit außerdem führen?
++ Die Klassen C1E und BE
++ Die Klasse T
+- Die Klasse D
+= Wer zusätzlich die Klasse D besitzt, darf mit CE auch Kombinationen der Klasse DE fahren.
+
+? Ab welcher zulässigen Gesamtmasse des Anhängers brauchen Sie hinter einem Fahrzeug der Klasse C die Klasse CE?
++ Über 750 kg
+- Über 3 500 kg
+- Ab 2 000 kg
+= Mit der Klasse C allein dürfen nur Anhänger bis 750 kg zulässige Gesamtmasse gezogen werden.
+! punkte=4
+
+@kapitel 2.2
+
+@punkte 3
+
+? Sie stellen einen Sattelanhänger auf einem Parkplatz ab. Was ist zu tun?
++ Den Untergrund auf ausreichende Tragfähigkeit prüfen und die Stützwinden ausfahren
++ Die Feststellbremse des Aufliegers betätigen und, wenn nötig, Unterlegkeile verwenden
+- Den Auflieger auf weichem Grünstreifen abstellen, damit er nicht rutscht
+= Auf weichem Boden können Stützwinden einsinken und der Auflieger kippen.

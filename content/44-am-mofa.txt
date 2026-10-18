@@ -1,0 +1,226 @@
+// Phase 2 – Zusatzstoff AM und Mofa – eigene Formulierungen
+// Quellen: FeV §§ 4, 5, 6, 10; StVO §§ 2, 5, 18, 21, 21a, 23; StVZO §§ 35a, 36, 53; FZV §§ 2, 3, 4, 52
+
+@klassen KLEIN
+
+@kapitel 2.6
+
+@punkte 4
+
+? Wie tief muss das Profil der Reifen an einem Mofa oder Kleinkraftrad mindestens sein?
+N 1 mm
+= Für Mofas, Kleinkrafträder und Leichtkrafträder genügt eine Mindestprofiltiefe von 1 mm. Mehr Profil bedeutet bei Nässe deutlich mehr Sicherheit.
+! zahl
+
+? Dürfen Sie mit Ihrem Mofa oder Kleinkraftrad auf einer Kraftfahrstraße fahren?
++ Nein, dort sind nur Kraftfahrzeuge mit einer bauartbedingten Höchstgeschwindigkeit von mehr als 60 km/h zugelassen
+- Ja, auf dem Seitenstreifen
+- Ja, wenn ich mit Vollgas fahre
+= Autobahnen und Kraftfahrstraßen sind für langsame Fahrzeuge gesperrt, weil die Geschwindigkeitsunterschiede zu gefährlich wären.
+
+? Wozu dient das Versicherungskennzeichen an Mofa und Kleinkraftrad?
++ Es weist nach, dass eine Kfz-Haftpflichtversicherung besteht
+- Es zeigt an, dass das Fahrzeug die Hauptuntersuchung bestanden hat
+- Es ersetzt die Prüfbescheinigung oder den Führerschein
+= Kleinkrafträder sind zulassungsfrei, brauchen aber eine Haftpflichtversicherung. Das Schild wechselt jedes Verkehrsjahr seine Farbe.
+
+@punkte 3
+
+? Wann beginnt ein neues Verkehrsjahr für Versicherungskennzeichen?
++ Am 1. März
+- Am 1. Januar
+- Am Tag des Fahrzeugkaufs
+= Das Verkehrsjahr läuft vom 1. März bis Ende Februar des folgenden Jahres. Danach braucht das Fahrzeug ein neues Kennzeichen.
+
+? Ihr Mofa oder Kleinkraftrad hat unterwegs einen Defekt an der Bremse. Was tun Sie?
++ Das Fahrzeug schieben
+- Langsam weiterfahren und mit den Füßen bremsen
+- Mit der anderen Bremse ganz normal weiterfahren
+= Bei Mängeln, die die Sicherheit wesentlich beeinträchtigen, dürfen Zweiräder geschoben werden. Mit defekter Bremse weiterzufahren gefährdet Sie und andere.
+
+@kapitel 2.1
+
+@punkte 4
+
+? Sie fahren mit dem Mofa oder Kleinkraftrad am rechten Rand. Ein Pkw überholt Sie und biegt kurz danach rechts ab. Wie können Sie sich auf solche Situationen vorbereiten?
++ Blinker und Fahrweise von Fahrzeugen neben mir beobachten und bremsbereit sein
+- Darauf vertrauen, dass Pkw immer hinter mir abbiegen
+- Möglichst dicht neben dem Pkw fahren
+= Langsame Zweiräder werden beim Abbiegen häufig unterschätzt oder übersehen. Rechnen Sie mit diesem Fehler.
+
+? Warum sollten Sie mit dem Mofa nicht direkt neben einem Lkw an der Ampel warten?
++ Ich kann im toten Winkel des Lkw sein und beim Rechtsabbiegen übersehen werden
+- Weil der Lkw beim Anfahren Abgase ausstößt
+- Das ist unproblematisch, weil Lkw immer langsam anfahren
+= Bleiben Sie hinter dem Lkw oder deutlich vor ihm im Sichtfeld der fahrenden Person.
+
+@punkte 3
+
+? Sie fahren mit dem Mofa auf einem Radweg außerorts. Was müssen Sie beachten?
++ Rücksicht auf Radfahrende nehmen und mit angepasster Geschwindigkeit fahren
+- Radfahrende müssen mir Platz machen, weil ich schneller bin
+- Ich darf dort schneller als 25 km/h fahren
+= Mofas dürfen außerorts Radwege benutzen. Dort sind sie Gast: Langsame Radfahrende nur mit ausreichendem Abstand überholen.
+
+? Wie verhalten Sie sich als Mofafahrer, wenn eine Gruppe Radfahrender vor Ihnen nebeneinander fährt?
++ Mit Klingel oder Hupe nur warnen, wenn es nötig ist, und mit ausreichend Abstand überholen
+- Dicht auffahren, damit sie Platz machen
+- Zwischen den Radfahrenden hindurchfahren
+= Auch mit dem Mofa gelten beim Überholen von Radfahrenden ausreichende Seitenabstände.
+
+@kapitel 2.2
+
+@punkte 3
+
+? Ihr Mofa bremst an einer langen Gefällstrecke. Wie fahren Sie ab?
++ Rechtzeitig vor der Gefällstrecke Geschwindigkeit verringern und mit Intervallbremsungen abfahren
+- Dauerhaft mit schleifender Bremse fahren
+- Möglichst schnell, damit die Strecke kurz bleibt
+= Dauerbremsen überhitzt die Bremsen, besonders bei Trommelbremsen. Nutzen Sie die Bremswirkung kurz und kräftig.
+
+? Wo stellen Sie Ihr Mofa oder Kleinkraftrad ab, ohne andere zu behindern?
++ So, dass Fußgänger, Rollstuhl- und Kinderwagenfahrende auf dem Gehweg genügend Platz haben
+- Quer auf dem Gehweg, damit es nicht umfällt
+- Vor Hauseingängen und Feuerwehrzufahrten
+= Abgestellte Zweiräder dürfen niemanden behindern. Auf Gehwegen muss ausreichend Platz bleiben.
+
+@kapitel 2.7
+
+@punkte 3
+
+? Was kann die Ursache sein, wenn Ihr Mofa oder Kleinkraftrad beim Anfahren ruckelt und schlecht beschleunigt?
++ Ein verschmutzter Luftfilter oder eine verschmutzte Zündkerze
+- Ein zu hoher Reifendruck
+- Eine zu helle Lampe
+= Regelmäßige Wartung von Luftfilter, Zündkerze und Vergaser oder Einspritzung sorgt für gleichmäßige Leistung und weniger Abgase.
+
+? Warum ist das Ändern der Übersetzung oder des Auspuffs am Mofa oder Kleinkraftrad problematisch?
++ Die Betriebserlaubnis kann erlöschen
++ Das Fahrzeug kann dadurch schneller werden, als die Fahrerlaubnis oder Prüfbescheinigung erlaubt
+- Weil das Fahrzeug dann schwerer wird
+= Wer ein so verändertes Fahrzeug fährt, riskiert eine Straftat (Fahren ohne Fahrerlaubnis) und den Verlust des Versicherungsschutzes.
+! punkte=5
+
+@kapitel 2.8
+
+@punkte 2
+
+? Warum ist für Mofa- und Kleinkraftradfahrende reflektierende Kleidung sinnvoll?
++ Sie werden in Dämmerung und Dunkelheit früher gesehen
+- Sie schützt vor Kälte
+- Reflexstreifen ersetzen das Fahrzeuglicht
+= Zweiräder werden leicht übersehen. Helle Kleidung und Reflektoren verbessern die Erkennbarkeit erheblich.
+
+// nur Mofa
+
+@klassen Mofa
+
+@kapitel 2.6
+
+@punkte 4
+
+? Welches Dokument müssen Sie beim Mofafahren mitführen, wenn Sie keinen Führerschein haben?
++ Die Mofa-Prüfbescheinigung
+- Die Geburtsurkunde
+- Eine Bescheinigung der Schule
+= Die Prüfbescheinigung beweist, dass Sie die vorgeschriebene Prüfung bestanden haben. Sie ist auf Verlangen vorzuzeigen.
+
+? Sie haben die Mofa-Prüfung noch nicht abgelegt. Unter welcher Bedingung dürfen Sie dennoch auf öffentlichen Straßen Mofa fahren?
++ Wenn ich von einem Fahrlehrer beaufsichtigt werde, der zur Ausbildung berechtigt ist
+- Wenn ein Erwachsener auf dem Gehweg mitläuft
+- Wenn ich nur in der eigenen Straße fahre
+= Bei Ausbildungsfahrten gilt der Fahrlehrer als Führer des Fahrzeugs. Sonst ist die Prüfbescheinigung Pflicht.
+
+? Dürfen Sie auf Ihrem Mofa eine Freundin oder einen Freund mitnehmen?
++ Nein, auf einem Mofa darf nur ein Kind unter sieben Jahren auf einem besonderen Kindersitz mitfahren
+- Ja, wenn sie oder er einen Helm trägt
+- Ja, auf dem Gepäckträger
+= Auf Krafträdern ohne besonderen Sitz dürfen keine Personen mitgenommen werden (StVO § 21 Abs. 1). Für Mofas lässt die Fahrerlaubnis-Verordnung ausdrücklich nur besondere Sitze für Kinder unter sieben Jahren zu (FeV § 4 Abs. 1 Nr. 1).
+
+? Wie alt müssen Sie mindestens sein, um auf dem Mofa ein Kind unter sieben Jahren mitnehmen zu dürfen?
+N 16 Jahre
+= Zusätzlich braucht das Mofa einen besonderen Kindersitz, und das Kind muss einen Helm tragen.
+! zahl punkte=5
+
+@punkte 3
+
+? Innerorts sehen Sie einen Radweg mit dem Zusatzzeichen „Mofas frei“. Was bedeutet das?
++ Ich darf den Radweg mit dem Mofa benutzen
+- Ich muss den Radweg mit dem Mofa benutzen und darf nicht mehr auf der Fahrbahn fahren
+- Der Radweg ist für Radfahrende gesperrt
+= Innerorts dürfen Mofas Radwege nur mit diesem Zusatzzeichen benutzen. Auch dann gilt besondere Rücksicht auf Radfahrende.
+
+? Vor einer Ampel stehen mehrere Autos. Rechts daneben ist genug Platz. Was dürfen Sie mit dem Mofa tun?
++ Mit mäßiger Geschwindigkeit und besonderer Vorsicht rechts an den wartenden Fahrzeugen vorbeifahren
+- Mit Höchstgeschwindigkeit rechts vorbeifahren
+- Links an den Fahrzeugen vorbeifahren und mich vor die Haltlinie stellen
+= Mofa- und Radfahrende dürfen wartende Fahrzeuge rechts überholen, wenn genug Platz ist. Achten Sie auf Türen, die sich öffnen, und auf Rechtsabbieger.
+
+? Braucht ein Mofa eine Bremsleuchte?
++ Nein, sie ist bei Zweirädern mit einer bauartbedingten Höchstgeschwindigkeit bis 50 km/h nicht vorgeschrieben
+- Ja, wie jedes Kraftfahrzeug
+- Nur bei Fahrten nach Einbruch der Dunkelheit
+= Ist dennoch eine Bremsleuchte angebaut, muss sie funktionieren und den Vorschriften entsprechen.
+! punkte=2
+
+@kapitel 2.8
+
+@punkte 3
+
+? Sie sind 14 Jahre alt und wollen Mofa fahren. Was gilt?
++ Ich darf frühestens mit 15 Jahren und mit Prüfbescheinigung auf öffentlichen Straßen Mofa fahren
+- Mit Helm darf ich auch mit 14 fahren
+- Das Mindestalter für Mofas gibt es nicht
+= Für das Führen von Mofas gilt ein Mindestalter von 15 Jahren.
+
+// nur AM
+
+@klassen AM
+
+@kapitel 2.8
+
+@punkte 3
+
+? Sie haben die Klasse AM mit 15 Jahren erworben. Was ist bis zum 16. Geburtstag zu beachten?
++ Die Fahrerlaubnis gilt bis dahin nur für Fahrten im Inland
+- Ich darf nur in Begleitung fahren
+- Ich darf nur tagsüber fahren
+= Die Klasse AM kann ab 15 Jahren erteilt werden. Bis zum 16. Geburtstag ist sie auf Fahrten in Deutschland beschränkt.
+
+? Welche Fahrerlaubnisklasse schließt die Klasse AM ein?
++ Die Klasse B
++ Die Klasse A1
+- Die Klasse L
+= Wer B oder eine Motorradklasse besitzt, darf auch Fahrzeuge der Klasse AM fahren.
+! punkte=2
+
+@kapitel 2.6
+
+@punkte 4
+
+? Ihr Kleinkraftrad hat einen Soziussitz und Fußrasten für eine zweite Person. Dürfen Sie jemanden mitnehmen?
++ Ja, wenn das Fahrzeug dafür zugelassen ist und beide einen geeigneten Helm tragen
+- Nein, mit der Klasse AM ist das nie erlaubt
+- Ja, auch ohne Helm, weil das Fahrzeug nur 45 km/h fährt
+= Die Helmpflicht gilt ab einer bauartbedingten Höchstgeschwindigkeit über 20 km/h, also auch auf dem Kleinkraftrad – für beide Personen.
+
+? Mit der Klasse AM dürfen Sie auch leichte vierrädrige Kraftfahrzeuge fahren. Wie schnell dürfen diese bauartbedingt höchstens sein?
+N 45 km/h
+= Das gilt für zweirädrige und dreirädrige Kleinkrafträder ebenso wie für leichte vierrädrige Kraftfahrzeuge (sogenannte Leichtkraftfahrzeuge).
+! zahl punkte=3
+
+@kapitel 2.1
+
+@punkte 4
+
+? Sie fahren mit dem Kleinkraftrad auf einer Landstraße mit 45 km/h. Hinter Ihnen bildet sich eine lange Kolonne. Was ist richtig?
++ An geeigneter Stelle rechts heranfahren und die Fahrzeuge vorbeilassen
+- Weiterfahren, weil ich nicht schneller kann
+- In der Fahrbahnmitte fahren, damit niemand riskant überholt
+= Langsame Fahrzeuge müssen, wenn nötig, an geeigneter Stelle ausweichen, um Überholen zu ermöglichen. Riskante Überholmanöver anderer werden so vermieden.
+
+? Ein Pkw überholt Sie auf dem Kleinkraftrad mit sehr geringem Seitenabstand. Wie reagieren Sie?
++ Ruhig bleiben, Lenker locker halten und Spur halten
+- Sofort stark nach rechts ausweichen
+- Mit der Hand gegen den Pkw schlagen
+= Hektische Lenkbewegungen können zum Sturz führen. Ein gleichmäßiger, nicht zu weit rechts gewählter Fahrweg verhindert oft zu knappe Überholmanöver.

@@ -1,0 +1,487 @@
+// Runde 3: Gefahrenlehre (Grundstoff 1.1) – eigene Formulierungen
+@kapitel 1.1
+@klassen ALLE
+@punkte 4
+
+? Am Fahrbahnrand steht eine Person mit einem weißen Langstock. Wie verhalten Sie sich?
++ Ich fahre besonders vorsichtig und bin bremsbereit
++ Ich rechne damit, dass die Person mich nicht sieht und unvermittelt losgeht
+- Ich hupe, damit sie stehen bleibt
+= Ein weißer Stock oder eine gelbe Armbinde mit drei schwarzen Punkten kennzeichnet blinde oder stark sehbehinderte Menschen.
+
+? Eine Person im Rollstuhl will vor Ihnen die Fahrbahn an einer Stelle mit hohem Bordstein überqueren. Womit müssen Sie rechnen?
++ Dass sie zu einer Bordsteinabsenkung auf der Fahrbahn entlang fährt
++ Dass sie für das Überqueren länger braucht
+- Dass sie mir Vorrang gewährt
+= Rollstuhlfahrende sind niedrig und werden zwischen parkenden Fahrzeugen leicht übersehen.
+
+? Ein Kind fährt mit seinem Fahrrad auf dem Gehweg neben Ihnen her. Sie wollen gleich rechts in eine Einfahrt abbiegen. Was müssen Sie bedenken?
++ Das Kind kann meinen Weg kreuzen, weil es beim Abbiegen auf dem Gehweg geradeaus weiterfährt
++ Kinder schätzen Geschwindigkeiten und Gefahren oft falsch ein
+- Kinder auf dem Gehweg müssen beim Abbiegen anderer Fahrzeuge immer anhalten
+= Kinder bis zum vollendeten 8. Lebensjahr müssen mit dem Fahrrad den Gehweg benutzen. Ich muss sie beim Abbiegen durchlassen.
+
+? Jugendliche stehen in einer Gruppe an einer Haltestelle und schubsen sich gegenseitig. Was ist richtig?
++ Ich rechne damit, dass jemand plötzlich auf die Fahrbahn stolpert oder läuft
+- Ich fahre zügig vorbei, um die Gefahrenstelle schnell hinter mir zu lassen
+- Ich hupe und fahre weiter
+= In Gruppen achten Jugendliche oft wenig auf den Verkehr. Langsam und bremsbereit vorbeifahren.
+
+? Ein Lkw steht an einer Kreuzung rechts neben Ihnen und will rechts abbiegen. Sie sind mit dem Fahrrad unterwegs. Was ist richtig?
++ Ich bleibe hinter dem Lkw, weil mich der Fahrer im toten Winkel möglicherweise nicht sieht
+- Ich stelle mich rechts neben das Führerhaus, damit ich schnell wegkomme
+- Ich fahre noch schnell vor dem Lkw vorbei
+= Der tote Winkel rechts neben einem Lkw ist sehr groß. Blickkontakt zum Fahrer suchen oder Abstand halten.
+! punkte=5
+
+? Ein langes Fahrzeug vor Ihnen setzt zum Abbiegen nach rechts an und schwenkt dabei zunächst nach links aus. Was ist richtig?
++ Ich halte Abstand und überhole nicht rechts
+- Ich nutze die Lücke rechts, um vorbeizufahren
+- Ich hupe, damit der Fahrer auf seiner Seite bleibt
+= Lange Fahrzeuge brauchen zum Abbiegen viel Platz. Wer rechts vorbeifährt, kann eingeklemmt werden.
+! punkte=5
+
+? Vor Ihnen fährt ein Traktor, der Erde von einem Feld auf die Fahrbahn gebracht hat. Es beginnt zu regnen. Womit müssen Sie rechnen?
++ Mit einer schmierigen, sehr glatten Fahrbahn
+- Mit besserer Haftung, weil Erde rau ist
+- Mit keiner besonderen Gefahr
+= Nasse Erde wirkt wie Schmierseife. Abstand halten und Geschwindigkeit verringern.
+
+? Ein landwirtschaftliches Fahrzeug mit breitem Anbaugerät kommt Ihnen auf einer schmalen Landstraße entgegen. Was ist richtig?
++ Ich fahre weit rechts, verringere die Geschwindigkeit und halte notfalls an
+- Ich fahre zügig weiter, das Gerät ist nicht breiter als ein Pkw
+- Ich blende auf, damit es Platz macht
+= Anbaugeräte können deutlich über das Fahrzeug hinausragen und in die Gegenfahrbahn reichen.
+
+? Ein Traktor vor Ihnen verlangsamt auf freier Strecke ohne erkennbaren Grund. Womit müssen Sie rechnen?
++ Dass er in einen Feldweg nach links abbiegt, auch wenn ich den Blinker nicht sehe
+- Dass er gleich schneller wird
+- Dass er rechts anhält, um mich vorbeizulassen
+= An landwirtschaftlichen Fahrzeugen sind Blinker oft verdeckt oder verschmutzt. Nicht in dieser Situation überholen.
+! punkte=5
+
+? Sie fahren in der Dämmerung durch ein Waldgebiet mit Wildwechsel. Ein Wildschwein überquert vor Ihnen die Straße. Womit müssen Sie rechnen?
++ Dass weitere Tiere folgen
+- Dass das Tier auf der Straße stehen bleibt und wartet
+- Dass keine Gefahr mehr besteht, sobald das Tier die Straße verlassen hat
+= Wildschweine und Rehe sind oft in Gruppen unterwegs. Abblenden, hupen und bremsbereit langsam weiterfahren.
+! punkte=5
+
+? Sie haben ein Reh angefahren, es liegt verletzt am Straßenrand. Was ist richtig?
++ Unfallstelle absichern und die Polizei verständigen
+- Das Tier ins Auto laden und mitnehmen
+- Das Tier anfassen, um zu prüfen, ob es lebt
+= Verletzte Tiere können sich heftig wehren. Die Mitnahme von Wild ist Wilderei.
+
+? Sie fahren durch einen Tunnel und es kommt zu einem Fahrzeugbrand vor Ihnen. Was ist richtig?
++ Ich halte an, schalte den Motor aus und lasse den Schlüssel stecken
++ Ich verlasse das Fahrzeug und gehe zum nächsten Notausgang
+- Ich wende und fahre zurück
+= Rauch breitet sich im Tunnel schnell aus. Nicht im Fahrzeug bleiben; Notrufeinrichtungen nutzen.
+! punkte=5
+
+? Kurz bevor Sie an einer Waldstrecke ankommen, hat es aufgehört zu regnen; die Sonne scheint. Womit müssen Sie im Wald rechnen?
++ Dass die Fahrbahn dort noch nass ist
++ Dass im Herbst und Winter Glätte möglich ist, weil die Fahrbahn im Schatten länger kalt bleibt
+- Dass die Fahrbahn im Wald schneller trocknet
+= Im Wald trocknen Straßen langsamer; im Winter bleiben Schattenstellen länger gefroren.
+
+? Was ist Blitzeis?
++ Regen, der auf einer gefrorenen Fahrbahn sofort zu Eis wird
+- Eis, das durch einen Blitzeinschlag entsteht
+- Glätte durch Laub
+= Blitzeis entsteht schlagartig und großflächig. Bei entsprechender Warnung möglichst nicht fahren.
+
+? Auf der Straße liegt Matsch und Schneebrei. Was ist richtig?
++ Ich fahre langsam und lenke behutsam
++ Ich halte deutlich mehr Abstand
+- Ich beschleunige kräftig, damit der Matsch weggeschleudert wird
+= Schneematsch kann zu Aufschwimmen führen und das Fahrzeug aus der Spur ziehen.
+
+? Sie fahren in einer frisch geräumten Spur auf einer schneebedeckten Straße. Was müssen Sie beim Verlassen der Spur bedenken?
++ Neben der Spur kann der Schnee das Fahrzeug abbremsen oder aus der Richtung bringen
+- Neben der Spur ist die Haftung immer besser
+- Nichts, Schnee ist überall gleich
+= Beim Wechsel zwischen geräumten und verschneiten Flächen ändern sich Haftung und Rollwiderstand plötzlich.
+
+? Nach einer langen Hitzeperiode fahren Sie über eine stark aufgeheizte Fahrbahn. Womit müssen Sie rechnen?
++ Mit aufgeweichtem Asphalt und Spurrinnen, besonders an Kreuzungen und Ampeln
+- Mit besserer Haftung, weil heißer Asphalt klebt
+- Mit keinen Gefahren
+= Weicher Asphalt kann Spurrinnen bilden, in denen sich bei Regen Wasser sammelt.
+! punkte=3
+
+? Es beginnt heftig zu hageln. Was ist richtig?
++ Geschwindigkeit stark verringern und bei schlechter Sicht an geeigneter Stelle anhalten
+- Schneller fahren, um aus dem Unwetter herauszukommen
+- Unter einer Brücke auf der Autobahn anhalten
+= Hagel kann die Sicht stark einschränken und die Fahrbahn glatt machen. Auf Autobahnen nicht unter Brücken anhalten.
+
+? Sie fahren aus hellem Tageslicht in einen Tunnel ein. Was ist richtig?
++ Geschwindigkeit verringern, weil sich die Augen erst an die Dunkelheit gewöhnen müssen
++ Abblendlicht einschalten
+- Sonnenbrille aufbehalten, um die Augen zu schonen
+= Das Auge braucht beim Wechsel von hell zu dunkel einige Sekunden. Sonnenbrillen vor Tunneln abnehmen.
+
+? Nachts geht eine dunkel gekleidete Person am Rand einer unbeleuchteten Landstraße. Was ist richtig?
++ Ich rechne damit, dass ich sie erst sehr spät erkenne, und fahre deshalb auf Sicht
+- Fußgänger auf Landstraßen sind nachts immer gut zu sehen
+- Ich fahre in der Straßenmitte, um möglichst viel zu sehen
+= Dunkle Kleidung wird bei Abblendlicht erst auf kurze Entfernung erkennbar. Helle Kleidung und Reflektoren sind deutlich früher zu sehen.
+
+? Warum ist es nachts gefährlich, bei Gegenverkehr in die Scheinwerfer zu blicken?
++ Weil die Augen danach einige Zeit brauchen, um sich wieder an die Dunkelheit zu gewöhnen
+- Weil die Scheinwerfer dann heller werden
+- Es ist ungefährlich
+= Während dieser Zeit sehe ich Hindernisse am Fahrbahnrand nur schlecht.
+! punkte=3
+
+? Was müssen Sie bei Nässe beim Sicherheitsabstand beachten?
++ Den Abstand deutlich vergrößern, weil der Bremsweg länger ist
+- Den Abstand verkleinern, weil man bei Nässe langsamer fährt
+- Bei Nässe gilt derselbe Abstand wie bei Trockenheit
+= Als Faustregel gilt bei Nässe mindestens der doppelte Abstand.
+
+? Wo sollten Sie vor einer Kurve die Geschwindigkeit verringern?
++ Vor der Kurve, solange das Fahrzeug noch geradeaus fährt
+- Erst in der Kurve
+- Am Kurvenausgang
+= Bremsen in der Kurve verringert die Seitenführung und kann zum Schleudern oder Sturz führen.
+
+? Sie fahren eine lange, steile Gefällstrecke hinab. Wie verhindern Sie, dass die Bremsen überhitzen?
++ Ich wähle einen niedrigen Gang und nutze die Bremswirkung des Motors
+- Ich bremse dauerhaft leicht mit der Fußbremse
+- Ich kuppele aus und lasse das Fahrzeug rollen
+= Überhitzte Bremsen verlieren stark an Wirkung („Fading“).
+! klassen=MOT
+
+? Wie führen Sie eine Gefahrbremsung mit einem Fahrzeug mit ABS richtig durch?
++ Ich trete die Bremse mit voller Kraft und halte sie getreten
++ Ich kann dabei lenken, um einem Hindernis auszuweichen
+- Ich trete die Bremse mehrfach kurz hintereinander
+= ABS verhindert das Blockieren der Räder. Ein Pulsieren im Bremspedal ist normal.
+! klassen=MOT
+
+? Sie fahren nachts auf einer Landstraße. Wovon hängt ab, wie schnell Sie höchstens fahren dürfen?
++ Ich muss innerhalb der Strecke anhalten können, die ich überblicke
+- Nur vom Tempolimit
+- Von der Leistung meines Fahrzeugs
+= Bei Abblendlicht ist die überschaubare Strecke oft kürzer als der Anhalteweg bei höherer Geschwindigkeit.
+
+? Mitfahrende drängen Sie, schneller zu fahren. Wie verhalten Sie sich?
++ Ich lasse mich nicht unter Druck setzen und fahre so, wie ich es für sicher halte
+- Ich erhöhe die Geschwindigkeit, damit es keinen Streit gibt
+- Ich zeige, dass ich schneller fahren kann
+= Als Fahrer oder Fahrerin trage ich die Verantwortung für alle im Fahrzeug.
+
+? Sie haben sich gerade über einen anderen Verkehrsteilnehmer heftig geärgert. Was ist richtig?
++ Ich versuche mich zu beruhigen und fahre besonders aufmerksam
+- Ich verfolge ihn, um ihn zur Rede zu stellen
+- Ich zeige ihm deutlich meinen Ärger
+= Ärger und Aggression verengen die Aufmerksamkeit und führen zu riskantem Verhalten.
+
+? Sie sind spät dran und haben einen wichtigen Termin. Wie verringern Sie das Unfallrisiko?
++ Ich nehme in Kauf, später anzukommen, und informiere ggf. die Wartenden vor der Fahrt
+- Ich fahre schneller und überhole häufiger
+- Ich nutze jede gelbe Ampel
+= Zeitdruck verleitet zu Fehlern. Schon vor der Fahrt einen Zeitpuffer einplanen.
+
+? Warum überschätzen gerade junge Fahrende ihr Können oft?
++ Weil ihnen Erfahrung fehlt, um Gefahren früh zu erkennen und richtig einzuschätzen
+- Weil sie die besseren Reaktionen haben und daher sicherer sind
+- Das stimmt nicht, Fahranfänger haben das geringste Unfallrisiko
+= Fahranfängerinnen und -anfänger haben das höchste Unfallrisiko. Defensives Fahren gleicht fehlende Routine aus.
+! punkte=3
+
+? Sie sind nach einer langen Autobahnfahrt auf eine Landstraße gewechselt. Was ist dabei zu beachten?
++ Mir kommt die Geschwindigkeit niedriger vor, als sie ist, deshalb achte ich auf den Tacho
+- Ich kann die Geschwindigkeit nach Gefühl wählen
+- Ich darf weiter mit Autobahngeschwindigkeit fahren
+= Nach langem schnellem Fahren gewöhnt man sich an das Tempo und unterschätzt die tatsächliche Geschwindigkeit.
+! klassen=MOT
+
+? Warum ist laute Musik während der Fahrt gefährlich?
++ Ich höre Warnsignale wie Einsatzhörner oder Hupen möglicherweise nicht
+- Weil die Batterie leer wird
+- Laute Musik ist ungefährlich
+= Das Gehör darf nicht durch Geräte beeinträchtigt werden.
+! punkte=3
+
+? Dürfen Sie beim Fahren Kopfhörer tragen, die beide Ohren abdecken und Umgebungsgeräusche dämpfen?
++ Nein, das Gehör darf beim Fahren nicht beeinträchtigt werden
+- Ja, wenn die Musik leise ist
+- Ja, aber nur innerorts
+= Wer ein Fahrzeug führt, muss Warnsignale und den umgebenden Verkehr wahrnehmen können.
+! punkte=3
+
+? Sie wollen während der Fahrt ein neues Ziel in Ihr Navigationsgerät eingeben. Was ist richtig?
++ Ich gebe das Ziel vor der Fahrt ein oder halte dafür an geeigneter Stelle an
+- Ich tippe das Ziel während der Fahrt ein, wenn wenig Verkehr ist
+- Ich gebe das Ziel an einer roten Ampel schnell ein, auch wenn der Motor läuft
+= Bedienung, die den Blick länger von der Straße nimmt, ist während der Fahrt gefährlich und verboten.
+
+? Wie verändert schon eine geringe Menge Alkohol (z. B. 0,3 ‰) Ihr Fahrverhalten?
++ Die Risikobereitschaft steigt und die Konzentration sinkt
+- Gar nicht, erst ab 0,5 ‰
+- Die Reaktion wird schneller
+= Schon ab etwa 0,3 ‰ kann bei Fahrfehlern oder Ausfallerscheinungen eine Straftat vorliegen.
+
+? Ab welcher Blutalkoholkonzentration sind Sie als Fahrer eines Kraftfahrzeugs ohne weitere Anzeichen absolut fahruntüchtig?
+N 1,1 ‰
+= Ab 1,1 ‰ liegt immer eine Straftat vor, auch ohne Fahrfehler. Für Radfahrende liegt diese Grenze bei 1,6 ‰.
+! zahl klassen=MOT
+
+? Sie fahren mit 0,4 ‰ und kommen in einer Kurve von der Fahrbahn ab. Was gilt?
++ Es kann eine Straftat vorliegen, weil der Fahrfehler auf den Alkohol zurückgeführt werden kann
+- Es ist erlaubt, weil der Wert unter 0,5 ‰ liegt
+- Es gilt nur als geringfügige Ordnungswidrigkeit
+= Bei Ausfallerscheinungen oder einem Unfall ist man bereits ab 0,3 ‰ strafbar.
+! punkte=5
+
+? Sie haben ein Medikament eingenommen und trinken dazu ein Glas Bier. Was müssen Sie bedenken?
++ Alkohol kann die Wirkung von Medikamenten unberechenbar verstärken
+- Bier hebt die Wirkung von Medikamenten auf
+- Ein Glas Bier ist bei Medikamenten immer unbedenklich
+= Im Zweifel nicht fahren und Arzt oder Apotheke fragen.
+
+? Sie haben am Vorabend Cannabis konsumiert. Was ist richtig?
++ Die Wirkung und der Wirkstoff im Blut können noch lange anhalten
+- Am nächsten Morgen ist man immer wieder fahrtüchtig
+- Cannabis hat keinen Einfluss auf das Fahren
+= Die Abbaugeschwindigkeit ist individuell sehr verschieden. Wer fährt, muss sicher sein, dass er nicht mehr beeinträchtigt ist.
+
+? Eine verletzte Person liegt nach einem Unfall bewusstlos am Boden, atmet aber normal. Was tun Sie?
++ Ich bringe sie in die stabile Seitenlage
++ Ich rufe den Notruf 112 an bzw. lasse anrufen und kontrolliere die Atmung weiter
+- Ich gebe ihr etwas zu trinken
+= Die stabile Seitenlage hält die Atemwege frei, wenn Erbrochenes oder Blut austritt.
+! punkte=5
+
+? Eine Person ist bewusstlos und atmet nicht normal. Was ist richtig?
++ Notruf 112 absetzen und sofort mit der Herzdruckmassage beginnen
+- Abwarten, bis der Rettungsdienst kommt
+- Die Person in die stabile Seitenlage bringen und weggehen
+= Ungefähr 100- bis 120-mal pro Minute etwa 5–6 cm tief in der Mitte des Brustkorbs drücken; wer es kann, beatmet im Wechsel 30 : 2.
+! punkte=5
+
+? Ein verunglückter Motorradfahrer liegt bewusstlos auf der Straße. Was gilt für seinen Helm?
++ Der Helm sollte abgenommen werden, möglichst zu zweit und vorsichtig, um die Atemwege freizumachen
+- Der Helm darf auf keinen Fall abgenommen werden
+- Der Helm wird nur vom Notarzt abgenommen
+= Nur ohne Helm kann ich Atmung prüfen und die stabile Seitenlage oder Wiederbelebung durchführen.
+! punkte=5
+
+? Was sollten Sie tun, wenn Sie als Erste an einem Unfall mit Verletzten ankommen?
++ Absichern, Notruf, Erste Hilfe
+- Fotos für die Versicherung machen
+- Weiterfahren, weil andere helfen werden
+= Jede Person ist zur Hilfe verpflichtet, soweit es zumutbar ist. Unterlassene Hilfeleistung ist strafbar.
+
+? Sie sehen, dass Schaulustige an einer Unfallstelle Fotos oder Videos von Verletzten machen. Was gilt?
++ Das kann strafbar sein und behindert die Rettungskräfte
+- Das ist erlaubt, wenn die Aufnahmen nicht veröffentlicht werden
+- Das ist erlaubt, solange man nicht im Weg steht
+= Bildaufnahmen, die hilflose oder verstorbene Personen zur Schau stellen, sind verboten.
+! punkte=3
+
+? Aus dem Motorraum Ihres Fahrzeugs dringt während der Fahrt Rauch. Was ist richtig?
++ Sofort an sicherer Stelle anhalten, Motor aus, alle Insassen aussteigen lassen
++ Die Motorhaube höchstens einen Spalt öffnen, um mit dem Feuerlöscher hineinzusprühen
+- Die Motorhaube weit öffnen, um nachzusehen
+= Durch das weite Öffnen gelangt viel Sauerstoff an das Feuer und es kann aufflammen.
+! klassen=MOT
+
+? Warum dürfen Sie den Motor nicht in einer geschlossenen Garage laufen lassen?
++ Abgase enthalten Kohlenmonoxid, das schon in kleinen Mengen lebensgefährlich ist
+- Weil die Garage sonst schmutzig wird
+- Weil der Motor überhitzt
+= Kohlenmonoxid ist geruchlos und unsichtbar.
+
+? Sie fahren mit dem Zweirad über Straßenbahnschienen. Was ist richtig?
++ Ich überquere die Schienen möglichst im rechten Winkel
+- Ich fahre längs auf den Schienen
+- Ich überquere sie in einem spitzen Winkel
+= In einem spitzen Winkel können die Räder in die Rille geraten. Bei Nässe sind Schienen außerdem glatt.
+! klassen=ZWEIRAD,Mofa
+
+? Vor Ihnen bremst ein Fahrzeug auf der Landstraße stark ab, um in ein Grundstück einzubiegen. Was ist richtig?
++ Ich bremse ebenfalls und überhole nicht, bevor klar ist, was es tut
+- Ich überhole zügig rechts
+- Ich hupe und überhole links, ohne den Gegenverkehr zu beachten
+= Wer plötzlich verzögert, biegt möglicherweise ab oder hält an. Ausreichender Abstand verhindert Auffahrunfälle.
+
+? Vor Ihnen ist plötzlich eine Ölspur auf der Fahrbahn. Was ist richtig?
++ Geschwindigkeit vorsichtig verringern, nicht stark bremsen und nicht abrupt lenken
+- Vollbremsung einleiten
+- Auf der Ölspur beschleunigen
+= Auf Öl ist die Haftung sehr gering. Gefahrenstelle nach Möglichkeit der Polizei melden.
+
+? Sie fahren nachts hinter einem anderen Fahrzeug her. Was ist richtig?
++ Ich fahre mit Abblendlicht und halte so viel Abstand, dass ich den Vorausfahrenden nicht blende
+- Ich fahre mit Fernlicht, damit ich mehr sehe
+- Ich halte geringen Abstand, um mich an seinen Rückleuchten zu orientieren
+= Fernlicht blendet auch über die Spiegel.
+! punkte=3
+
+? Sie fahren auf einer Landstraße mit Kuppe. Was ist richtig?
++ Ich fahre rechts und überhole vor der Kuppe nicht
+- Ich überhole auf der Kuppe, wenn ich schnell genug bin
+- Ich fahre in der Mitte, um besser zu sehen
+= Hinter einer Kuppe kann Gegenverkehr oder ein Hindernis verborgen sein.
+
+? Auf einer schmalen Straße kommt Ihnen ein Bus entgegen. Was ist richtig?
++ Ich fahre so weit rechts wie möglich und halte notfalls an
+- Ich fahre weiter in der Mitte, der Bus muss ausweichen
+- Ich beschleunige, um schnell vorbeizukommen
+= Busse brauchen viel Platz, vor allem in Kurven.
+
+? Im Herbst liegt auf einer Landstraße Nebel in Senken. Womit müssen Sie rechnen?
++ Dass die Sicht in Senken und an Gewässern plötzlich stark abnimmt
+- Dass Nebel nur morgens um 6 Uhr auftritt
+- Dass Nebel die Fahrbahn trocknet
+= Nebelbänke treten oft unvermittelt auf. Geschwindigkeit rechtzeitig verringern.
+
+? Was erhöht das Risiko eines Wildunfalls?
++ Fahrten in der Morgen- und Abenddämmerung
++ Wald- und Feldränder
+- Fahrten mittags auf innerörtlichen Straßen
+= Besonders im Frühjahr und Herbst sind Wildtiere in der Dämmerung aktiv.
+! punkte=3
+
+? Ein Kind läuft auf der anderen Straßenseite neben seiner Mutter. Plötzlich sieht es auf Ihrer Seite einen Freund. Womit rechnen Sie?
++ Dass das Kind ohne zu schauen über die Straße läuft
+- Dass die Mutter das Kind sicher festhält
+- Dass das Kind auf mich wartet
+= Kinder handeln spontan und sind durch Freunde, Tiere oder Spielzeug schnell abgelenkt.
+! punkte=5
+
+? Ein Fahrzeug parkt mit offener Fahrertür am Fahrbahnrand. Was ist richtig?
++ Ich halte ausreichenden Seitenabstand, weil jemand plötzlich aussteigen kann
+- Ich fahre dicht vorbei, damit ich den Gegenverkehr nicht behindere
+- Ich hupe und fahre weiter
+= Zu parkenden Fahrzeugen ist ein Abstand von etwa einer Türbreite sinnvoll.
+! punkte=3
+
+? Vor einer Schule ist gerade Unterrichtsschluss. Was ist richtig?
++ Ich fahre langsam und bremsbereit, weil Kinder unvermittelt über die Straße laufen können
+- Ich fahre mit normaler Geschwindigkeit, Lotsen sichern die Straße
+- Ich hupe, um die Kinder zu warnen
+= Kinder sind nach Schulschluss oft unaufmerksam und in Eile.
+! punkte=5
+
+? Sie überholen einen Radfahrer bei starkem Seitenwind von rechts. Womit müssen Sie rechnen?
++ Dass der Radfahrer durch eine Böe nach links versetzt wird
+- Dass der Radfahrer nach rechts versetzt wird
+- Mit nichts, Wind wirkt nicht auf Radfahrende
+= Bei Seitenwind besonders großen Seitenabstand halten oder auf das Überholen verzichten.
+
+? Auf einer Landstraße stehen Kanaldeckel und Schlaglöcher am rechten Fahrbahnrand. Was erwarten Sie von Radfahrenden?
++ Dass sie unvermittelt ausweichen und weiter zur Fahrbahnmitte fahren
+- Dass sie anhalten
+- Dass sie auf den Gehweg ausweichen
+= Radfahrende müssen Hindernissen ausweichen. Ausreichend Abstand halten.
+! punkte=3
+
+? Was ist bei einem Fahrzeug mit Spurhalte- oder Notbremsassistent zu beachten?
++ Die Systeme unterstützen nur; ich bleibe für die Fahrzeugführung verantwortlich
+- Die Systeme verhindern jeden Unfall
+- Ich darf mich dank der Systeme mit anderen Dingen beschäftigen
+= Assistenzsysteme haben Grenzen, z. B. bei schlechtem Wetter oder verschmutzten Sensoren.
+! klassen=MOT
+
+? Sie fahren auf der Autobahn bei Nacht an einer Baustelle vorbei, die Fahrstreifen sind verengt. Was ist richtig?
++ Ich verringere die Geschwindigkeit und halte die Spur genau ein
++ Ich überhole breite Fahrzeuge im Baustellenbereich möglichst nicht
+- Ich fahre versetzt neben anderen Fahrzeugen, um schneller durchzukommen
+= Schmale Fahrstreifen lassen wenig Spielraum für Fehler. Gelbe Markierungen beachten.
+! klassen=MOT
+
+? Warum dürfen Sie auf einer Landstraße in einer Linkskurve nicht „die Kurve schneiden“?
++ Ich gerate in den Bereich des Gegenverkehrs, der hinter der Kurve plötzlich auftauchen kann
+- Weil die Kurve dadurch enger wird
+- Das ist erlaubt, wenn die Kurve übersichtlich ist
+= Auch in Kurven gilt das Rechtsfahrgebot.
+
+? Auf der Autobahn setzt ein Lkw vor Ihnen den Blinker links. Womit müssen Sie rechnen?
++ Dass er gleich auf den linken Fahrstreifen ausschert, um zu überholen
+- Dass er die Autobahn links verlässt
+- Dass er mich vorbeilassen will
+= Langsame Überholvorgänge von Lkw dauern lange. Geschwindigkeit rechtzeitig anpassen.
+! klassen=MOT
+
+? Zu welcher Tageszeit ist das Risiko eines Sekundenschlafs besonders hoch?
++ In den frühen Morgenstunden, etwa zwischen 2 und 5 Uhr
++ Am frühen Nachmittag nach dem Mittagessen
+- Am Vormittag gegen 10 Uhr
+= Der Körper hat zu diesen Zeiten ein natürliches Leistungstief.
+
+? Wie verändert sich der Bremsweg auf einer eisglatten Fahrbahn gegenüber einer trockenen?
++ Er kann ein Vielfaches länger sein
+- Er bleibt gleich
+- Er wird kürzer, weil das Eis kalt ist
+= Auf Eis haben die Reifen kaum Haftung. Sehr langsam fahren oder auf die Fahrt verzichten.
+
+? Warum sollten Sie bei dichtem Nebel nicht mit Fernlicht fahren?
++ Das Licht wird von den Nebeltröpfchen zurückgeworfen und blendet mich selbst
+- Weil Fernlicht bei Nebel nicht funktioniert
+- Fernlicht ist bei Nebel ideal
+= Abblendlicht und, wenn vorhanden, Nebelscheinwerfer bieten die bessere Sicht.
+! klassen=MOT
+
+? Sie fahren nachts bei Regen. Was erschwert die Sicht besonders?
++ Die nasse Fahrbahn spiegelt, Fahrbahnmarkierungen sind schlechter zu erkennen
++ Licht des Gegenverkehrs blendet stärker
+- Regen verbessert die Sicht, weil die Luft sauber ist
+= Saubere Scheiben und intakte Wischer sind wichtig.
+
+? Sie fahren auf nassem Kopfsteinpflaster. Was müssen Sie beachten?
++ Die Haftung ist gering, ich fahre langsamer und bremse behutsam
+- Pflaster bietet bei Nässe die beste Haftung
+- Ich kann wie auf trockenem Asphalt fahren
+= Glatte Steine und Fugen verringern die Reifenhaftung deutlich.
+
+? Mit einem Zweirad fahren Sie bei Regen auf Fahrbahnmarkierungen und Kanaldeckel zu. Was ist richtig?
++ Ich überfahre sie möglichst aufrecht, ohne zu bremsen oder stark zu beschleunigen
+- Ich bremse genau darauf
+- Ich lege mich darauf besonders in die Kurve
+= Markierungen und Metall sind bei Nässe sehr rutschig.
+! klassen=ZWEIRAD,Mofa
+
+? Was erhöht Ihre Sichtbarkeit als Zweiradfahrer oder -fahrerin?
++ Helle oder fluoreszierende Kleidung und Reflektoren
++ Fahren mit eingeschaltetem Licht, auch am Tag
+- Dunkle Kleidung
+= Gut sichtbare Kleidung wird deutlich früher erkannt, vor allem in der Dämmerung.
+! klassen=ZWEIRAD,Mofa
+
+? Ein Hund läuft ohne Leine am Fahrbahnrand. Was ist richtig?
++ Ich verringere die Geschwindigkeit und rechne damit, dass er plötzlich auf die Fahrbahn läuft
+- Ich hupe, damit er wegläuft, und fahre normal weiter
+- Ich fahre dicht vorbei
+= Tiere verhalten sich unberechenbar. Hupen kann sie zusätzlich erschrecken.
+
+? Die Sonne steht tief hinter Ihnen und scheint auf eine Ampel vor Ihnen. Womit müssen Sie rechnen?
++ Dass die Ampel scheinbar leuchtet oder ihre Farbe schwer zu erkennen ist
+- Dass die Ampel ausgefallen ist
+- Mit keiner Beeinträchtigung
+= Im Zweifel langsam heranfahren und anhaltebereit sein.
+
+
+? Warum ist eine von innen verschmutzte Windschutzscheibe bei Gegenlicht gefährlich?
++ Der Schmutzfilm streut das Licht und verstärkt die Blendung
+- Er filtert das Licht und schützt vor Blendung
+- Das ist ungefährlich
+= Scheiben regelmäßig auch innen reinigen.
+! klassen=MOT
+
+? Sie fahren mit Ihrem Zweirad oder Fahrzeug eine lange Gefällstrecke hinab. Womit müssen Sie rechnen?
++ Dass die Geschwindigkeit unbemerkt stark zunimmt
+- Dass das Fahrzeug von selbst langsamer wird
+- Dass der Bremsweg kürzer wird
+= Bergab verlängert sich der Bremsweg. Rechtzeitig und mäßig bremsen.
+
+? Nach einem Sturm fahren Sie durch einen Wald. Womit müssen Sie rechnen?
++ Mit umgestürzten Bäumen und Ästen auf der Fahrbahn
++ Mit herabfallenden Ästen
+- Mit einer besonders sauberen Fahrbahn
+= Langsam fahren und Gefahrenstellen der Polizei melden.

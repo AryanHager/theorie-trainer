@@ -1,0 +1,309 @@
+// Phase 2 – Zusatzstoff Kraftomnibusse (D1, D) – eigene Formulierungen
+// Quellen: StVO §§ 3, 12, 16, 18, 20, 21, 21a, Anlage 2 (Zeichen 224, 245, 257-54); StVZO §§ 32, 34, 35g, 35h, 35i;
+// FPersV § 1; VO (EG) 561/2006 Art. 7; BOKraft §§ 8, 14; FeV §§ 6, 10, 48
+
+@klassen BUS
+
+@kapitel 2.6
+
+@punkte 4
+
+? Wie schnell dürfen Sie mit einem Kraftomnibus außerorts auf einer Landstraße höchstens fahren, wenn alle Fahrgäste sitzen?
+N 80 km/h
+= Das gilt auch mit Gepäckanhänger. Stehen Fahrgäste, weil keine Sitzplätze mehr frei sind, gelten 60 km/h.
+! zahl
+
+? In Ihrem Linienbus stehen Fahrgäste, weil alle Sitzplätze belegt sind. Wie schnell dürfen Sie außerorts höchstens fahren?
+N 60 km/h
+= Stehende Fahrgäste sind bei Bremsungen besonders gefährdet. Fahren Sie besonders gleichmäßig.
+! zahl punkte=5
+
+? Ihr Reisebus erfüllt alle Voraussetzungen für Tempo 100 und ist dafür in der Zulassungsbescheinigung eingetragen. Wie schnell dürfen Sie auf der Autobahn höchstens fahren?
+N 100 km/h
+= Ohne diese Voraussetzungen gelten für Kraftomnibusse auf Autobahnen 80 km/h.
+! zahl
+
+? Welche Voraussetzungen muss ein Kraftomnibus unter anderem erfüllen, damit er auf der Autobahn 100 km/h fahren darf?
++ Sicherheitsgurte an allen Sitzen und ein Geschwindigkeitsbegrenzer, der auf höchstens 100 km/h eingestellt ist
++ Reisebestuhlung und ein entsprechender Eintrag in der Zulassungsbescheinigung
+- Mindestens 50 Sitzplätze
+= Außerdem darf kein Anhänger mitgeführt werden, und an der vorderen Lenkachse dürfen keine nachgeschnittenen Reifen montiert sein.
+! punkte=5
+
+? Ihr Bus zieht einen Anhänger, der nicht nur Gepäck befördert. Wie schnell dürfen Sie auf der Autobahn höchstens fahren?
+N 60 km/h
+= Kraftomnibusse mit Anhänger und Busse mit stehenden Fahrgästen ohne freie Sitzplätze dürfen auf Autobahnen höchstens 60 km/h fahren.
+! zahl punkte=5
+
+? Wie lang darf ein zweiachsiger Kraftomnibus höchstens sein?
+N 13,5 m
+= Kraftomnibusse mit mehr als zwei Achsen dürfen bis 15,00 m lang sein, Gelenkbusse bis 18,75 m.
+! zahl
+
+? Wie lang darf ein Gelenkbus höchstens sein?
+N 18,75 m
+= Dieselbe Höchstlänge gilt für eine Kombination aus Kraftomnibus und Anhänger.
+! zahl punkte=3
+
+? Welches zulässige Gesamtgewicht darf ein zweiachsiger Kraftomnibus höchstens haben?
+N 19,5 t
+= Für andere zweiachsige Kraftfahrzeuge gelten 18 t.
+! zahl punkte=4
+
+? Wie viele Feuerlöscher müssen in einem Doppeldeckbus mindestens mitgeführt werden?
+N 2
+= Ein Löscher gehört in die unmittelbare Nähe des Fahrersitzes, der zweite auf die obere Fahrgastebene. Eindeckbusse brauchen mindestens einen.
+! zahl
+
+? Wie oft müssen die Feuerlöscher eines Kraftomnibusses mindestens von einer fachkundigen Person geprüft werden?
++ Mindestens einmal innerhalb von zwölf Monaten
+- Alle fünf Jahre
+- Nur nach einem Brand
+= Am Löscher muss ein Schild mit dem Namen des Prüfers und dem Datum der Prüfung angebracht sein. Das Fahrpersonal muss die Handhabung kennen.
+! punkte=3
+
+? Wie viele Verbandkästen muss ein Kraftomnibus mit mehr als 22 Fahrgastplätzen mindestens mitführen?
+N 2
+= Busse mit nicht mehr als 22 Fahrgastplätzen brauchen mindestens einen Verbandkasten. Die Unterbringungsstellen müssen deutlich gekennzeichnet sein.
+! zahl
+
+? Dürfen Fahrgäste in einem Kraftomnibus liegend befördert werden?
++ Nein, ausgenommen sind Kinder in Kinderwagen
+- Ja, auf der Rückbank
+- Ja, im Gang, wenn der Bus voll ist
+= Der Gang muss in Längsrichtung frei bleiben. Liegende Personen wären bei einer Bremsung schutzlos.
+! punkte=3
+
+@punkte 3
+
+? Müssen Kinder unter 12 Jahren in einem Reisebus über 3,5 t in einem Kindersitz gesichert werden?
++ Nein, in Kraftomnibussen über 3,5 t ist kein Kindersitz vorgeschrieben
+- Ja, wie im Pkw
+- Ja, aber nur bei Fahrten auf der Autobahn
+= Vorhandene Sicherheitsgurte müssen aber angelegt werden. Darauf hat die fahrende Person vor Fahrtantritt hinzuweisen.
+
+? Ihr Reisebus ist mit Sicherheitsgurten ausgestattet. Was müssen Sie vor Fahrtantritt tun?
++ Die Fahrgäste auf die Gurtpflicht hinweisen
+- Nichts, jeder Fahrgast ist selbst verantwortlich
+- Kontrollieren, ob jeder Fahrgast einen eigenen Gurt mitgebracht hat
+= Über Informationseinrichtungen im Bus muss zudem angezeigt werden, wann Gurte anzulegen sind.
+
+? Wann müssen Fahrgäste in einem Bus mit Sicherheitsgurten den Gurt nicht anlegen?
++ Beim kurzzeitigen Verlassen des Sitzplatzes in Bussen über 3,5 t
++ In Bussen, in denen die Beförderung stehender Fahrgäste zugelassen ist
+- Wenn die Fahrt kürzer als 30 Minuten ist
+= In Linienbussen mit Stehplätzen gibt es keine Gurtpflicht. In Reisebussen gilt sie für alle Sitzplätze mit Gurt.
+! punkte=4
+
+? Was gilt im Linienverkehr für Fahrgäste beim Ein- und Aussteigen?
++ Sie dürfen das Fahrzeug grundsätzlich nur an Haltestellen betreten und verlassen
++ Sie sollen zügig einsteigen und die gekennzeichneten Türen benutzen
+- Sie dürfen jederzeit an jeder Ampel aussteigen
+= Ausnahmen bedürfen der Zustimmung des Betriebspersonals. Gänge und Ausstiege sind freizuhalten.
+
+? Was ist Fahrgästen in einem Kraftomnibus während der Fahrt untersagt?
++ Sich mit der fahrenden Person zu unterhalten
++ Die Türen eigenmächtig zu öffnen
+- Sich einen festen Halt zu verschaffen
+= Ablenkung des Fahrers gefährdet alle Insassen. Im Linienverkehr müssen sich Fahrgäste stets einen festen Halt verschaffen.
+
+? Sie fahren im Linienverkehr. Was gilt für Sie während des Dienstes?
++ Ich darf keine alkoholischen Getränke zu mir nehmen
++ Ich muss die nächste Haltestelle rechtzeitig ankündigen
+- Ich darf während der Fahrt mit Fahrgästen ausführliche Gespräche führen
+= Das Betriebspersonal hat sich rücksichtsvoll und besonnen zu verhalten.
+! punkte=4
+
+? Sie fahren eine Buslinie mit 30 km Linienlänge und einem durchschnittlichen Haltestellenabstand von mehr als 3 km. Welche Fahrtunterbrechung müssen Sie nach 4,5 Stunden Lenkzeit mindestens einlegen?
++ Mindestens 30 zusammenhängende Minuten
++ Ersatzweise zwei Teilunterbrechungen von je mindestens 20 Minuten oder drei von je mindestens 15 Minuten
+- 45 Minuten am Stück, eine Aufteilung ist nicht erlaubt
+= Für den Linienverkehr bis 50 km gelten in Deutschland besondere Regeln für die Fahrtunterbrechung.
+! punkte=5
+
+? Ihre Stadtbuslinie hat einen durchschnittlichen Haltestellenabstand von unter 3 km. Was zählt als Fahrtunterbrechung?
++ Im Dienstplan enthaltene Arbeitsunterbrechungen, z. B. Wendezeiten, wenn sie zusammen mindestens ein Sechstel der Lenkzeit ergeben
+- Jeder Halt an einer Haltestelle
+- Nur eine Pause von mindestens zwei Stunden
+= Arbeitsunterbrechungen unter zehn Minuten zählen dabei nicht. Nach 4,5 Stunden ununterbrochener Lenkzeit sind 45 Minuten Pause nötig.
+! punkte=5
+
+? Sie fahren einen Reisebus im Gelegenheitsverkehr. Wie dürfen Sie die Fahrtunterbrechung nach 4,5 Stunden Lenkzeit aufteilen?
++ In 15 + 30 Minuten
++ Auch in zwei Unterbrechungen von je mindestens 15 Minuten
+- In drei Unterbrechungen von je 10 Minuten
+= Für den Personengelegenheitsverkehr erlaubt das EU-Recht zusätzlich die Aufteilung in zwei Unterbrechungen von je mindestens 15 Minuten.
+! punkte=5
+
+@kapitel 2.2
+
+@punkte 4
+
+? Sie nähern sich mit Ihrem Linienbus einer Haltestelle, für die die Behörde Warnblinklicht angeordnet hat. Was müssen Sie tun?
++ Warnblinklicht beim Annähern einschalten und eingeschaltet lassen, solange Fahrgäste ein- und aussteigen
+- Warnblinklicht erst nach dem Halten einschalten
+- Nur die Innenbeleuchtung einschalten
+= Solange das Warnblinklicht beim Annähern leuchtet, darf der Bus nicht überholt werden. Beim Halten dürfen andere nur mit Schrittgeschwindigkeit vorbeifahren.
+
+? Sie wollen mit Ihrem Linienbus von einer gekennzeichneten Haltestelle abfahren. Was gilt für den übrigen Verkehr?
++ Andere Fahrzeuge müssen mir das Abfahren ermöglichen, wenn nötig warten
+- Ich habe Vorrang und darf ohne Rücksicht losfahren
+- Ich muss warten, bis die Straße völlig frei ist
+= Auch mit diesem Vorrang müssen Sie Blinker setzen und darauf achten, dass niemand gefährdet wird.
+
+? Dürfen Sie mit einem Reisebus im Gelegenheitsverkehr einen Bussonderfahrstreifen benutzen?
++ Nur, wenn dies durch ein Zusatzzeichen erlaubt ist
+- Ja, immer, weil es ein Bus ist
+- Nein, nie
+= Ohne Zusatzzeichen ist der Bussonderfahrstreifen Linienbussen sowie gekennzeichneten Schul- und Behindertenbussen vorbehalten.
+# zeichen 245
+
+? Ihr Bus ist sehr voll. Wie fahren Sie, damit stehende Fahrgäste nicht stürzen?
++ Sanft anfahren, gleichmäßig bremsen und Kurven ruhig durchfahren
++ Erst anfahren, wenn sich ältere oder gehbehinderte Fahrgäste gesetzt oder festgehalten haben
+- Zügig anfahren, damit der Fahrplan eingehalten wird
+= Stürze im Bus sind häufige Unfallursachen. Fahrplanzeit ist nie wichtiger als die Sicherheit der Fahrgäste.
+
+@punkte 3
+
+? Sie halten mit dem Bus an einer Haltestelle. Ein Fahrgast im Rollstuhl möchte einsteigen. Was tun Sie?
++ Den Bus absenken (Kneeling) oder die Rampe ausklappen und, wenn nötig, helfen
++ Darauf achten, dass der Rollstuhl auf dem vorgesehenen Platz gesichert ist
+- Zügig weiterfahren, weil das Einsteigen zu lange dauert
+= Barrierefreies Ein- und Aussteigen ist Teil des Fahrdienstes. Rollstuhlplätze haben besondere Rückhalteeinrichtungen.
+
+? Sie schließen an einer Haltestelle die Türen. Worauf achten Sie?
++ Im Spiegel oder auf dem Monitor prüfen, dass niemand im Türbereich steht
+- Türen schließen, sobald der Fahrplan es erfordert
+- Auf den Einklemmschutz verlassen
+= Einklemmschutz und Sensoren können versagen. Erst wenn der Türbereich frei ist, schließen und anfahren.
+
+@kapitel 2.1
+
+@punkte 5
+
+? An einer Schulbushaltestelle warten viele Kinder. Sie fahren mit dem Bus heran. Wie verhalten Sie sich?
++ Langsam heranfahren, weil Kinder drängeln oder auf die Fahrbahn treten können
++ Den Bus so anhalten, dass die Kinder sicher ein- und aussteigen können
+- Zügig heranfahren, damit die Kinder schnell einsteigen
+= Kinder können Gefahren schlecht einschätzen. Vorsicht auch beim Abfahren, weil Kinder vor oder hinter dem Bus die Straße überqueren.
+
+? Sie fahren nach dem Halt an einer Haltestelle wieder an. Was ist besonders gefährlich?
++ Fahrgäste, die vor dem Bus die Straße überqueren, und Personen, die dem Bus hinterherlaufen
++ Radfahrende, die rechts am Bus vorbeifahren wollen
+- Nichts, weil andere warten müssen
+= Vor dem Anfahren alle Spiegel prüfen, die Fahrzeugfront im Blick haben und langsam anfahren.
+
+@punkte 4
+
+? Warum müssen Sie mit einem Bus Kurven besonders vorsichtig durchfahren?
++ Stehende Fahrgäste können durch die Fliehkraft stürzen
++ Der lange Überhang schwenkt beim Abbiegen weit nach außen
+- Weil Busse in Kurven schneller werden
+= Der Hecküberhang kann beim Abbiegen auf Gehwege oder Nachbarfahrstreifen ausschwenken. Achten Sie auf Personen an der Haltestelle.
+
+? Ein Fahrgast bricht während der Fahrt zusammen. Was tun Sie?
++ Den Bus so bald wie möglich sicher anhalten, Erste Hilfe leisten und den Rettungsdienst rufen
+- Bis zur nächsten Endhaltestelle weiterfahren
+- Nur über Lautsprecher um Hilfe bitten und weiterfahren
+= Verbandkästen und gegebenenfalls ein Defibrillator sind im Bus gekennzeichnet. Andere Fahrgäste können unterstützen.
+
+@kapitel 2.7
+
+@punkte 4
+
+? Wo finden Fahrgäste im Notfall Einrichtungen, um den Bus zu verlassen?
++ An gekennzeichneten Notausstiegen, z. B. Notfenstern mit Nothammer und Dachluken
++ An Notentriegelungen der Türen (Nothähne)
+- Nur an der vorderen Tür beim Fahrer
+= Machen Sie sich vor jeder Fahrt mit den Notausstiegen Ihres Fahrzeugs vertraut. Sie müssen frei zugänglich sein.
+
+? Ein Fahrgast hat während der Fahrt die Notentriegelung einer Tür betätigt. Was tun Sie?
++ Den Bus vorsichtig anhalten und den Grund klären
+- Weiterfahren, die Tür schließt sich von selbst
+- Schneller fahren, damit niemand aussteigt
+= Nach Betätigen der Notentriegelung lässt sich die Tür von Hand öffnen. Bei vielen Bussen wird außerdem das Anfahren verhindert.
+
+? Wofür dient eine Haltestellenbremse im Linienbus?
++ Sie hält den Bus beim Fahrgastwechsel fest, damit er nicht wegrollt
+- Sie ersetzt die Betriebsbremse während der Fahrt
+- Sie bremst nur den Anhänger
+= Die Haltestellenbremse wird häufig mit dem Öffnen der Türen gekoppelt. Sie ersetzt beim Abstellen nicht die Feststellbremse.
+
+? In Ihrem Bus brennt es im Motorraum. Was tun Sie zuerst?
++ Sofort sicher anhalten, Motor abstellen und die Fahrgäste aus dem Bus bringen
+- Weiterfahren bis zur nächsten Werkstatt
+- Zuerst die Motorklappe ganz öffnen
+= Personenschutz geht vor Brandbekämpfung. Die Motorklappe nur vorsichtig spaltweise öffnen, weil sonst Sauerstoff das Feuer anfacht.
+! punkte=5
+
+@punkte 3
+
+? Warum müssen die Gänge in einem Kraftomnibus frei bleiben?
++ Damit Fahrgäste den Bus im Notfall schnell verlassen können
+- Weil dort Gepäck abgestellt werden soll
+- Das ist nur bei Doppeldeckern vorgeschrieben
+= Gepäck gehört in die Gepäckablagen oder den Gepäckraum. Im Notfall zählt jede Sekunde.
+
+@kapitel 2.4
+
+@punkte 3
+
+? Wie weit vor und hinter diesem Zeichen dürfen andere Fahrzeuge nicht parken?
+N 15 m
+= So bleibt die Haltestelle für Busse frei anfahrbar.
+# zeichen 224
+! zahl
+
+? Sie fahren einen leeren Reisebus und sehen dieses Zeichen. Dürfen Sie in die Straße einfahren?
++ Nein, das Zeichen verbietet die Einfahrt für Kraftomnibusse
+- Ja, weil der Bus leer ist
+- Ja, wenn ich langsam fahre
+= Das Verbot gilt unabhängig von der Besetzung des Busses.
+# zeichen 257-54
+
+@kapitel 2.8
+
+@punkte 3
+
+? Brauchen Sie für die Beförderung von Fahrgästen im Kraftomnibus zusätzlich eine Fahrerlaubnis zur Fahrgastbeförderung?
++ Nein, mit der Klasse D oder D1 ist sie nicht erforderlich
+- Ja, immer
+- Nur bei Fahrten ins Ausland
+= Die Fahrerlaubnis zur Fahrgastbeförderung ist z. B. für Taxen und Mietwagen nötig, nicht für Inhaber der Klassen D oder D1.
+
+? Welche Fahrzeuge dürfen Sie mit der Klasse D1 führen?
++ Kraftomnibusse für nicht mehr als 16 Personen außer dem Fahrer und mit einer Länge von nicht mehr als 8 m
+- Kraftomnibusse jeder Größe
+- Lkw bis 7,5 t
+= Mit D1 darf auch ein Anhänger bis 750 kg zulässige Gesamtmasse gezogen werden.
+! klassen=D1
+
+? Wie lang darf ein Kraftomnibus der Klasse D1 höchstens sein?
+N 8 m
+= Längere Busse oder Busse mit mehr als 16 Fahrgastplätzen erfordern die Klasse D.
+! klassen=D1 zahl punkte=4
+
+? Wie alt müssen Sie für die Klasse D1 grundsätzlich mindestens sein?
+N 21 Jahre
+= Im Rahmen einer Berufsausbildung ist der Erwerb früher möglich.
+! klassen=D1 zahl
+
+? Wie alt müssen Sie für die Klasse D grundsätzlich mindestens sein, wenn Sie keine Grundqualifikation haben?
+N 24 Jahre
+= Mit beschleunigter Grundqualifikation, Grundqualifikation oder in der Berufsausbildung sind niedrigere Mindestalter möglich.
+! klassen=D zahl punkte=4
+
+? Sie besitzen die Klasse D. Welche andere Klasse dürfen Sie damit automatisch auch fahren?
++ Die Klasse D1
+- Die Klasse C
+- Die Klasse CE
+= Für Anhänger über 750 kg hinter einem Bus ist die Klasse DE erforderlich.
+! klassen=D punkte=2
+
+? Sie fahren einen Bus der Klasse D mit 50 Fahrgästen. Was erwarten Fahrgäste und Unternehmen von Ihnen besonders?
++ Ruhige, vorausschauende Fahrweise und Freundlichkeit
++ Sicherheitsbewusstsein auch unter Zeitdruck
+- Möglichst schnelles Fahren, um Verspätungen aufzuholen
+= Als Busfahrer tragen Sie Verantwortung für viele Menschen. Sicherheit geht vor Pünktlichkeit.
+! klassen=D punkte=3

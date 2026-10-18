@@ -1,0 +1,350 @@
+// Zusatzstoff Klasse B (2.1–2.8) – eigene Formulierungen
+@klassen B
+
+@kapitel 2.1
+@punkte 4
+
+? Ihr Pkw-Anhänger beginnt auf der Autobahn zu pendeln. Wie reagieren Sie?
++ Ich lenke ruhig geradeaus und verringere die Geschwindigkeit, ggf. durch kräftiges Bremsen
+- Ich beschleunige kräftig, um das Gespann zu strecken
+- Ich lenke gegen jede Pendelbewegung stark an
+= Pendeln entsteht meist durch zu hohe Geschwindigkeit, Seitenwind oder falsche Beladung. Gegenlenken verstärkt es, Beschleunigen ist gefährlich.
+! punkte=5
+
+? Was verringert die Gefahr, dass ein Anhänger ins Schlingern gerät?
++ Schwere Ladung möglichst tief und über der Achse verstauen
++ Die vorgeschriebene Stützlast einhalten
+- Schwere Ladung möglichst hinten im Anhänger verstauen
+= Ein tiefer Schwerpunkt und eine passende Stützlast stabilisieren das Gespann. Last hinten im Anhänger macht es instabil.
+
+? Wie verändert sich das Fahrverhalten Ihres Pkw mit schwerer Dachlast?
++ Der Schwerpunkt liegt höher, das Fahrzeug neigt in Kurven stärker zur Seite
++ Die Seitenwindempfindlichkeit nimmt zu
+- Das Fahrzeug liegt ruhiger auf der Straße
+= Dachlasten erhöhen den Schwerpunkt. Kurven langsamer fahren und die zulässige Dachlast beachten.
+
+? Was ist bei einem Fahrzeug mit Heckantrieb bei Glätte zu beachten?
++ Beim Anfahren und Beschleunigen kann das Heck leichter ausbrechen
+- Das Fahrzeug ist bei Glätte grundsätzlich stabiler
+- Ich sollte stark Gas geben, damit die Räder greifen
+= Heckgetriebene Fahrzeuge neigen bei zu viel Gas auf glatter Fahrbahn zum Übersteuern. Gefühlvoll beschleunigen.
+
+? Welche Grenzen hat ein elektronisches Stabilitätsprogramm (ESP)?
++ Es kann die physikalischen Grenzen nicht aufheben
++ Bei zu hoher Kurvengeschwindigkeit kann das Fahrzeug trotzdem von der Straße abkommen
+- Mit ESP kann ich Kurven beliebig schnell durchfahren
+= ESP bremst einzelne Räder gezielt ab, um Schleudern zu verhindern. Gegen überhöhte Geschwindigkeit hilft es nicht.
+
+? Worauf müssen Sie sich bei Fahrerassistenzsystemen wie einem Spurhalteassistenten einstellen?
++ Ich bleibe für die Fahrzeugführung verantwortlich
++ Die Systeme können bei schlechter Sicht oder fehlenden Markierungen versagen
+- Ich darf während der Fahrt die Hände dauerhaft vom Lenkrad nehmen
+= Assistenzsysteme unterstützen, ersetzen aber nicht die Aufmerksamkeit des Fahrers.
+
+? Sie fahren mit einem Pkw mit Anhänger. Was ist beim Überholen zu beachten?
++ Der Überholweg ist deutlich länger als ohne Anhänger
+- Ich kann genauso überholen wie ohne Anhänger
+- Ich darf mit Anhänger nicht überholen
+= Gespanne sind länger und beschleunigen schlechter. Überholen braucht viel mehr Platz und Zeit.
+
+? Welche Gefahr besteht beim Einparken rückwärts in eine enge Parklücke?
++ Die Fahrzeugfront schwenkt zur Fahrbahnseite aus
++ Ich kann Kinder hinter dem Fahrzeug übersehen
+- Keine, wenn ich eine Rückfahrkamera habe
+= Beim Rückwärtseinparken schwenkt der Vorderwagen aus. Kamera und Sensoren erfassen nicht alles.
+
+@kapitel 2.2
+@punkte 3
+
+? Wie schnell dürfen Sie mit einem Pkw mit Anhänger außerorts höchstens fahren (ohne besondere Zulassung)?
+N 80 km/h
+= Pkw mit Anhänger: außerorts und auf Autobahnen höchstens 80 km/h. Mit Tempo-100-Zulassung sind auf Autobahnen und Kraftfahrstraßen 100 km/h erlaubt.
+! zahl
+
+? Bis zu welchem Alter müssen Kinder unter 150 cm Körpergröße im Pkw in einem geeigneten Kindersitz gesichert werden?
++ Bis zum vollendeten 12. Lebensjahr
+- Bis zum vollendeten 6. Lebensjahr
+- Bis zum vollendeten 14. Lebensjahr
+= Kinder unter 12 Jahren, die kleiner als 150 cm sind, brauchen eine amtlich genehmigte und passende Rückhalteeinrichtung.
+! punkte=4
+
+? Ein Kind soll in einem rückwärts gerichteten Kindersitz auf dem Beifahrersitz mitfahren. Was ist zwingend?
++ Der Beifahrerairbag muss deaktiviert sein
+- Der Beifahrersitz muss ganz nach vorne geschoben werden
+- Ein rückwärts gerichteter Kindersitz ist vorne nie erlaubt
+= Ein auslösender Airbag kann ein Kind in einer Babyschale schwer verletzen. Deshalb muss er abgeschaltet sein.
+! punkte=5
+
+? Wie viele Personen dürfen Sie in Ihrem Pkw befördern?
++ Höchstens so viele, wie Sitzplätze mit Sicherheitsgurten vorhanden sind
+- So viele, wie hineinpassen
+- Kinder zählen nicht mit
+= Jede Person braucht einen eigenen Sitzplatz mit Gurt bzw. eine geeignete Kindersicherung.
+
+? Ihre Ladung ragt nach hinten über das Fahrzeug hinaus. Ab welchem Überstand müssen Sie sie kenntlich machen?
++ Ab mehr als 1 m
+- Ab mehr als 0,5 m
+- Ab mehr als 2 m
+= Ragt die Ladung mehr als 1 m nach hinten hinaus, muss sie mit einer hellroten Fahne oder einem Schild gekennzeichnet werden, bei Dunkelheit mit einer roten Leuchte und einem roten Rückstrahler.
+! punkte=4
+
+? Wie weit darf Ladung bei einer Fahrt über mehr als 100 km höchstens nach hinten hinausragen?
+N 1,5 m
+= Nach hinten darf die Ladung höchstens 1,5 m hinausragen. Nur bei Fahrten bis zu 100 km Wegstrecke sind bis zu 3 m erlaubt.
+! zahl
+
+? Wie müssen Sie Ladung in Ihrem Pkw sichern?
++ So, dass sie auch bei einer Vollbremsung oder plötzlichen Ausweichbewegung nicht verrutschen kann
+- Nur schwere Gegenstände müssen gesichert werden
+- Im Kofferraum muss nichts gesichert werden
+= Ungesicherte Ladung wird bei einem Aufprall zum gefährlichen Geschoss. Schwere Teile nach unten und an die Rückenlehne.
+! punkte=4
+
+? Welchen Abstand darf ein abgeschlepptes Fahrzeug bei einer Abschleppstange oder einem Seil höchstens haben?
+N 5 m
+= Der Abstand zwischen den Fahrzeugen darf höchstens 5 m betragen. Ein Seil ist gut sichtbar zu kennzeichnen.
+! zahl
+
+? Sie werden abgeschleppt. Was müssen Sie beachten?
++ Bei beiden Fahrzeugen wird das Warnblinklicht eingeschaltet
++ Ich muss die Lenkung bedienen können; bei abgestelltem Motor ist mehr Kraft zum Bremsen nötig
+- Ich darf den Zündschlüssel abziehen, damit die Batterie geschont wird
+= Bei abgezogenem Schlüssel kann das Lenkradschloss einrasten. Ohne laufenden Motor fehlen Brems- und Lenkhilfe.
+! punkte=4
+
+? Wann dürfen Sie Ihren Pkw auf dem Gehweg parken?
++ Nur, wenn dies durch Verkehrszeichen erlaubt ist und mein Fahrzeug höchstens 2,8 t zulässige Gesamtmasse hat
+- Immer, wenn eine Restbreite von 1 m bleibt
+- Wenn ich das Warnblinklicht einschalte
+= Gehwegparken ist nur mit Zeichen 315 oder entsprechender Markierung erlaubt.
+
+? Wie lange dürfen Sie einen Anhänger ohne Zugfahrzeug im öffentlichen Straßenraum höchstens parken?
++ Höchstens zwei Wochen, außer auf dafür gekennzeichneten Parkflächen
+- Unbegrenzt, wenn er ein gültiges Kennzeichen hat
+- Gar nicht – Anhänger dürfen nie allein abgestellt werden
+= Anhänger ohne Zugfahrzeug dürfen nicht länger als zwei Wochen geparkt werden, außer auf besonders gekennzeichneten Flächen.
+! punkte=2
+
+@kapitel 2.5
+@punkte 3
+
+? Wie wirkt sich eine eingeschaltete Klimaanlage auf den Verbrauch aus?
++ Der Verbrauch steigt
+- Der Verbrauch sinkt
+- Kein Einfluss
+= Die Klimaanlage braucht Energie. Nur bei Bedarf und mit geschlossenen Fenstern nutzen.
+! punkte=2
+
+? Wie fahren Sie mit einem Elektro- oder Hybridfahrzeug besonders energiesparend?
++ Vorausschauend fahren und die Rekuperation (Energierückgewinnung beim Verzögern) nutzen
+- Möglichst oft stark beschleunigen
+- Immer mit der Betriebsbremse bis zum Stillstand bremsen
+= Beim Verzögern mit dem Elektromotor wird Energie zurück in die Batterie gespeist.
+
+? Was beeinflusst den Rollwiderstand und damit den Verbrauch?
++ Der Reifendruck
++ Die Reifenart
+- Die Farbe des Fahrzeugs
+= Zu niedriger Druck und breite Reifen erhöhen den Rollwiderstand.
+! punkte=2
+
+? Sie beladen Ihren Pkw für eine Urlaubsfahrt voll. Was ist für Umwelt und Sicherheit sinnvoll?
++ Den Reifendruck auf den Wert für volle Beladung erhöhen
+- Den Reifendruck senken, damit der Wagen weicher federt
+- Den Reifendruck nicht verändern
+= Die Werte für volle Beladung stehen in der Betriebsanleitung, oft im Tankdeckel oder an der Fahrertür.
+
+@kapitel 2.6
+@punkte 3
+
+? Welche Fahrzeuge dürfen Sie mit der Klasse B führen?
++ Kraftfahrzeuge mit einer zulässigen Gesamtmasse von höchstens 3500 kg
++ Fahrzeuge mit höchstens acht Sitzplätzen außer dem Fahrersitz
+- Kraftomnibusse mit bis zu 16 Sitzplätzen
+= Klasse B: Kfz bis 3,5 t zulässige Gesamtmasse und höchstens 8 Fahrgastplätze.
+
+? Welche Anhänger dürfen Sie mit der Klasse B ziehen?
++ Anhänger mit einer zulässigen Gesamtmasse bis 750 kg
++ Schwerere Anhänger, wenn die zulässige Gesamtmasse der Kombination 3500 kg nicht übersteigt
+- Jeden Anhänger, solange das Zugfahrzeug stark genug ist
+= Ohne zusätzliche Berechtigung: Anhänger bis 750 kg oder Kombination bis 3500 kg.
+! punkte=5
+
+? Was erlaubt die Schlüsselzahl 96 in der Klasse B?
++ Fahrzeugkombinationen mit einer zulässigen Gesamtmasse von mehr als 3500 kg bis 4250 kg
+- Anhänger bis 3500 kg ohne Einschränkung
+- Das Führen von Lkw bis 7,5 t
+= B96 erhält man nach einer Fahrerschulung ohne Prüfung. Für schwerere Anhänger ist die Klasse BE nötig.
+! punkte=4
+
+? Wie schwer darf ein ungebremster Anhänger höchstens sein?
++ Höchstens halb so schwer wie die Leermasse des Zugfahrzeugs, höchstens aber 750 kg
+- Bis 1000 kg
+- So schwer wie das Zugfahrzeug
+= Diese Grenze gilt für die tatsächliche Masse ungebremster Anhänger. Herstellerangaben im Fahrzeugschein beachten.
+! punkte=4
+
+? Welche Dokumente müssen Sie beim Fahren mit einem Pkw mitführen?
++ Den Führerschein
++ Die Zulassungsbescheinigung Teil I
+- Die Zulassungsbescheinigung Teil II (Fahrzeugbrief)
+= Führerschein und Zulassungsbescheinigung Teil I sind auf Verlangen vorzuzeigen. Teil II gehört sicher zu Hause aufbewahrt.
+
+? In welchem Abstand muss ein Pkw zur Hauptuntersuchung (HU), wenn er nicht neu ist?
+N 24 Monate
+= Pkw müssen alle 24 Monate zur HU, ein Neuwagen erstmals nach 36 Monaten.
+! zahl
+
+? Was müssen Sie tun, wenn Sie Ihr Fahrzeug technisch verändern, z. B. andere Felgen montieren?
++ Prüfen, ob die Betriebserlaubnis erhalten bleibt oder eine Abnahme bzw. Eintragung nötig ist
+- Nichts, solange es gut aussieht
+- Nur die Versicherung informieren
+= Bauartveränderungen können die Betriebserlaubnis erlöschen lassen. Dann darf das Fahrzeug nicht mehr gefahren werden.
+
+? Wer ist für den verkehrssicheren Zustand des Fahrzeugs während der Fahrt verantwortlich?
++ Die Person, die das Fahrzeug führt
++ Auch die Halterin oder der Halter
+- Ausschließlich die Werkstatt
+= Fahrer und Halter haben dafür zu sorgen, dass Fahrzeug und Ladung vorschriftsmäßig sind.
+! punkte=4
+
+? Bei welchen Straßenverhältnissen müssen Sie mit Winterreifen fahren?
++ Bei Glatteis, Schneeglätte, Schneematsch, Eis- oder Reifglätte
+- Grundsätzlich von Oktober bis Ostern
+- Nur auf Autobahnen
+= In Deutschland gilt eine situative Winterreifenpflicht. Die Reifen müssen mit dem Alpine-Symbol (Bergpiktogramm mit Schneeflocke) gekennzeichnet sein.
+! punkte=4
+
+? Was ist vorgeschrieben, wenn Sie einen Anhänger mit Ihrem Pkw ziehen?
++ Die Beleuchtung des Anhängers muss funktionieren
++ Die Abreißseil- bzw. Sicherungsverbindung bei gebremsten Anhängern muss angebracht sein
+- Am Anhänger muss kein Kennzeichen angebracht sein
+= Anhänger brauchen ein eigenes Kennzeichen, funktionierende Beleuchtung und eine Sicherungsverbindung.
+
+? Ihre Kennzeichen sind stark verschmutzt. Was gilt?
++ Kennzeichen müssen stets gut lesbar sein; ich reinige sie
+- Das ist erlaubt, solange die Plakette sichtbar ist
+- Nur das vordere Kennzeichen muss lesbar sein
+= Verschmutzte oder verdeckte Kennzeichen sind eine Ordnungswidrigkeit.
+! punkte=2
+
+@kapitel 2.7
+@punkte 3
+
+? Warum muss die Bremsflüssigkeit regelmäßig erneuert werden?
++ Sie nimmt mit der Zeit Wasser auf, wodurch ihr Siedepunkt sinkt
+- Sie verdunstet, wenn der Pkw lange steht
+- Sie verliert ihre Farbe
+= Bei starker Beanspruchung können sich sonst Dampfblasen bilden – die Bremse kann ausfallen.
+! punkte=4
+
+? Während der Fahrt leuchtet die rote Öldruckkontrollleuchte auf. Was tun Sie?
++ Ich halte so bald wie möglich an und stelle den Motor ab
+- Ich fahre weiter bis zur nächsten Werkstatt
+- Ich fahre mit hoher Drehzahl, damit der Öldruck steigt
+= Ohne Öldruck kann der Motor in kurzer Zeit schwer beschädigt werden.
+! punkte=4
+
+? Wann sollten Sie den Reifendruck prüfen?
++ Regelmäßig bei kalten Reifen
+- Nur bei der Hauptuntersuchung
+- Direkt nach einer langen Autobahnfahrt
+= Warme Reifen zeigen einen höheren Druck an. Prüfen etwa alle zwei Wochen und vor langen Fahrten.
+
+? Wozu dient die Leuchtweitenregulierung?
++ Um die Scheinwerfer bei starker Beladung so einzustellen, dass andere nicht geblendet werden
+- Um die Helligkeit der Innenbeleuchtung zu verändern
+- Um das Fernlicht weiter strahlen zu lassen
+= Ist das Heck stark beladen, leuchten die Scheinwerfer höher. Mit der Regulierung stellt man sie nach unten.
+
+? Was zeigt eine leuchtende Ladekontrollleuchte während der Fahrt an?
++ Die Batterie wird nicht mehr geladen, z. B. wegen eines Defekts an der Lichtmaschine oder am Keilriemen
+- Die Batterie ist voll geladen
+- Das Elektroauto lädt gerade
+= Ohne Ladung entleert sich die Batterie. Bei gerissenem Keilriemen kann auch die Wasserpumpe ausfallen.
+
+? Woran erkennen Sie, dass die Stoßdämpfer verschlissen sein könnten?
++ Das Fahrzeug schaukelt nach Bodenwellen stark nach
++ Ungleichmäßig abgefahrene Reifen
+- Der Kraftstoffverbrauch sinkt
+= Defekte Stoßdämpfer verschlechtern die Straßenhaftung und verlängern den Bremsweg.
+
+? Was bewirkt ein Gurtstraffer bei einem Unfall?
++ Er zieht den Gurt in der ersten Phase des Aufpralls straff
+- Er löst den Gurt nach dem Unfall automatisch
+- Er ersetzt den Airbag
+= Gurtstraffer verringern die Gurtlose. Nach dem Auslösen müssen sie wie Airbags ersetzt werden.
+
+? Was ist bei der Starthilfe mit Überbrückungskabeln zu beachten?
++ Das rote Kabel verbindet die Pluspole beider Batterien
++ Die Spannung beider Batterien muss gleich sein
+- Das schwarze Kabel wird an den Pluspol der leeren Batterie geklemmt
+= Rot verbindet Plus mit Plus. Schwarz kommt an den Minuspol der Spenderbatterie und an eine Masse am Motor des Empfängerfahrzeugs.
+
+? Welcher Zustand der Reifen ist gefährlich?
++ Risse oder Beulen in der Reifenflanke
++ Sehr alte Reifen, auch mit ausreichendem Profil
+- Gleichmäßige Abnutzung innerhalb der Mindestprofiltiefe
+= Beschädigte oder überalterte Reifen können platzen. Gummi wird mit den Jahren hart und haftet schlechter.
+
+? Wozu dient der Katalysator?
++ Er wandelt schädliche Abgasbestandteile in weniger schädliche Stoffe um
+- Er erhöht die Motorleistung
+- Er senkt den Lärm des Auspuffs
+= Ein defekter Katalysator erhöht die Schadstoffwerte deutlich.
+! punkte=2
+
+? Die Warnleuchte der Bremsanlage leuchtet trotz gelöster Feststellbremse. Was kann die Ursache sein?
++ Zu wenig Bremsflüssigkeit im Ausgleichsbehälter
++ Verschlissene Bremsbeläge (bei entsprechend ausgestatteten Fahrzeugen)
+- Zu hoher Reifendruck
+= Die Bremsanlage muss umgehend überprüft werden.
+! punkte=4
+
+@kapitel 2.8
+@punkte 3
+
+? Im Führerschein ist bei Ihnen die Schlüsselzahl 01 eingetragen. Was bedeutet das?
++ Ich muss beim Fahren eine Sehhilfe tragen
+- Ich darf nur tagsüber fahren
+- Ich darf nur Automatikfahrzeuge fahren
+= Die Schlüsselzahl 01 steht für die Auflage einer Sehhilfe bzw. eines Augenschutzes.
+
+? Wie viele Punkte im Fahreignungsregister führen zur Entziehung der Fahrerlaubnis?
+N 8 Punkte
+= Ab 8 Punkten wird die Fahrerlaubnis entzogen. Bei 4–5 Punkten gibt es eine Ermahnung, bei 6–7 eine Verwarnung.
+! zahl
+
+? Wie können Sie bei 1 bis 5 Punkten im Fahreignungsregister freiwillig einen Punkt abbauen?
++ Durch Teilnahme an einem Fahreignungsseminar
+- Durch eine Spende
+- Durch einen Erste-Hilfe-Kurs
+= Ein Punkteabzug durch das Fahreignungsseminar ist höchstens alle fünf Jahre möglich.
+
+? Welche Voraussetzungen muss eine Begleitperson beim begleiteten Fahren ab 17 erfüllen?
++ Sie muss mindestens 30 Jahre alt sein und seit mindestens fünf Jahren die Klasse B besitzen
++ Sie darf höchstens einen Punkt im Fahreignungsregister haben
+- Sie muss Fahrlehrerin oder Fahrlehrer sein
+= Die Begleitperson muss namentlich eingetragen sein und darf nicht unter dem Einfluss von Alkohol oder Drogen stehen.
+! punkte=4
+
+? Was müssen Sie tun, wenn sich Ihr Sehvermögen spürbar verschlechtert?
++ Ich lasse meine Augen untersuchen, bevor ich weiter fahre
+- Ich fahre nur noch auf bekannten Strecken
+- Nichts, der Sehtest bei der Führerscheinprüfung gilt lebenslang
+= Wer nicht ausreichend sieht, gefährdet sich und andere. Fahren ist dann nur mit geeigneter Sehhilfe zulässig.
+! punkte=4
+
+? Sie fühlen sich nach einer Erkältung noch stark geschwächt. Was ist richtig?
++ Ich verzichte auf das Fahren, bis ich mich wieder fit fühle
+- Mit offenem Fenster ist das kein Problem
+- Kurzstrecken sind immer erlaubt
+= Wer nicht in der Lage ist, sicher zu fahren, darf kein Fahrzeug führen – auch bei Krankheit oder Erschöpfung.
+! punkte=4
+
+? Wie lange gilt ein in Deutschland seit 2013 ausgestellter Kartenführerschein der Klasse B als Dokument?
++ 15 Jahre – danach muss das Dokument erneuert werden, die Fahrerlaubnis selbst bleibt bestehen
+- Unbegrenzt
+- 5 Jahre, dann ist eine neue Prüfung nötig
+= Seit 19.01.2013 sind Führerscheine der Klassen AM, A1, A2, A, B, BE, L, T auf 15 Jahre befristet. Eine neue Prüfung oder ärztliche Untersuchung ist für die Erneuerung nicht nötig.
+! punkte=2 klassen=B,KRAD,AM,L,T

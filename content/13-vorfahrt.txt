@@ -1,0 +1,253 @@
+// 1.3 Vorfahrt, Vorrang (Grundstoff) – eigene Situationen, Grafiken via scripts/svg-gen.mjs
+@kapitel 1.3
+@klassen ALLE
+@punkte 5
+
+? An dieser Kreuzung gibt es weder Verkehrszeichen noch Ampeln. Sie (blau) wollen geradeaus fahren, das rote Fahrzeug kommt von links. Wer darf zuerst fahren?
++ Ich, weil das rote Fahrzeug von links kommt
+- Das rote Fahrzeug, weil es schon näher an der Kreuzung ist
+- Wer zuerst hupt
+= Ohne Regelung gilt „rechts vor links“. Das rote Fahrzeug muss mich durchlassen, weil ich von seiner rechten Seite komme.
+# grafik kreuzung S=blau>gerade* W=rot>gerade
+
+? Kreuzung ohne Verkehrszeichen: Sie (blau) fahren geradeaus, Rot kommt von rechts, Grün von links, beide geradeaus. In welcher Reihenfolge wird gefahren?
++ Rot – ich – Grün
+- Ich – Rot – Grün
+- Grün – Rot – ich
+= Rot hat Vorfahrt vor mir (von rechts), ich habe Vorfahrt vor Grün (Grün hat mich rechts von sich).
+# grafik kreuzung S=blau>gerade* E=rot>gerade W=gruen>gerade
+
+? Kreuzung ohne Verkehrszeichen: Sie (blau) wollen links abbiegen. Gelb kommt entgegen und fährt geradeaus, Rot kommt von rechts und fährt geradeaus. Wie ist die Reihenfolge?
++ Gelb – Rot – ich
+- Rot – Gelb – ich
+- Ich – Gelb – Rot
+= Rot muss Gelb durchlassen, weil Gelb von rechts kommt. Ich muss beide durchlassen: Rot hat Vorfahrt von rechts, Gelb ist Gegenverkehr, den ich als Linksabbieger durchlassen muss.
+# grafik kreuzung S=blau>links* N=gelb>gerade E=rot>gerade
+
+? Sie (blau) und das entgegenkommende grüne Fahrzeug wollen beide links abbiegen. Wie verhalten Sie sich?
++ Wir können gleichzeitig abbiegen, in der Regel voreinander (tangential)
+- Ich muss warten, bis Grün abgebogen ist
+- Grün muss warten, weil ich zuerst da war
+= Gegenüberliegende Linksabbieger behindern sich nicht, wenn sie voreinander abbiegen. Abweichende Markierungen oder die Verkehrslage können hintereinander Abbiegen erfordern.
+! punkte=4
+# grafik kreuzung S=blau>links* N=gruen>links
+
+? An allen vier Zufahrten dieser Kreuzung ohne Verkehrszeichen steht ein Fahrzeug, alle wollen geradeaus. Was ist richtig?
++ Keiner hat eindeutig Vorfahrt – wir müssen uns verständigen, wer zuerst fährt
+- Ich fahre zuerst, weil ich von Süden komme
+- Alle dürfen gleichzeitig fahren
+= Bei „rechts vor links“ hat hier jeder jemanden rechts von sich. Einer muss verzichten – Verständigung durch Handzeichen ist nötig.
+# grafik kreuzung S=blau>gerade* E=rot>gerade N=gelb>gerade W=gruen>gerade
+
+? Kreuzung ohne Verkehrszeichen: Eine Radfahrerin kommt von rechts und fährt geradeaus. Sie (blau) wollen geradeaus fahren. Was gilt?
++ Die Radfahrerin hat Vorfahrt
+- Ich habe Vorfahrt, weil ich ein Kraftfahrzeug fahre
+- Radfahrende müssen an Kreuzungen immer warten
+= „Rechts vor links“ gilt auch gegenüber Radfahrenden.
+# grafik kreuzung S=blau>gerade* E=rad:gruen>gerade
+
+? Sie (blau) wollen links abbiegen. Ein Radfahrer kommt Ihnen entgegen und fährt geradeaus. Was ist richtig?
++ Ich muss den Radfahrer durchlassen
+- Der Radfahrer muss mich abbiegen lassen
+- Ich darf zuerst fahren, wenn ich zügig abbiege
+= Linksabbieger müssen entgegenkommende Fahrzeuge durchlassen – auch Radfahrende.
+# grafik kreuzung S=blau>links* N=rad:orange>gerade
+
+? Einmündung ohne Verkehrszeichen: Sie (blau) wollen links abbiegen. Das rote Fahrzeug kommt von rechts und fährt geradeaus. Wer darf zuerst fahren?
++ Das rote Fahrzeug
+- Ich, weil die durchgehende Straße keine Vorfahrt hat
+- Ich, weil ich aus der einmündenden Straße komme
+= Auch an Einmündungen gilt ohne Regelung „rechts vor links“. Rot kommt von rechts und hat Vorfahrt.
+# grafik einmuendung-N S=blau>links* E=rot>gerade
+
+? Einmündung ohne Verkehrszeichen: Sie (blau) kommen aus der einmündenden Straße und wollen rechts abbiegen. Das grüne Fahrzeug fährt auf der durchgehenden Straße von links kommend geradeaus. Wer hat Vorfahrt?
++ Ich – Grün muss mich durchlassen, weil ich von rechts komme
+- Grün, weil es auf der durchgehenden Straße fährt
+- Grün, weil Abbieger immer warten müssen
+= Eine durchgehende Straße hat ohne Zeichen keine Vorfahrt. Aus Sicht von Grün komme ich von rechts.
+# grafik einmuendung-N S=blau>rechts* W=gruen>gerade
+
+? Sie (blau) fahren auf einer Vorfahrtstraße und wollen links abbiegen. Rot kommt entgegen und fährt geradeaus, Grün wartet in der Seitenstraße links (Zeichen „Vorfahrt gewähren!“). Reihenfolge?
++ Rot – ich – Grün
+- Ich – Rot – Grün
+- Grün – Rot – ich
+= Auf der Vorfahrtstraße muss ich als Linksabbieger den Gegenverkehr durchlassen. Grün aus der untergeordneten Straße muss uns beide durchlassen.
+# grafik kreuzung S=blau>links* N=rot>gerade W=gruen>gerade schild=S:306,N:306,W:205,E:205
+
+? Ihre Straße ist mit „Vorfahrt gewähren!“ beschildert. Rot (von links) und Gelb (von rechts) fahren auf der Vorfahrtstraße. Sie (blau) wollen geradeaus. Was ist richtig?
++ Ich muss Rot und Gelb durchlassen
+- Ich muss nur Gelb durchlassen, weil es von rechts kommt
+- Ich darf vor Rot fahren
+= Wer „Vorfahrt gewähren!“ hat, muss den Verkehr auf der Vorfahrtstraße aus beiden Richtungen durchlassen.
+# grafik kreuzung S=blau>gerade* W=rot>gerade E=gelb>gerade schild=S:205,N:205,W:306,E:306
+
+? Sie fahren auf einer Vorfahrtstraße und wollen links abbiegen. Das entgegenkommende rote Fahrzeug biegt nach rechts ab – in dieselbe Straße wie Sie. Wer darf zuerst?
++ Das rote Fahrzeug
+- Ich, weil ich zuerst geblinkt habe
+- Wir fahren gleichzeitig, das ist kein Problem
+= Linksabbieger müssen den Gegenverkehr durchlassen, auch wenn dieser rechts abbiegt.
+# grafik kreuzung S=blau>links* N=rot>rechts schild=S:306,N:306,W:205,E:205
+
+? Die Vorfahrtstraße knickt an dieser Kreuzung nach links ab (Zusatzzeichen). Sie (blau) folgen ihr. Das rote Fahrzeug kommt aus der untergeordneten Straße gegenüber. Was ist richtig?
++ Ich habe Vorfahrt vor Rot
++ Ich muss den Fahrtrichtungsanzeiger setzen
+- Rot hat Vorfahrt, weil ich abbiege
+= Wer der abknickenden Vorfahrt folgt, behält die Vorfahrt, muss aber blinken. Rot kommt aus einer untergeordneten Straße.
+# grafik kreuzung S=blau>links* N=rot>gerade schild=S:306/SW,W:306,N:205,E:205
+
+? Die Vorfahrtstraße knickt an der Kreuzung ab (Zusatzzeichen „Verlauf der Vorfahrtstraße“). Wann müssen Sie den Fahrtrichtungsanzeiger benutzen?
++ Wenn ich dem Verlauf der Vorfahrtstraße folge
+- Nur wenn ich die Vorfahrtstraße geradeaus verlasse
+- Nie, an abknickenden Vorfahrtstraßen wird nicht geblinkt
+= Wer der abknickenden Vorfahrtstraße folgen will, muss das rechtzeitig und deutlich mit dem Blinker ankündigen.
+! punkte=4
+# zeichen 306 1002-20
+
+? Sie (blau) stehen vor dem Zeichen „Halt! Vorfahrt gewähren!“. Was müssen Sie tun?
++ An der Haltlinie anhalten, auch wenn kein Fahrzeug zu sehen ist
++ Dann den Verkehr auf der Vorfahrtstraße durchlassen
+- Nur anhalten, wenn Querverkehr kommt
+= Das Stoppschild verlangt immer ein vollständiges Anhalten – an der Haltlinie oder, wo keine ist, dort, wo die Vorfahrtstraße einzusehen ist.
+# grafik kreuzung S=blau>gerade* haltlinie=S E=grau>gerade schild=S:206,W:306,E:306
+
+? An der nächsten Kreuzung steht für Sie das Zeichen „Vorfahrt“. Rot kommt von rechts. Was gilt?
++ Ich habe an dieser Kreuzung Vorfahrt vor Rot
+- Rot hat Vorfahrt, weil es von rechts kommt
+- An der übernächsten Kreuzung habe ich ebenfalls Vorfahrt
+= Zeichen „Vorfahrt“ gilt nur an der nächsten Kreuzung oder Einmündung. Danach gilt wieder „rechts vor links“, wenn nichts anderes geregelt ist.
+# grafik kreuzung S=blau>gerade* E=rot>gerade schild=S:301,E:205
+
+? Was bedeutet es, Vorfahrt zu gewähren?
++ Ich muss durch erkennbar mäßige Geschwindigkeit zeigen, dass ich warten werde
++ Ich darf nur weiterfahren, wenn ich den Vorfahrtberechtigten weder gefährde noch wesentlich behindere
+- Ich muss in jedem Fall anhalten
+= Wer warten muss, fährt erkennbar langsam heran. Kann er die Straße nicht überblicken, tastet er sich vorsichtig vor.
+
+? Sie kommen aus einem Feldweg und wollen auf eine Straße einbiegen. Was gilt?
++ Ich muss den Verkehr auf der Straße durchlassen
+- Es gilt „rechts vor links“
+- Der Verkehr auf der Straße muss mich einbiegen lassen
+= Wer aus einem Feld- oder Waldweg auf eine andere Straße kommt, muss die Vorfahrt gewähren.
+! punkte=4
+
+? Sie (blau) befinden sich im Kreisverkehr (Zeichen 215 mit „Vorfahrt gewähren!“ an den Zufahrten). Rot will einfahren. Wer hat Vorfahrt?
++ Ich
+- Rot, weil es von rechts kommt
+- Wer schneller ist
+= Ist „Vorfahrt gewähren!“ zusammen mit dem Kreisverkehrszeichen aufgestellt, hat der Verkehr auf der Kreisfahrbahn Vorfahrt.
+# grafik kreisverkehr S=blau>kreis* E=rot>halt schild=E:205,E:215,N:205,N:215,W:205,W:215
+
+? Was gilt für den Fahrtrichtungsanzeiger im Kreisverkehr?
++ Beim Einfahren darf ich nicht blinken
++ Beim Ausfahren muss ich blinken
+- Beim Einfahren muss ich links blinken
+= Einfahren: kein Blinken. Ausfahren: rechts blinken.
+! punkte=3
+
+? Welche Regeln gelten im Kreisverkehr außerdem?
++ Auf der Kreisfahrbahn darf nicht gehalten werden
++ Die Mittelinsel darf nur befahren, wer wegen der Größe seines Fahrzeugs anders nicht durchkommt, wenn niemand gefährdet wird
+- Ich darf auf der Kreisfahrbahn rückwärts fahren, um eine Ausfahrt zu erreichen
+= Auf der Kreisfahrbahn ist Halten verboten. Die Mittelinsel ist für große Fahrzeuge da, die nicht anders durchkommen.
+! punkte=3
+
+? Ein Kreisverkehr ist nur mit Zeichen 215 gekennzeichnet, „Vorfahrt gewähren!“ fehlt an den Zufahrten. Was gilt?
++ Es gelten die allgemeinen Vorfahrtsregeln
+- Der Verkehr im Kreis hat trotzdem Vorfahrt
+- Einfahrende haben immer Vorrang
+= Nur zusammen mit „Vorfahrt gewähren!“ hat der Verkehr im Kreis Vorfahrt. Fehlt dieses Zeichen, gilt „rechts vor links“ – die Einfahrenden kommen dann von rechts.
+# zeichen 215
+
+? Sie wollen links abbiegen. Eine Straßenbahn kommt Ihnen entgegen. Was gilt?
++ Ich muss die Straßenbahn durchlassen
+- Die Straßenbahn muss warten
+- Ich darf vor ihr abbiegen, wenn ich zuerst geblinkt habe
+= Wer abbiegt, muss entgegenkommende Fahrzeuge einschließlich Schienenfahrzeuge durchlassen.
+
+? Sie wollen nach rechts abbiegen. Rechts neben Ihnen fährt eine Straßenbahn in dieselbe Richtung geradeaus. Was müssen Sie tun?
++ Die Straßenbahn durchlassen
+- Vor der Straßenbahn abbiegen, weil ich auf der Fahrbahn fahre
+- Hupen, damit sie anhält
+= Abbiegende müssen Schienenfahrzeuge, die in gleicher Richtung fahren, durchlassen.
+
+? Eine Polizistin hält beide Arme seitwärts ausgestreckt; Sie kommen von vorn auf sie zu. Was bedeutet das für Sie?
++ Halt
+- Freie Fahrt
+- Nur Abbiegen ist erlaubt
+= Seitwärts ausgestreckte Arme bedeuten „Halt“ für den Verkehr von vorn und von hinten, für den Querverkehr dagegen freie Fahrt.
+! punkte=4
+
+? Ein Polizist hebt einen Arm senkrecht nach oben. Was bedeutet das?
++ Alle Verkehrsteilnehmenden vor der Kreuzung müssen auf das nächste Zeichen warten
++ Wer sich schon in der Kreuzung befindet, muss sie räumen
+- Freie Fahrt für den Querverkehr
+= Erhobener Arm bedeutet „Achtung, Halt“ – vergleichbar mit Gelb an der Ampel.
+! punkte=4
+
+? Was hat Vorrang, wenn Polizei, Ampel, Verkehrszeichen und Vorfahrtsregeln Widersprüchliches anzeigen?
++ Zuerst die Weisungen der Polizei, dann die Ampel, dann die Verkehrszeichen, dann die allgemeinen Regeln
+- Zuerst die Verkehrszeichen
+- Zuerst die allgemeinen Vorfahrtsregeln
+= Weisungen von Polizeibeamten gehen allen anderen Regeln vor, Lichtzeichen gehen Verkehrszeichen und den Vorfahrtsregeln vor.
+
+? Die Ampel zeigt Grün. Sie (blau) wollen links abbiegen, der Gegenverkehr hat ebenfalls Grün. Was ist richtig?
++ Ich fahre in die Kreuzung ein und warte dort, bis der Gegenverkehr durchgefahren ist
+- Ich darf zuerst abbiegen, weil meine Ampel Grün zeigt
+- Ich muss vor der Haltlinie warten
+= Grün ohne Pfeil heißt nicht „freie Bahn“ für Linksabbieger: Der Gegenverkehr muss durchgelassen werden. Dazu darf ich mich in der Kreuzung aufstellen.
+# grafik kreuzung S=blau>links* N=rot>gerade ampel=S ampelfarbe=gruen
+
+? Sie (blau) wollen bei Grün rechts abbiegen. Eine Fußgängerin überquert die Straße, in die Sie einbiegen. Was gilt?
++ Ich muss sie durchlassen und notfalls warten
+- Sie muss warten, weil ich Grün habe
+- Ich darf langsam vor ihr abbiegen
+= Abbiegende müssen auf zu Fuß Gehende, die die Straße überqueren, besondere Rücksicht nehmen und notfalls warten.
+# grafik kreuzung S=blau>rechts* ampel=S ampelfarbe=gruen fussg=E zebra=E
+
+? Die Ampel ist ausgeschaltet; an Ihrer Zufahrt steht das Zeichen „Vorfahrt gewähren!“. Rot kommt von links. Was gilt?
++ Ich muss Rot durchlassen
+- Rot muss warten, weil ich von rechts komme
+- Ich darf zuerst fahren, weil die Ampel aus ist
+= Ist die Ampel aus, gelten die Verkehrszeichen. Mit „Vorfahrt gewähren!“ muss ich den Querverkehr aus beiden Richtungen durchlassen.
+# grafik kreuzung S=blau>gerade* W=rot>gerade ampel=S ampelfarbe=aus schild=S:205,W:306,E:306
+
+? Vor einem Bahnübergang mit Andreaskreuz leuchtet ein rotes Blinklicht. Was müssen Sie tun?
++ Vor dem Andreaskreuz warten
+- Zügig über den Bahnübergang fahren, solange die Schranke noch offen ist
+- Nur warten, wenn ein Zug zu sehen ist
+= Schienenfahrzeuge haben an Bahnübergängen Vorrang. Bei rotem Licht, gesenkter oder sich senkender Schranke muss vor dem Andreaskreuz gewartet werden.
+# zeichen 201
+
+? Wo müssen Sie vor einem Bahnübergang warten, wenn kein Andreaskreuz und keine Haltlinie vorhanden ist?
++ In sicherer Entfernung vor dem Bahnübergang
+- Direkt auf den Gleisen
+- Hinter dem Bahnübergang
+= Wartepflichtige halten in sicherer Entfernung vor den Gleisen bzw. vor einer Schranke oder Haltlinie.
+! punkte=4
+
+? An einem Bahnübergang mit Andreaskreuz ist die Schranke geöffnet und kein Licht leuchtet. Was ist richtig?
++ Ich fahre mit mäßiger Geschwindigkeit und erhöhter Aufmerksamkeit heran
+- Ich darf hier überholen
+- Ich darf auf den Gleisen halten, wenn es nötig ist
+= An Bahnübergängen gilt Überhol-, Halte- und Parkverbot in der Nähe. Mäßige Geschwindigkeit, aufmerksam sein.
+! punkte=4
+
+? Sie fahren aus einer Tiefgarage auf die Straße. Was gilt?
++ Ich muss den Verkehr auf der Straße und auf dem Gehweg durchlassen
+- Es gilt „rechts vor links“
+- Fußgänger auf dem Gehweg müssen mich vorbeilassen
+= Wer aus einem Grundstück, einer Garage oder einem Parkplatz auf die Straße fährt, muss alle anderen durchlassen und darf niemanden gefährden.
+! punkte=4
+
+? Sie fahren über einen Beschleunigungsstreifen auf die Autobahn auf. Wer hat Vorfahrt?
++ Der Verkehr auf der durchgehenden Fahrbahn
+- Wer auf dem Beschleunigungsstreifen fährt
+- Es gilt das Reißverschlussverfahren
+= Auffahrende haben keine Vorfahrt. Das Reißverschlussverfahren gilt nicht beim Einfädeln aus Beschleunigungsstreifen.
+! punkte=4 klassen=MOT
+
+? Ein Fahrzeug mit Blaulicht und Einsatzhorn nähert sich einer Kreuzung, an der Sie Grün haben. Was gilt?
++ Ich muss dem Einsatzfahrzeug Vorrang gewähren, auch bei Grün
+- Ich darf bei Grün weiterfahren
+- Das Einsatzfahrzeug muss bei Rot warten
+= Blaulicht mit Einsatzhorn verlangt sofort freie Bahn – unabhängig von Ampel und Vorfahrtsregeln.

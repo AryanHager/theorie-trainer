@@ -1,0 +1,270 @@
+// Phase 3 – Zusatzstoff Mofa und Klasse AM (Ausbau) – eigene Formulierungen
+// Quellen: StVO §§ 2 Abs. 2, 3a, 4; 21a Abs. 2; 23 Abs. 1; StVG §§ 21, 24c; FeV §§ 4, 6; allgemeines fahrtechnisches Wissen
+
+@klassen KLEIN
+
+@kapitel 2.1
+
+@punkte 4
+
+? Sie müssen mit dem Mofa oder Kleinkraftrad Straßenbahnschienen überqueren. Wie fahren Sie?
++ Möglichst steil, also fast im rechten Winkel zu den Schienen
+- Möglichst flach, fast parallel zu den Schienen
+- Mit kräftigem Bremsen direkt auf den Schienen
+= Gerät das Vorderrad in einem spitzen Winkel in die Rille oder rutscht es auf der glatten Schiene ab, ist ein Sturz kaum zu vermeiden.
+
+? Es regnet. Worauf müssen Sie mit Ihrem Mofa oder Kleinkraftrad besonders achten?
++ Kanaldeckel, Fahrbahnmarkierungen und Schienen können sehr glatt sein
++ Ich bremse früher und gefühlvoller
+- Bei Regen haftet ein schmaler Reifen besser als ein breiter, deshalb kann ich normal fahren
+= Auf glatten Flächen findet ein Zweiradreifen bei Nässe kaum Halt. Bremsen und Kurven sollten Sie dort möglichst vermeiden oder sehr behutsam fahren.
+
+? Im Herbst liegt nasses Laub auf dem Radweg und der Fahrbahn. Wie verhalten Sie sich mit dem Mofa?
++ Ich fahre langsamer und vermeide starkes Bremsen und Schräglage auf dem Laub
+- Laub dämpft, deshalb kann ich unbesorgt darüber fahren
+- Ich weiche immer abrupt auf die Gegenfahrbahn aus
+= Nasses Laub wirkt wie ein Schmierfilm. Darunter können sich zudem Schlaglöcher oder Äste verbergen.
+
+? Ein Lkw überholt Sie auf Ihrem Mofa oder Kleinkraftrad auf der Landstraße. Womit rechnen Sie?
++ Mit einem Luftstoß und einem Sog, der mich zur Seite ziehen kann
++ Ich halte den Lenker fest und fahre ruhig weiter
+- Mit nichts, große Fahrzeuge beeinflussen Zweiräder nicht
+= Die Luftverwirbelung eines vorbeifahrenden großen Fahrzeugs kann ein leichtes Zweirad spürbar versetzen.
+
+? Sie fahren an einer Reihe parkender Autos vorbei. Wie können Sie sich vor einer plötzlich geöffneten Autotür schützen?
++ Ich halte so viel Seitenabstand, dass mich eine aufschwingende Tür nicht erreicht
++ Ich achte auf Personen in den Fahrzeugen und auf aufleuchtende Bremslichter
+- Ich fahre ganz dicht an den Autos vorbei, um dem fließenden Verkehr Platz zu machen
+= Eine aufgerissene Tür ist für Zweiradfahrende eine der häufigsten Unfallursachen. Ausreichender Abstand verschafft Ihnen den nötigen Raum.
+
+? Ein Kind läuft zwischen parkenden Autos hindurch. Sie sind mit dem Mofa nur wenige Meter entfernt. Was ist jetzt am wichtigsten?
++ Kräftig mit beiden Bremsen bremsen und das Mofa dabei geradeaus halten
+- Nur hinten bremsen, damit das Vorderrad nicht wegrutscht
+- Hupen und ohne Bremsen ausweichen
+= Bei einer Notbremsung auf gerader Strecke sollten beide Bremsen eingesetzt werden; die Vorderradbremse leistet den größten Teil der Verzögerung.
+
+@punkte 3
+
+? Warum werden Mofas und Kleinkrafträder von anderen oft übersehen?
++ Sie sind schmal und verschwinden leicht hinter anderen Fahrzeugen
++ Ihre Geschwindigkeit wird oft falsch eingeschätzt
+- Weil sie immer zu schnell fahren
+= Wer mit einem kleinen Zweirad unterwegs ist, sollte sich gut sichtbar machen und damit rechnen, übersehen zu werden.
+
+? Sie fahren auf Ihrem Mofa oder Kleinkraftrad im Dunkeln. Wie machen Sie sich besser sichtbar?
++ Funktionierende Beleuchtung und helle, reflektierende Kleidung
+- Dunkle Kleidung, damit man mich nicht blendet
+- Das Licht nur einschalten, wenn die Straße unbeleuchtet ist
+= Bei Dunkelheit sind Zweiräder nur an ihrer Beleuchtung und an der Kleidung zu erkennen. Reflektierende Elemente verbessern die Sichtbarkeit deutlich.
+
+@kapitel 2.2
+
+@punkte 4
+
+? Sie sind mit Freunden auf Mofas unterwegs. Dürfen Sie nebeneinander fahren?
++ Nein, wir fahren hintereinander und möglichst weit rechts
+- Ja, wie mit Fahrrädern, wenn dadurch niemand behindert wird
+- Ja, solange wir nicht schneller als 25 km/h fahren
+= Die Erlaubnis zum Nebeneinanderfahren gilt nur für Fahrräder (StVO § 2 Abs. 4). Mit Mofas und Kleinkrafträdern ist möglichst weit rechts zu fahren (StVO § 2 Abs. 2).
+
+? Sie wollen mit dem Mofa oder Kleinkraftrad links abbiegen. Der Verkehr ist dicht und schnell. Was ist sicher?
++ Ich halte rechts an, steige ab und überquere die Fahrbahn zu Fuß, wenn es mir zu gefährlich ist
++ Andernfalls ordne ich mich rechtzeitig links ein, nachdem ich mich umgesehen und geblinkt habe
+- Ich biege ohne Schulterblick ab, weil ich ja geblinkt habe
+= Wer unsicher ist, kann auch absteigen und schieben. Beim Einordnen nach links sind Rückschau und Handzeichen bzw. Blinker unerlässlich.
+
+? Dürfen Sie mit Ihrem Mofa oder Kleinkraftrad mit Kopfhörern laute Musik hören?
++ Nein, mein Gehör darf dadurch nicht beeinträchtigt werden
+- Ja, auf Zweirädern ist das erlaubt
+- Ja, wenn ich nur einen Ohrhörer verwende, egal wie laut
+= Wer ein Fahrzeug führt, muss dafür sorgen, dass Sicht und Gehör nicht durch Geräte beeinträchtigt werden (StVO § 23 Abs. 1). Martinshorn oder Hupe müssen Sie hören können.
+
+@punkte 3
+
+? Ihr Mofa ist kaputt und Sie schieben es auf dem Gehweg nach Hause. Was gilt?
++ Ich schiebe mit ausgeschaltetem Motor und behindere andere Fußgänger nicht erheblich
+- Ich darf auf dem Gehweg langsam mit Motorkraft fahren
+- Auf dem Gehweg habe ich Vorrang vor Fußgängern
+= Wer zu Fuß geht und ein Fahrzeug mitführt, darf den Gehweg nur benutzen, wenn andere zu Fuß Gehende dadurch nicht erheblich behindert werden – sonst ist am rechten Fahrbahnrand zu gehen (StVO § 25 Abs. 2). Mit Motorkraft auf dem Gehweg zu fahren ist nicht erlaubt.
+
+@kapitel 2.6
+
+@punkte 4
+
+? Bei Schneeglätte gilt eine Pflicht zu Winterreifen. Gilt sie auch für Ihr Mofa oder Kleinkraftrad?
++ Nein, einspurige Kraftfahrzeuge sind von dieser Pflicht ausgenommen
++ Trotzdem muss ich meine Fahrweise den Straßenverhältnissen anpassen oder das Zweirad stehen lassen
+- Ja, ohne Winterreifen darf ich bei Glätte nicht fahren
+= Die Winterreifenpflicht bei Glatteis, Schneeglätte oder Schneematsch gilt nicht für einspurige Kraftfahrzeuge (StVO § 2 Abs. 3a). Auf Eis und Schnee ist ein Zweirad dennoch sehr sturzgefährdet.
+
+? Müssen Sie auf dem Mofa einen Schutzhelm tragen?
++ Ja, weil die bauartbedingte Höchstgeschwindigkeit über 20 km/h liegt
+- Nein, Mofas sind von der Helmpflicht ausgenommen
+- Nur außerorts
+= Helmpflicht besteht auf Krafträdern mit einer bauartbedingten Höchstgeschwindigkeit von über 20 km/h (StVO § 21a Abs. 2). Das gilt für Mofas und Kleinkrafträder.
+
+@punkte 5
+
+? Sie sind 17 Jahre alt und wollen mit Ihrem Mofa oder Kleinkraftrad zu einer Party fahren. Was gilt für Alkohol?
++ Ich darf vor und während der Fahrt überhaupt keinen Alkohol trinken
+- Ein kleines Bier ist erlaubt, solange ich unter 0,5 Promille bleibe
+- Das Alkoholverbot gilt nur für Autofahrer
+= Vor Vollendung des 21. Lebensjahres und in der Probezeit gilt für Führer eines Kraftfahrzeugs ein absolutes Alkoholverbot (StVG § 24c). Mofas und Kleinkrafträder sind Kraftfahrzeuge.
+
+@kapitel 2.7
+
+@punkte 3
+
+? Sie wollen losfahren. Was prüfen Sie an Ihrem Mofa oder Kleinkraftrad vorher kurz?
++ Ob der Seitenständer eingeklappt ist
++ Ob Licht und Bremsen funktionieren
+- Nur, ob genug Kraftstoff im Tank ist
+= Ein ausgeklappter Seitenständer kann in der ersten Linkskurve aufsetzen und zum Sturz führen. Licht und Bremsen sind vor jeder Fahrt kurz zu prüfen.
+
+? Ihr Elektro-Kleinkraftrad hat bei Kälte deutlich weniger Reichweite. Woran liegt das?
++ Akkus geben bei niedrigen Temperaturen weniger Energie ab
+- Elektromotoren brauchen bei Kälte mehr Öl
+- Das liegt nur am Reifendruck
+= Die Kapazität von Akkus sinkt bei Kälte. Planen Sie im Winter mehr Reserve ein und lagern bzw. laden Sie den Akku nach Herstellerangaben.
+
+? Wie laden Sie den Akku Ihres Elektro-Mofas oder -Kleinkraftrads sicher?
++ Mit dem dafür vorgesehenen Ladegerät
++ Einen sichtbar beschädigten oder aufgeblähten Akku lade ich nicht mehr
+- Mit jedem beliebigen Ladegerät, das in die Buchse passt
+= Ungeeignete Ladegeräte und beschädigte Akkus können überhitzen und einen Brand auslösen.
+
+? Wann prüfen Sie den Reifendruck Ihres Mofas oder Kleinkraftrads?
++ Regelmäßig und bei kalten Reifen
+- Nur, wenn der Reifen sichtbar platt ist
+- Nach einer langen Fahrt, wenn die Reifen warm sind
+= Zu geringer Luftdruck verschlechtert Fahrverhalten und Bremsweg. Warme Reifen zeigen einen höheren Druck an als kalte.
+
+? Ihr Mofa hat einen Zweitaktmotor ohne Getrenntschmierung. Was müssen Sie beim Tanken beachten?
++ Ich tanke ein Kraftstoff-Öl-Gemisch im vom Hersteller angegebenen Verhältnis
+- Ich tanke reines Benzin, Öl ist bei Zweitaktern nicht nötig
+- Ich fülle Motoröl direkt in den Tank, so viel wie hineingeht
+= Ohne Getrenntschmierung erhält ein Zweitaktmotor seine Schmierung über das Gemisch. Zu wenig Öl kann den Motor zerstören, zu viel verursacht viel Rauch.
+! kapitel=2.5
+
+? Sie bemerken, dass die Kette Ihres Kleinkraftrads stark durchhängt und rostig ist. Was ist richtig?
++ Ich lasse sie spannen und schmieren oder ersetzen, bevor ich weiterfahre
+- Eine lockere Kette läuft leichter und ist deshalb besser
+- Ich fahre weiter, bis sie Geräusche macht
+= Eine zu lockere Kette kann abspringen und das Hinterrad blockieren.
+
+@kapitel 2.8
+
+@punkte 3
+
+? Ihr Visier ist stark zerkratzt. Was bedeutet das beim Fahren?
++ Bei Gegenlicht und Nässe ist die Sicht deutlich schlechter
++ Ich sollte das Visier ersetzen
+- Kratzer stören nur tagsüber
+= Kratzer streuen das Licht entgegenkommender Fahrzeuge und blenden. Ein klares Visier ist für die Sicht unverzichtbar.
+
+? Sie sind sehr müde nach einem langen Schultag. Sollten Sie noch mit dem Mofa fahren?
++ Ich überlege, ob ich lieber schiebe, mich abholen lasse oder öffentliche Verkehrsmittel nutze
+- Müdigkeit spielt auf dem Mofa keine Rolle, weil es langsam ist
+- Ich fahre schneller, damit ich früher zu Hause bin
+= Müdigkeit verlängert die Reaktionszeit – auf einem Zweirad kann schon ein kurzer Moment der Unaufmerksamkeit zum Sturz führen.
+
+@punkte 2
+
+? Warum sind feste Schuhe beim Mofa- und Kleinkraftradfahren wichtig?
++ Sie schützen Knöchel und Füße bei einem Sturz
++ Sie geben besseren Halt beim Anhalten und Abstützen
+- Weil Sandalen verboten sind
+= Bei Stürzen werden Füße und Knöchel oft verletzt. Festes, geschlossenes Schuhwerk schützt und gibt sicheren Stand.
+
+@klassen Mofa
+
+@kapitel 2.6
+
+@punkte 5
+
+? Nach einer Veränderung am Antrieb fährt Ihr Mofa 40 km/h. Was gilt?
++ Das Fahrzeug ist kein Mofa mehr; die Mofa-Prüfbescheinigung reicht dafür nicht aus
++ Wer ein Kraftfahrzeug ohne die erforderliche Fahrerlaubnis führt, macht sich strafbar
+- Solange das Kennzeichen gültig ist, darf ich weiterfahren
+= Mofas sind auf 25 km/h bauartbedingte Höchstgeschwindigkeit begrenzt (FeV § 4 Abs. 1). Wer ein schnelleres Fahrzeug ohne die passende Fahrerlaubnis fährt, begeht eine Straftat (StVG § 21).
+
+@punkte 4
+
+? Was ist ein Mofa im Sinne der Fahrerlaubnis-Verordnung?
++ Ein einspuriges Fahrrad mit Hilfsmotor, das bauartbedingt auf ebener Bahn höchstens 25 km/h schnell ist
+- Jedes Zweirad bis 50 km/h
+- Ein zweisitziger Motorroller bis 45 km/h
+= Mofas sind von der Fahrerlaubnispflicht ausgenommen (FeV § 4 Abs. 1 Nr. 1); nötig ist aber eine Prüfbescheinigung (FeV § 5). Besondere Sitze sind nur für Kinder unter sieben Jahren zulässig.
+
+@punkte 3
+
+? Sie fahren mit dem Mofa außerorts. Neben der Fahrbahn verläuft ein Radweg ohne blaues Radwegschild. Dürfen Sie ihn benutzen?
++ Ja, außerhalb geschlossener Ortschaften dürfen Mofas Radwege benutzen
+- Nein, Mofas dürfen Radwege nie befahren
+- Nur, wenn ich den Motor abschalte
+= Außerhalb geschlossener Ortschaften ist die Benutzung von Radwegen mit Mofas erlaubt (StVO § 2 Abs. 4). Auf Radfahrende ist Rücksicht zu nehmen.
+
+? Sie fahren mit Ihrem Mofa im Ort auf der Fahrbahn. Hinter Ihnen staut sich der Verkehr. Was ist richtig?
++ Ich fahre möglichst weit rechts, damit andere mich gefahrlos überholen können
+- Ich fahre in der Mitte des Fahrstreifens, damit mich niemand überholt
+- Ich weiche auf den Gehweg aus
+= Langsame Fahrzeuge sollten möglichst weit rechts fahren (StVO § 2 Abs. 2). Auf den Gehweg dürfen Sie mit dem Mofa nicht ausweichen.
+
+@kapitel 2.1
+
+@punkte 4
+
+? Sie fahren mit dem Mofa bergab und werden schneller als sonst. Was tun Sie?
++ Ich bremse rechtzeitig und dosiert mit beiden Bremsen
+- Ich lasse rollen, das Mofa kann ja nicht schneller als 25 km/h fahren
+- Ich bremse nur mit der Hinterradbremse kräftig
+= Die Begrenzung auf 25 km/h betrifft nur den Motor. Bergab kann ein Mofa deutlich schneller werden – das Fahrwerk und die Bremsen sind dafür nicht ausgelegt.
+
+@klassen AM
+
+@kapitel 2.6
+
+@punkte 4
+
+? Sie haben die Klasse AM und wollen ein dreirädriges Kleinkraftrad fahren. Ist das erlaubt?
++ Ja, dreirädrige Kleinkrafträder gehören zur Klasse AM
+- Nein, dafür brauche ich die Klasse A1
+- Nur mit Beifahrer
+= Die Klasse AM umfasst zweirädrige Kleinkrafträder, dreirädrige Kleinkrafträder und leichte vierrädrige Kraftfahrzeuge (FeV § 6 Abs. 1).
+
+@kapitel 2.1
+
+@punkte 4
+
+? Sie fahren mit Ihrem Kleinkraftrad mit 45 km/h auf einer Bundesstraße. Ein Lkw fährt dicht hinter Ihnen. Was ist richtig?
++ Ich fahre möglichst weit rechts und lasse den Lkw an geeigneter Stelle überholen
++ Ich lasse mich nicht zu riskanten Manövern drängen
+- Ich bremse kurz, damit der Lkw Abstand hält
+= Ein unnötiges Bremsmanöver kann einen Auffahrunfall auslösen. Wer rechts fährt und eine Überholmöglichkeit bietet, entspannt die Lage.
+
+? Sie nehmen auf Ihrem Kleinkraftrad einen Sozius mit. Wie verändert sich das Fahrverhalten?
++ Der Bremsweg wird länger
++ Das Kleinkraftrad reagiert träger auf Lenkbewegungen
+- Mit Sozius liegt das Fahrzeug stabiler und bremst kürzer
+= Die zusätzliche Masse verlängert den Bremsweg und verändert den Schwerpunkt. Ihr Sozius sollte sich in Kurven mit Ihnen neigen und ruhig sitzen.
+
+@kapitel 2.7
+
+@punkte 3
+
+? Sie haben ein leichtes vierrädriges Kraftfahrzeug der Klasse AM. Was gilt für das Anschnallen?
++ Vorhandene Sicherheitsgurte müssen während der Fahrt angelegt sein
+- In Fahrzeugen der Klasse AM gibt es keine Gurtpflicht
+- Gurte sind nur außerorts anzulegen
+= Die Gurtpflicht gilt für vorgeschriebene Sicherheitsgurte, unabhängig von der Fahrzeugklasse (StVO § 21a Abs. 1).
+! kapitel=2.6
+
+@kapitel 2.8
+
+@punkte 3
+
+? Sie haben gerade mit 16 Jahren die Klasse AM erworben. Was ist sinnvoll, um sicherer zu werden?
++ Zunächst bei wenig Verkehr und gutem Wetter fahren und Erfahrung sammeln
++ Ein Fahrsicherheitstraining besuchen
+- Gleich bei Dunkelheit und Regen die längsten Strecken fahren
+= Fahranfänger auf Zweirädern haben ein hohes Unfallrisiko. Erfahrung und gezieltes Training helfen, Gefahren früh zu erkennen.

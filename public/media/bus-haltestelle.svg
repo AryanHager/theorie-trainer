@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200"><rect width="300" height="200" fill="#d6d3d1"/>
+<rect y="50" width="300" height="120" fill="#6b7280"/>
+<line x1="0" y1="110" x2="300" y2="110" stroke="#fff" stroke-width="3" stroke-dasharray="14 12"/>
+<rect x="110" y="56" width="130" height="42" rx="6" fill="#facc15" stroke="#1f2937" stroke-width="2"/>
+<g fill="#bae6fd"><rect x="120" y="62" width="18" height="14" rx="2"/>
+<rect x="145" y="62" width="18" height="14" rx="2"/>
+<rect x="170" y="62" width="18" height="14" rx="2"/>
+<rect x="195" y="62" width="18" height="14" rx="2"/></g>
+<g fill="#f97316"><circle cx="113" cy="60" r="5"/><circle cx="113" cy="94" r="5"/><circle cx="237" cy="60" r="5"/><circle cx="237" cy="94" r="5"/></g>
+<rect x="250" y="12" width="6" height="40" fill="#334155"/><circle cx="253" cy="14" r="12" fill="#facc15" stroke="#16a34a" stroke-width="3"/><text x="247" y="19" font-family="sans-serif" font-weight="700" font-size="13" fill="#16a34a">H</text>
+<g transform="translate(40 140) rotate(90)"><rect x="-13" y="-22" width="26" height="44" rx="7" fill="#2563eb" stroke="#1f2937" stroke-width="2"/><rect x="-9" y="-14" width="18" height="9" rx="2" fill="#dbeafe"/></g><g transform="translate(270 85) rotate(-90)"><rect x="-13" y="-22" width="26" height="44" rx="7" fill="#94a3b8" stroke="#1f2937" stroke-width="2"/><rect x="-9" y="-14" width="18" height="9" rx="2" fill="#dbeafe"/></g>
+</svg>

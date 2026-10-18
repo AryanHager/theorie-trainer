@@ -1,0 +1,508 @@
+// 1.2 Verhalten im Straßenverkehr (Grundstoff) – eigene Formulierungen, Batch 1
+@kapitel 1.2
+@klassen ALLE
+@punkte 4
+
+? Was verlangt die Grundregel der StVO von allen Verkehrsteilnehmenden?
++ Ständige Vorsicht und gegenseitige Rücksicht
++ Niemanden zu schädigen, zu gefährden oder mehr als unvermeidbar zu behindern oder zu belästigen
+- Nur die Einhaltung der Verkehrszeichen
+= § 1 StVO ist die Grundlage aller Verkehrsregeln: Vorsicht, Rücksicht und keine vermeidbare Gefährdung oder Behinderung anderer.
+
+? Wo müssen Sie grundsätzlich fahren?
++ Möglichst weit rechts
+- In der Mitte der Fahrbahn
+- Auf dem Fahrstreifen, der am wenigsten befahren ist
+= Es gilt das Rechtsfahrgebot – nicht nur bei Gegenverkehr, beim Überholtwerden, an Kuppen und in Kurven, sondern grundsätzlich.
+! punkte=3
+
+? Auf welcher Seite wird grundsätzlich überholt?
++ Links
+- Rechts
+- Auf der Seite, auf der mehr Platz ist
+= Überholt wird links. Rechts überholt werden darf z. B. ein Fahrzeug, das sich zum Linksabbiegen eingeordnet hat.
+! punkte=3
+
+? Wann dürfen Sie ein Fahrzeug rechts überholen?
++ Wenn es sich zum Linksabbiegen eingeordnet und dies angekündigt hat
++ Schienenfahrzeuge, wenn deren Gleise in der Fahrbahnmitte liegen und genug Platz ist
+- Immer, wenn das Fahrzeug langsamer ist als ich
+= Rechts überholt werden dürfen Linksabbieger, die sich eingeordnet haben, und Straßenbahnen in Straßenmitte. Sonst gilt: links überholen.
+! punkte=5
+
+? Was müssen Sie beim Überholen beachten?
++ Ich muss mit wesentlich höherer Geschwindigkeit als der zu Überholende fahren
++ Ich muss ausreichend Seitenabstand zu dem überholten Fahrzeug halten
+- Der Überholte muss für mich bremsen
+= Überholen ist nur erlaubt, wenn es zügig geht und niemand gefährdet oder behindert wird. Wer überholt wird, darf seine Geschwindigkeit nicht erhöhen.
+
+? Sie werden überholt. Was ist Ihnen verboten?
++ Die Geschwindigkeit zu erhöhen
+- Weiterhin rechts zu fahren
+- Gleichmäßig weiterzufahren
+= Wer überholt wird, darf nicht schneller werden. Ein langsames Fahrzeug muss an geeigneter Stelle das Überholen ermöglichen, wenn sich Fahrzeuge hinter ihm stauen.
+
+? Wie müssen Sie vor dem Überholen und beim Wiedereinordnen vorgehen?
++ Den Fahrtrichtungswechsel rechtzeitig und deutlich mit dem Blinker ankündigen
++ Beim Wiedereinordnen den Überholten nicht behindern
+- Ohne Blinken ausscheren, das geht schneller
+= Ausscheren und Wiedereinordnen müssen angezeigt werden. Wieder einscheren darf man erst, wenn der Überholte nicht behindert wird.
+! punkte=3
+
+? Was müssen Sie tun, wenn Sie einen Fahrstreifenwechsel vornehmen wollen?
++ Darauf achten, dass eine Gefährdung anderer ausgeschlossen ist
++ Rechtzeitig blinken und den Schulterblick machen
+- Es reicht, kurz zu blinken – andere müssen Platz machen
+= Wer den Fahrstreifen wechselt, trägt die volle Verantwortung dafür, dass niemand gefährdet wird.
+! punkte=4
+
+? Wann dürfen Sie innerorts auf Straßen mit mehreren markierten Fahrstreifen je Richtung den Fahrstreifen frei wählen?
++ Bei Kraftfahrzeugen mit einer zulässigen Gesamtmasse bis 3,5 t
+- Nur Lkw dürfen frei wählen
+- Nie, es gilt immer das Rechtsfahrgebot
+= Innerorts dürfen Kraftfahrzeuge bis 3,5 t auf mehrstreifigen Straßen den Fahrstreifen frei wählen. Rechts schneller fahren als links ist dann erlaubt.
+! punkte=3 klassen=MOT
+
+? Wann müssen Sie besonders weit rechts fahren?
++ Bei Gegenverkehr
++ In unübersichtlichen Kurven und vor Kuppen
+- Wenn ich überholen will
+= In diesen Situationen besteht erhöhte Gefahr eines Zusammenstoßes mit dem Gegenverkehr.
+! punkte=3
+
+? Was ist beim Rückwärtsfahren zu beachten?
++ Eine Gefährdung anderer muss ausgeschlossen sein, notfalls lasse ich mich einweisen
+- Rückwärtsfahren hat immer Vorrang
+- Ich brauche nur in den Rückspiegel zu schauen
+= Beim Rückwärtsfahren muss man sich so verhalten, dass niemand gefährdet wird. Wenn nötig, eine Person zum Einweisen bitten.
+
+? Wo ist Wenden verboten?
++ Auf Autobahnen und Kraftfahrstraßen
++ An Stellen mit dem Zeichen „Verbot des Wendens“
+- Auf allen Straßen innerorts
+= Auf Autobahnen und Kraftfahrstraßen sind Wenden und Rückwärtsfahren verboten. Sonst ist Wenden erlaubt, wenn niemand gefährdet wird.
+! klassen=MOT
+
+? Was gilt vor dem Abbiegen?
++ Ich muss die Richtungsänderung rechtzeitig und deutlich ankündigen
++ Ich muss mich rechtzeitig einordnen
+- Blinken genügt, Einordnen ist nicht nötig
+= Wer abbiegen will, muss blinken und sich rechtzeitig einordnen – rechts zum Rechts-, links zum Linksabbiegen.
+! punkte=3
+
+? Sie wollen nach links abbiegen. Wohin ordnen Sie sich auf einer Straße ohne markierte Fahrstreifen ein?
++ Möglichst weit links, aber nur bis zur Mitte der Fahrbahn
+- Ganz an den rechten Rand
+- Auf die Gegenfahrbahn
+= Linksabbieger ordnen sich bis zur Fahrbahnmitte ein, in Einbahnstraßen möglichst weit links.
+! punkte=3
+
+? Was müssen Sie beim Abbiegen gegenüber zu Fuß Gehenden beachten?
++ Ich muss auf sie besondere Rücksicht nehmen, wenn nötig warten
+- Fußgänger müssen mich zuerst abbiegen lassen
+- Nur an Zebrastreifen muss ich auf Fußgänger achten
+= Wer abbiegt, muss auf zu Fuß Gehende besondere Rücksicht nehmen und wenn nötig warten. Das gilt an jeder Kreuzung und Einmündung.
+! punkte=5
+
+? Ein Radweg verläuft neben der Fahrbahn. Sie wollen rechts abbiegen. Was gilt?
++ Radfahrende auf dem Radweg, die geradeaus fahren, haben Vorrang
+- Ich habe Vorrang, weil ich auf der Fahrbahn fahre
+- Radfahrende müssen anhalten, sobald ich blinke
+= Beim Abbiegen muss der Radverkehr, auch auf daneben verlaufenden Radwegen, durchgelassen werden.
+! punkte=5
+
+? Wie schnell dürfen Kraftfahrzeuge mit einer zulässigen Gesamtmasse über 3,5 t innerorts höchstens rechts abbiegen?
++ Mit Schrittgeschwindigkeit
+- Mit 30 km/h
+- Mit 20 km/h
+= Seit 2020 gilt für schwere Kraftfahrzeuge beim Rechtsabbiegen innerorts Schrittgeschwindigkeit (ca. 4–7 km/h), um Rad- und Fußverkehr zu schützen.
+! klassen=MOT zahl
+
+? Sie wollen in ein Grundstück abbiegen. Was ist zu beachten?
++ Eine Gefährdung anderer muss ausgeschlossen sein
++ Wenn nötig, lasse ich mich einweisen
+- Ich habe Vorrang vor dem nachfolgenden Verkehr
+= Beim Abbiegen in ein Grundstück gilt besondere Sorgfaltspflicht – auch gegenüber dem Gegenverkehr, Fußgängern und Radfahrenden.
+
+? Wann müssen Sie das Abblendlicht einschalten?
++ Bei Dämmerung und Dunkelheit
++ Wenn die Sichtverhältnisse es erfordern, z. B. bei Regen oder Nebel
+- Nur außerhalb geschlossener Ortschaften
+= Licht muss eingeschaltet werden, wenn es die Sichtverhältnisse erfordern – auch tagsüber bei schlechter Sicht. Tagfahrlicht reicht dann nicht.
+! punkte=3
+
+? Wann dürfen Sie Fernlicht benutzen?
++ Wenn ich niemanden blende
+- Immer außerorts
+- Innerorts auf beleuchteten Straßen
+= Fernlicht ist abzublenden bei Gegenverkehr, beim Hinterherfahren und wenn andere geblendet werden könnten.
+! punkte=3
+
+? Wann dürfen Sie die Nebelschlussleuchte einschalten?
++ Wenn die Sichtweite durch Nebel, Schnee oder Regen weniger als 50 m beträgt
+- Bei jedem Regen
+- Bei Dunkelheit
+= Nur bei Sicht unter 50 m. Bei besserer Sicht blendet sie Nachfolgende.
+! punkte=3 klassen=MOT
+
+? Wann dürfen Sie hupen oder die Lichthupe benutzen?
++ Wenn ich mich oder andere gefährdet sehe
++ Außerorts, um das Überholen anzukündigen
+- Innerorts, um auf mich aufmerksam zu machen, wenn es schneller gehen soll
+= Schall- und Leuchtzeichen sind nur zur Warnung bei Gefahr und außerorts zum Ankündigen des Überholens erlaubt.
+! punkte=3
+
+? Wann müssen Sie das Warnblinklicht einschalten?
++ Wenn ich mit dem Fahrzeug liegenbleibe und es eine Gefahr darstellt
++ Wenn ich abgeschleppt werde
+- Wenn ich kurz in der zweiten Reihe halte
+= Warnblinklicht dient der Warnung vor Gefahr: beim Liegenbleiben, Abschleppen, am Stauende sowie bei Schulbussen an Haltestellen, wenn angeordnet.
+! punkte=3 klassen=MOT
+
+? Ab wann müssen Sie auf einer Autobahn eine Rettungsgasse bilden?
++ Sobald Fahrzeuge mit Schrittgeschwindigkeit fahren oder sich die Fahrzeuge im Stillstand befinden
+- Erst wenn ein Einsatzfahrzeug zu sehen ist
+- Nur auf Anweisung der Polizei
+= Die Rettungsgasse muss bereits gebildet werden, wenn der Verkehr stockt – nicht erst, wenn Rettungskräfte hörbar sind.
+! punkte=4 klassen=MOT
+
+? Ein Fahrzeug mit blauem Blinklicht, aber ohne Einsatzhorn, steht am Straßenrand. Was bedeutet das?
++ Es warnt vor einer Unfall- oder sonstigen Gefahrenstelle
+- Ich muss sofort anhalten
+- Ich muss freie Bahn schaffen
+= Blaues Blinklicht allein warnt vor Gefahren. Freie Bahn schaffen muss man erst, wenn Blaulicht und Einsatzhorn zusammen verwendet werden.
+
+? Wie verhalten Sie sich gegenüber einem Fahrzeug mit gelbem Blinklicht?
++ Ich rechne mit einer Gefahr, z. B. durch ein Pannen- oder Arbeitsfahrzeug
+- Ich muss sofort freie Bahn schaffen
+- Gelbes Blinklicht hat keine Bedeutung für mich
+= Gelbes Blinklicht warnt vor Gefahren, z. B. bei Fahrzeugen der Straßenunterhaltung, Abschleppwagen oder Schwertransporten.
+! punkte=3
+
+? Wann dürfen Sie in zweiter Reihe halten?
+- Wenn ich das Warnblinklicht einschalte
+- Immer, solange ich nicht länger als drei Minuten halte
++ Grundsätzlich nicht; nur Taxis ist es zum Ein- und Aussteigen erlaubt, wenn die Verkehrslage es zulässt
+= Halten in zweiter Reihe ist grundsätzlich unzulässig. Eine Ausnahme gilt für Taxis beim Ein- und Aussteigen, wenn die Verkehrslage es zulässt. Warnblinklicht macht unerlaubtes Halten nicht erlaubt.
+! punkte=3 klassen=MOT
+
+? Wo ist das Halten verboten?
++ Auf Fußgängerüberwegen sowie bis zu 5 m davor
++ An engen und unübersichtlichen Straßenstellen
+- Vor Grundstücksausfahrten
+= Halteverbote gelten u. a. an engen oder unübersichtlichen Stellen, im Bereich scharfer Kurven, auf Fußgängerüberwegen und 5 m davor. Vor Grundstücksausfahrten ist (nur) das Parken verboten.
+
+? Ab wann parken Sie?
++ Wenn ich mein Fahrzeug verlasse
++ Wenn ich länger als drei Minuten halte
+- Erst nach zehn Minuten
+= Wer sein Fahrzeug verlässt oder länger als 3 Minuten hält, der parkt.
+! punkte=3
+
+? Wo ist das Parken unzulässig?
++ Vor Grundstücksein- und -ausfahrten
++ Bis zu je 5 m vor und hinter Kreuzungen und Einmündungen, gemessen von den Schnittpunkten der Fahrbahnkanten
+- Am rechten Fahrbahnrand einer Straße ohne Zeichen
+= Parkverbote gelten u. a. vor Ein- und Ausfahrten, 5 m vor und hinter Kreuzungen und Einmündungen, über Schachtdeckeln und vor Bordsteinabsenkungen.
+! punkte=3
+
+? Bis zu wie vielen Metern vor und hinter einem Haltestellenschild (Bus/Straßenbahn) ist das Parken verboten?
+N 15 m
+= Vor und hinter dem Haltestellenschild ist das Parken bis zu je 15 m verboten.
+! punkte=3
+
+? Wie müssen Sie ein Fahrzeug abstellen?
++ Am rechten Fahrbahnrand, wenn kein Seitenstreifen vorhanden ist
++ So, dass es andere nicht behindert und gegen unbefugte Benutzung gesichert ist
+- Wahlweise links oder rechts, wie es passt
+= Gehalten und geparkt wird rechts. Links nur in Einbahnstraßen oder wenn rechts Schienen liegen. Das Fahrzeug ist gegen Wegrollen und Diebstahl zu sichern.
+! punkte=3 klassen=MOT
+
+? Was müssen Sie beim Aussteigen auf der Fahrbahnseite beachten?
++ Eine Gefährdung anderer muss ausgeschlossen sein
++ Ich achte vor dem Öffnen der Tür besonders auf Radfahrende
+- Ich darf die Tür öffnen, nachfolgende Fahrzeuge müssen ausweichen
+= Beim Ein- und Aussteigen darf niemand gefährdet werden. Der „holländische Griff“ (Tür mit der rechten Hand öffnen) erleichtert den Schulterblick.
+! punkte=5 klassen=MOT
+
+? Sie wollen vom Fahrbahnrand anfahren. Was ist zu beachten?
++ Eine Gefährdung anderer muss ausgeschlossen sein
++ Ich muss den Fahrtrichtungsanzeiger benutzen
+- Der fließende Verkehr muss mich einfädeln lassen
+= Wer vom Rand anfährt, muss den fließenden Verkehr durchlassen, blinken und darf niemanden gefährden.
+
+? Ihr Fahrzeug bleibt in einem Tunnel liegen. Was ist richtig?
++ Warnblinklicht einschalten und den Motor abstellen
++ Das Fahrzeug verlassen und über eine Notrufstation Hilfe anfordern
+- Im Fahrzeug bleiben und das Fenster geschlossen halten, bis jemand kommt
+= Im Tunnel: möglichst auf dem Seitenstreifen oder in einer Pannenbucht halten, Warnblinker an, Motor aus, Schlüssel stecken lassen, Notrufstation nutzen. Bei Brand den Fluchtwegen folgen.
+! punkte=5 klassen=MOT
+
+? Wie viel Seitenabstand müssen Sie beim Überholen von zu Fuß Gehenden, Radfahrenden und E-Scooter-Fahrenden innerorts mindestens einhalten?
+N 1,5 m
+= Innerorts mindestens 1,5 m, außerorts mindestens 2 m.
+! punkte=4 klassen=MOT
+
+? Wie viel Seitenabstand müssen Sie beim Überholen von Radfahrenden außerorts mindestens einhalten?
+N 2 m
+= Außerhalb geschlossener Ortschaften mindestens 2 m.
+! punkte=4 klassen=MOT
+
+? Bei stockendem Verkehr stehen Sie vor einem Zebrastreifen. Was ist richtig?
++ Ich fahre nicht auf den Überweg, wenn ich dort warten müsste
+- Ich darf auf dem Überweg stehen bleiben, wenn der Verkehr stockt
+- Ich muss möglichst dicht auffahren
+= Bei stockendem Verkehr darf man nicht auf einen Fußgängerüberweg fahren, wenn man auf ihm warten müsste.
+! punkte=4
+
+? Sie nähern sich einer Kreuzung bei stockendem Verkehr. Ihre Ampel zeigt Grün. Was ist richtig?
++ Ich fahre nur in die Kreuzung ein, wenn ich sie auch wieder verlassen kann
+- Bei Grün darf ich immer einfahren
+- Ich fahre ein und warte auf der Kreuzung
+= Wer bei stockendem Verkehr in die Kreuzung fährt und dort warten muss, blockiert den Querverkehr. Das ist verboten.
+! punkte=4
+
+? Was bedeutet Gelb an einer Ampel?
++ Vor der Kreuzung auf das nächste Zeichen warten
+- Schnell noch über die Kreuzung fahren
+- Die Ampel ist ausgefallen
+= Gelb kündigt Rot an. Wer gefahrlos anhalten kann, muss anhalten.
+! punkte=3
+
+? Was bedeutet Rot und Gelb gleichzeitig an einer Ampel?
++ Gleich kommt Grün – ich muss aber noch warten
+- Ich darf schon losfahren
+- Die Ampel ist defekt
+= Rot-Gelb heißt: Achtung, gleich Grün. Losfahren erst bei Grün.
+! punkte=3
+
+? Eine Ampel zeigt gelbes Blinklicht. Was bedeutet das?
++ Ich muss die Verkehrsregeln und Zeichen besonders aufmerksam beachten
+- Ich muss anhalten
+- Ich habe Vorfahrt
+= Gelbes Blinklicht warnt. Es gelten dann die Verkehrszeichen bzw. die allgemeinen Vorfahrtsregeln.
+! punkte=3
+
+? Was gilt an einer Kreuzung, an der die Ampel ausgefallen ist?
++ Es gelten die aufgestellten Verkehrszeichen
++ Ohne Verkehrszeichen gilt „rechts vor links“
+- Wer zuerst da ist, darf zuerst fahren
+= Fällt die Lichtzeichenanlage aus, regeln die Verkehrszeichen bzw. die allgemeinen Vorfahrtsregeln den Verkehr.
+! punkte=5 kapitel=1.3
+
+? Was gilt bei Grün mit einem grünen Pfeil in der Ampel nach links?
++ Ich kann links abbiegen, der Gegenverkehr hat Rot
+- Ich muss den Gegenverkehr durchlassen
+- Ich darf nur geradeaus fahren
+= Ein grüner Pfeil in der Ampel zeigt freie Fahrt für die angezeigte Richtung – der Gegenverkehr wird angehalten („gesichertes Abbiegen“).
+! punkte=3 kapitel=1.3
+
+? Ein Schulbus nähert sich mit eingeschaltetem Warnblinklicht einer Haltestelle. Was gilt?
++ Er darf nicht überholt werden
+- Ich darf ihn zügig überholen, bevor er hält
+- Ich muss sofort anhalten
+= Busse, die sich mit Warnblinklicht einer Haltestelle nähern, dürfen nicht überholt werden.
+! punkte=5 klassen=MOT
+
+? Ein Linienbus will mit Blinker von einer gekennzeichneten Haltestelle abfahren. Was müssen Sie tun?
++ Ihm das Abfahren ermöglichen, wenn nötig warten
+- Schnell vorbeifahren, bevor er losfährt
+- Hupen, damit er wartet
+= Linienbussen und Schulbussen ist das Abfahren von gekennzeichneten Haltestellen zu ermöglichen.
+! punkte=4 klassen=MOT
+
+? Was gilt in einer Fahrradstraße für Kraftfahrzeuge?
++ Sie dürfen nur fahren, wenn dies durch ein Zusatzzeichen erlaubt ist
++ Es gilt höchstens 30 km/h; der Radverkehr darf weder gefährdet noch behindert werden
+- Radfahrende müssen hintereinander fahren
+= In Fahrradstraßen hat der Radverkehr Vorrang. Andere Fahrzeuge brauchen eine Erlaubnis per Zusatzzeichen, es gilt maximal 30 km/h. Radfahrende dürfen nebeneinander fahren.
+! klassen=MOT
+# zeichen 244.1
+
+? Wer darf den Gehweg mit dem Fahrrad benutzen?
++ Kinder bis zum vollendeten 8. Lebensjahr müssen ihn benutzen
++ Kinder bis zum vollendeten 10. Lebensjahr dürfen ihn benutzen
+- Alle Radfahrenden, wenn die Fahrbahn voll ist
+= Kinder bis 8 Jahre müssen, bis 10 Jahre dürfen den Gehweg benutzen. Eine begleitende Aufsichtsperson ab 16 Jahren darf dann ebenfalls auf dem Gehweg fahren.
+! punkte=3
+
+? Dürfen Radfahrende nebeneinander fahren?
++ Ja, wenn dadurch der Verkehr nicht behindert wird
+- Nein, nie
+- Nur in Gruppen ab 16 Personen
+= Seit 2020 dürfen Radfahrende nebeneinander fahren, wenn andere nicht behindert werden. Verbände ab 16 Radfahrenden dürfen zu zweit nebeneinander fahren.
+! punkte=3
+
+? Was ist bei einer Begegnung mit Reitern oder Tieren auf der Straße zu beachten?
++ Langsam fahren und mit großem Abstand vorbeifahren
++ Nicht hupen, um die Tiere nicht zu erschrecken
+- Hupen, damit die Tiere Platz machen
+= Tiere können schreckhaft und unberechenbar reagieren. Rücksicht, Abstand und geringe Geschwindigkeit sind nötig.
+! punkte=4
+
+? Wie verhalten Sie sich an einer Engstelle, wenn auf Ihrer Seite ein Hindernis steht und Gegenverkehr kommt?
++ Ich lasse den Gegenverkehr durchfahren
+- Ich fahre zuerst, weil ich schon dicht dran bin
+- Der Gegenverkehr muss anhalten
+= Wer an einem Hindernis auf der eigenen Seite vorbeifahren will, muss den Gegenverkehr durchlassen.
+! punkte=4 kapitel=1.3
+
+? Wie fahren Sie auf eine Autobahn auf?
++ Auf dem Beschleunigungsstreifen auf eine angepasste Geschwindigkeit beschleunigen
++ Den Verkehr auf der Autobahn beachten – er hat Vorfahrt
+- Auf dem Beschleunigungsstreifen anhalten und warten, bis die Autobahn leer ist
+= Der durchgehende Verkehr hat Vorfahrt. Auf dem Beschleunigungsstreifen zügig beschleunigen und in eine passende Lücke einfädeln.
+! klassen=MOT kapitel=1.3
+
+? Sie wollen die Autobahn verlassen. Wo verringern Sie die Geschwindigkeit deutlich?
++ Erst auf dem Verzögerungsstreifen
+- Schon auf dem durchgehenden Fahrstreifen
+- Erst in der Kurve der Ausfahrt
+= Auf der durchgehenden Fahrbahn würde starkes Verzögern den nachfolgenden Verkehr gefährden. Rechtzeitig blinken und auf dem Verzögerungsstreifen abbremsen.
+! klassen=MOT
+# zeichen 333
+
+? Wie hoch ist die Richtgeschwindigkeit auf deutschen Autobahnen?
+N 130 km/h
+= Die Richtgeschwindigkeit ist eine Empfehlung. Wer schneller fährt, kann bei einem Unfall eine Mitschuld tragen.
+! punkte=3 klassen=MOT
+
+? Wann ist auf der Autobahn das Benutzen des Seitenstreifens zum Fahren erlaubt?
++ Wenn er durch Verkehrszeichen zum Befahren freigegeben ist
+- Bei Stau immer
+- Zum Überholen auf der rechten Seite
+= Der Seitenstreifen darf nur befahren werden, wenn dies durch Zeichen angeordnet ist – oder im Notfall zum Halten.
+! punkte=4 klassen=MOT
+
+? Auf einer dreistreifigen Autobahn: Wann dürfen Sie den linken Fahrstreifen benutzen?
++ Zum Überholen
+- Immer, solange ich die Richtgeschwindigkeit fahre
+- Nur bei Dunkelheit
+= Auch auf Autobahnen gilt das Rechtsfahrgebot. Links wird nur zum Überholen gefahren.
+! punkte=3 klassen=MOT
+# grafik autobahn3 L1=blau* L2@110=grau L3@80=lkw:grau
+
+? Was müssen Sie tun, wenn Sie auf der Autobahn eine Panne haben?
++ Möglichst auf den Seitenstreifen oder in eine Nothaltebucht fahren
++ Mit Warnweste hinter die Schutzplanke gehen und das Fahrzeug absichern
+- Im Fahrzeug sitzen bleiben und warten
+= Auf der Autobahn ist der Aufenthalt neben der Fahrbahn lebensgefährlich. Fahrzeug sichern, Insassen hinter die Schutzplanke bringen, Hilfe rufen.
+! punkte=5 klassen=MOT
+
+? Ein Geisterfahrer wird im Radio gemeldet. Wie verhalten Sie sich?
++ Ich fahre ganz rechts und überhole nicht
++ Ich verringere die Geschwindigkeit und halte großen Abstand
+- Ich fahre auf dem linken Fahrstreifen, um besser zu sehen
+= Falschfahrer kommen meist auf dem linken Fahrstreifen entgegen. Rechts fahren, nicht überholen, Warnblinklicht bei Gefahr.
+! punkte=5 klassen=MOT
+
+? Was müssen Sie vor Fahrtbeginn mit den Mitfahrenden klären?
++ Alle müssen sich anschnallen
+- Nur die Fahrerin oder der Fahrer muss angeschnallt sein
+- Auf der Rückbank ist kein Gurt nötig
+= Gurtpflicht gilt für alle Plätze mit Sicherheitsgurt. Kinder müssen altersgerecht gesichert werden.
+! punkte=3 klassen=MOT
+
+? Wie lange dauert die Probezeit nach dem ersten Erwerb einer Fahrerlaubnis?
+N 2 Jahre
+= Die Probezeit beträgt zwei Jahre. Bei schweren Verstößen verlängert sie sich auf vier Jahre.
+! punkte=3 kapitel=1.2
+
+? Was droht in der Probezeit nach einem schwerwiegenden Verstoß (A-Verstoß)?
++ Die Teilnahme an einem Aufbauseminar wird angeordnet
++ Die Probezeit verlängert sich um zwei Jahre
+- Nur eine mündliche Verwarnung
+= Bei einem A-Verstoß oder zwei B-Verstößen wird ein Aufbauseminar angeordnet und die Probezeit auf vier Jahre verlängert.
+! punkte=3 klassen=MOT
+
+? Wie verhalten Sie sich nach einem Unfall, an dem Sie beteiligt sind?
++ Ich halte sofort an und sichere die Unfallstelle
++ Ich warte, bis die Feststellungen getroffen sind, oder hinterlasse meine Daten auf geeignete Weise und informiere die Polizei
+- Bei kleinen Sachschäden darf ich ohne Weiteres weiterfahren
+= Wer sich unerlaubt vom Unfallort entfernt, macht sich strafbar. Auch bei geringen Schäden muss eine angemessene Zeit gewartet bzw. die Polizei informiert werden.
+! punkte=5
+
+? Was gilt nach einem Unfall mit Verletzten?
++ Ich bin zur Ersten Hilfe verpflichtet, soweit mir das zumutbar ist
++ Ich setze einen Notruf ab
+- Ich warte, bis die Polizei kommt, und tue vorher nichts
+= Unterlassene Hilfeleistung ist strafbar. Absichern, Notruf, Erste Hilfe – in dieser Reihenfolge, wo möglich.
+! punkte=5
+
+? Sie fahren an einer Unfallstelle vorbei, an der Rettungskräfte arbeiten. Was ist richtig?
++ Ich fahre langsam und aufmerksam vorbei
+- Ich bleibe stehen, um zu sehen, was passiert ist
+- Ich fotografiere die Unfallstelle für die Polizei
+= Gaffen behindert die Rettung und gefährdet den Verkehr. Bildaufnahmen von Verletzten oder Toten sind strafbar.
+! punkte=4
+
+? Wo dürfen Sie in einem verkehrsberuhigten Bereich parken?
++ Nur auf den dafür gekennzeichneten Flächen
+- Überall am rechten Fahrbahnrand
+- Nirgends, auch nicht auf gekennzeichneten Flächen
+= Außerhalb gekennzeichneter Flächen ist Parken verboten; erlaubt bleiben Ein- und Aussteigen sowie Be- und Entladen.
+! punkte=3 klassen=MOT
+# zeichen 325.1
+
+? Sie verlassen einen verkehrsberuhigten Bereich und fahren auf eine Straße. Was gilt?
++ Ich muss allen anderen Verkehrsteilnehmenden Vorrang gewähren
+- Es gilt rechts vor links
+- Ich habe Vorfahrt
+= Wer aus einem verkehrsberuhigten Bereich auf eine andere Straße einfährt, muss alle anderen durchlassen – wie bei einer Grundstücksausfahrt.
+! punkte=5 kapitel=1.3
+# zeichen 325.2
+
+? Wo dürfen Elektrokleinstfahrzeuge (E-Scooter) fahren?
++ Auf Radwegen, Radfahrstreifen und in Fahrradstraßen
++ Wenn diese fehlen, auf der Fahrbahn
+- Auf Gehwegen, wenn sie Schrittgeschwindigkeit fahren
+= E-Scooter gehören auf die Radverkehrsflächen, sonst auf die Fahrbahn. Gehwege und Fußgängerzonen sind nur mit Freigabe durch Zusatzzeichen erlaubt.
+! punkte=3
+
+? Wie hoch ist die zulässige Höchstgeschwindigkeit für Pkw außerorts auf Autobahnen ohne Beschränkung durch Zeichen?
++ Es gibt keine allgemeine Höchstgeschwindigkeit, empfohlen sind 130 km/h
+- 120 km/h
+- 100 km/h
+= Für Pkw gibt es auf Autobahnen kein generelles Tempolimit, aber eine Richtgeschwindigkeit von 130 km/h.
+! punkte=3 klassen=B kapitel=2.2
+
+? Wie schnell dürfen Sie fahren, wenn Schneeketten montiert sind?
+N 50 km/h
+= Mit Schneeketten gilt eine Höchstgeschwindigkeit von 50 km/h – auch wenn mehr erlaubt wäre.
+! punkte=3 klassen=MOT
+
+? Was gilt für die Geschwindigkeit im Allgemeinen?
++ Ich muss sie den Straßen-, Verkehrs-, Sicht- und Wetterverhältnissen anpassen
++ Ich darf nur so schnell fahren, dass ich das Fahrzeug ständig beherrsche
+- Die angezeigte Höchstgeschwindigkeit darf ich immer ausfahren
+= Höchstgeschwindigkeiten sind Obergrenzen. Maßgeblich ist, was die Umstände zulassen.
+! punkte=4
+
+? Wann dürfen Sie ohne triftigen Grund nicht besonders langsam fahren?
++ Wenn dadurch der Verkehrsfluss behindert wird
+- Nie, langsames Fahren ist immer erlaubt
+- Nur auf Autobahnen
+= Ohne triftigen Grund dürfen Kraftfahrzeuge nicht so langsam fahren, dass sie den Verkehrsfluss behindern.
+! punkte=3 klassen=MOT
+
+? Was gilt für das Abschleppen eines Fahrzeugs auf der Autobahn?
++ Bei der nächsten Ausfahrt muss die Autobahn verlassen werden
+- Ich darf bis zum Ziel auf der Autobahn bleiben
+- Auf die Autobahn darf jederzeit aufgefahren werden, um abzuschleppen
+= Wird ein Fahrzeug auf der Autobahn liegengeblieben abgeschleppt, muss die Autobahn an der nächsten Ausfahrt verlassen werden. Auffahren zum Abschleppen ist verboten.
+! punkte=3 klassen=MOT
+
+? Ein Kind läuft zwischen parkenden Autos auf die Fahrbahn. Sie konnten gerade noch bremsen. Wie verhalten Sie sich anschließend?
++ Ich fahre erst weiter, wenn das Kind die Fahrbahn verlassen hat
+- Ich schimpfe laut, damit das Kind es sich merkt
+- Ich hupe mehrmals
+= Kinder reagieren auf Schreck oft unvorhersehbar. Ruhig abwarten, bis sie in Sicherheit sind.
+! punkte=4
+
+? Rechts neben Ihnen verläuft ein Sonderfahrstreifen für Linienbusse. Sie wollen rechts abbiegen. Was gilt?
++ Ich darf die Busspur zum Abbiegen überqueren, muss dabei aber auf Busse achten
+- Die Busspur darf ich auch zum Überholen benutzen
+- Ich darf auf der Busspur kurz halten
+= Den Sonderfahrstreifen dürfen andere Fahrzeuge nicht befahren (außer durch Zusatzzeichen freigegebene). Zum Abbiegen darf er überquert werden, ohne Busse zu behindern.
+! punkte=3 klassen=MOT
+# zeichen 245

@@ -1,0 +1,576 @@
+// Abbildungsauswahl – eigene Formulierungen; Abbildungen: PD-Verkehrszeichen (Commons) und eigene Zeichnungen
+
+@klassen ALLE
+
+@kapitel 1.4
+
+@punkte 3
+
+? Welches Zeichen kündigt eine Kurve nach rechts an?
++ [zeichen 103-20]
+- [zeichen 103-10]
+- [zeichen 105-20]
+- [zeichen 117-10]
+= Die einfache Kurve wird mit einem einzelnen gebogenen Pfeil angekündigt, der in die Richtung der Kurve zeigt. Ein doppelt gebogener Pfeil steht für eine Doppelkurve, der Windsack für Seitenwind.
+
+? Welches Zeichen warnt vor einer Doppelkurve, die zuerst nach links führt?
++ [zeichen 105-10]
+- [zeichen 105-20]
+- [zeichen 103-10]
+- [zeichen 121-10]
+= Bei der Doppelkurve zeigt der untere Teil des Sinnbilds, in welche Richtung die erste Kurve geht.
+
+? Welches Zeichen warnt davor, dass die Fahrbahn auf der rechten Seite schmaler wird?
++ [zeichen 121-10]
+- [zeichen 121-20]
+- [zeichen 120]
+- [zeichen 105-20]
+= Bei der einseitig verengten Fahrbahn springt nur eine Begrenzungslinie im Sinnbild nach innen – auf der Seite, auf der es eng wird. Wird es von beiden Seiten enger, sind beide Linien eingezogen.
+
+? Bei welchem Zeichen müssen Sie in jedem Fall anhalten – auch wenn die Straße frei ist?
++ [zeichen 206]
+- [zeichen 205]
+- [zeichen 208]
+- [zeichen 301]
+= Das achteckige Stoppschild verlangt immer ein vollständiges Anhalten, erst danach dürfen Sie unter Beachtung der Vorfahrt weiterfahren. Beim Dreieck mit der Spitze nach unten genügt es, Vorfahrt zu gewähren.
+! kapitel=1.3 punkte=4
+
+? Welche Zeichen verpflichten Sie, an der nächsten Kreuzung Vorfahrt zu gewähren?
++ [zeichen 205]
++ [zeichen 206]
+- [zeichen 306]
+- [zeichen 301]
+= Sowohl das auf der Spitze stehende Dreieck als auch das Stoppschild nehmen Ihnen die Vorfahrt. Die beiden anderen Zeichen geben Ihnen dagegen die Vorfahrt.
+! kapitel=1.3 punkte=4
+
+? Welches Zeichen gibt Ihnen die Vorfahrt nur an der unmittelbar folgenden Kreuzung oder Einmündung?
++ [zeichen 301]
+- [zeichen 306]
+- [zeichen 205]
+- [zeichen 102]
+= Das Dreieck mit dem schwarzen Balken gilt für genau eine Kreuzung oder Einmündung. Die gelbe Raute dagegen gilt auf der ganzen Strecke, bis sie aufgehoben wird.
+! kapitel=1.3
+
+? Welches Zeichen sagt Ihnen, dass Sie an allen folgenden Kreuzungen Vorfahrt haben, bis es aufgehoben wird?
++ [zeichen 306]
+- [zeichen 307]
+- [zeichen 301]
+- [zeichen 308]
+= Die gelbe Raute kennzeichnet die Vorfahrtstraße. Die durchgestrichene Raute hebt sie wieder auf; danach gelten wieder die allgemeinen Regeln oder neue Zeichen.
+! kapitel=1.3
+
+? Welches Zeichen zeigt Ihnen, dass Sie an einer Engstelle Vorrang vor dem Gegenverkehr haben?
++ [zeichen 308]
+- [zeichen 208]
+- [zeichen 306]
+- [zeichen 125]
+= Am blauen Schild mit dem großen weißen Pfeil (eigene Richtung) und dem kleinen roten Pfeil erkennen Sie Ihren Vorrang. Beim runden Zeichen mit dem roten Pfeil für die eigene Fahrtrichtung müssen Sie dagegen warten.
+! kapitel=1.3
+
+? An welchem Zeichen müssen Sie dem Gegenverkehr an einer Engstelle den Vorrang lassen?
++ [zeichen 208]
+- [zeichen 308]
+- [zeichen 205]
+- [zeichen 125]
+= Das runde Zeichen mit dem roten Pfeil für die eigene Richtung bedeutet: Der Gegenverkehr darf zuerst durch. Das Dreieck mit den zwei Pfeilen warnt dagegen nur vor Gegenverkehr.
+! kapitel=1.3
+
+? Welches Zeichen steht in der Regel unmittelbar vor dem Bahnübergang und verlangt, dem Zug Vorrang zu gewähren?
++ [zeichen 201-50]
+- [zeichen 151]
+- [zeichen 156-10]
+- [zeichen 205]
+= Das Andreaskreuz steht direkt vor den Gleisen. Das Dreieck mit der Lok und die Baken kündigen den Bahnübergang schon vorher an.
+! kapitel=1.3 punkte=4
+
+? Welches Zeichen warnt davor, dass Wild über die Straße wechseln kann?
++ [zeichen 142-10]
+- [zeichen 138-10]
+- [zeichen 133-10]
+- [zeichen 117-10]
+= Der springende Hirsch warnt vor Wildwechsel, besonders in der Dämmerung und am Waldrand. Rechnen Sie dann mit weiteren Tieren, wenn eines die Straße quert.
+
+? Welches Zeichen warnt besonders vor Kindern?
++ [zeichen 136-10]
+- [zeichen 133-10]
+- [zeichen 239]
+- [zeichen 325.1]
+= Das Dreieck mit den zwei laufenden Kindern warnt vor Kindern, etwa an Schulen oder Spielplätzen. Das Dreieck mit einer einzelnen Person warnt allgemein vor Fußgängern.
+
+? Welches Zeichen verbietet Ihnen die Einfahrt, während aus der Gegenrichtung gefahren werden darf?
++ [zeichen 267]
+- [zeichen 250]
+- [zeichen 220-10]
+- [zeichen 357]
+= Das rote Rund mit dem weißen Querbalken verbietet nur die Einfahrt von dieser Seite. Der leere weiße Kreis mit rotem Rand verbietet dagegen den Fahrzeugverkehr in beide Richtungen.
+
+? Welches Zeichen verbietet Fahrzeugen aller Art die Benutzung der Straße in beiden Richtungen?
++ [zeichen 250]
+- [zeichen 267]
+- [zeichen 260]
+- [zeichen 283]
+= Der weiße Kreis mit rotem Rand ohne Sinnbild ist das Verbot für Fahrzeuge aller Art. Wer ein Fahrrad schiebt, gilt dabei als Fußgänger.
+
+? Welches Zeichen verbietet allen Kraftfahrzeugen, aber nicht dem Radverkehr die Durchfahrt?
++ [zeichen 260]
+- [zeichen 250]
+- [zeichen 254]
+- [zeichen 251]
+= Mit Motorrad und Auto im Schild sind alle Kraftfahrzeuge gemeint, auch Mofas. Das Schild mit nur dem Auto lässt Krafträder durch; das leere Rund sperrt auch Fahrräder.
+
+? Welches Zeichen verbietet nur dem Radverkehr die Benutzung der Straße?
++ [zeichen 254]
+- [zeichen 237]
+- [zeichen 260]
+- [zeichen 255]
+= Das rote Rund mit Fahrrad ist das Verbot für den Radverkehr. Das blaue Rund mit Fahrrad bedeutet das Gegenteil: Hier ist ein Radweg, den Radfahrende benutzen müssen.
+
+? Welches Zeichen verbietet Krafträder, Kleinkrafträder und Mofas?
++ [zeichen 255]
+- [zeichen 254]
+- [zeichen 251]
+- [zeichen 260]
+= Nur das Motorrad im roten Rund betrifft allein die Krafträder einschließlich Kleinkrafträder und Mofas. Autos sind davon nicht betroffen.
+
+? Bei welchem Zeichen ist jedes Halten auf der Fahrbahn verboten?
++ [zeichen 283]
+- [zeichen 286]
+- [zeichen 290.1]
+- [zeichen 314]
+= Das rote Kreuz auf blauem Grund ist das absolute Haltverbot – auch kurzes Anhalten zum Aussteigen ist dort nicht erlaubt.
+! kapitel=1.2
+
+? Bei welchen Zeichen dürfen Sie zum Ein- oder Aussteigen und zum Be- oder Entladen halten, sonst aber nicht länger als drei Minuten?
++ [zeichen 286]
++ [zeichen 290.1]
+- [zeichen 283]
+- [zeichen 314]
+= Der einzelne Schrägbalken steht für das eingeschränkte Haltverbot – einmal für die Strecke, einmal (im eckigen Schild) für eine ganze Zone. Das Kreuz verbietet jedes Halten, das „P“ erlaubt das Parken.
+! kapitel=1.2 punkte=4
+
+? Welches Zeichen erlaubt Ihnen das Parken?
++ [zeichen 314]
+- [zeichen 286]
+- [zeichen 283]
+- [zeichen 224]
+= Das weiße „P“ auf blauem Grund erlaubt das Parken. Zusatzzeichen können es zeitlich oder auf bestimmte Fahrzeuge beschränken.
+! kapitel=1.2
+
+? Welches Zeichen verbietet Ihnen das Wenden?
++ [zeichen 272]
+- [zeichen 276]
+- [zeichen 209-30]
+- [zeichen 267]
+= Das rote Rund mit dem U-förmigen Pfeil verbietet das Wenden an dieser Stelle.
+
+? Welches Zeichen verbietet allen Kraftfahrzeugen, andere mehrspurige Kraftfahrzeuge zu überholen?
++ [zeichen 276]
+- [zeichen 277]
+- [zeichen 280]
+- [zeichen 272]
+= Zwei Autos nebeneinander, das linke rot: Das ist das Überholverbot für Kraftfahrzeuge aller Art. Einspurige Fahrzeuge wie Fahrräder dürfen weiterhin überholt werden.
+
+? Welche Zeichen heben ein Überholverbot für Kraftfahrzeuge aller Art auf?
++ [zeichen 280]
++ [zeichen 282]
+- [zeichen 281]
+- [zeichen 278-60]
+= Aufgehoben wird es durch das Ende-Zeichen mit den grauen Autos oder durch das Zeichen, das alle Streckenverbote gleichzeitig beendet. Das Ende des Lkw-Überholverbots und das Ende einer Geschwindigkeitsbeschränkung lassen es bestehen.
+! punkte=4
+
+? Welches Zeichen beschränkt die Geschwindigkeit nur für die folgende Strecke auf 30 km/h – nicht für eine Zone?
++ [zeichen 274-30]
+- [zeichen 274.1]
+- [zeichen 275-30]
+- [zeichen 278-60]
+= Das runde Schild gilt für eine Strecke. Das eckige Schild mit der Aufschrift „Zone“ gilt für ein ganzes Gebiet, das blaue Rund ist eine Mindestgeschwindigkeit.
+
+? Welches Zeichen schreibt Ihnen eine Mindestgeschwindigkeit vor?
++ [zeichen 275-30]
+- [zeichen 274-30]
+- [zeichen 279-30]
+- [zeichen 274.1]
+= Eine weiße Zahl auf blauem Rund ist ein Gebot: Sie dürfen nicht langsamer fahren, wenn nicht Straßen-, Verkehrs-, Sicht- oder Wetterverhältnisse dazu zwingen.
+
+? Welches Zeichen kennzeichnet den Beginn einer Tempo-30-Zone?
++ [zeichen 274.1]
+- [zeichen 274-30]
+- [zeichen 325.1]
+- [zeichen 290.1]
+= Das rechteckige Schild mit dem Wort „Zone“ gilt in allen Straßen des Gebiets, bis die Zone durch das passende Ende-Zeichen aufgehoben wird.
+
+? In welchem Bereich ist Fahrzeugverkehr erlaubt, aber nur mit Schrittgeschwindigkeit, und Kinder dürfen überall spielen?
++ [zeichen 325.1]
+- [zeichen 274.1]
+- [zeichen 242.1]
+- [zeichen 239]
+= Das blaue Schild mit spielendem Kind, Haus und Auto beginnt einen verkehrsberuhigten Bereich. In der Fußgängerzone ist Fahrzeugverkehr ohne Zusatzzeichen gar nicht erlaubt.
+! punkte=4
+
+? Welches Zeichen kennzeichnet den Beginn einer Fußgängerzone?
++ [zeichen 242.1]
+- [zeichen 239]
+- [zeichen 325.1]
+- [zeichen 240]
+= Das eckige Schild mit den Fußgängern kündigt eine Zone an, in der ohne Zusatzzeichen nur zu Fuß Gehende unterwegs sein dürfen.
+
+? Welches Zeichen kennzeichnet den Beginn einer Fahrradstraße?
++ [zeichen 244.1]
+- [zeichen 237]
+- [zeichen 240]
+- [zeichen 254]
+= Auf einer Fahrradstraße dürfen andere Fahrzeuge nur fahren, wenn ein Zusatzzeichen das erlaubt – dann höchstens mit 30 km/h.
+
+? Welches Zeichen kennzeichnet einen Weg, den sich Radfahrende und Fußgänger ohne feste Aufteilung teilen?
++ [zeichen 240]
+- [zeichen 241-30]
+- [zeichen 239]
+- [zeichen 237]
+= Beim gemeinsamen Geh- und Radweg sind beide Sinnbilder übereinander dargestellt, beim getrennten Weg durch einen senkrechten Strich nebeneinander.
+
+? Welches Zeichen kennzeichnet einen Fahrstreifen, den nur Linienbusse (und ausdrücklich zugelassene Fahrzeuge) benutzen dürfen?
++ [zeichen 245]
+- [zeichen 224]
+- [zeichen 229]
+- [zeichen 250]
+= Das blaue Schild mit dem Bus und dem Wort „BUS“ kennzeichnet den Bussonderfahrstreifen. Taxis, Radfahrende oder Elektroautos dürfen ihn nur benutzen, wenn ein Zusatzzeichen das zulässt.
+! kapitel=1.2
+
+? Welches Zeichen kennzeichnet eine Haltestelle für Busse oder Straßenbahnen?
++ [zeichen 224]
+- [zeichen 245]
+- [zeichen 229]
+- [zeichen 314]
+= Das grüne „H“ im gelben Kreis kennzeichnet die Haltestelle. Rechnen Sie dort mit Fahrgästen, die unachtsam die Fahrbahn betreten.
+! kapitel=1.2
+
+? Welches Zeichen schreibt Schneeketten vor?
++ [zeichen 268]
+- [zeichen 269]
+- [zeichen 261]
+- [zeichen 101]
+= Auf dem blauen Rund mit dem Reifen mit Ketten dürfen Sie die Straße nur mit aufgezogenen Schneeketten befahren.
+
+@klassen MOT
+
+? Welches Zeichen kennzeichnet den Beginn einer Autobahn?
++ [zeichen 330.1]
+- [zeichen 331.1]
+- [zeichen 330.2]
+- [zeichen 331.2]
+= Das Autobahnsymbol ist eine stilisierte Brücke über zwei Fahrbahnen. Die Kraftfahrstraße zeigt ein einzelnes Auto. Durchgestrichene Schilder heben die Regeln wieder auf.
+
+? Welches Zeichen kennzeichnet eine Kraftfahrstraße?
++ [zeichen 331.1]
+- [zeichen 330.1]
+- [zeichen 331.2]
+- [zeichen 314]
+= Das weiße Auto auf blauem Grund steht für die Kraftfahrstraße. Sie darf – wie die Autobahn – nur mit Kraftfahrzeugen befahren werden, die bauartbedingt schneller als 60 km/h fahren können.
+
+? Ab welchem Zeichen gelten die Regeln für den Verkehr innerhalb geschlossener Ortschaften?
++ [zeichen 310]
+- [zeichen 311]
+- [zeichen 385]
+- [zeichen 357]
+= Erst die gelbe Ortstafel mit dem Ortsnamen (Vorderseite) beginnt die geschlossene Ortschaft. Die Ortshinweistafel ist nur ein Hinweis ohne Regeln.
+! kapitel=1.2 punkte=4
+
+? Welches Zeichen kennzeichnet eine Einbahnstraße?
++ [zeichen 220-10]
+- [zeichen 209-10]
+- [zeichen 267]
+- [zeichen 222-10]
+= Der weiße Pfeil auf dem rechteckigen blauen Schild zeigt die erlaubte Fahrtrichtung in einer Einbahnstraße. Das runde blaue Schild mit Pfeil schreibt nur eine Fahrtrichtung an dieser Stelle vor.
+
+@klassen ALLE
+
+? Welches Zeichen schreibt vor, dass Sie rechts an einem Hindernis vorbeifahren müssen?
++ [zeichen 222]
+- [zeichen 222-10]
+- [zeichen 209]
+- [zeichen 215]
+= Der schräg nach unten zeigende Pfeil bedeutet „Vorbeifahrt“: rechts unten heißt rechts vorbei. Der waagerechte gebogene Pfeil ist dagegen eine vorgeschriebene Fahrtrichtung.
+
+? Welches Zeichen schreibt die Fahrtrichtung in einem Kreisverkehr vor?
++ [zeichen 215]
+- [zeichen 209]
+- [zeichen 222]
+- [zeichen 125]
+= Die drei im Kreis laufenden Pfeile kennzeichnen den Kreisverkehr. Der Verkehr im Kreis fährt rechts herum, also gegen den Uhrzeigersinn.
+! kapitel=1.3
+
+? Welches Zeichen zeigt eine Straße an, die für Fahrzeuge nicht durchgehend befahrbar ist?
++ [zeichen 357]
+- [zeichen 267]
+- [zeichen 250]
+- [zeichen 220-10]
+= Der rote Querbalken auf dem weißen „T“ des blauen Schilds bedeutet Sackgasse. Zu Fuß oder mit dem Rad kann es trotzdem weitergehen, wenn das Schild das anzeigt.
+
+? Welches Zeichen warnt vor Seitenwind von rechts?
++ [zeichen 117-10]
+- [zeichen 114]
+- [zeichen 103-20]
+- [zeichen 112]
+= Der Windsack zeigt die Windrichtung an. Gerade auf Brücken und Waldschneisen können Böen ein Fahrzeug versetzen.
+! kapitel=1.1
+
+? Welches Zeichen warnt vor Schleuder- oder Rutschgefahr bei Nässe oder Schmutz?
++ [zeichen 114]
+- [zeichen 117-10]
+- [zeichen 112]
+- [zeichen 101]
+= Das Auto mit den geschwungenen Reifenspuren warnt vor Rutschgefahr. Fahren Sie langsamer, bremsen und lenken Sie behutsam.
+! kapitel=1.1
+
+? Welches Zeichen warnt vor einem starken Gefälle?
++ [zeichen 108-10]
+- [zeichen 110-10]
+- [zeichen 112]
+- [zeichen 114]
+= Beim Gefälle führt die Schräge im Sinnbild nach rechts unten, bei der Steigung nach rechts oben. Vor einem langen Gefälle rechtzeitig einen kleineren Gang wählen.
+
+@klassen MOT
+
+? Welches Zeichen warnt vor einer Arbeitsstelle (Baustelle)?
++ [zeichen 123]
+- [zeichen 124]
+- [zeichen 101]
+- [zeichen 131]
+= Der Arbeiter mit der Schaufel kündigt die Arbeitsstelle an. Rechnen Sie dort mit Personen, Baufahrzeugen, Verschmutzung und Engstellen.
+
+@klassen ALLE
+
+? Welches Zeichen warnt vor Stau?
++ [zeichen 124]
+- [zeichen 123]
+- [zeichen 125]
+- [zeichen 131]
+= Die hintereinander stehenden Autos warnen vor Stau. Bremsen Sie rechtzeitig und warnen Sie den nachfolgenden Verkehr bei einem plötzlichen Stauende mit dem Warnblinklicht.
+
+@klassen MOT
+
+? Welches Zeichen kündigt eine Ampel an?
++ [zeichen 131]
+- [zeichen 151]
+- [zeichen 102]
+- [zeichen 124]
+= Das Dreieck mit der Lichtzeichenanlage warnt vor einer Ampel, die man oft erst spät sieht – etwa hinter einer Kurve.
+
+@klassen ALLE
+
+? Welches Zeichen warnt vor einer Kreuzung, an der „rechts vor links“ gilt?
++ [zeichen 102]
+- [zeichen 301]
+- [zeichen 205]
+- [zeichen 306]
+= Das schwarze Kreuz im Dreieck kündigt eine Kreuzung oder Einmündung ohne besondere Vorfahrtregelung an. Wer von rechts kommt, hat dort Vorfahrt.
+! kapitel=1.3
+
+? Welches Zeichen warnt nur vor Gegenverkehr, ohne den Vorrang zu regeln?
++ [zeichen 125]
+- [zeichen 208]
+- [zeichen 308]
+- [zeichen 124]
+= Das Dreieck mit zwei gegenläufigen Pfeilen warnt, dass Sie nach einer Einbahnstrecke oder einem mehrstreifigen Abschnitt wieder mit Gegenverkehr rechnen müssen. Den Vorrang regeln die anderen beiden Pfeilzeichen.
+
+? Was kennzeichnet einen Fußgängerüberweg?
++ [zeichen 350-10]
++ [zeichen 293]
+- [zeichen 133-10]
+- [zeichen 239]
+= Der Fußgängerüberweg ist an dem blauen Schild mit dem Fußgänger auf den Streifen und an den breiten Zebrastreifen auf der Fahrbahn zu erkennen. Das Dreieck mit Fußgänger warnt nur, der Gehweg ist kein Überweg.
+! kapitel=1.3 punkte=4
+
+// --- Lichtzeichen (eigene Zeichnungen)
+
+@kapitel 1.3
+
+@punkte 4
+
+? Bei welchem Lichtzeichen ist der Verkehr an einer Kreuzung freigegeben?
++ [zeichen LZ-gruen] Grünes Licht
+- [zeichen LZ-rotgelb] Rot und Gelb gleichzeitig
+- [zeichen LZ-gelb] Gelbes Licht
+- [zeichen LZ-rot] Rotes Licht
+= Nur Grün gibt den Verkehr frei. Rot und Gelb zusammen kündigen Grün an, erlauben aber noch nicht das Einfahren.
+
+? Bei welchen Lichtzeichen dürfen Sie noch nicht in die Kreuzung einfahren, wenn Sie gefahrlos anhalten können?
++ [zeichen LZ-rot] Rotes Licht
++ [zeichen LZ-rotgelb] Rot und Gelb gleichzeitig
++ [zeichen LZ-gelb] Gelbes Licht
+- [zeichen LZ-gruen] Grünes Licht
+= Rot heißt Halt, Rot und Gelb heißt: gleich wird es grün – aber noch nicht losfahren. Gelb ordnet an, vor der Kreuzung auf das nächste Zeichen zu warten.
+
+? Bei welchen Darstellungen dürfen Sie trotz Rot für den Geradeausverkehr nach rechts abbiegen?
++ [zeichen 720-ampel] Rote Ampel mit Grünpfeil-Schild daneben (erst nach dem Anhalten)
++ [zeichen LZ-einfeld-gruenpfeil] Einfeldiger Signalgeber mit leuchtendem Grünpfeil
+- [zeichen LZ-schwarzpfeil-rot] Schwarzer Pfeil nach rechts auf Rot
+- [zeichen LZ-rot] Rotes Licht ohne Zusatz
+= Das Blechschild mit dem grünen Pfeil erlaubt das Rechtsabbiegen bei Rot erst nach dem Anhalten und ohne andere zu behindern. Ein eigener leuchtender Grünpfeil gibt das Rechtsabbiegen ebenfalls frei. Ein schwarzer Pfeil auf Rot gilt dagegen gerade für die Richtung rechts.
+! punkte=5
+
+? Welches Zeichen erlaubt nur Radfahrenden, nach dem Anhalten bei Rot rechts abzubiegen?
++ [zeichen 720-rad] Grünpfeil mit Fahrrad-Sinnbild
+- [zeichen 720] Grünpfeil ohne Sinnbild
+- [zeichen LZ-rad-rot] Rotes Radverkehrs-Lichtzeichen
+= Ist unter dem grünen Pfeil ein Fahrrad abgebildet, gilt die Erlaubnis nur für den Radverkehr. Autos müssen dort bei Rot warten.
+
+? Welche Lichtzeichen gelten nur für Fußgänger?
++ [zeichen LZ-fussg-rot] Rotes Fußgänger-Sinnbild
++ [zeichen LZ-fussg-gruen] Grünes Fußgänger-Sinnbild
+- [zeichen LZ-rad-rot] Ampel mit Fahrrad-Sinnbildern
+- [zeichen LZ-rot] Dreifeldige Ampel ohne Sinnbild
+= Zeigt die Ampel ein Sinnbild, gilt sie nur für diese Gruppe. Ampeln ohne Sinnbild gelten für den Fahrverkehr – auch für Radfahrende, sofern keine eigene Radampel vorhanden ist.
+! punkte=3
+
+? Welches Dauerlichtzeichen über einem Fahrstreifen bedeutet, dass Sie ihn nicht benutzen dürfen?
++ [zeichen DL-kreuz] Rote gekreuzte Schrägbalken
+- [zeichen DL-gruen] Grüner Pfeil nach unten
+- [zeichen DL-gelb] Gelb blinkender Schrägpfeil
+= Das rote Kreuz sperrt den Fahrstreifen. Der grüne Pfeil gibt ihn frei, der gelbe Schrägpfeil fordert zum Wechseln auf. Auf Fahrstreifen mit Dauerlichtzeichen dürfen Sie nicht halten.
+
+@klassen MOT
+
+? Welches Dauerlichtzeichen fordert Sie auf, den Fahrstreifen in Pfeilrichtung zu wechseln?
++ [zeichen DL-gelb] Gelb blinkender Schrägpfeil
+- [zeichen DL-gruen] Grüner Pfeil nach unten
+- [zeichen DL-kreuz] Rote gekreuzte Schrägbalken
+= Der gelb blinkende, schräg nach unten zeigende Pfeil bedeutet: Fahrstreifen wechseln. Meist ist der Streifen weiter vorn gesperrt, etwa wegen eines Unfalls.
+
+@klassen ALLE
+
+? Bei welchen Ampelbildern regeln nicht die Lichtzeichen, sondern die Verkehrszeichen bzw. die allgemeinen Regeln die Vorfahrt?
++ [zeichen LZ-gelbblink] Gelbes Blinklicht
++ [zeichen LZ-aus] Ausgeschaltete Ampel
+- [zeichen LZ-gruen] Grünes Licht
+- [zeichen LZ-rot] Rotes Licht
+= Lichtzeichen gehen Vorfahrtschildern vor – aber nur, solange sie Rot, Gelb oder Grün zeigen. Blinkt nur Gelb oder ist die Ampel dunkel, gelten die Schilder an der Kreuzung oder rechts vor links.
+
+// --- Polizeizeichen (eigene Zeichnungen)
+
+@klassen ALLE
+
+? Ein Polizeibeamter regelt die Kreuzung. Bei welchen Zeichen müssen Sie vor der Kreuzung warten?
++ [zeichen PZ-quer-halt] Arme quer zu Ihrer Fahrtrichtung
++ [zeichen PZ-arm-hoch] Ein Arm hochgehoben
+- [zeichen PZ-quer-frei] Arme in Ihrer Fahrtrichtung ausgestreckt
+= Zeigen Brust oder Rücken des Beamten zu Ihnen – die Arme also quer zu Ihrer Fahrtrichtung –, heißt das Halt. Ein hochgehobener Arm bedeutet: vor der Kreuzung auf das nächste Zeichen warten; wer schon in der Kreuzung ist, räumt sie.
+! punkte=5
+
+? Bei welchem Zeichen eines Polizeibeamten haben Sie freie Fahrt über die Kreuzung?
++ [zeichen PZ-quer-frei] Arme in Ihrer Fahrtrichtung ausgestreckt
+- [zeichen PZ-quer-halt] Arme quer zu Ihrer Fahrtrichtung
+- [zeichen PZ-arm-hoch] Ein Arm hochgehoben
+= Sieht der Beamte Sie von der Seite an und zeigen seine Arme in Ihre Fahrtrichtung, sind Sie der freigegebene Querverkehr. Beim Abbiegen gelten trotzdem die üblichen Regeln, etwa Fußgänger und Gegenverkehr beachten.
+
+? Womit kann die Polizei Sie zum Anhalten auffordern?
++ [zeichen PZ-kelle] Winkerkelle
++ [zeichen PZ-stopp] Leuchtschrift am Einsatzfahrzeug
+- [zeichen 283] Absolutes Haltverbot
+- [zeichen 205] Vorfahrt gewähren
+= Zum Anhalten kann die Polizei auch die Kelle, eine rote Leuchte oder eine Anzeige am Fahrzeug nutzen – auch für vorausfahrende Fahrzeuge. Folgen Sie dann den Anweisungen.
+! punkte=3
+
+// --- Markierungen (eigene Zeichnungen)
+
+@kapitel 1.4
+
+@punkte 3
+
+? Welche Markierungen dürfen Sie nicht überfahren bzw. nicht befahren?
++ [zeichen 295] Durchgehende Linie
++ [zeichen 298] Sperrfläche
+- [zeichen 340] Leitlinie (unterbrochen)
+= Die durchgehende Linie darf auch nicht teilweise überfahren werden, Sperrflächen dürfen nicht benutzt werden. Die unterbrochene Leitlinie dürfen Sie überfahren, wenn dadurch niemand gefährdet wird.
+! punkte=4
+
+? Welche Markierung zeigt, wo Sie bei Rot, beim Stoppschild oder auf Zeichen eines Polizeibeamten anhalten müssen?
++ [zeichen 294] Haltlinie
+- [zeichen 293] Zebrastreifen
+- [zeichen 299] Zickzacklinie
+- [zeichen 298] Sperrfläche
+= Die breite Querlinie ist die Haltlinie. Sieht man von dort nicht in die Straße, fährt man vorsichtig bis zur Sichtlinie vor und hält dort erneut, wenn nötig.
+
+? Welche Markierung verbietet innerhalb ihres Bereichs das Halten und Parken?
++ [zeichen 299] Zickzacklinie (Grenzmarkierung)
+- [zeichen 298] Sperrfläche
+- [zeichen 295-rand] Randlinie
+- [zeichen 340] Leitlinie
+= Die Zickzacklinie kennzeichnet, verlängert oder verkürzt ein Halt- oder Parkverbot, zum Beispiel vor einer Ausfahrt oder Haltestelle.
+! kapitel=1.2
+
+? Sie wollen geradeaus weiterfahren. Welche Pfeile auf der Fahrbahn erlauben Ihnen das in diesem Fahrstreifen?
++ [zeichen 297-g] Pfeil geradeaus
++ [zeichen 297-gr] Pfeil geradeaus und rechts
++ [zeichen 297-gl] Pfeil geradeaus und links
+- [zeichen 297-l] Pfeil links
+= Wo Pfeile zwischen Leitlinien oder Fahrstreifenbegrenzungen markiert sind, müssen Sie der Pfeilrichtung folgen. Ein Pfeil, der nur nach links zeigt, verlangt das Linksabbiegen.
+! kapitel=1.2 punkte=4
+
+? Welche Markierung kündigt an, dass Ihr Fahrstreifen endet oder bald eine durchgehende Linie beginnt?
++ [zeichen 297.1] Gebogener Vorankündigungspfeil zwischen den Fahrstreifen
+- [zeichen 297-l] Linkspfeil im Fahrstreifen
+- [zeichen 297-r] Rechtspfeil im Fahrstreifen
+= Der Vorankündigungspfeil steht zwischen den Fahrstreifen und deutet zur Seite. Ordnen Sie sich rechtzeitig ein bzw. kehren Sie vom Überholen zurück.
+
+? Bei welcher Markierung dürfen Sie die Linie nur von einer Seite aus überfahren?
++ [zeichen 296] Durchgehende Linie mit daneben verlaufender unterbrochener Linie
+- [zeichen 295] Einfache durchgehende Linie
+- [zeichen 340] Leitlinie
+= Bei der einseitigen Fahrstreifenbegrenzung darf nur überfahren, wer auf der Seite der unterbrochenen Linie fährt. Von der Seite der durchgehenden Linie aus ist das verboten.
+! kapitel=1.2 punkte=4
+
+// --- Zusatzstoff B
+
+@kapitel 2.4
+
+@klassen B
+
+@punkte 3
+
+? Welches Zeichen verbietet die Durchfahrt für Fahrzeuge, die einschließlich Ladung höher sind als angegeben?
++ [zeichen 265-3]
+- [zeichen 264-2]
+- [zeichen 266-10]
+- [zeichen 263-8]
+= Bei der Höhenbegrenzung zeigen die Pfeile senkrecht nach oben und unten. Denken Sie an Dachboxen, Fahrräder auf dem Dach oder einen Anhänger mit hoher Ladung.
+
+? Welches Zeichen begrenzt die tatsächliche Breite von Fahrzeugen einschließlich Ladung?
++ [zeichen 264-2]
+- [zeichen 265-3]
+- [zeichen 266-10]
+- [zeichen 262-5]
+= Die Pfeile zeigen waagerecht aufeinander zu. Breiter Ladung, aber auch ausgeklappten Spiegeln eines Wohnwagengespanns kann eine solche Engstelle gefährlich werden.
+
+? Welches Zeichen verbietet die Einfahrt für Kraftfahrzeuge mit mehr als 3,5 t zulässiger Gesamtmasse (ausgenommen Pkw und Kraftomnibusse)?
++ [zeichen 253]
+- [zeichen 262-5]
+- [zeichen 277]
+- [zeichen 251]
+= Der Lastwagen im roten Rund richtet sich nach der zulässigen Gesamtmasse. Das Zeichen mit der Gewichtsangabe bezieht sich dagegen auf die tatsächliche Masse des Fahrzeugs.
+
+? Welches Zeichen verbietet nur Kraftfahrzeugen über 3,5 t zulässiger Gesamtmasse (ausgenommen Pkw und Kraftomnibusse) das Überholen?
++ [zeichen 277]
+- [zeichen 276]
+- [zeichen 281]
+- [zeichen 253]
+= Ist im Überholverbot links ein roter Lkw abgebildet, gilt es nur für schwere Kraftfahrzeuge und Zugmaschinen. Mit dem Pkw dürfen Sie dort überholen, wenn es sonst erlaubt ist.
+
+? Welches Zeichen verbietet die Fahrt mit mehr als 20 Litern wassergefährdender Ladung?
++ [zeichen 269]
+- [zeichen 261]
+- [zeichen 268]
+= Das Rund mit dem stilisierten Fahrzeug und den Tropfen gilt für wassergefährdende Ladung – etwa in Wasserschutzgebieten. Es gilt auch für Pkw, wenn diese entsprechende Mengen transportieren.
+
+// --- Umwelt
+
+@kapitel 1.5
+
+@klassen MOT
+
+? Welches Zeichen kennzeichnet den Beginn einer Umweltzone?
++ [zeichen 270.1]
+- [zeichen 274.1]
+- [zeichen 290.1]
+- [zeichen 325.1]
+= Die Umweltzone beginnt mit dem großen weißen Schild mit Umwelt-Schriftzug. Ohne passende Plakette und ohne Ausnahme dürfen Sie dort mit einem Kraftfahrzeug nicht fahren.

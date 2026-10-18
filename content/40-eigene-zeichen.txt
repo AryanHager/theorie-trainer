@@ -1,0 +1,113 @@
+// Fragen zu eigenen schematischen Zeichnungen (Markierungen, Lichtzeichen, Polizeizeichen)
+@klassen ALLE
+@kapitel 1.4
+@punkte 3
+
+? Was gilt für diese Markierung auf der Fahrbahn?
++ Ich darf sie weder überfahren noch auf ihr fahren
++ Ich muss rechts von ihr fahren, wenn sie den Gegenverkehr abtrennt
+- Ich darf sie zum Überholen kurz überfahren, wenn kein Gegenverkehr kommt
+= Die durchgehende Linie ist eine Fahrstreifenbegrenzung. Sie darf auch nicht teilweise überfahren werden – auch nicht, wenn gerade niemand entgegenkommt.
+# zeichen 295
+! punkte=4
+
+? Sie fahren auf dem Fahrstreifen B. Was dürfen Sie?
++ Die Doppellinie überfahren, wenn ich dadurch niemanden gefährde, z. B. zum Überholen
+- Nichts – die durchgehende Linie gilt für beide Seiten
+- Neben der Linie parken, auch wenn danach nur 2 m Fahrstreifen frei bleiben
+= Von der Seite der unterbrochenen Linie aus darf die einseitige Fahrstreifenbegrenzung überfahren werden, wenn der Verkehr nicht gefährdet wird. Wer auf der Seite der durchgehenden Linie fährt, darf das nicht. Neben der durchgehenden Linie muss beim Parken ein Fahrstreifen von mindestens 3 m frei bleiben.
+# zeichen 296
+! kapitel=1.2 punkte=4
+
+? Was bedeutet diese Markierung?
++ Die Fläche darf ich nicht befahren
+- Ich darf dort kurz halten, wenn ich niemanden behindere
+- Sie zeigt einen Fahrstreifen nur für Busse an
+= Schraffierte Sperrflächen trennen zum Beispiel Fahrstreifen an Ausfahrten oder Verkehrsinseln. Wer ein Fahrzeug führt, darf sie nicht benutzen – auch nicht zum Halten.
+# zeichen 298
+
+? Was gilt im Bereich dieser Zickzacklinie am Fahrbahnrand?
++ Ich darf hier weder halten noch parken
+- Ich darf hier nur nachts parken
+- Die Linie kennzeichnet einen Parkplatz für Motorräder
+= Die Grenzmarkierung bezeichnet, verlängert oder verkürzt ein Halt- oder Parkverbot – oft vor Einfahrten, Haltestellen oder an Kreuzungen.
+# zeichen 299
+! kapitel=1.2
+
+? Sie stehen in diesem Fahrstreifen vor der Kreuzung. Wohin dürfen Sie weiterfahren?
++ Geradeaus
++ Nach rechts
+- Nach links
+= Pfeile zwischen Leitlinien oder Fahrstreifenbegrenzungen schreiben vor, in welche Richtung Sie an der folgenden Kreuzung fahren müssen. Dieser Pfeil erlaubt geradeaus und rechts.
+# zeichen 297-gr
+! kapitel=1.2
+
+? Was kündigt Ihnen dieser Pfeil zwischen den Fahrstreifen an?
++ Mein Fahrstreifen endet oder es folgt eine durchgehende Linie – ich muss mich in Pfeilrichtung einordnen
+- Ab hier ist Linksabbiegen verboten
+- Ein Überholverbot für Lkw beginnt
+= Der Vorankündigungspfeil steht zwischen zwei Fahrstreifen und deutet zur Seite. Wer gerade überholt, muss den Vorgang abschließen und rechtzeitig einscheren.
+# zeichen 297.1
+
+? Wie verhalten Sie sich vor dieser Markierung?
++ Ich lasse Fußgängern, die erkennbar die Straße überqueren wollen, das Überqueren ermöglichen
++ Ich fahre nur mit mäßiger Geschwindigkeit heran
+- Ich darf direkt vor der Markierung halten, um Fahrgäste aussteigen zu lassen
+= Am Fußgängerüberweg haben zu Fuß Gehende Vorrang, wenn sie ihn erkennbar benutzen wollen. Dort und bis 5 m davor darf nicht gehalten werden.
+# zeichen 293
+! kapitel=1.3 punkte=4
+
+// --- Lichtzeichen und Polizeizeichen
+@kapitel 1.3
+@punkte 4
+
+? Die Ampel zeigt dieses Lichtzeichen. Wie verhalten Sie sich?
++ Ich halte vor der Kreuzung an, wenn das gefahrlos möglich ist
+- Ich beschleunige, um noch vor Rot über die Kreuzung zu kommen
+- Ich darf weiterfahren, weil Gelb dem Grün folgt
+= Gelb ordnet an, vor der Kreuzung auf das nächste Zeichen zu warten. Nur wer so nah ist, dass ein sicheres Anhalten nicht mehr möglich wäre, fährt vorsichtig weiter.
+# zeichen LZ-gelb
+
+? Die Ampel zeigt Rot und Gelb gleichzeitig. Was bedeutet das?
++ Gleich wird es grün – ich darf aber noch nicht losfahren
+- Die Ampel ist gestört, es gilt rechts vor links
+- Ich darf abbiegen, aber nicht geradeaus fahren
+= Rot und Gelb zusammen ist die letzte Phase vor Grün. Sie dürfen sich bereit machen, aber erst bei Grün anfahren.
+# zeichen LZ-rotgelb
+! punkte=3
+
+? Was zeigt Ihnen dieser grüne Pfeil im linken Signalgeber an?
++ Ich darf nach links abbiegen
++ Der Gegenverkehr wird – wenn der Pfeil links hinter der Kreuzung steht – durch Rot angehalten
+- Ich darf geradeaus fahren
+= Ein grüner Pfeil gibt nur die Pfeilrichtung frei. Steht er hinter der Kreuzung links, zeigt er zusätzlich an, dass der Gegenverkehr Rot hat und Sie die Kreuzung ungehindert räumen können.
+# zeichen LZ-pfeil-links
+
+? Die Ampel zeigt Rot mit einem schwarzen Pfeil nach rechts. Was gilt?
++ Wer nach rechts abbiegen will, muss halten
+- Rechtsabbiegen ist nach kurzem Anhalten erlaubt
+- Das Rot gilt nur für den Geradeausverkehr
+= Ein schwarzer Pfeil auf Rot ordnet das Halten genau für die angezeigte Richtung an – hier also für Rechtsabbieger.
+# zeichen LZ-schwarzpfeil-rot
+
+? Ein Polizeibeamter hebt einen Arm hoch. Sie befinden sich bereits in der Kreuzung. Was tun Sie?
++ Ich räume die Kreuzung zügig und vorsichtig
+- Ich bleibe in der Kreuzung stehen, bis ein neues Zeichen kommt
+- Ich setze zurück bis vor die Kreuzung
+= Ein hochgehobener Arm bedeutet für alle vor der Kreuzung: auf das nächste Zeichen warten. Wer schon in der Kreuzung ist, soll sie räumen.
+# zeichen PZ-arm-hoch
+
+? Ein Polizeibeamter steht Ihnen frontal gegenüber und streckt beide Arme seitlich aus. Was müssen Sie tun?
++ Vor der Kreuzung anhalten
+- Weiterfahren, die Arme zeigen den Weg
+- Nur abbiegen, nicht geradeaus fahren
+= Sehen Sie Brust oder Rücken des Beamten, verlaufen die Arme quer zu Ihrer Fahrtrichtung. Das bedeutet Halt vor der Kreuzung; der Querverkehr hat freie Fahrt.
+# zeichen PZ-front-arme
+! punkte=5
+
+? Die Ampel ist ausgeschaltet. Wonach richtet sich die Vorfahrt?
++ Nach den aufgestellten Vorfahrtzeichen
++ Ohne solche Zeichen nach der Regel „rechts vor links“
+- Wer zuerst an der Kreuzung ist, fährt zuerst
+= Lichtzeichen gehen den Vorfahrtzeichen nur vor, solange sie in Betrieb sind. Sind sie aus oder blinkt nur Gelb, gelten die Schilder – und ohne Schilder rechts vor links.
+# zeichen LZ-aus

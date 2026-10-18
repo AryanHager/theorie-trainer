@@ -1,0 +1,332 @@
+// Phase 2 – Zusatzstoff gemeinsam für C1, C, CE, D1, D: Lenk- und Ruhezeiten, Fahrtenschreiber, Grundsätze – eigene Formulierungen
+// Quellen: VO (EG) 561/2006 Art. 4, 6, 7, 8; VO (EU) 165/2014 Art. 36 (i. d. F. VO (EU) 2020/1054); FPersV §§ 1, 2, 4, 20;
+// StVO §§ 2, 3, 4, 5, 7, 9, 17, 18; StVZO §§ 41, 53a; FeV §§ 10, 23; BKrFQG § 5
+
+@klassen CD
+
+@kapitel 2.6
+
+@punkte 5
+
+? Wie lange darf Ihre tägliche Lenkzeit nach der EU-Sozialvorschrift höchstens betragen?
+N 9 h
+= Zweimal pro Woche darf die tägliche Lenkzeit auf höchstens 10 Stunden verlängert werden.
+! zahl
+
+? Wie oft pro Woche dürfen Sie die tägliche Lenkzeit auf 10 Stunden verlängern?
++ Höchstens zweimal
+- Höchstens dreimal
+- Beliebig oft, solange die Wochenlenkzeit eingehalten wird
+= Die Regel-Tageslenkzeit beträgt 9 Stunden; zweimal pro Woche sind 10 Stunden erlaubt.
+
+? Wie viele Stunden dürfen Sie in einer Woche höchstens lenken?
+N 56 h
+= Zusätzlich darf die Lenkzeit in zwei aufeinanderfolgenden Wochen zusammen 90 Stunden nicht überschreiten.
+! zahl
+
+? Wie viele Stunden dürfen Sie in zwei aufeinanderfolgenden Wochen zusammen höchstens lenken?
+N 90 h
+= Wer in einer Woche 56 Stunden gelenkt hat, darf in der folgenden Woche also nur noch 34 Stunden lenken.
+! zahl
+
+? Sie haben in dieser Woche bereits 56 Stunden gelenkt. Wie viele Stunden dürfen Sie in der folgenden Woche höchstens noch lenken?
+N 34 h
+= Die Summe aus zwei aufeinanderfolgenden Wochen darf 90 Stunden nicht überschreiten: 90 − 56 = 34.
+! zahl
+
+? Nach welcher Lenkdauer müssen Sie spätestens eine Fahrtunterbrechung einlegen?
++ Nach 4,5 Stunden
+- Nach 6 Stunden
+- Nach 3 Stunden
+= Nach 4,5 Stunden Lenkzeit ist eine Unterbrechung von mindestens 45 Minuten vorgeschrieben, sofern keine Ruhezeit beginnt.
+
+? Wie lange muss die Fahrtunterbrechung nach 4,5 Stunden Lenkzeit mindestens dauern?
+N 45 min
+= Die Unterbrechung darf aufgeteilt werden: zuerst mindestens 15 Minuten, danach mindestens 30 Minuten.
+! zahl
+
+? Sie wollen die vorgeschriebene Fahrtunterbrechung aufteilen. Welche Aufteilung ist zulässig?
++ Erst mindestens 15 Minuten, später mindestens 30 Minuten
+- Erst 30 Minuten, später 15 Minuten
+- Drei Unterbrechungen von je 15 Minuten
+= Die Reihenfolge ist festgelegt: Der zweite Teil muss mindestens 30 Minuten dauern. 30 + 15 erfüllt die Vorschrift nicht.
+
+@punkte 4
+
+? Was zählt als Fahrtunterbrechung?
++ Ein Zeitraum, in dem ich weder fahre noch andere Arbeiten erledige und mich ausschließlich erhole
+- Die Zeit, in der ich die Ladung sichere
+- Die Zeit, in der ich das Fahrzeug betanke und wasche
+= Be- und Entladen, Tanken oder Wartungsarbeiten sind „andere Arbeiten“ und keine Fahrtunterbrechung.
+
+? Wie lange muss die regelmäßige tägliche Ruhezeit mindestens dauern?
+N 11 h
+= Sie kann in zwei Teile aufgeteilt werden: erst mindestens 3 Stunden, dann mindestens 9 Stunden.
+! zahl
+
+? Wie oft dürfen Sie zwischen zwei wöchentlichen Ruhezeiten die tägliche Ruhezeit auf mindestens 9 Stunden reduzieren?
++ Höchstens dreimal
+- Höchstens einmal
+- Beliebig oft
+= Die reduzierte tägliche Ruhezeit (mindestens 9, aber weniger als 11 Stunden) muss nicht ausgeglichen werden.
+
+? Sie wollen Ihre tägliche Ruhezeit aufteilen. Welche Aufteilung ist zulässig?
++ Erst mindestens 3 Stunden, später mindestens 9 Stunden
+- Erst 9 Stunden, später 2 Stunden
+- Zweimal 5,5 Stunden
+= Bei der aufgeteilten Ruhezeit beträgt die Summe mindestens 12 Stunden. Der zweite Teil muss mindestens 9 Stunden dauern.
+
+? Innerhalb welchen Zeitraums nach dem Ende der vorangegangenen Ruhezeit müssen Sie (ohne Mehrfahrerbetrieb) eine neue tägliche Ruhezeit genommen haben?
+N 24 h
+= Im Mehrfahrerbetrieb muss innerhalb von 30 Stunden eine neue tägliche Ruhezeit von mindestens 9 Stunden genommen worden sein.
+! zahl
+
+? Wie lange muss die regelmäßige wöchentliche Ruhezeit mindestens dauern?
+N 45 h
+= Sie kann auf mindestens 24 Stunden reduziert werden. Die Reduzierung muss dann ausgeglichen werden.
+! zahl
+
+? Sie haben eine reduzierte wöchentliche Ruhezeit von 24 Stunden eingelegt. Was müssen Sie tun?
++ Die fehlenden 21 Stunden bis zum Ende der dritten Woche nach dieser Woche am Stück ausgleichen
+- Nichts, eine Reduzierung ist jederzeit erlaubt
+- Den Ausgleich in der folgenden Nacht nehmen
+= Der Ausgleich ist an eine andere Ruhezeit von mindestens 9 Stunden anzuhängen.
+
+? Spätestens nach wie vielen 24-Stunden-Zeiträumen seit dem Ende der letzten wöchentlichen Ruhezeit muss eine neue wöchentliche Ruhezeit beginnen?
+N 6
+= Spätestens am Ende von sechs 24-Stunden-Zeiträumen beginnt die nächste wöchentliche Ruhezeit.
+! zahl
+
+? Sie fahren zu zweit (Mehrfahrerbetrieb). Dürfen Sie die Fahrtunterbrechung im fahrenden Fahrzeug verbringen?
++ Ja, wenn ich die lenkende Person dabei nicht unterstütze
+- Nein, nie
+- Nur auf dem Fahrersitz
+= Im Mehrfahrerbetrieb darf die 45-minütige Unterbrechung im Fahrzeug genommen werden, das der andere Fahrer lenkt.
+
+? Wo dürfen Sie eine tägliche Ruhezeit außerhalb Ihres Standorts verbringen?
++ Im Fahrzeug, wenn es eine geeignete Schlafmöglichkeit für jeden Fahrer hat und nicht fährt
+- Nur in einem Hotel
+- Auf dem Fahrersitz während der Fahrt des Beifahrers
+= Tägliche und reduzierte wöchentliche Ruhezeiten dürfen unter diesen Voraussetzungen im stehenden Fahrzeug verbracht werden.
+
+@punkte 3
+
+? Wofür ist eine Fahrerkarte notwendig?
++ Zum Betrieb eines digitalen Fahrtenschreibers
+- Zum Tanken an Autohöfen
+- Für die Maut
+= Die Fahrerkarte speichert Lenk-, Arbeits-, Bereitschafts- und Ruhezeiten. Sie ist persönlich und darf nicht an andere weitergegeben werden.
+
+? Sie haben Ihre Fahrerkarte verloren. Was müssen Sie tun?
++ Den Verlust unverzüglich der Stelle melden, die die Karte ausgestellt hat
+- Die Karte eines Kollegen benutzen
+- Nichts, bis zur nächsten Kontrolle
+= Der Verlust wird an das Fahrtenschreiberkartenregister gemeldet. Bis zur Ersatzkarte sind die Tätigkeiten durch Ausdrucke nachzuweisen.
+
+? Wann dürfen Sie frühestens die Erneuerung Ihrer Fahrerkarte beantragen?
++ Sechs Monate vor Ablauf ihrer Gültigkeit
+- Erst wenn sie abgelaufen ist
+- Zwei Jahre vor Ablauf
+= Rechtzeitig beantragen, damit Sie ohne Unterbrechung fahren können.
+
+? Für welchen Zeitraum müssen Sie bei einer Kontrolle Ihre Tätigkeitsnachweise (Fahrerkarte, Ausdrucke, Schaublätter) vorlegen können?
++ Für den laufenden Tag und die vorausgehenden 56 Tage
+- Für den laufenden Tag und die vorausgehenden 7 Tage
+- Nur für den laufenden Tag
+= Seit dem 31. Dezember 2024 gilt nach EU-Recht ein Kontrollzeitraum von 56 Tagen (zuvor 28 Tage).
+! punkte=5
+
+? Sie waren in den letzten Tagen im Urlaub und haben kein Fahrzeug gelenkt. Was müssen Sie vor Fahrtantritt tun?
++ Die Urlaubszeit als manuellen Nachtrag über den digitalen Fahrtenschreiber auf der Fahrerkarte eintragen
+- Nichts, Urlaub muss nicht nachgewiesen werden
+- Eine handschriftliche Notiz ins Handschuhfach legen
+= Zeiten ohne Lenktätigkeit (Urlaub, Krankheit) innerhalb des Kontrollzeitraums sind nachzutragen. Geht das technisch nicht, kann eine nicht handschriftlich ausgefüllte Bescheinigung des Unternehmens verwendet werden.
+! punkte=4
+
+? Spätestens nach wie vielen Kalendertagen muss der Unternehmer die Daten Ihrer Fahrerkarte herunterladen?
+N 28 Tage
+= Die Daten aus dem Massenspeicher des Fahrtenschreibers sind spätestens nach 90 Tagen zu kopieren.
+! zahl punkte=4
+
+? Der digitale Fahrtenschreiber fällt während der Fahrt aus. Was ist richtig?
++ Ich muss meine Tätigkeiten auf einem Ausdruck oder Ersatzblatt festhalten
++ Das Gerät ist so bald wie möglich von einer anerkannten Werkstatt reparieren zu lassen
+- Ich darf bis zur Reparatur ohne Aufzeichnung fahren
+= Auch ohne funktionierendes Gerät müssen die Zeiten nachweisbar bleiben. Ausdrucke werden mit Name, Kartennummer und Unterschrift versehen.
+! punkte=4
+
+? Warum ist das Manipulieren eines Fahrtenschreibers besonders schwerwiegend?
++ Übermüdete Fahrer gefährden sich und andere erheblich
++ Manipulationen sind strafbar und werden streng verfolgt
+- Weil dadurch der Kraftstoffverbrauch steigt
+= Lenk- und Ruhezeiten schützen vor Übermüdung. Wer Aufzeichnungen fälscht, riskiert Bußgelder, Strafverfahren und schwere Unfälle.
+
+@kapitel 2.2
+
+@punkte 4
+
+? Wie groß muss der Mindestabstand eines Lkw über 3,5 t oder eines Kraftomnibusses auf der Autobahn zum vorausfahrenden Fahrzeug bei einer Geschwindigkeit über 50 km/h sein?
+N 50 m
+= Leitpfosten stehen im Abstand von 50 m und helfen, den Abstand abzuschätzen.
+! zahl
+
+? Sie fahren außerorts mit Ihrem schweren Fahrzeug hinter einem anderen langsamen Fahrzeug. Warum müssen Sie einen größeren Abstand halten?
++ Damit überholende Fahrzeuge vor mir einscheren können
+- Damit ich besser im Windschatten fahre
+- Das ist nicht vorgeschrieben
+= Kraftfahrzeuge mit besonderer Geschwindigkeitsbeschränkung und Züge über 7 m Länge müssen außerorts so viel Abstand halten, dass ein Überholer einscheren kann.
+
+? Sie fahren innerorts mit einem Fahrzeug über 3,5 t und wollen rechts abbiegen. Neben Ihnen ist ein Radweg. Wie schnell dürfen Sie abbiegen?
++ Nur mit Schrittgeschwindigkeit
+- Mit 20 km/h
+- Mit der Geschwindigkeit, die die Kurve zulässt
+= Für Fahrzeuge über 3,5 t gilt beim Rechtsabbiegen innerorts Schrittgeschwindigkeit, wenn mit geradeaus fahrendem Radverkehr oder querenden Fußgängern zu rechnen ist.
+! punkte=5
+
+? Auf einer Landstraße mit drei Fahrstreifen in Ihre Richtung: Wann dürfen Sie mit einem Lkw über 3,5 t oder mit Anhänger den linken Fahrstreifen benutzen?
++ Nur, um mich zum Linksabbiegen einzuordnen
+- Zum Überholen langsamer Pkw
+- Immer, wenn er frei ist
+= Außerorts ist der linke von drei Fahrstreifen für diese Fahrzeuge nur zum Einordnen beim Linksabbiegen erlaubt.
+
+@punkte 3
+
+? Sie halten innerorts mit Ihrem schweren Fahrzeug auf der Fahrbahn bei Dunkelheit. Was gilt?
++ Das Fahrzeug muss mit eigener Lichtquelle beleuchtet sein, auch wenn eine Straßenlaterne in der Nähe ist
+- Parkleuchten auf der Fahrbahnseite genügen
+- Licht ist nicht nötig, wenn die Straße beleuchtet ist
+= Haltende Fahrzeuge über 3,5 t (außer Pkw) und Anhänger auf der Fahrbahn sind innerorts stets mit eigener Lichtquelle zu beleuchten.
+
+? Sie wollen auf der Landstraße mit Ihrem großen Fahrzeug überholen. Was ist besonders zu beachten?
++ Der Überholweg ist wegen der Länge des eigenen Fahrzeugs und der geringen Geschwindigkeitsdifferenz sehr lang
++ Ich brauche eine sehr weit einsehbare freie Strecke
+- Große Fahrzeuge dürfen auch bei Gegenverkehr überholen
+= Überholen mit schweren Fahrzeugen dauert lange. Im Zweifel nicht überholen.
+
+@kapitel 2.1
+
+@punkte 5
+
+? Warum ist der tote Winkel bei Lkw und Bussen besonders gefährlich?
++ Rechts neben dem Fahrzeug können Radfahrende und Fußgänger vollständig verdeckt sein
++ Auch direkt vor der Front kann eine Person übersehen werden
+- Weil der tote Winkel nur nachts besteht
+= Spiegel richtig einstellen, vor dem Abbiegen mehrfach kontrollieren, notfalls anhalten. Abbiegeassistenten unterstützen, ersetzen aber nicht den Blick.
+
+? Sie biegen mit einem langen Fahrzeug rechts ab. Worauf achten Sie wegen der Schleppkurve?
++ Die Hinterachse läuft weiter innen als die Vorderachse; ich muss weiter ausholen, ohne andere zu gefährden
++ Der Fahrzeugüberhang hinten kann beim Einlenken nach außen schwenken
+- Die Hinterräder folgen genau der Spur der Vorderräder
+= Die hinteren Räder schneiden die Kurve. Beim Ausholen den Verkehr neben und hinter dem Fahrzeug beobachten.
+
+@punkte 4
+
+? Woran merken Sie, dass Sie bei langer Fahrt übermüdet sind?
++ Häufiges Gähnen, schwere Augenlider, Sekundenschlaf
++ Ich kann mich an die letzten Kilometer nicht erinnern
+- Ich fahre konzentrierter als sonst
+= Bei ersten Müdigkeitsanzeichen eine Pause einlegen. Kaffee oder laute Musik helfen nur kurz.
+
+? Sie fahren bei starkem Seitenwind mit einem hohen, leeren Fahrzeug. Was ist richtig?
++ Geschwindigkeit verringern, weil leere hohe Aufbauten eine große Angriffsfläche bieten
+- Schneller fahren, weil das Fahrzeug dann stabiler liegt
+- Seitenwind spielt bei schweren Fahrzeugen keine Rolle
+= Leere Planen- und Kofferaufbauten können bei Böen versetzt werden oder sogar umkippen.
+
+? Die Sicht beträgt durch Nebel weniger als 50 m. Was gilt für Fahrzeuge über 7,5 t?
++ Sie dürfen nicht überholen
+- Sie dürfen nur noch rechts überholen
+- Es gilt nichts Besonderes
+= Bei Sicht unter 50 m durch Nebel, Schneefall oder Regen gilt für Kraftfahrzeuge über 7,5 t ein Überholverbot.
+
+@punkte 3
+
+? Wie wirken sich größere Masse und höherer Schwerpunkt eines Lkw oder Busses auf das Fahrverhalten aus?
++ Der Bremsweg wird länger
++ In Kurven besteht eine größere Kippgefahr
+- Das Fahrzeug wird spurstabiler und kurvenschneller
+= Schwere Fahrzeuge brauchen viel Abstand und niedrigere Kurvengeschwindigkeiten als Pkw.
+
+@kapitel 2.7
+
+@punkte 4
+
+? Welche Warneinrichtungen müssen in einem Kraftfahrzeug über 3,5 t mitgeführt werden?
++ Ein Warndreieck
++ Getrennt davon eine Warnleuchte mit gelbem Blinklicht
+- Eine Nebelschlussleuchte zum Aufstellen
+= Zusätzlich ist in Lkw, Zug- und Sattelzugmaschinen und Kraftomnibussen eine Warnweste mitzuführen.
+
+? Wie viele Unterlegkeile braucht ein zweiachsiges Kraftfahrzeug mit einem zulässigen Gesamtgewicht von mehr als 4 t mindestens?
+N 1
+= Drei- und mehrachsige Fahrzeuge brauchen mindestens zwei Unterlegkeile.
+! zahl punkte=3
+
+? Was ist eine Dauerbremse (z. B. Retarder oder Motorbremse) und wozu dient sie?
++ Eine verschleißfreie Bremse, die die Betriebsbremse vor allem bei langen Gefällen entlastet
+- Eine Feststellbremse für das Parken
+- Eine Notbremse für Fahrgäste
+= Wer bergab nur mit der Betriebsbremse bremst, riskiert, dass die Bremsen überhitzen und nachlassen (Fading).
+
+? Was bedeutet es, wenn bei einer Druckluftbremsanlage die Warnleuchte für den Vorratsdruck aufleuchtet?
++ Der Druck ist zu niedrig; ich darf nicht losfahren oder muss sofort sicher anhalten
+- Der Druck ist optimal
+- Die Bremsen sind zu heiß
+= Bei zu geringem Vorratsdruck ist die volle Bremswirkung nicht gewährleistet. Bei manchen Fahrzeugen fallen die Federspeicher ein und bremsen das Fahrzeug ab.
+
+@punkte 3
+
+? Welche Mindestverzögerung muss die Betriebsbremse eines Lkw oder Busses erreichen?
+N 5 m/s²
+= Das gilt für Kraftfahrzeuge mit mehr als 25 km/h bauartbedingter Höchstgeschwindigkeit, ausgenommen Krafträder.
+! zahl
+
+? Woran erkennen Sie, dass das Wasser in den Druckluftbehältern abgelassen werden muss?
++ Wenn beim Betätigen des Entwässerungsventils Wasser oder Ölnebel austritt
+- Wenn der Tank leer ist
+- Wenn die Reifen Luft verlieren
+= Kondenswasser kann im Winter einfrieren und die Bremsanlage blockieren. Moderne Anlagen haben Lufttrockner, die regelmäßig gewartet werden müssen.
+
+? Welche Achsen eines Lkw oder Busses müssen bei winterlichen Straßenverhältnissen mindestens mit Winterreifen ausgerüstet sein?
++ Die Antriebsachsen
++ Die vorderen Lenkachsen
+- Nur die Anhängerachsen
+= Bei Glatteis, Schneeglätte, Schneematsch, Eis- oder Reifglätte ist diese Mindestausrüstung mit Winterreifen vorgeschrieben.
+
+@kapitel 2.8
+
+@punkte 3
+
+? Für wie lange wird eine Fahrerlaubnis der Klassen C1, C, CE, D1 oder D längstens erteilt?
+N 5 Jahre
+= Zur Verlängerung sind u. a. Nachweise über die Eignung und das Sehvermögen erforderlich.
+! zahl
+
+? In welchem Abstand müssen Berufskraftfahrer eine Weiterbildung absolvieren?
++ Alle fünf Jahre
+- Alle zehn Jahre
+- Einmalig zu Beginn
+= Nach dem Berufskraftfahrerqualifikationsgesetz ist die Weiterbildung im Abstand von jeweils fünf Jahren zu absolvieren, als Unterricht an einer anerkannten Ausbildungsstätte (BKrFQG § 5 Abs. 2, 3). Sie umfasst 35 Unterrichtseinheiten in Blöcken von mindestens sieben Einheiten (BKrFQV § 4 Abs. 2).
+
+? Sie haben eine Medikamenteneinnahme begonnen, die laut Beipackzettel müde machen kann. Was tun Sie vor einer längeren Lkw- oder Busfahrt?
++ Ärztlich klären, ob ich fahrtüchtig bin
+- Einfach etwas mehr Kaffee trinken
+- Nichts, Medikamente sind erlaubt
+= Wer berufsmäßig fährt, trägt Verantwortung für andere. Im Zweifel nicht fahren.
+
+@kapitel 2.5
+
+@punkte 3
+
+? Wie fahren Sie einen Lkw oder Bus kraftstoffsparend?
++ Vorausschauend fahren und unnötiges Bremsen und Beschleunigen vermeiden
++ Im grünen Drehzahlbereich fahren und Schwung nutzen
+- Den Motor im Stand laufen lassen, damit die Klimaanlage arbeitet
+= Schwere Fahrzeuge verbrauchen viel Kraftstoff. Eine gleichmäßige Fahrweise spart Kosten und schont die Umwelt.
+
+? Warum sollten Sie den Motor Ihres schweren Fahrzeugs bei längeren Wartezeiten abstellen?
++ Um Lärm und Abgase zu vermeiden
+- Weil der Motor sonst zu kalt wird
+- Um den Fahrtenschreiber zu entlasten
+= Unnötiges Laufenlassen des Motors ist verboten und belastet Anwohner und Umwelt.
+! punkte=2
