@@ -1,5 +1,5 @@
 import react from '@vitejs/plugin-react'
-import { readFileSync, rmSync } from 'node:fs'
+import { existsSync, readFileSync, rmSync, writeFileSync } from 'node:fs'
 import { defineConfig, type Plugin } from 'vite'
 
 /** Bindet das (kleine) Haupt-CSS direkt in index.html ein – spart eine render-blockierende Anfrage */
@@ -60,9 +60,24 @@ function statischesHosting(): Plugin {
   }
 }
 
+/** Setzt alle gebauten Programmteile in dist/sw.js ein, damit auch nie besuchte Seiten offline laden */
+function swProgrammteile(): Plugin {
+  let out = 'dist'; let dateien: string[] = []
+  return {
+    name: 'sw-programmteile', apply: 'build',
+    configResolved(c) { out = c.build.outDir },
+    generateBundle(_, bundle) { dateien = Object.keys(bundle).filter(n => n.startsWith('assets/') && !n.endsWith('.map')).sort() },
+    closeBundle() {
+      const p = out + '/sw.js'; const src = readFileSync(p, 'utf8')
+      if (!src.includes('/*ASSETS*/')) throw new Error('sw.js: Platzhalter /*ASSETS*/ fehlt')
+      writeFileSync(p, src.replace('/*ASSETS*/', dateien.filter(d => existsSync(out + '/' + d)).map(d => JSON.stringify(d)).join(', ')))
+    },
+  }
+}
+
 export default defineConfig({
   base: './',
-  plugins: [react(), cssInline(), ohneGesamtkatalog(), statischesHosting()],
+  plugins: [react(), cssInline(), ohneGesamtkatalog(), statischesHosting(), swProgrammteile()],
   server: { host: true },
   preview: { host: true },
 })

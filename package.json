@@ -12,7 +12,8 @@
     "validate": "node scripts/validate.mjs",
     "zeichen-optimieren": "svgo -r -f public/signs --config svgo.config.mjs --quiet",
     "preview:vite": "vite preview",
-    "vorlage-check": "node scripts/vorlage-check.mjs"
+    "vorlage-check": "node scripts/vorlage-check.mjs",
+    "offline-check": "node scripts/offline-check.mjs"
   },
   "dependencies": {
     "react": "^19.2.8",

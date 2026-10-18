@@ -1,13 +1,16 @@
 // Service Worker: App-Shell offline, Fragen-Index „network first“, Katalogteile (Hash im Namen) und Medien „cache first“.
 // Auf Wunsch lädt er alle Medien vorab (Nachricht {typ:'vorladen'}), mit Fortschrittsmeldungen.
 // Nur eigene Caches löschen: unter *.github.io teilen sich mehrere Projekte denselben Origin.
-const CACHE = 'theorie-trainer-v11';
+const CACHE = 'theorie-trainer-v12';
+// Programmteile (JS-Chunks, Worker) – die Liste wird beim Build eingesetzt (Vite-Plugin swProgrammteile)
+const ASSETS = [/*ASSETS*/];
 const SHELL = ['./', './index.html', './data/index.json', './data/filme.json', './manifest.webmanifest', './icons/icon.svg'];
 // Beim Installieren zusätzlich alle Katalogteile (data/teile/…) laden, damit Lernen und Prüfung offline funktionieren.
 self.addEventListener('install', e => {
   self.skipWaiting();
   e.waitUntil(caches.open(CACHE).then(async c => {
     await c.addAll(SHELL);
+    await c.addAll(ASSETS.map(a => './' + a));
     try { const ix = await (await c.match('./data/index.json')).json(); await c.addAll(ix.teile.map(n => './data/teile/' + n)); } catch { /* Teile werden sonst bei Bedarf geladen */ }
   }));
 });
